@@ -1,0 +1,16 @@
+import type { Metadata } from "next";
+import { archiveItems, museumCategories } from "../archive-content";
+
+export const metadata: Metadata = { title: "The Digital Museum | MT E.L.K. Archive", description: "Explore ten curated collections built from the surviving MT E.L.K. historical record." };
+
+export default function MuseumPage() {
+  const featured = [archiveItems[0], archiveItems[10], archiveItems[11]];
+  return <main className="museumIndexPage">
+    <nav className="storyNav"><a className="storyMark" href="/"><img src="/mt-elk-logo.png" alt=""/><span>MT E.L.K.<small>THE DIGITAL MUSEUM</small></span></a><a href="/archive">Search all exhibits</a><span>MUSEUM INDEX · 010 COLLECTIONS</span></nav>
+    <header className="museumHero"><div><p className="overline">MONTANA · EST. 1985 · THE LIVING RECORD</p><h1>THE DIGITAL<br/><i>MUSEUM</i></h1><p>More than a gallery of old paper. This museum connects every surviving record to the people, products, techniques, places, and relationships that made MT E.L.K. part of modern calling history.</p><a className="brassButton" href="#collections">Explore the collections ↓</a></div><aside><span>ARCHIVE OBJECT 001</span><img src="/archive/thumbs/cow-call-draws-elk.jpg" alt="Early MT E.L.K. newspaper exhibit"/></aside></header>
+    <section className="museumStats"><div><strong>{archiveItems.length}</strong><span>INDEXED EXHIBITS</span></div><div><strong>{museumCategories.length}</strong><span>CURATED COLLECTIONS</span></div><div><strong>1986–98</strong><span>DATED RECORDS</span></div><p>Each exhibit retains its source, date, authorship, people, products, and archival context. Unverified details remain visibly open.</p></section>
+    <section className="collectionDirectory" id="collections"><div className="collectionDirectoryHead"><div><p className="kicker">THE COLLECTIONS</p><h2>CHOOSE A<br/><i>THREAD</i></h2></div><p>The same object can belong to more than one story. Browse by format and purpose, then follow the links between individual exhibits.</p></div><div className="collectionGrid">{museumCategories.map((category, index) => { const first = archiveItems.find((item) => category.itemIds.includes(item.id)); return <a className="collectionCard" href={`/museum/${category.id}`} key={category.id}><div className="collectionVisual">{first ? <img src={first.image} alt=""/> : <span>RESEARCH<br/>OPEN</span>}<b>{String(index + 1).padStart(2, "0")}</b></div><small>{category.eyebrow}</small><h3>{category.name}</h3><p>{category.description}</p><footer><span>{category.itemIds.length ? `${category.itemIds.length} RECORD${category.itemIds.length === 1 ? "" : "S"}` : "CONTRIBUTIONS INVITED"}</span><b>ENTER ↗</b></footer></a>})}</div></section>
+    <section className="museumFeatured"><div><p className="kicker">START WITH THE EVIDENCE</p><h2>THREE DOORS<br/><i>INTO THE STORY</i></h2></div><div>{featured.map((item) => <a href={`/archive/${item.id}`} key={item.id}><img src={item.image} alt=""/><small>{item.publication} · {item.date}</small><h3>{item.title}</h3><span>Open exhibit ↗</span></a>)}</div></section>
+    <footer className="storyFooter"><a href="/">← The Legacy of the Call</a><span>MT E.L.K., INC. · DIGITAL MUSEUM</span><a href="mailto:Phillip@elkinc.com?subject=MT E.L.K. archive contribution">Contribute a record →</a></footer>
+  </main>;
+}
