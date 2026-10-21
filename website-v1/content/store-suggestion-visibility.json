@@ -1,0 +1,30 @@
+{
+  "en": {
+    "calloutProduct": "Make it a complete setup.",
+    "calloutCart": "A few useful extras.",
+    "browse": "Browse {n} suggestions",
+    "swipe": "Swipe to explore",
+    "position": "Showing {start} to {end} of {total} suggestions"
+  },
+  "fr": {
+    "calloutProduct": "Complétez votre équipement.",
+    "calloutCart": "Quelques compléments utiles.",
+    "browse": "Voir les {n} suggestions",
+    "swipe": "Balayez pour découvrir",
+    "position": "Suggestions {start} à {end} sur {total}"
+  },
+  "es": {
+    "calloutProduct": "Complete su equipo.",
+    "calloutCart": "Algunos complementos útiles.",
+    "browse": "Ver {n} sugerencias",
+    "swipe": "Deslice para explorar",
+    "position": "Mostrando sugerencias {start} a {end} de {total}"
+  },
+  "de": {
+    "calloutProduct": "Vervollständigen Sie Ihre Ausrüstung.",
+    "calloutCart": "Ein paar sinnvolle Ergänzungen.",
+    "browse": "{n} Vorschläge ansehen",
+    "swipe": "Zum Entdecken wischen",
+    "position": "Vorschläge {start} bis {end} von {total}"
+  }
+}

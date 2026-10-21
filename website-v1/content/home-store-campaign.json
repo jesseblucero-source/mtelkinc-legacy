@@ -1,0 +1,95 @@
+{
+  "strategy": "Outdoor moment → manufacturer and education value → primary store action → four existing category destinations. No prices, discounts, urgency or performance guarantees.",
+  "media": {
+    "src": "/assets/whitetail-shop-1440-e4080761.webp",
+    "srcset": "/assets/whitetail-shop-480-256568b9.webp 480w, /assets/whitetail-shop-960-c48e1d37.webp 960w, /assets/whitetail-shop-1440-e4080761.webp 1440w, /assets/whitetail-shop-2000-15c9ffde.webp 2000w",
+    "width": 2000,
+    "height": 1579
+  },
+  "locales": {
+    "en": {
+      "headline": [
+        "The next move",
+        "starts with a call."
+      ],
+      "intro": "Find calls for your hunt, replacement bands and reeds for your model, and demonstrations to help you learn.",
+      "cta": "Shop Calls & Gear",
+      "learn": "Explore Calling Lessons",
+      "proof": [
+        "Game-call manufacturer",
+        "Lessons on this website"
+      ],
+      "categoryhead": "Choose your next step",
+      "categorylines": [
+        "Explore elk calls",
+        "Explore mule deer calls",
+        "Explore whitetail calls",
+        "Find replacement parts"
+      ],
+      "alt": "Whitetail buck standing in a snowy field"
+    },
+    "fr": {
+      "headline": [
+        "L’action commence",
+        "avec votre appeau."
+      ],
+      "intro": "Trouvez votre appeau, les élastiques et anches adaptés à votre modèle, puis explorez les démonstrations pour apprendre.",
+      "cta": "Voir les appeaux et accessoires",
+      "learn": "Explorer les leçons d’appeaux",
+      "proof": [
+        "Fabricant d’appeaux",
+        "Leçons sur ce site"
+      ],
+      "categoryhead": "Choisissez votre prochaine étape",
+      "categorylines": [
+        "Découvrir les appeaux pour wapiti",
+        "Découvrir les appeaux pour cerf mulet",
+        "Découvrir les appeaux pour cerf de Virginie",
+        "Trouver les pièces de remplacement"
+      ],
+      "alt": "Cerf de Virginie mâle dans un champ enneigé"
+    },
+    "es": {
+      "headline": [
+        "El próximo movimiento",
+        "empieza con un reclamo."
+      ],
+      "intro": "Encuentre reclamos para su cacería, bandas y lengüetas para su modelo y demostraciones para aprender.",
+      "cta": "Ver reclamos y accesorios",
+      "learn": "Explorar las lecciones",
+      "proof": [
+        "Fabricante de reclamos",
+        "Lecciones en este sitio"
+      ],
+      "categoryhead": "Elija su siguiente paso",
+      "categorylines": [
+        "Explorar reclamos para wapití",
+        "Explorar reclamos para ciervo mulo",
+        "Explorar reclamos para ciervo de cola blanca",
+        "Encontrar piezas de repuesto"
+      ],
+      "alt": "Ciervo de cola blanca macho en un campo nevado"
+    },
+    "de": {
+      "headline": [
+        "Der nächste Zug",
+        "beginnt mit einem Lockruf."
+      ],
+      "intro": "Entdecken Sie Wildlocker für Ihre Jagd, Ersatzbänder und Rufzungen für Ihr Modell und Demonstrationen zum Lernen.",
+      "cta": "Wildlocker und Zubehör entdecken",
+      "learn": "Lockruf-Lektionen entdecken",
+      "proof": [
+        "Hersteller von Wildlockern",
+        "Lektionen auf dieser Website"
+      ],
+      "categoryhead": "Wählen Sie Ihren nächsten Schritt",
+      "categorylines": [
+        "Wildlocker für Wapiti entdecken",
+        "Wildlocker für Maultierhirsch entdecken",
+        "Wildlocker für Weißwedelhirsch entdecken",
+        "Ersatzteile finden"
+      ],
+      "alt": "Weißwedelhirsch auf einem verschneiten Feld"
+    }
+  }
+}

@@ -1,0 +1,111 @@
+[
+  {
+    "id": "deer-talk-call",
+    "name": "Deer Talk Call",
+    "species": "deer",
+    "lesson_ids": [
+      "deer-talk-demonstration",
+      "deer-talk-call-band-replacement"
+    ],
+    "record_ids": [
+      "founder-record"
+    ],
+    "source": "https://elkinc.com/banding-instructions/"
+  },
+  {
+    "id": "antelope-talk-call",
+    "name": "Antelope Talk Call",
+    "species": "antelope",
+    "lesson_ids": [
+      "antelope-talk-call-band-replacement"
+    ],
+    "record_ids": [
+      "founder-record"
+    ],
+    "source": "https://elkinc.com/banding-instructions/"
+  },
+  {
+    "id": "power-howler",
+    "name": "Power Howler",
+    "species": "predators",
+    "lesson_ids": [
+      "power-howler-band-replacement"
+    ],
+    "record_ids": [],
+    "source": "https://elkinc.com/banding-instructions/"
+  },
+  {
+    "id": "yote-buster",
+    "name": "Yote Buster",
+    "species": "predators",
+    "lesson_ids": [
+      "yote-buster-reed-replacement"
+    ],
+    "record_ids": [],
+    "source": "https://elkinc.com/banding-instructions/"
+  },
+  {
+    "id": "yote-howler",
+    "name": "Yote Howler",
+    "species": "predators",
+    "lesson_ids": [
+      "yote-howler-band-replacement"
+    ],
+    "record_ids": [],
+    "source": "https://elkinc.com/banding-instructions/"
+  },
+  {
+    "id": "cow-talk-call",
+    "name": "Cow Talk Call",
+    "species": "elk",
+    "lesson_ids": [
+      "cow-talk-call-band-replacement"
+    ],
+    "record_ids": [
+      "founder-record"
+    ],
+    "source": "https://elkinc.com/banding-instructions/"
+  },
+  {
+    "id": "deluxe-cow-talk-call",
+    "name": "Deluxe Cow Talk Call",
+    "species": "elk",
+    "lesson_ids": [
+      "deluxe-cow-talk-call-band-replacement"
+    ],
+    "record_ids": [],
+    "source": "https://elkinc.com/banding-instructions/"
+  },
+  {
+    "id": "power-bugle",
+    "name": "Power Bugle",
+    "species": "elk",
+    "lesson_ids": [
+      "power-bugle-band-replacement"
+    ],
+    "record_ids": [
+      "founder-record"
+    ],
+    "source": "https://elkinc.com/banding-instructions/"
+  },
+  {
+    "id": "royal-bugle",
+    "name": "Royal Bugle",
+    "species": "elk",
+    "lesson_ids": [
+      "royal-bugle-band-replacement"
+    ],
+    "record_ids": [],
+    "source": "https://elkinc.com/banding-instructions/"
+  },
+  {
+    "id": "the-wolf-howler",
+    "name": "The Wolf Howler",
+    "species": "predators",
+    "lesson_ids": [
+      "the-wolf-howler-band-replacement"
+    ],
+    "record_ids": [],
+    "source": "https://elkinc.com/banding-instructions/"
+  }
+]

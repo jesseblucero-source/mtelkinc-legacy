@@ -1,0 +1,50 @@
+{
+  "en": {
+    "eyebrow": "DISTRIBUTOR RESOURCES",
+    "title": "A guide for your team. Support for your customers.",
+    "description": "See how our English, French, Spanish and German website resources help your retailers and their customers learn, find call-care guidance and connect with us. Explore the reasons to build a distribution relationship with MT E.L.K., INC.",
+    "format": "Clickable guide in English", "pages": "pages",
+    "download": "Download Distributor Guide", "preview": "Preview here",
+    "share_label": "Share this guide with your team", "share": "Share guide", "copy": "Copy link", "email": "Email",
+    "share_title": "MT E.L.K., INC. - Multilingual Support and Distributor Guide",
+    "email_body": "Explore the website's language resources, customer support and distributor opportunities in this clickable PDF:",
+    "copied": "Guide link copied.", "manual": "Select and copy the guide link above.", "shared": "Guide shared.",
+    "note": "Links stay clickable after downloading. The guide describes website language resources; live support language availability and distributor terms require confirmation."
+  },
+  "fr": {
+    "eyebrow": "RESSOURCES DISTRIBUTEURS",
+    "title": "Un guide pour votre équipe. Une aide pour vos clients.",
+    "description": "Découvrez comment les ressources du site en anglais, français, espagnol et allemand aident vos détaillants et leurs clients à apprendre, à entretenir leurs appeaux et à nous contacter. Explorez les raisons de devenir distributeur de MT E.L.K., INC.",
+    "format": "Guide cliquable en anglais", "pages": "pages",
+    "download": "Télécharger le guide distributeur", "preview": "Aperçu ici",
+    "share_label": "Partagez ce guide avec votre équipe", "share": "Partager", "copy": "Copier le lien", "email": "E-mail",
+    "share_title": "MT E.L.K., INC. - Guide distributeur et assistance multilingue",
+    "email_body": "Découvrez les ressources linguistiques du site, l'assistance aux clients et les possibilités de distribution dans ce PDF cliquable en anglais :",
+    "copied": "Lien du guide copié.", "manual": "Sélectionnez et copiez le lien ci-dessus.", "shared": "Guide partagé.",
+    "note": "Les liens restent cliquables après téléchargement. Ce guide décrit les ressources linguistiques du site ; les langues disponibles pour l'assistance directe et les conditions de distribution doivent être confirmées."
+  },
+  "es": {
+    "eyebrow": "RECURSOS PARA DISTRIBUIDORES",
+    "title": "Una guía para su equipo. Apoyo para sus clientes.",
+    "description": "Descubra cómo los recursos del sitio en inglés, francés, español y alemán ayudan a sus minoristas y clientes a aprender, encontrar información sobre el cuidado de reclamos y contactar con nosotros. Conozca las razones para distribuir con MT E.L.K., INC.",
+    "format": "Guía con enlaces en inglés", "pages": "páginas",
+    "download": "Descargar guía para distribuidores", "preview": "Vista previa aquí",
+    "share_label": "Comparta esta guía con su equipo", "share": "Compartir", "copy": "Copiar enlace", "email": "Correo",
+    "share_title": "MT E.L.K., INC. - Guía para distribuidores y apoyo multilingüe",
+    "email_body": "Explore los recursos de idiomas del sitio, el apoyo al cliente y las oportunidades de distribución en este PDF con enlaces en inglés:",
+    "copied": "Enlace de la guía copiado.", "manual": "Seleccione y copie el enlace de arriba.", "shared": "Guía compartida.",
+    "note": "Los enlaces siguen funcionando después de descargar. La guía describe los recursos de idiomas del sitio; los idiomas de atención directa y las condiciones de distribución deben confirmarse."
+  },
+  "de": {
+    "eyebrow": "INFORMATIONEN FÜR DISTRIBUTOREN",
+    "title": "Ein Leitfaden für Ihr Team. Unterstützung für Ihre Kunden.",
+    "description": "Erfahren Sie, wie die englischen, französischen, spanischen und deutschen Website-Ressourcen Ihren Händlern und deren Kunden beim Lernen, bei der Pflege von Wildlockern und bei der Kontaktaufnahme helfen. Entdecken Sie die Gründe für eine Vertriebszusammenarbeit mit MT E.L.K., INC.",
+    "format": "Anklickbarer Leitfaden auf Englisch", "pages": "Seiten",
+    "download": "Distributoren-Leitfaden herunterladen", "preview": "Hier ansehen",
+    "share_label": "Teilen Sie den Leitfaden mit Ihrem Team", "share": "Teilen", "copy": "Link kopieren", "email": "E-Mail",
+    "share_title": "MT E.L.K., INC. - Mehrsprachige Unterstützung und Distributoren-Leitfaden",
+    "email_body": "Entdecken Sie die Sprachressourcen der Website, die Kundenunterstützung und die Vertriebsmöglichkeiten in diesem englischen PDF mit anklickbaren Links:",
+    "copied": "Link zum Leitfaden kopiert.", "manual": "Markieren und kopieren Sie den Link oben.", "shared": "Leitfaden geteilt.",
+    "note": "Die Links bleiben nach dem Herunterladen anklickbar. Der Leitfaden beschreibt die Sprachressourcen der Website; verfügbare Sprachen im direkten Support und Vertriebsbedingungen müssen bestätigt werden."
+  }
+}

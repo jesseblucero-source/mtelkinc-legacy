@@ -1,0 +1,80 @@
+{
+  "en": {
+    "title": "Choose your next step.",
+    "eyebrow": "START WITH YOUR GOAL",
+    "help": "Not sure which call you have?",
+    "support": "Find model-specific support",
+    "items": [
+      [
+        "Hear a demonstration",
+        "Browse the verified calling demonstration in the learning hub.",
+        "calling-demonstration",
+        "View demonstrations"
+      ],
+      [
+        "Replace a band",
+        "Find band-replacement videos by species and call model.",
+        "band-replacement",
+        "Find band lessons"
+      ],
+      [
+        "Replace a reed",
+        "Open the verified Yote Buster reed-replacement lesson.",
+        "reed-replacement",
+        "Find reed lessons"
+      ]
+    ]
+  },
+  "fr": {
+    "title": "Choisissez votre prochaine étape.",
+    "eyebrow": "COMMENCEZ PAR VOTRE OBJECTIF",
+    "help": "Vous ne savez pas quel appeau vous avez ?",
+    "support": "Trouver de l’aide pour votre modèle",
+    "items": [
+      [
+        "Écouter une démonstration",
+        "Consultez la démonstration vérifiée dans notre espace de formation.",
+        "calling-demonstration",
+        "Voir les démonstrations"
+      ],
+      [
+        "Remplacer une bande",
+        "Trouvez les vidéos de remplacement de bande par espèce et modèle.",
+        "band-replacement",
+        "Trouver les leçons"
+      ],
+      [
+        "Remplacer une anche",
+        "Ouvrez la leçon vérifiée de remplacement de l’anche du Yote Buster.",
+        "reed-replacement",
+        "Voir la leçon"
+      ]
+    ]
+  },
+  "es": {
+    "title": "Elija su siguiente paso.",
+    "eyebrow": "EMPIECE POR SU OBJETIVO",
+    "help": "¿No sabe qué reclamo tiene?",
+    "support": "Buscar ayuda para su modelo",
+    "items": [
+      [
+        "Escuchar una demostración",
+        "Explore la demostración verificada en el centro de aprendizaje.",
+        "calling-demonstration",
+        "Ver demostraciones"
+      ],
+      [
+        "Cambiar una banda",
+        "Busque vídeos de cambio de bandas por especie y modelo.",
+        "band-replacement",
+        "Buscar lecciones"
+      ],
+      [
+        "Cambiar una lengüeta",
+        "Abra la lección verificada de cambio de lengüeta del Yote Buster.",
+        "reed-replacement",
+        "Ver la lección"
+      ]
+    ]
+  }
+}

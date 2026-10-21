@@ -1,0 +1,70 @@
+{
+  "en": {
+    "hero": "MT E.L.K., INC. makes game calls. Meet the people and explore the records behind our Montana story.",
+    "manufacturer": "Explore our history, learn to use your call, or get help from the manufacturer.",
+    "shop": "Shop Calls",
+    "learn": "Calling Education",
+    "support": "Call Support",
+    "origin": [
+      "The company history traces MT E.L.K., INC. to Montana in 1985, with Don Laubach and Cow Talk at the center of its early story.",
+      "Mark Henckel’s October 1986 report from Gardiner, Montana, names Laubach and filmmaker Gordon Eastman in the company’s formation."
+    ],
+    "timeline": "A timeline from company history and dated records. The indexed sources do not establish an ownership-transition date.",
+    "contexts": [
+      "Independent newspaper reporting on the people, call, and early business.",
+      "A historical event advertisement and profile, documenting a scheduled public appearance.",
+      "A company biographical sheet with handwritten seminar notes; a company account, distinct from independent reporting."
+    ]
+  },
+  "fr": {
+    "hero": "MT E.L.K., INC. fabrique des appeaux de chasse. Découvrez les personnes et les documents derrière notre histoire au Montana.",
+    "manufacturer": "Explorez notre histoire, apprenez à utiliser votre appeau ou demandez l’aide du fabricant.",
+    "shop": "Voir les appeaux",
+    "learn": "Leçons d’appeaux",
+    "support": "Aide avec votre appeau",
+    "origin": [
+      "L’histoire de la société situe les débuts de MT E.L.K., INC. au Montana en 1985, autour de Don Laubach et de Cow Talk.",
+      "Le reportage de Mark Henckel d’octobre 1986, à Gardiner au Montana, cite Laubach et le cinéaste Gordon Eastman dans la création de la société."
+    ],
+    "timeline": "Une chronologie issue de l’histoire de la société et de documents datés. Les sources indexées n’établissent pas la date du changement de propriétaire.",
+    "contexts": [
+      "Un reportage de presse indépendant sur les personnes, l’appeau et les débuts de l’entreprise.",
+      "Une publicité et un portrait historiques annonçant une présentation publique prévue.",
+      "Une fiche biographique de la société avec des notes manuscrites de séminaire, distincte d’un reportage indépendant."
+    ]
+  },
+  "es": {
+    "hero": "MT E.L.K., INC. fabrica reclamos de caza. Conozca a las personas y los documentos detrás de nuestra historia en Montana.",
+    "manufacturer": "Explore nuestra historia, aprenda a usar su reclamo o pida ayuda al fabricante.",
+    "shop": "Ver los reclamos",
+    "learn": "Lecciones de reclamos",
+    "support": "Ayuda con su reclamo",
+    "origin": [
+      "La historia de la empresa sitúa el origen de MT E.L.K., INC. en Montana en 1985, con Don Laubach y Cow Talk como protagonistas.",
+      "El reportaje de Mark Henckel de octubre de 1986, desde Gardiner, Montana, nombra a Laubach y al cineasta Gordon Eastman en la formación de la empresa."
+    ],
+    "timeline": "Una cronología basada en la historia de la empresa y documentos fechados. Las fuentes indexadas no establecen la fecha del cambio de propietario.",
+    "contexts": [
+      "Un reportaje periodístico independiente sobre las personas, el reclamo y los comienzos de la empresa.",
+      "Un anuncio y un perfil históricos que documentan una presentación pública programada.",
+      "Una ficha biográfica de la empresa con notas manuscritas para un seminario, distinta de un reportaje independiente."
+    ]
+  },
+  "de": {
+    "hero": "MT E.L.K., INC. stellt Wildlocker her. Entdecken Sie die Menschen und Dokumente hinter unserer Geschichte in Montana.",
+    "manufacturer": "Entdecken Sie unsere Geschichte, lernen Sie Ihren Wildlocker kennen oder erhalten Sie Hilfe vom Hersteller.",
+    "shop": "Wildlocker entdecken",
+    "learn": "Lockruf-Lektionen",
+    "support": "Hilfe zum Wildlocker",
+    "origin": [
+      "Die Unternehmensgeschichte führt MT E.L.K., INC. auf Montana im Jahr 1985 zurück, mit Don Laubach und Cow Talk im Mittelpunkt der frühen Geschichte.",
+      "Mark Henckels Bericht aus Gardiner, Montana, vom Oktober 1986 nennt Laubach und den Filmemacher Gordon Eastman bei der Gründung des Unternehmens."
+    ],
+    "timeline": "Eine Zeitleiste aus Unternehmensgeschichte und datierten Dokumenten. Die indexierten Quellen belegen kein Datum für den Eigentümerwechsel.",
+    "contexts": [
+      "Unabhängiger Zeitungsbericht über die Menschen, den Wildlocker und das frühe Unternehmen.",
+      "Historische Veranstaltungsanzeige und Porträt zu einem geplanten öffentlichen Auftritt.",
+      "Ein biografisches Unternehmensblatt mit handschriftlichen Seminarnotizen, getrennt von unabhängiger Berichterstattung."
+    ]
+  }
+}

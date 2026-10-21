@@ -1,0 +1,26 @@
+[
+  {
+    "id": "customer-support",
+    "file": "MT E.L.K., INC. - Dealer Website Navigation and Customer Support Guide.pdf",
+    "pdf": "/downloads/mtelkinc-dealer-navigation-customer-support-guide.pdf",
+    "flipbook": "https://heyzine.com/flip-book/4883e99951.html",
+    "pages": 6,
+    "sha256": "b05a23851f4140f46e1c0de682ffcd73e857306e1e3637b008583d23d3b4f7d0",
+    "bytes": 4218670,
+    "cover": "/assets/business-guide-customer-support-b05a23851f.webp",
+    "cover_width": 464,
+    "cover_height": 600
+  },
+  {
+    "id": "distributor-network",
+    "file": "MT E.L.K., INC. - Distributor Website and Dealer Network Support Guide.pdf",
+    "pdf": "/downloads/mtelkinc-distributor-dealer-network-support-guide.pdf",
+    "flipbook": "https://heyzine.com/flip-book/3cff2c65cf.html",
+    "pages": 8,
+    "sha256": "775713548306507b1f3a5128f1eb9307ab0ce997a803d6ceb402b1004e520f84",
+    "bytes": 4228898,
+    "cover": "/assets/business-guide-distributor-network-7757135483.webp",
+    "cover_width": 464,
+    "cover_height": 600
+  }
+]
