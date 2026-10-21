@@ -1,0 +1,13 @@
+{
+  "store_id": 117609763,
+  "source": "https://elkinc.com/products/",
+  "provider": "Ecwid",
+  "mode": "live-existing-store",
+  "locales": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "products": "All products and categories provided by the existing live storefront; no separate price or inventory snapshot."
+}

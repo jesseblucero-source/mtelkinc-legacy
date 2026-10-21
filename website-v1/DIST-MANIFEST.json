@@ -1,0 +1,4758 @@
+{
+  "release": {
+    "name": "MT E.L.K., INC.",
+    "version": "1.0.0",
+    "label": "V1",
+    "release_date": "2026-10-21",
+    "production_url": "https://www.mtelkinc.com",
+    "production_deploy_id": "6ad8fe7f7088b92e9523fcf7",
+    "github_repository": "jesseblucero-source/mtelkinc-legacy",
+    "snapshot_directory": "website-v1",
+    "publication_scope": "Existing public website assets and source records; excludes internal planning PDFs, email records, credentials and pending SMTP functions.",
+    "operational_caveat": "V1 records the published baseline; it does not certify payment settlement, company-sender email delivery or every additional domain.",
+    "dist_file_count": 948,
+    "dist_manifest_sha256": "3d482a05ac4b5963eea0536ba83a301a383b576b700551377e1c5f056bdacad1"
+  },
+  "files": [
+    {
+      "path": "_headers",
+      "bytes": 886,
+      "sha256": "1ae245890c80b1c7d4e9208da729e17990ed85dd8208d251791e1d89bbae1e19"
+    },
+    {
+      "path": "_redirects",
+      "bytes": 59425,
+      "sha256": "c341da8b4d89ae3be4eb69f66e0be2956f881ce71891bbfcc18d07d39c473ccf"
+    },
+    {
+      "path": "about/index.html",
+      "bytes": 22215,
+      "sha256": "1efdb63c4253547e8d51ae23c3e6e13e00dfc29fbf7f76a4755ce5bea3d74f09"
+    },
+    {
+      "path": "about-expanded.css",
+      "bytes": 4481,
+      "sha256": "7f3703e652abe9c44af34e6f98f34807a6ed90e4db310d76c58b1a3bb0e15f67"
+    },
+    {
+      "path": "about.css",
+      "bytes": 4230,
+      "sha256": "2d9130180cb16240b79e39dec071a84f7508614508faaf69c9d9e692ad4955fc"
+    },
+    {
+      "path": "about.js",
+      "bytes": 3257,
+      "sha256": "9cd9e1b02d53b1561a7011a0809b7ce6fda472ea87a53f48d439ac6f0ff2f8a1"
+    },
+    {
+      "path": "archive/big-bull-elk-cow-talk/index.html",
+      "bytes": 16793,
+      "sha256": "e43840c75f98513354a56b4100496de4327feb1d46541b0d29a7aab1bcd145fd"
+    },
+    {
+      "path": "archive/cow-call-draws-elk/index.html",
+      "bytes": 24563,
+      "sha256": "e20cd3f65a86007fa36e6b2d7e5ca25ec2c0448947c86c94bea8f6a5c0af9d12"
+    },
+    {
+      "path": "archive/cow-talk-for-elk/index.html",
+      "bytes": 27434,
+      "sha256": "20819615019e3e3d6b4dc4c4a5522dc20803a8fca9b78e4da0ed637d3e0ca6ab"
+    },
+    {
+      "path": "archive/cow-talk-radio/index.html",
+      "bytes": 17553,
+      "sha256": "6481006d34f73f56207d76b156857cd4178149d76799a322d4bb761137e42862"
+    },
+    {
+      "path": "archive/elk-talk-review/index.html",
+      "bytes": 20186,
+      "sha256": "70774ca392ef9be5b79da12a96580ae6bd4804d59e7a0c0a2cf89f144ada58e1"
+    },
+    {
+      "path": "archive/founder-record/index.html",
+      "bytes": 19369,
+      "sha256": "9dc6c38e1b1f3f3b32ca9535064b1121bfa53de726cd5165f680838a8ed10ff8"
+    },
+    {
+      "path": "archive/index.html",
+      "bytes": 35661,
+      "sha256": "082fb28ed05f4c873af2ccf34e5a867536a74e9e872c8ad3403afa3ea1fff0e7"
+    },
+    {
+      "path": "archive/more-exposition/index.html",
+      "bytes": 19176,
+      "sha256": "ecf0ae6830e07597d44283f1093b8ebdfe7b9bca47d84c141706e6882e42506b"
+    },
+    {
+      "path": "archive/more-show/index.html",
+      "bytes": 719,
+      "sha256": "0696b56cdf074c5bd083725cd52656ea338076840802302de3483aa0d47cd61c"
+    },
+    {
+      "path": "archive/newest-secret/index.html",
+      "bytes": 17756,
+      "sha256": "25e8e97420d372c055083828239f484a4b6d08f404229520c096d579161320fa"
+    },
+    {
+      "path": "archive/prime-time/index.html",
+      "bytes": 17831,
+      "sha256": "22a8a35bdb3ce03643fba2099e9d04b7893c9328c5f80c39a5caba35892f7f28"
+    },
+    {
+      "path": "archive/retail-correspondence/index.html",
+      "bytes": 17991,
+      "sha256": "648ea68dae5801c36bbb717cf24551823f9e1c9b7733d982633b72bd675cb2b5"
+    },
+    {
+      "path": "archive/sports-afield/index.html",
+      "bytes": 18106,
+      "sha256": "1eb95cd2bd6b5bb3fb001eee9e32b7679ee25b0cb255ce301d37821c135122f3"
+    },
+    {
+      "path": "archive/take-a-bull/index.html",
+      "bytes": 27062,
+      "sha256": "53557b98085dac211a005e7ae7159252475d87d67e857b49c886125c39f04690"
+    },
+    {
+      "path": "archive/talk-to-the-elk/index.html",
+      "bytes": 723,
+      "sha256": "7eb0021673de6af8c10e962e0fb1f4bd692f1306f39d5203969ae51b98dc2345"
+    },
+    {
+      "path": "archive-phone.css",
+      "bytes": 5143,
+      "sha256": "e7e04fdc69a6aeae3e0658ab93edd97a38a734131279454b884a5bb11d4c8cae"
+    },
+    {
+      "path": "article-reader.css",
+      "bytes": 2431,
+      "sha256": "aa66fa2f9931c3585fcd4391c298b908b2df167de2c8a07e2eebcb2767a7888f"
+    },
+    {
+      "path": "article-reader.js",
+      "bytes": 5201,
+      "sha256": "c0c8971cd87990753f74957f02e06397796485ee072c7c1dfda7e6983bb2fc9e"
+    },
+    {
+      "path": "article-summaries.css",
+      "bytes": 1314,
+      "sha256": "0b07805b72f6a1fe1d2f8549a6f8613cf0fe5adb9364adbd2fed4b3ff144934e"
+    },
+    {
+      "path": "assets/big-bull-elk-cow-talk-1986-480-06936159.webp",
+      "bytes": 79726,
+      "sha256": "069361595b2465a19c49965ad11b47766a4fa97a3bd44542baba1a9af769d125"
+    },
+    {
+      "path": "assets/big-bull-elk-cow-talk-1986-590-05697d7d.webp",
+      "bytes": 116274,
+      "sha256": "05697d7dd4585ea8490f2c326be5765839e3bdec50280c33bde82aa99c8513ac"
+    },
+    {
+      "path": "assets/big-bull-elk-cow-talk-1986.jpg",
+      "bytes": 234700,
+      "sha256": "d72fb42597a944cb05b66d91ad197a27a67955aa6ff0c9a0323c6b39e70144a0"
+    },
+    {
+      "path": "assets/business-guide-customer-support-b05a23851f.webp",
+      "bytes": 25194,
+      "sha256": "0dcee824775fbbf8bd7b63050f03b7de48544b7691c7da333ba4db6e7d34f275"
+    },
+    {
+      "path": "assets/business-guide-distributor-network-7757135483.webp",
+      "bytes": 29708,
+      "sha256": "31f43eaec48bbf438d29d65d5a23dd019446d76085e980c2ecf46479d990a183"
+    },
+    {
+      "path": "assets/canada/deer-stopper-back.jpg",
+      "bytes": 147472,
+      "sha256": "48e231ad03e32c0aa2cba60b80a697bb62ce7cbab77a72880471255bf1950a6f"
+    },
+    {
+      "path": "assets/canada/deer-stopper-back.webp",
+      "bytes": 57142,
+      "sha256": "c807cd4dc3c0ba3e7483a06752c1c74de68de968082d4c4315adc6b8b8408436"
+    },
+    {
+      "path": "assets/canada/deer-stopper-detail.jpg",
+      "bytes": 141114,
+      "sha256": "2084795f541b76ccc579cd2b04eb5a33179661a732801a10c139df26a8be08b6"
+    },
+    {
+      "path": "assets/canada/deer-stopper-detail.webp",
+      "bytes": 57556,
+      "sha256": "d719c1807b8484552b3afe970bc41a696a75b232577130202996e37bafdb9e35"
+    },
+    {
+      "path": "assets/canada/deer-stopper-front.jpg",
+      "bytes": 130460,
+      "sha256": "8beae81f7809314cc286d542dfa9e7fd1cf974d2704aa81069953259cec8af12"
+    },
+    {
+      "path": "assets/canada/deer-stopper-front.webp",
+      "bytes": 63068,
+      "sha256": "8f99469f666e157365304c024313a7aea7b3f1a985dbf8a41710b09cd049946f"
+    },
+    {
+      "path": "assets/canada/deer-talk-book.jpg",
+      "bytes": 128896,
+      "sha256": "fc09e85d9cfeb3502bd9e2649559f217a8b2ad606cb9092ab4272e6f278f0518"
+    },
+    {
+      "path": "assets/canada/deer-talk-book.webp",
+      "bytes": 60654,
+      "sha256": "149b7c881911956873ef4c43a44c7776dad5a789319e70fbe28ac39d6338a0b2"
+    },
+    {
+      "path": "assets/canada/replacement-bands.jpg",
+      "bytes": 149274,
+      "sha256": "521db4785426b00a51c8795e86c191fce77a6f082322376c9db89f6c815f2db5"
+    },
+    {
+      "path": "assets/canada/replacement-bands.webp",
+      "bytes": 84424,
+      "sha256": "b6f6e8d86e10c56c635c4af13f225cf93acb121dda787f7f8cbd9fc663bbdd0e"
+    },
+    {
+      "path": "assets/cow-call-draws-elk-480-a50a1014.webp",
+      "bytes": 68064,
+      "sha256": "a50a10147d38bba6feaaf420db857dc3e0e91132129ccffd17a3c782e270512f"
+    },
+    {
+      "path": "assets/cow-call-draws-elk-742-a195f1f1.webp",
+      "bytes": 167258,
+      "sha256": "a195f1f17e30ef20b1c7584813201ee5160c34934246944a88f4d7c65e4ea4a8"
+    },
+    {
+      "path": "assets/cow-call-draws-elk.jpg",
+      "bytes": 182725,
+      "sha256": "9ad2cd101721415717df35ff2e327c5ae2378bf396e53fabbb9ae7b47ef6b900"
+    },
+    {
+      "path": "assets/cow-talk-for-elk-480-b081c8f4.webp",
+      "bytes": 72060,
+      "sha256": "b081c8f496afd2c710709659bdc9fbda5162bf153b25eb7f9cb94abb6e66d26c"
+    },
+    {
+      "path": "assets/cow-talk-for-elk-742-f7f265a9.webp",
+      "bytes": 168796,
+      "sha256": "f7f265a94985d9e42d91c50a6dcc084fb7faa0e30ba574b0f88ad730140e4590"
+    },
+    {
+      "path": "assets/cow-talk-for-elk.jpg",
+      "bytes": 182336,
+      "sha256": "98fb7637e1bbe3ae85ea440769da2f7950f447e9b4f32fe7fdd9bd707620fef1"
+    },
+    {
+      "path": "assets/cow-talk-radio-480-49488878.webp",
+      "bytes": 54122,
+      "sha256": "4948887874b4529d69aa6033cd85c25449247e0e97bfaec822603a48b18bbdac"
+    },
+    {
+      "path": "assets/cow-talk-radio-742-7f04f59f.webp",
+      "bytes": 128444,
+      "sha256": "7f04f59f2ea89846db35eb42c1751f5b4b3d01c55601049df1dcdfcebd42984f"
+    },
+    {
+      "path": "assets/cow-talk-radio.jpg",
+      "bytes": 149488,
+      "sha256": "d1cde06b40f6e8f59b1b16dc59ef970fdfcc8b67d5b948a13c18982a5186c5b9"
+    },
+    {
+      "path": "assets/dealers/cow-talk.webp",
+      "bytes": 16026,
+      "sha256": "ac2636e4b8bd98f0426bd622f41b0abd4c5d04767aa927ec1b327cfaa0c54441"
+    },
+    {
+      "path": "assets/dealers/dealer-guide-1.jpg",
+      "bytes": 57940,
+      "sha256": "852011382cae179334af7c2a4aa3ba2949de313eaecf23e2143129095df44b84"
+    },
+    {
+      "path": "assets/dealers/dealer-guide-1.webp",
+      "bytes": 13736,
+      "sha256": "b9a19c5c9aa8bea7c45459f6493a5b7aff82a3194269a70bb60526d1f8e49373"
+    },
+    {
+      "path": "assets/dealers/dealer-guide-2.jpg",
+      "bytes": 61666,
+      "sha256": "348765a4d4dea6aa12e20e5a5490466f1ccafd1d2f65150d305c29d521a179af"
+    },
+    {
+      "path": "assets/dealers/dealer-guide-2.webp",
+      "bytes": 14074,
+      "sha256": "e1849a5ee2b045789b66fa719fee1a3567768f1cbea0413b09e2b8fcf16e3f74"
+    },
+    {
+      "path": "assets/deer-talk-video-1440-d8f35454.webp",
+      "bytes": 38094,
+      "sha256": "d8f354541d3f58a0b76519d16b2a28e565ef06e359197d9897d64cee9a8fff4a"
+    },
+    {
+      "path": "assets/deer-talk-video-480-d489ff30.webp",
+      "bytes": 10436,
+      "sha256": "d489ff301ce508e204b1ab4daeb014d1da31bab05abe98a857e0ba2944f1a381"
+    },
+    {
+      "path": "assets/deer-talk-video-960-4f883dbc.webp",
+      "bytes": 23588,
+      "sha256": "4f883dbc04a166c249f4e62ed2ba01dc03d87c46c98b0dac8c44a6d69ea0765f"
+    },
+    {
+      "path": "assets/deer-talk-video.png",
+      "bytes": 2339084,
+      "sha256": "020861808b70e168c38c13e234c1f5c17b85a9bb977cb48ce92c9f9a178d413e"
+    },
+    {
+      "path": "assets/documents/international/legacy-archive-content.txt",
+      "bytes": 16944,
+      "sha256": "e138780932dffc19b1f6a0a3c53c39bb36137bf162ece2eaf8da062f72e3b0a1"
+    },
+    {
+      "path": "assets/documents/international/legacy-country-layout.txt",
+      "bytes": 6173,
+      "sha256": "e86b27c0f439c6ef7d9fd7a2018ec0dc3dfb39550a921d9fe97f1a1db00aae74"
+    },
+    {
+      "path": "assets/elk-1440-23ce7e80.webp",
+      "bytes": 106622,
+      "sha256": "23ce7e80738d5f6e81850c8d0310dc433855b128794c8ddc9d0f17bb9fac73a8"
+    },
+    {
+      "path": "assets/elk-480-c801ee61.webp",
+      "bytes": 20772,
+      "sha256": "c801ee618ef6486b85ddedd02e994d97190be4de6fc6c7b2c6641b7df57daaf4"
+    },
+    {
+      "path": "assets/elk-960-223d36ba.webp",
+      "bytes": 58956,
+      "sha256": "223d36bafe2aaf2b923858e5b57290fde42158eeead65e2b065874ed492fddd0"
+    },
+    {
+      "path": "assets/elk-talk-review-480-b95e63d5.webp",
+      "bytes": 63456,
+      "sha256": "b95e63d5dc3bacc999853e68a5560a3a3e671f0e3e19fabb63c361ba3d10e957"
+    },
+    {
+      "path": "assets/elk-talk-review-742-4112dde0.webp",
+      "bytes": 156154,
+      "sha256": "4112dde0ed655a214d83ad729b52aac230d68a94a3600ae3b85af94a1c9199c2"
+    },
+    {
+      "path": "assets/elk-talk-review.jpg",
+      "bytes": 172876,
+      "sha256": "23f7cb5a761df099d21078b5c46f29520ec5feba073089603590d3b3e594560b"
+    },
+    {
+      "path": "assets/elk.jpg",
+      "bytes": 239720,
+      "sha256": "617b3592dbabae794719268e483b96ab9a092475d89a3d964ef4bd326d9ee90b"
+    },
+    {
+      "path": "assets/founder-record-480-04411831.webp",
+      "bytes": 22434,
+      "sha256": "0441183155d5fb3810eac6ee16385bddc2bd386776bdac25fe656e2c089ff64c"
+    },
+    {
+      "path": "assets/founder-record-742-f5f6c9fb.webp",
+      "bytes": 45824,
+      "sha256": "f5f6c9fb724c352546875fd3cbec6fe13b94ba889d93e763e818df86bd7441be"
+    },
+    {
+      "path": "assets/founder-record.jpg",
+      "bytes": 65745,
+      "sha256": "e7f6bfb0260846693d0e937febc1dbdcd4ad9313cce64235a372e27bd6a3d1db"
+    },
+    {
+      "path": "assets/hero-1440-b731d7d3.webp",
+      "bytes": 146544,
+      "sha256": "b731d7d3a98223b022582ca27fe46abd927d67f9394f76741be56b80ddc66441"
+    },
+    {
+      "path": "assets/hero-480-203834e0.webp",
+      "bytes": 32502,
+      "sha256": "203834e0cfeaac87be05986a2d6758642a7fb9b8c3c0bd19c32cc5661b35a640"
+    },
+    {
+      "path": "assets/hero-960-b3e89c22.webp",
+      "bytes": 85612,
+      "sha256": "b3e89c2261cb1e4116259ebfeaaffef4d524509ebd3afd240de8a22aff37481b"
+    },
+    {
+      "path": "assets/hero.jpg",
+      "bytes": 420987,
+      "sha256": "943f6b1120ada0ee0b0ffe1ed7500884a0985947270b3c6fdcf0216539e1a93a"
+    },
+    {
+      "path": "assets/landscape-1000-22726ae4.webp",
+      "bytes": 26836,
+      "sha256": "22726ae4d671040c0d37f34065a3369a3b194c8c9f504b3750c9cc583363ee43"
+    },
+    {
+      "path": "assets/landscape-480-ee24b30b.webp",
+      "bytes": 8726,
+      "sha256": "ee24b30bcb936eeefa3372b9accba53b2165508c669bd8c1efdcc8b1e39c8c8d"
+    },
+    {
+      "path": "assets/landscape-960-5ac38375.webp",
+      "bytes": 23606,
+      "sha256": "5ac383756f8e088aa5893e09e2b2218a0d92ba95afca7bb75c0b0e672671941e"
+    },
+    {
+      "path": "assets/landscape.jpg",
+      "bytes": 73300,
+      "sha256": "3936b9eebf2c1233e4fe6f4266ffbfce4c9a9ebb155dba63aab71b4fba0a0d8a"
+    },
+    {
+      "path": "assets/logo.webp",
+      "bytes": 37064,
+      "sha256": "a46c8a4635764f0c7fc7261a3d5729338093f1db309d03915ba7b8f3aaee5196"
+    },
+    {
+      "path": "assets/mark-128-62c846c6.webp",
+      "bytes": 5102,
+      "sha256": "62c846c67daea73fc6c9a2b3b3aa65a1b8ae96e764c1d86658c2c819d252b8ad"
+    },
+    {
+      "path": "assets/mark.png",
+      "bytes": 196482,
+      "sha256": "f1cc015c67e69378a902a4d32a4dee9e2e10e985e9c55fd4ae016699dd6302aa"
+    },
+    {
+      "path": "assets/more-exposition-480-57d3ee0e.webp",
+      "bytes": 34422,
+      "sha256": "57d3ee0ecd60df22e277280c343cff246ce49fbed08a47ae3e2bdf3517a29bdc"
+    },
+    {
+      "path": "assets/more-exposition-960-5e37a3c1.webp",
+      "bytes": 108924,
+      "sha256": "5e37a3c1f2b4c25b8586446dd6ff577c00e324be653ce6b60f6dcd35fe8b5be5"
+    },
+    {
+      "path": "assets/more-exposition-963-9af07b6c.webp",
+      "bytes": 121126,
+      "sha256": "9af07b6c14a518c1009d0610fc620b571bb401cf0b985ba5d486db9a6edc3688"
+    },
+    {
+      "path": "assets/more-exposition.jpg",
+      "bytes": 241123,
+      "sha256": "8379c4941b68a4b89f19ba977022183c3ac72d9eea8d51be69bf48d5b8c89027"
+    },
+    {
+      "path": "assets/more-show-480-ae58d83d.webp",
+      "bytes": 70542,
+      "sha256": "ae58d83de15d6ecaa601b8e65ad06b5392e243f0e61ce1d2ef64b99d8fb9cf4d"
+    },
+    {
+      "path": "assets/more-show-742-5fcdace2.webp",
+      "bytes": 158176,
+      "sha256": "5fcdace26126a76edd6519aa2d5e23a7a581f63921a5cf1a7089faf3a4a505c2"
+    },
+    {
+      "path": "assets/more-show.jpg",
+      "bytes": 193102,
+      "sha256": "774394be988c15640f0f4fe87189628a346f55e21b45b196a7c294bcf2eb5b85"
+    },
+    {
+      "path": "assets/music/cowtalk-song.mp3",
+      "bytes": 4003411,
+      "sha256": "77568015aefd74aeb98d7993a1706cf480e59cfcb56ace3fc3426dce13ba239b"
+    },
+    {
+      "path": "assets/music/stop-em-in-their-tracks.mp3",
+      "bytes": 4313353,
+      "sha256": "c35f3888ee62ea0de776844be4df683acbe5ce60dfb2afb3270cceb0224432a3"
+    },
+    {
+      "path": "assets/newest-secret-480-6f82a404.webp",
+      "bytes": 58818,
+      "sha256": "6f82a404a25bb9d67431f6050f189ae1adf50d3490269d334d49a78b8c91a109"
+    },
+    {
+      "path": "assets/newest-secret-742-f7e7fd58.webp",
+      "bytes": 128282,
+      "sha256": "f7e7fd58a7ce96a236b1cc564724d9f0af8b32c157977cf66bdcbc15cabb1a15"
+    },
+    {
+      "path": "assets/newest-secret.jpg",
+      "bytes": 162121,
+      "sha256": "4f54c69dca71a940baaa4685e53c7c7f529cc1643a8ecbb0ef4cb29594b58660"
+    },
+    {
+      "path": "assets/page-styles-11e32d8b4d54.css",
+      "bytes": 34356,
+      "sha256": "11e32d8b4d54cac01b30afc7de5f52ce5f5b53b0ad71d9c04d2bee9ed1229a55"
+    },
+    {
+      "path": "assets/page-styles-1aaa1a5beb73.css",
+      "bytes": 51305,
+      "sha256": "1aaa1a5beb73f073b34a718e066ab62abb673833557a17cc9df2aaf297e18339"
+    },
+    {
+      "path": "assets/page-styles-2746052d6601.css",
+      "bytes": 39614,
+      "sha256": "2746052d6601fe29eac46c73acc5a5dc1907889aec0c65876827b9f945b74354"
+    },
+    {
+      "path": "assets/page-styles-3daa7823860f.css",
+      "bytes": 52649,
+      "sha256": "3daa7823860f694faa8fc20042e007adc7575b3030f5b010ccb67d22314ef071"
+    },
+    {
+      "path": "assets/page-styles-46efabe7f55b.css",
+      "bytes": 46101,
+      "sha256": "46efabe7f55b60805372836caee32721e19380b84bac3c3af91575a8d6e8d24c"
+    },
+    {
+      "path": "assets/page-styles-6e6bdda2127e.css",
+      "bytes": 34605,
+      "sha256": "6e6bdda2127e8bc18daf375524b78a986614489e7d51c751cdaadfcc2d8bb953"
+    },
+    {
+      "path": "assets/page-styles-8388500e1710.css",
+      "bytes": 39796,
+      "sha256": "8388500e17103668204b76e04255efa58852fe61104f430c7c42f10d699455a1"
+    },
+    {
+      "path": "assets/page-styles-8710d8636f33.css",
+      "bytes": 35115,
+      "sha256": "8710d8636f3385daedaeaf27847275e85c40a72af81a0b98f585c5841389ef63"
+    },
+    {
+      "path": "assets/page-styles-8ecadb6db342.css",
+      "bytes": 47445,
+      "sha256": "8ecadb6db342ee1c0dc3cab6b81175523bb0b44fdfbcfd22eabd251be38063ad"
+    },
+    {
+      "path": "assets/page-styles-908e92b50435.css",
+      "bytes": 38642,
+      "sha256": "908e92b50435ffe7f6a6493e4a5a5b5d61d1244abeb9e13ce997c881be9a18fe"
+    },
+    {
+      "path": "assets/page-styles-a3e0c684cbc0.css",
+      "bytes": 37984,
+      "sha256": "a3e0c684cbc0506fea0ec53252e9c47bb98e5b29e2b8b983eccfeba6ee4bbeda"
+    },
+    {
+      "path": "assets/page-styles-a61745247ed4.css",
+      "bytes": 34498,
+      "sha256": "a61745247ed415f4f307ce62848c0cf043bcbcd0daf1d45571a39877c6f7d368"
+    },
+    {
+      "path": "assets/page-styles-a682cf754bdd.css",
+      "bytes": 33012,
+      "sha256": "a682cf754bdddc0abf8b49814bcbe0b614db80133e4d74a442b31c852c90d391"
+    },
+    {
+      "path": "assets/page-styles-ba378c7e2952.css",
+      "bytes": 47403,
+      "sha256": "ba378c7e2952e30c8f3754a58b7b7b14d9c1ec94bf50550f9bdfd2f9f58da305"
+    },
+    {
+      "path": "assets/page-styles-c2abd0e56419.css",
+      "bytes": 38902,
+      "sha256": "c2abd0e5641906ad7d6d4126d28d929b16e8839cf08bf4e92b51c927a8cfe8bc"
+    },
+    {
+      "path": "assets/page-styles-da7f36e5b5dd.css",
+      "bytes": 46059,
+      "sha256": "da7f36e5b5dd4a90ed11295d90a332503ecb379e5cc5435fae35395f9204393b"
+    },
+    {
+      "path": "assets/page-styles-e58074025055.css",
+      "bytes": 40443,
+      "sha256": "e58074025055db8275c32bddab46d5b16bcc9a100ab6b248dd7e4252ddf922c6"
+    },
+    {
+      "path": "assets/prime-time-480-f45e2e0e.webp",
+      "bytes": 68262,
+      "sha256": "f45e2e0e1c36436a57aa1390d16d18c06df246087294b81542952d2838d73054"
+    },
+    {
+      "path": "assets/prime-time-742-b2c288c9.webp",
+      "bytes": 156060,
+      "sha256": "b2c288c9875572b789cf5f13045e83a07ca4a4bb534020457b9b39be3c873eda"
+    },
+    {
+      "path": "assets/prime-time.jpg",
+      "bytes": 190637,
+      "sha256": "f7971c381a0324dec264bae28b4a9c093b872484b6ca81fc8a7b377e3d13f2bc"
+    },
+    {
+      "path": "assets/retail-correspondence-480-704b5d94.webp",
+      "bytes": 18298,
+      "sha256": "704b5d94743b6625a78eb22791afe89b003ccb7b27a98455c7238a1191db08fa"
+    },
+    {
+      "path": "assets/retail-correspondence-742-e1d6cf56.webp",
+      "bytes": 37260,
+      "sha256": "e1d6cf563b1ffca8e782ce5108c15072e2ad7dd8a9b761b529a749ab29ca2cc1"
+    },
+    {
+      "path": "assets/retail-correspondence.jpg",
+      "bytes": 65818,
+      "sha256": "8c436c28ee0c559361018b35dee84fe30d69f1e2a6566c49d417c09307d5d9f8"
+    },
+    {
+      "path": "assets/roboto-400-optimized-007c12f8b9f6.woff2",
+      "bytes": 38388,
+      "sha256": "007c12f8b9f6feb244502e7e20998a44119f95e73ab1d0c6e55c3c92bfda595f"
+    },
+    {
+      "path": "assets/roboto-400.woff2",
+      "bytes": 40128,
+      "sha256": "20b535fa80c8189e3b87d1803038389960203a886d502bc2ef1857affc2f38d2"
+    },
+    {
+      "path": "assets/roboto-500.woff2",
+      "bytes": 40128,
+      "sha256": "20b535fa80c8189e3b87d1803038389960203a886d502bc2ef1857affc2f38d2"
+    },
+    {
+      "path": "assets/roboto-700.woff2",
+      "bytes": 40128,
+      "sha256": "20b535fa80c8189e3b87d1803038389960203a886d502bc2ef1857affc2f38d2"
+    },
+    {
+      "path": "assets/roboto-application-pdf-8c6f2880cb24.ttf",
+      "bytes": 74600,
+      "sha256": "8c6f2880cb24aac896d913552a08c93d6adcf730e2dbe103f89f1883bef3bb3a"
+    },
+    {
+      "path": "assets/roboto.css",
+      "bytes": 1082,
+      "sha256": "d7521ca2fa22299f8707154f0124b5bb1ce2c0ee1d3e1626c6e6da382f957cd8"
+    },
+    {
+      "path": "assets/robotoslab-600-optimized-d8f81922d6e2.woff2",
+      "bytes": 14388,
+      "sha256": "d8f81922d6e2fd7743ef585a52063bb184b8e8790fa6917c17915d1606fb6a6d"
+    },
+    {
+      "path": "assets/robotoslab-600.woff2",
+      "bytes": 34236,
+      "sha256": "50cf7d32c18e1001749b51f1565ef745bc0687b0297b2b13465ed577cc20a8ff"
+    },
+    {
+      "path": "assets/robotoslab.css",
+      "bytes": 347,
+      "sha256": "bd781986d20bc206fda8718aee94f211e539de8ee125feb0396a2fb7caa49293"
+    },
+    {
+      "path": "assets/sports-afield-480-24be66d1.webp",
+      "bytes": 73412,
+      "sha256": "24be66d15909ebf45d21a9c38db20bc1b34dff16496738945d9d53b2d262d8cd"
+    },
+    {
+      "path": "assets/sports-afield-742-acae6acd.webp",
+      "bytes": 163474,
+      "sha256": "acae6acd7fba8c8fe1262cc35f7d12947860cbf1c78752739bf6ca801f8f5fc5"
+    },
+    {
+      "path": "assets/sports-afield.jpg",
+      "bytes": 200322,
+      "sha256": "55ae5c37ebf353426becd1019828596999a57abf05e5a4c35397db54fa5b4d43"
+    },
+    {
+      "path": "assets/store-suggestions-4c0861219c5e.json",
+      "bytes": 12681,
+      "sha256": "4c0861219c5e7db1a88f3058646fcbbdddb7550ca92a31440e882025536233fb"
+    },
+    {
+      "path": "assets/store-suggestions-8bf6920f9f42.json",
+      "bytes": 12691,
+      "sha256": "8bf6920f9f42b975d7d2c75b5d6dca8fd0dec7d91fe1fb4aeace2025ba817a25"
+    },
+    {
+      "path": "assets/take-a-bull-480-25d66e7b.webp",
+      "bytes": 72206,
+      "sha256": "25d66e7ba7c6b4e9947ecd2190b8174f6a27bed3f62ef1c36adcf5c2ce4c7f0a"
+    },
+    {
+      "path": "assets/take-a-bull-742-49943454.webp",
+      "bytes": 153646,
+      "sha256": "49943454a10240ed315845cc3c251ab0e74ec19dff2b35cc53c2ca3022e2eeea"
+    },
+    {
+      "path": "assets/take-a-bull.jpg",
+      "bytes": 189435,
+      "sha256": "b2eb445bf310c196f3a2221d369ded80dd44eb1be25950a6ad04ceb212dda91b"
+    },
+    {
+      "path": "assets/talk-to-the-elk-480-821ccdb6.webp",
+      "bytes": 9752,
+      "sha256": "821ccdb6990aa078482a95bde2f66c196db534b7bf78d82c32c1980bd1dd12a3"
+    },
+    {
+      "path": "assets/talk-to-the-elk-742-cf1b81ea.webp",
+      "bytes": 20808,
+      "sha256": "cf1b81ea8a4e43b2f9daca5c2548e1789a763e94e348c97dec6cb123170e833d"
+    },
+    {
+      "path": "assets/talk-to-the-elk.jpg",
+      "bytes": 45023,
+      "sha256": "3d92a37b05cb0e68d3f1de384d7146ff8922a4557fc1362f7edbcac2932084c5"
+    },
+    {
+      "path": "assets/translations-de.json",
+      "bytes": 55444,
+      "sha256": "6d09286140206ab128ac15a1261eb2717fc974365e8bb972774873638e92d7c6"
+    },
+    {
+      "path": "assets/translations-es.json",
+      "bytes": 54651,
+      "sha256": "90c7074d9d6152d2ace4b895333016a24e9efc7148b85286b3835d63cf813f65"
+    },
+    {
+      "path": "assets/translations-fr.json",
+      "bytes": 56867,
+      "sha256": "f4397311d070432f137e420cf10836a022516a6ab4c42640ffa5d66a39ae069b"
+    },
+    {
+      "path": "assets/whitetail-shop-1440-e4080761.webp",
+      "bytes": 188488,
+      "sha256": "e40807614724fc3cb5fa961422c00bcc464e39a8f58223e9c558bdce89e35688"
+    },
+    {
+      "path": "assets/whitetail-shop-2000-15c9ffde.webp",
+      "bytes": 306562,
+      "sha256": "15c9ffde7ef92d6c0df3cd52854f5d1c1b605f3166340c8287f2e1c8d6cb4198"
+    },
+    {
+      "path": "assets/whitetail-shop-480-256568b9.webp",
+      "bytes": 28926,
+      "sha256": "256568b9d8bc6d17a01b432bba4c8fe46859625710c08b549fd2f01db0e88e13"
+    },
+    {
+      "path": "assets/whitetail-shop-960-c48e1d37.webp",
+      "bytes": 94018,
+      "sha256": "c48e1d37b08394f2e690abf9cbff42f99a60fc40e728e6a55a3fcd1ed3a3f742"
+    },
+    {
+      "path": "banding/index.html",
+      "bytes": 14671,
+      "sha256": "39b736b00fcb8f13834f7fbe8bfc42c325aaf3c1cb3658140e6c12112b33e229"
+    },
+    {
+      "path": "calls/antelope-talk-call/index.html",
+      "bytes": 9478,
+      "sha256": "a4ab8564181dd3626cbf990d87c8e0e1b92b7e960f6df156e7ddfa1be94741be"
+    },
+    {
+      "path": "calls/cow-talk-call/index.html",
+      "bytes": 9323,
+      "sha256": "3559c582c8bae2cf9f9b90a917ec76ec700bbc89d2019c2e26a73a3fc726f5d2"
+    },
+    {
+      "path": "calls/deer-talk-call/index.html",
+      "bytes": 10430,
+      "sha256": "94dfb35963223193f03cf0b6de23b145cf6c435df1ffcb168338c90d964c3a32"
+    },
+    {
+      "path": "calls/deluxe-cow-talk-call/index.html",
+      "bytes": 8965,
+      "sha256": "277219aaa8eabf2da309c5541f5ca3195c15c77e533c9ee53cbdf4d1d16e1750"
+    },
+    {
+      "path": "calls/power-bugle/index.html",
+      "bytes": 9272,
+      "sha256": "3124fccf5f5a6601c0056b931adb729bdd884e2483107589476d373cf6941c5d"
+    },
+    {
+      "path": "calls/power-howler/index.html",
+      "bytes": 8762,
+      "sha256": "48e88ca5ac4f313552d921227d3d42aa70146993e2e9bd7dc2c1249083356a16"
+    },
+    {
+      "path": "calls/royal-bugle/index.html",
+      "bytes": 8716,
+      "sha256": "7773c9f9c4cf53c02006dff673b1fc23d1ede611e6320d23c6b7d6037119f0ee"
+    },
+    {
+      "path": "calls/the-wolf-howler/index.html",
+      "bytes": 8844,
+      "sha256": "4ca805bc18b1702ac3ec726e802249e040509050df5157de4d8aced91c403e51"
+    },
+    {
+      "path": "calls/yote-buster/index.html",
+      "bytes": 8723,
+      "sha256": "d948f9ef9d89c61c8ed8b2b0b80e3b5b678c0fd2c11e9795a00cd9a55ab8f903"
+    },
+    {
+      "path": "calls/yote-howler/index.html",
+      "bytes": 8734,
+      "sha256": "5dee55c2d52729c7611cbac8add897f86930e4baecf7a25f6dc61ac1a116377b"
+    },
+    {
+      "path": "canada/education/index.html",
+      "bytes": 17227,
+      "sha256": "d56c9787e0d84d5ab1331a4a4f228e26c77dd1ec3e7235ccd59cb45015f66036"
+    },
+    {
+      "path": "canada/index.html",
+      "bytes": 22876,
+      "sha256": "b43527966c9ca902e2cc73fb3033f1cdfff33bb6e5feeaa82a18e7b45497e927"
+    },
+    {
+      "path": "canada/presentation/index.html",
+      "bytes": 13872,
+      "sha256": "f3a1406512ca20557a97431bd644d90761d819840a14040535b4da3ddbc0842c"
+    },
+    {
+      "path": "canada/reference/dealer-program-original.pptx",
+      "bytes": 345703,
+      "sha256": "6a93460f391df68cb76dd1d82811ca9b3396f0648c1aa58bd8e27567b997944f"
+    },
+    {
+      "path": "canada/reference/pilot-checklist.txt",
+      "bytes": 2080,
+      "sha256": "309e22e5103d08027c9382b12158532df54d0d03abd40e744a52e77b59866ca4"
+    },
+    {
+      "path": "canada.css",
+      "bytes": 4953,
+      "sha256": "bd330f0ee853efedf896ebcc5d365444588af7d3e282ce5b00ebe3ef64522ff9"
+    },
+    {
+      "path": "canada.js",
+      "bytes": 6040,
+      "sha256": "d78ceabe1abb44077605ff196f785e5bf8d3c1efde7b663b1b9d65c4e7f0d129"
+    },
+    {
+      "path": "cinematic.css",
+      "bytes": 4459,
+      "sha256": "407e8af18abaccf26798dfc2bac9f2e188db27101e5722f4b227edaf588c96fb"
+    },
+    {
+      "path": "cinematic.js",
+      "bytes": 5176,
+      "sha256": "73bb3226c6d832efaa06a3054cb4f7d1ce47c046c28641c9031356af2e16231b"
+    },
+    {
+      "path": "contact/index.html",
+      "bytes": 10605,
+      "sha256": "ca2f1c48d12804ef6c9554eca2c59dab87e90e60f9cbef5455995ef0b56bae68"
+    },
+    {
+      "path": "countries/argentina/index.html",
+      "bytes": 11798,
+      "sha256": "391a6784ed725911e01816fdc914baef992e57bbede693bbe3210137ba214e47"
+    },
+    {
+      "path": "countries/canada/index.html",
+      "bytes": 11849,
+      "sha256": "afe828c527d55886973c49a42d50ecdc17e8fad6732ca5871571ce362cdc18f2"
+    },
+    {
+      "path": "countries/central-asia/index.html",
+      "bytes": 11938,
+      "sha256": "63995c2492f8fb1f2096bdabe7d6d5c751992cfbfe8d376336b112b4fb1b2320"
+    },
+    {
+      "path": "countries/germany/index.html",
+      "bytes": 11809,
+      "sha256": "8ef64f35ba36816b8352f18ce802c9db872f0cb7f58d276d28464acbf3ebb456"
+    },
+    {
+      "path": "countries/spain/index.html",
+      "bytes": 11728,
+      "sha256": "fd96ff8a6becbaa1b6fb81556a003a88ee102cbe43ffe49282f6cdcfb2949b0c"
+    },
+    {
+      "path": "countries/united-states/index.html",
+      "bytes": 11977,
+      "sha256": "48a3d304eba4027b043bb897b2316e294507e9b1bb1db48c03b49d2e35e9ebee"
+    },
+    {
+      "path": "de/about/index.html",
+      "bytes": 27830,
+      "sha256": "fbf444fe77c2a53abec084671f24ee607bea13954575a574322511ef79fa8199"
+    },
+    {
+      "path": "de/archive/big-bull-elk-cow-talk/index.html",
+      "bytes": 19722,
+      "sha256": "8dbaf4291049049a053f91ee6a2cb54fa327502463e03b93b5ae97811f318201"
+    },
+    {
+      "path": "de/archive/cow-call-draws-elk/index.html",
+      "bytes": 28162,
+      "sha256": "cc63afaf7795ffe8f359e5736a059834303f295eb7bf57513144185062554823"
+    },
+    {
+      "path": "de/archive/cow-talk-for-elk/index.html",
+      "bytes": 31786,
+      "sha256": "c3fc5b0e155d52c8a7cae4b824152d56db0a69bad005897abcba19432d90b07a"
+    },
+    {
+      "path": "de/archive/cow-talk-radio/index.html",
+      "bytes": 20283,
+      "sha256": "4efd32f4bc71850f99251a4e2a72d4a978833d0d352675b434fba1670e8a67a9"
+    },
+    {
+      "path": "de/archive/elk-talk-review/index.html",
+      "bytes": 23690,
+      "sha256": "92d6e3b62c07468b9f2f8ad2b95eaf0c11d15342d039b64110cf648bcc65eca9"
+    },
+    {
+      "path": "de/archive/founder-record/index.html",
+      "bytes": 22528,
+      "sha256": "d11dedbdfef82c1fea5b0b489a67a3e3ed86463edd822743fccdb5eb7681b91c"
+    },
+    {
+      "path": "de/archive/index.html",
+      "bytes": 39856,
+      "sha256": "78a16a164396142b794af49b2c79d1841d37b071e87f1eaea98e4368fded3a88"
+    },
+    {
+      "path": "de/archive/more-exposition/index.html",
+      "bytes": 21999,
+      "sha256": "1a0519f02477f956d63810e8f903fe44ba0aaa13828d46e6520958a99ceb383d"
+    },
+    {
+      "path": "de/archive/more-show/index.html",
+      "bytes": 731,
+      "sha256": "59c30e1185c2090ec96c2a2fcc32ac167883ea52f50ae525918879d360d750a0"
+    },
+    {
+      "path": "de/archive/newest-secret/index.html",
+      "bytes": 20638,
+      "sha256": "b440dab9e32f87270a32a56b0f1130048d7ff5fee4cf141cf6e3e77b94d471d7"
+    },
+    {
+      "path": "de/archive/prime-time/index.html",
+      "bytes": 20733,
+      "sha256": "bc1d309d9e3b81307500ffb95144c6da5f23648cf88d16222472a1cdfd378e91"
+    },
+    {
+      "path": "de/archive/retail-correspondence/index.html",
+      "bytes": 20868,
+      "sha256": "7143e8769c01ec92ff6b87b35a114a3f94797f90adc2e1cd2805b2d16334d6e9"
+    },
+    {
+      "path": "de/archive/sports-afield/index.html",
+      "bytes": 21136,
+      "sha256": "d58b7808a96459b033a205e59ce3725feea916f8e6c9ef9e68e65185db74f370"
+    },
+    {
+      "path": "de/archive/take-a-bull/index.html",
+      "bytes": 31553,
+      "sha256": "217fd3046a55fd6c2c0eb4cf0ac25eea9a66a1761f4091c54ebe2ab9d98c878d"
+    },
+    {
+      "path": "de/archive/talk-to-the-elk/index.html",
+      "bytes": 735,
+      "sha256": "061c63a5d7bff44cf345046e04268f1f076d6c365918cc182feea6888f317ada"
+    },
+    {
+      "path": "de/banding/index.html",
+      "bytes": 15378,
+      "sha256": "1a9fa3e22851b6610d69dd2a9f5c9b38c90477483972fbe64651c6034e60772d"
+    },
+    {
+      "path": "de/calls/antelope-talk-call/index.html",
+      "bytes": 10056,
+      "sha256": "4de27247edaed121e0fce72f72852db6de045d68e83708b21d36ecbb08f32e52"
+    },
+    {
+      "path": "de/calls/cow-talk-call/index.html",
+      "bytes": 9910,
+      "sha256": "2b6871b06207fbcdf67d3392b99434ab344ea5d44776279b48ab7ec7808bacf8"
+    },
+    {
+      "path": "de/calls/deer-talk-call/index.html",
+      "bytes": 11079,
+      "sha256": "0e568318cb86fe758bb1816fc9e3fb1a0de49e088c7bb2f3483d1f05df99b35c"
+    },
+    {
+      "path": "de/calls/deluxe-cow-talk-call/index.html",
+      "bytes": 9507,
+      "sha256": "bf8874a419f8a76b46ae1e37b9d4659cc57b13e914a9def075ed8f9b319528a4"
+    },
+    {
+      "path": "de/calls/power-bugle/index.html",
+      "bytes": 9857,
+      "sha256": "f1882c60281ea255e36bab34b345f1a496b3ccb5eaec2c25712ac25f27ffd111"
+    },
+    {
+      "path": "de/calls/power-howler/index.html",
+      "bytes": 9287,
+      "sha256": "ebf082bf2decde26674d8ac24b2d6826abd8a9025eb322ee8b7a4b46e34a7aea"
+    },
+    {
+      "path": "de/calls/royal-bugle/index.html",
+      "bytes": 9249,
+      "sha256": "f8f04a5a14cb44d79a9113914cd1a592181843dfaa7f97a8a4424e1d4d2f2c94"
+    },
+    {
+      "path": "de/calls/the-wolf-howler/index.html",
+      "bytes": 9381,
+      "sha256": "135536b0df6d07249f5f098c83215a32d31e9207f186d857eb4c22830de8b733"
+    },
+    {
+      "path": "de/calls/yote-buster/index.html",
+      "bytes": 9283,
+      "sha256": "46097062acd22640899956412968cd64196f22638f13888077a7796d3d46ebd8"
+    },
+    {
+      "path": "de/calls/yote-howler/index.html",
+      "bytes": 9258,
+      "sha256": "35215c81605bf717739e30a15920f3cbfe4b5ae6c82ac1160086dd0f457b7297"
+    },
+    {
+      "path": "de/canada/education/index.html",
+      "bytes": 18048,
+      "sha256": "f6024337631fa519c601c152c629acb515e9990f7c6afcf21026504b49dd2720"
+    },
+    {
+      "path": "de/canada/index.html",
+      "bytes": 24873,
+      "sha256": "c37b32e78ecd71ef5e095c0aa0797cf002fd7a1fc0e43252939c65bb8dcb5b89"
+    },
+    {
+      "path": "de/canada/presentation/index.html",
+      "bytes": 14964,
+      "sha256": "08267f3a187fef8f1406536b0a07d283ce66d9c94db4ab75db2403de8686a994"
+    },
+    {
+      "path": "de/contact/index.html",
+      "bytes": 11438,
+      "sha256": "867db12ce9c33b02c3337db648f3ab5a471fc8e35a21340aa583b0cb9a008d04"
+    },
+    {
+      "path": "de/countries/argentina/index.html",
+      "bytes": 12686,
+      "sha256": "53158ad2b6504d55ea1388c82ff556b678fb5a4ac2ccf9ae9c8e3e55396c0d0f"
+    },
+    {
+      "path": "de/countries/canada/index.html",
+      "bytes": 12711,
+      "sha256": "1692de93788bae879828a22578b83981a31211799dbf2e8b4f6f8974bd1f2e54"
+    },
+    {
+      "path": "de/countries/central-asia/index.html",
+      "bytes": 12660,
+      "sha256": "a1fd311c81d977c14bdfda556afa18890613d42ee027ea3512872a7287d18261"
+    },
+    {
+      "path": "de/countries/germany/index.html",
+      "bytes": 12801,
+      "sha256": "7208d0510e04f8cd8e0817297cc3c3328b64ac2c604f777c7e9f9e494689e518"
+    },
+    {
+      "path": "de/countries/spain/index.html",
+      "bytes": 12655,
+      "sha256": "616b2febf82e47805fbcd70c65126e1becb302d01b63acdae31379181b5a5c7c"
+    },
+    {
+      "path": "de/countries/united-states/index.html",
+      "bytes": 12821,
+      "sha256": "66c4389c415299391d7781a07762b66a9a303a9627cb862650cbaa0e9286aedb"
+    },
+    {
+      "path": "de/dealer-application/index.html",
+      "bytes": 89846,
+      "sha256": "38472c1c0323881d1ed6948186e1575ef361add401fb6f9665cb4572fc3d79e6"
+    },
+    {
+      "path": "de/dealer-application/received/index.html",
+      "bytes": 7025,
+      "sha256": "563cf555b825a744314e20bbfa7d27996bb4840cf9707f012b261ea081399f24"
+    },
+    {
+      "path": "de/dealer-guides/customer-support/index.html",
+      "bytes": 13587,
+      "sha256": "77f6d1cc657acf2614dfaa9f01753e7841636c9374decfd79fadc72101a618bc"
+    },
+    {
+      "path": "de/dealer-guides/distributor-network/index.html",
+      "bytes": 13732,
+      "sha256": "5feee0c842949d47397e53e4aca523e9183013e9ad125b01537042a0fa48c813"
+    },
+    {
+      "path": "de/dealers/us/index.html",
+      "bytes": 30175,
+      "sha256": "a74a98404c08250fb3ad710da83daa79a0099197def35de52a61345a5b2d1234"
+    },
+    {
+      "path": "de/disclosures/index.html",
+      "bytes": 29050,
+      "sha256": "7e4f47e95cc2117b158821c5571c4f5e167bfa093e8b6229aa73996d463dd885"
+    },
+    {
+      "path": "de/disclosures/payment-policy/index.html",
+      "bytes": 30386,
+      "sha256": "1982458843e4c1c97ff59b2b7065a2d504dd304f58561605f9df476a4093157d"
+    },
+    {
+      "path": "de/disclosures/shipping-returns/index.html",
+      "bytes": 11003,
+      "sha256": "1045a0ed525f8d88dbdba43a278aed268a97a347edd7b05af27cac0bc6fc8fa4"
+    },
+    {
+      "path": "de/education/deer-calling/index.html",
+      "bytes": 16112,
+      "sha256": "604b3b42bf30575e21458c095695e5eab0f6d71d6648ba69edb536c404968c9b"
+    },
+    {
+      "path": "de/education/index.html",
+      "bytes": 41970,
+      "sha256": "457768c1258a03dc2e7ad5a82e087a2ec75dbcd2b082da68151ede6392cfbf71"
+    },
+    {
+      "path": "de/education/lessons/antelope-talk-call-band-replacement/index.html",
+      "bytes": 10427,
+      "sha256": "dd23812100cf67c683b0eb6a29d8194f99ee16fe3d92715936ee29c2002a7ea1"
+    },
+    {
+      "path": "de/education/lessons/cow-talk-call-band-replacement/index.html",
+      "bytes": 13583,
+      "sha256": "0c79afbdada963f3fd390de7ea9f379d568a37ce9808ea1fccfea3cf90704ffe"
+    },
+    {
+      "path": "de/education/lessons/deer-talk-call-band-replacement/index.html",
+      "bytes": 11232,
+      "sha256": "5b27cff46b00fd79f2484ade329e585929ba7cd54e14e41545b1a87f9576fb53"
+    },
+    {
+      "path": "de/education/lessons/deer-talk-demonstration/index.html",
+      "bytes": 11664,
+      "sha256": "b489bd2be114b3a80734865db8546c79af9d0849b06b9809b7e83394898a4c29"
+    },
+    {
+      "path": "de/education/lessons/deluxe-cow-talk-call-band-replacement/index.html",
+      "bytes": 12253,
+      "sha256": "fbde521be27b0d1529afb783f7aa5de24035e133720fdec50636090b306ee1e5"
+    },
+    {
+      "path": "de/education/lessons/power-bugle-band-replacement/index.html",
+      "bytes": 12750,
+      "sha256": "bf9ab7370efae5fb7cf67497e9033fd179c9cd9b872f3c842d28b1e62b96aa8b"
+    },
+    {
+      "path": "de/education/lessons/power-howler-band-replacement/index.html",
+      "bytes": 12169,
+      "sha256": "04de54e519e215f5896012588d38ea971d98ea9ccddf32d82b0eeefbea2322f0"
+    },
+    {
+      "path": "de/education/lessons/royal-bugle-band-replacement/index.html",
+      "bytes": 12136,
+      "sha256": "0f981655fbda894fb7ac14fe084183d652f395af7b933df76cad8e6bb6d01d7e"
+    },
+    {
+      "path": "de/education/lessons/the-wolf-howler-band-replacement/index.html",
+      "bytes": 12218,
+      "sha256": "dbf4ac1c4406a107a55124fef534064df22fbbb99d78e55eef3888cf19f01c8b"
+    },
+    {
+      "path": "de/education/lessons/yote-buster-reed-replacement/index.html",
+      "bytes": 12203,
+      "sha256": "2536bcfcbaca17ec914eec45cf33d592cb2324804e14fb1c459a2f3cd8c658e3"
+    },
+    {
+      "path": "de/education/lessons/yote-howler-band-replacement/index.html",
+      "bytes": 12156,
+      "sha256": "6a999a4bdb37a818ffb812064b2ecda3eef1df4081af39e01d6dbfa0deb2c1eb"
+    },
+    {
+      "path": "de/field-guide/index.html",
+      "bytes": 8324,
+      "sha256": "3d179c25a3538efb2968d716deeb37e3909777965b5cff35dd705248751e7e12"
+    },
+    {
+      "path": "de/guidefitter/index.html",
+      "bytes": 11963,
+      "sha256": "e4cf7cb4d3a6e2c1849b85d7b366d548960432a90ea7252914fa8ef37a88a051"
+    },
+    {
+      "path": "de/index.html",
+      "bytes": 55561,
+      "sha256": "24d298a58277ab7c4af7fa4b5fe8351140c2092f7cbc7247fd13e0c9137bd191"
+    },
+    {
+      "path": "de/international/index.html",
+      "bytes": 21784,
+      "sha256": "9d736e3e51e1418cc18ff701a593fe907fac8f776f72db721f52cda1421e1e7c"
+    },
+    {
+      "path": "de/legacy/index.html",
+      "bytes": 48756,
+      "sha256": "c1049476a36b55f907985a836317c4d618d22e4b88d30c6937613d4fcbbd08b4"
+    },
+    {
+      "path": "de/people/don-laubach/index.html",
+      "bytes": 9810,
+      "sha256": "83668a054db69c4f573c27f483fdfbae10cc04cd331865af66fc5478a02fe652"
+    },
+    {
+      "path": "de/people/gordon-eastman/index.html",
+      "bytes": 9506,
+      "sha256": "bb176d74c1361f575dd0488e006c8f913fa0523588149f09a3b71f86aee3f997"
+    },
+    {
+      "path": "de/people/mark-henckel/index.html",
+      "bytes": 9396,
+      "sha256": "fdc61ac4fb19be5ae01ec44550be869895d1d351d775d331c8971a6d763942fd"
+    },
+    {
+      "path": "de/people/t-phillip-bowers/index.html",
+      "bytes": 8634,
+      "sha256": "96bfe63884f40277c155d6cc108a77daf43edf063ca5d72a1d5de7c270776283"
+    },
+    {
+      "path": "de/resource-index.json",
+      "bytes": 53619,
+      "sha256": "b7682609b419f4708ebc6efce03bbb768091984687316c94e5fd14408bb3d8e0"
+    },
+    {
+      "path": "de/shop/index.html",
+      "bytes": 16374,
+      "sha256": "9c7a5d7cafd90b39bc94d5a1bb451252cf5b04c1ee5e2d13b883e97f368c3472"
+    },
+    {
+      "path": "de/support/index.html",
+      "bytes": 16887,
+      "sha256": "87ac7eb39d3674511669fa0db5a2e7a5b32f843e54ad405db7fe198c0deaa61a"
+    },
+    {
+      "path": "de/university/index.html",
+      "bytes": 9850,
+      "sha256": "7ff00b7b87d5716c8e5d5f4690d409809dde3402653c6f7e4e19bd648b3e39f4"
+    },
+    {
+      "path": "de/videos/index.html",
+      "bytes": 84693,
+      "sha256": "ff93e580d2465ce2ad294b9fda10428c5783829d4e79cc87687a0523885af765"
+    },
+    {
+      "path": "de/videos/watch/-T-a9pnPF5E/index.html",
+      "bytes": 10004,
+      "sha256": "f6a4f200c8c64eebcb7f2e5f38ec84e6b7db49bc9ea359f2e23a98c1a59e0908"
+    },
+    {
+      "path": "de/videos/watch/0C4yCMsL0F4/index.html",
+      "bytes": 10399,
+      "sha256": "c4e1f1aea75bbd3a9250e399f12a986d76a565733579eb84ca062005b556a795"
+    },
+    {
+      "path": "de/videos/watch/0v-pRhhHNBQ/index.html",
+      "bytes": 9383,
+      "sha256": "6a7888b9539ce07b8b26f12a82fe839416ddc0304519839c9f2a76db1cbf2311"
+    },
+    {
+      "path": "de/videos/watch/4QB6BIsOB8s/index.html",
+      "bytes": 10704,
+      "sha256": "a95d3bea5bbe347b8ad174733866f9ade52bdc403c283e8e5c5229f99d64a43f"
+    },
+    {
+      "path": "de/videos/watch/5_9RK6RXEtM/index.html",
+      "bytes": 10016,
+      "sha256": "d07168b7a963d56dd2a4a022c35dd9bb61edfc091c2c6096ce4f4f306dcfa086"
+    },
+    {
+      "path": "de/videos/watch/8Ikymay92SY/index.html",
+      "bytes": 10115,
+      "sha256": "f43c1e5846db1eec0003566bff76266277713087b7383967f078ecf8a4c881d6"
+    },
+    {
+      "path": "de/videos/watch/8jP-Fl_JmU4/index.html",
+      "bytes": 9564,
+      "sha256": "fd8da7f5bfbc66d0863381a74845bbdce35c5f3d787272fff25e8fe955db5f04"
+    },
+    {
+      "path": "de/videos/watch/97uiIgLbEI4/index.html",
+      "bytes": 10481,
+      "sha256": "8ee22148cfdfe4de7c208d52d7cf501e2d99355f9335e7f734f6878d539c617c"
+    },
+    {
+      "path": "de/videos/watch/9EbA5JwxwfM/index.html",
+      "bytes": 10131,
+      "sha256": "0992558cbfc49f692c6159a9a8a64d80a842a14138dab73e90dec7793758e90d"
+    },
+    {
+      "path": "de/videos/watch/ALnNk-g9Uws/index.html",
+      "bytes": 10677,
+      "sha256": "8854cb8f8083f5e0a8b7bd3ec7b3d299c2ba0c36db33cbb95f8d2cafa89d92f3"
+    },
+    {
+      "path": "de/videos/watch/BHOsbRugRXM/index.html",
+      "bytes": 9180,
+      "sha256": "9be88ecce984bb95ff4565ca1f9a7a361728d919b009217c24e3bceedb4e0f62"
+    },
+    {
+      "path": "de/videos/watch/BK198m9ZYlo/index.html",
+      "bytes": 9414,
+      "sha256": "370b1454cece96f665680383e3cc204796a43e7e3b80f7734ebace903b5309a5"
+    },
+    {
+      "path": "de/videos/watch/BO6xV_YC7pU/index.html",
+      "bytes": 10053,
+      "sha256": "8ad42c447a0f49546fe6e5acb8962993a1d11a4f44865cfe0d9782bd38e05a4c"
+    },
+    {
+      "path": "de/videos/watch/E7ckiC3qOwY/index.html",
+      "bytes": 10115,
+      "sha256": "6e8b3670d574c89339c676a6be892c7b85563e686c4cca4763419d3cacbcb60e"
+    },
+    {
+      "path": "de/videos/watch/EjjHLgF8bFw/index.html",
+      "bytes": 9412,
+      "sha256": "fa0525ffbd396917f0ece127a51fa584a9e259220213d53d67e80420fd3c46ee"
+    },
+    {
+      "path": "de/videos/watch/I6ZpW5udNZY/index.html",
+      "bytes": 10150,
+      "sha256": "30151e3748b1f262373489263bebe78019ab3694a60b4d1868dec02a2ff06cb0"
+    },
+    {
+      "path": "de/videos/watch/IwtIGCIWQl4/index.html",
+      "bytes": 9959,
+      "sha256": "28adafcd13b420e7a7c3cd8131afd81f7be37d485477a41ee5c994fd31837213"
+    },
+    {
+      "path": "de/videos/watch/JQ0I1NSdYkw/index.html",
+      "bytes": 10567,
+      "sha256": "7dfc151f6da11f9767bd0617165b5bb9c7476500f1f2a3160d8cabf578af15b2"
+    },
+    {
+      "path": "de/videos/watch/KIv6WN00wao/index.html",
+      "bytes": 10331,
+      "sha256": "2ce614cc9635ff89517d74b3c2913bf4912dff1a8f47e4dc9ccc27afb95a7913"
+    },
+    {
+      "path": "de/videos/watch/KmxBIA9FXis/index.html",
+      "bytes": 10710,
+      "sha256": "319cc1f2330ba308ca18f18ff417066f9336c83c1099874be3d8cd24b4c025ad"
+    },
+    {
+      "path": "de/videos/watch/MpEBv9ne7Tg/index.html",
+      "bytes": 9964,
+      "sha256": "0a99555f26f0e4e8346cf752c1d67e19cc7b10938b65c6b22cfbbaa242317143"
+    },
+    {
+      "path": "de/videos/watch/P4GooCAezkY/index.html",
+      "bytes": 10532,
+      "sha256": "7bbe84cd0e8d9ff300f8492577223854d68fb6443030db87d5ce3066451691a4"
+    },
+    {
+      "path": "de/videos/watch/QyJN43ZVtHQ/index.html",
+      "bytes": 10776,
+      "sha256": "ac4e35457b8375cbfce6c5c8f6f1ff208504f4c2330553def23932e3d904d27a"
+    },
+    {
+      "path": "de/videos/watch/R5mZSXHKaOo/index.html",
+      "bytes": 10273,
+      "sha256": "a475e4b2e49206d501e5d4140a1a5ea87aa9a0625807bdcc496314ede18dc31b"
+    },
+    {
+      "path": "de/videos/watch/SImGsZQD7mc/index.html",
+      "bytes": 10741,
+      "sha256": "7d12d0e1bd46e3fcea45f14518dd1d1d5f86212a1f7c7e216bc8e427f4007d27"
+    },
+    {
+      "path": "de/videos/watch/ScBQx4LlENs/index.html",
+      "bytes": 10559,
+      "sha256": "7302159bd92201f48685f3961e99e30136086955c8f9f05588dd1817dc77b015"
+    },
+    {
+      "path": "de/videos/watch/U0NsZ2Iw6hM/index.html",
+      "bytes": 9991,
+      "sha256": "dc72fa14e63f6669d2a47624b0bc78c4d2c83a090171cb9ad525805941cc960d"
+    },
+    {
+      "path": "de/videos/watch/UkZx7Ld_SZg/index.html",
+      "bytes": 10413,
+      "sha256": "985feddbf47b2f0a49e2d295f0bec4eb9e12032774ffea3898d196e744e8e5fd"
+    },
+    {
+      "path": "de/videos/watch/Vr4thuxyDqw/index.html",
+      "bytes": 9986,
+      "sha256": "a1222517674eb9c482d355ebc778187ec9cfebfdba79758041599b5431177a3a"
+    },
+    {
+      "path": "de/videos/watch/XsbzrXSDvxc/index.html",
+      "bytes": 10043,
+      "sha256": "9661ae5e7e378f624e53202f866f45c45a3931ac385236769d508295089070ce"
+    },
+    {
+      "path": "de/videos/watch/ZT5WjIglXZU/index.html",
+      "bytes": 9759,
+      "sha256": "27ef7e3379910010297463d4bcd7403f2f59c6f885f8d800981b944144c50df7"
+    },
+    {
+      "path": "de/videos/watch/_x1uoR1J8Wc/index.html",
+      "bytes": 10170,
+      "sha256": "9bde282b76208a4bbd866109eaf251a3c0775c7dd0b895f36f265e32e06e4193"
+    },
+    {
+      "path": "de/videos/watch/cFeDZSohjrQ/index.html",
+      "bytes": 10591,
+      "sha256": "e2da03c28a63a9340e35b1a211e4b4589a3a86a8bcebac86b9db2e0dda6657d7"
+    },
+    {
+      "path": "de/videos/watch/d1G3itdX03Y/index.html",
+      "bytes": 9882,
+      "sha256": "3c6dba7e1bbf6cc1abf9d62073ff3459458459ae733d4d297a5089223004a9e8"
+    },
+    {
+      "path": "de/videos/watch/dq-jYpXSgx4/index.html",
+      "bytes": 10063,
+      "sha256": "3a1ba2d95443c6c323eaf400931c1c3c112b16c4daf9ae4d62d1cdb05f99fb2c"
+    },
+    {
+      "path": "de/videos/watch/h4BU8561Dfs/index.html",
+      "bytes": 10541,
+      "sha256": "aaafa846e8164377930a57508ef8d3ac5c43c815ae92cf985f6d1eae3c98ee0a"
+    },
+    {
+      "path": "de/videos/watch/j9iU3A570gI/index.html",
+      "bytes": 10707,
+      "sha256": "44ff6ec13b312374a5b23b0f4dfb4a03a30f1d21858289caa48b5e708a0d1790"
+    },
+    {
+      "path": "de/videos/watch/lExNCTk5AkA/index.html",
+      "bytes": 9017,
+      "sha256": "80b3f7e1b463a51918eed3dc232105ddb7135560d71f1d9aa7f671c459948645"
+    },
+    {
+      "path": "de/videos/watch/lbycfVnMbpk/index.html",
+      "bytes": 9964,
+      "sha256": "0cb93a420d9e3d5eeee16666984a37eb9f7d26b1b9a02c0a086fc7cd0a4a26a6"
+    },
+    {
+      "path": "de/videos/watch/mYew9VFY5fM/index.html",
+      "bytes": 10543,
+      "sha256": "564145001e0a8d3a9767ddc9036a2bf78e32a1f6f157788f4ecdb4cbeef871e9"
+    },
+    {
+      "path": "de/videos/watch/miOheJ55ZWs/index.html",
+      "bytes": 10217,
+      "sha256": "7cd9f449aa7cb27f8c7fa85759ab1619f86a614def41dc033d26d434f71eedbb"
+    },
+    {
+      "path": "de/videos/watch/n_jUaSY9hUU/index.html",
+      "bytes": 10104,
+      "sha256": "8c81e5c1f4956fb1f1d53c677d2aeb65fb3838b6948762d3b8c58eff735ca32e"
+    },
+    {
+      "path": "de/videos/watch/nmYx713ARdI/index.html",
+      "bytes": 9829,
+      "sha256": "941de8a721d7ce20937ca5f16ccd18699d83aa4496778bd0a9202e46850c2c1f"
+    },
+    {
+      "path": "de/videos/watch/qk16Pxzq3NE/index.html",
+      "bytes": 9305,
+      "sha256": "576e0785f391e637ad522feb4e000471e067f864ab2a75db50cbc0aa79e3623f"
+    },
+    {
+      "path": "de/videos/watch/qwfLHGSpmtw/index.html",
+      "bytes": 10558,
+      "sha256": "1da195307c61ba80134b928120e6d18a2afcb78271b04e0507fd1fc502b2b1e2"
+    },
+    {
+      "path": "de/videos/watch/r4Ir9kGEgBY/index.html",
+      "bytes": 10989,
+      "sha256": "557865925b52ec07f9e539fe5bd300ff3b8571fee77a87de01c911f4c3c4467e"
+    },
+    {
+      "path": "de/videos/watch/rvnK7GnBSwM/index.html",
+      "bytes": 10697,
+      "sha256": "a6191be35de649f3a0148aa29deb8a7b31b8dfee3ef6a1368655c84b7d0c236a"
+    },
+    {
+      "path": "de/videos/watch/x_EiSpAtrCk/index.html",
+      "bytes": 10555,
+      "sha256": "b104d8f0a43271ec136b11ecd7d5cb183ac940f514277aacd64543f736b3d6a4"
+    },
+    {
+      "path": "de/videos/watch/zsuF0blJAYw/index.html",
+      "bytes": 10724,
+      "sha256": "d88946413e33812b0f5bf4acab0d8bde5c1b0c1644ca9a93d14951bc72dcf496"
+    },
+    {
+      "path": "dealer-application/index.html",
+      "bytes": 87574,
+      "sha256": "825ab954af53f3fafb5934b3f2762f39f28ba687dcc7a602f299352e3f7f4341"
+    },
+    {
+      "path": "dealer-application/received/index.html",
+      "bytes": 6671,
+      "sha256": "c75b267e04f96fd78a3d13d03a103dc33166d7131b2feb5cb0df05e0cb6afa86"
+    },
+    {
+      "path": "dealer-application.css",
+      "bytes": 15566,
+      "sha256": "a8d56eb4dbf74b892bedf286f2bc027f3add70d640776de7140a2ab97bde2cc0"
+    },
+    {
+      "path": "dealer-application.js",
+      "bytes": 15557,
+      "sha256": "1f92ddee92bcef23886fc833a5602b471d876b9c8c5ba49473eff622a365d3eb"
+    },
+    {
+      "path": "dealer-email.js",
+      "bytes": 4011,
+      "sha256": "93bdae78433ba10598d5166bf583730fa514522a31332b6412c58be4533cb6fb"
+    },
+    {
+      "path": "dealer-guides/customer-support/index.html",
+      "bytes": 12646,
+      "sha256": "41bd187510cb80a70c057f718a4c80bfc96788eb77e983de8b33e3ae569c8a00"
+    },
+    {
+      "path": "dealer-guides/distributor-network/index.html",
+      "bytes": 12775,
+      "sha256": "2312beb17af3dc273a69a3e35e7596e87c7f187a8d5ffeb069a5f9aaf06d8cd9"
+    },
+    {
+      "path": "dealer-pdf.js",
+      "bytes": 3695,
+      "sha256": "32128405bbe2bd150ee9cac391d2e8a043877afce3ea26a27b70a90530e6c693"
+    },
+    {
+      "path": "dealer-share.js",
+      "bytes": 1391,
+      "sha256": "5a1c749030e3cd28a00df225c07b2d0cefb20eea21b5cdcce3762b880f3e33c1"
+    },
+    {
+      "path": "dealer-start.css",
+      "bytes": 5631,
+      "sha256": "2759e62ebbb1b42dcdbb005a4fb907cb344b46819eb45b696470c0e6b815837b"
+    },
+    {
+      "path": "dealers/us/index.html",
+      "bytes": 28717,
+      "sha256": "707310d4d461ce14ef3015b3c3e85cc82920d6e3af9ed5378fd8304a0de56b04"
+    },
+    {
+      "path": "deer-path.css",
+      "bytes": 1790,
+      "sha256": "bf62ddba8de22f2a07acf701c8917d635bf147399aca6593369c44e4918b891c"
+    },
+    {
+      "path": "deer-path.js",
+      "bytes": 1666,
+      "sha256": "ab1e2a6edd3a76c16b39b028ce30df4ddb63c36c3c372a89b930a35e68d4bde3"
+    },
+    {
+      "path": "disclosures/index.html",
+      "bytes": 28512,
+      "sha256": "cb5eb23192762c2da8e1f56d48dc6996824255c68882ce40b5bd3ea673785501"
+    },
+    {
+      "path": "disclosures/payment-policy/index.html",
+      "bytes": 29832,
+      "sha256": "167e6f807967ce8b5543a0b190e33544055fa0b2784c7ee390b1f0ffc2e3b2e2"
+    },
+    {
+      "path": "disclosures/shipping-returns/index.html",
+      "bytes": 10536,
+      "sha256": "79777465fffd9a73a7fe1797463983ecdbf302859b272cfb4c5e6b4ef9ff57b7"
+    },
+    {
+      "path": "disclosures.css",
+      "bytes": 3957,
+      "sha256": "d4524d262aa9d696bb5f45fd91ae3dfbf6e69e628f7b5c44309d8eb420b22514"
+    },
+    {
+      "path": "disclosures.js",
+      "bytes": 642,
+      "sha256": "0279de139854bd6a63526aa7960517dca960ffbb99a8b0b495b06638d1b1b213"
+    },
+    {
+      "path": "distributor-guide.css",
+      "bytes": 10625,
+      "sha256": "291b23bc30e26ff03e95567c74fc6ec2d068d021a3ba6b52d4e067e6553fcc3c"
+    },
+    {
+      "path": "distributor-guide.js",
+      "bytes": 3827,
+      "sha256": "a94d1b5826425f298b7007044825b4ddb2abf8d171855f9bc4803097f99f42de"
+    },
+    {
+      "path": "document-viewer.css",
+      "bytes": 4465,
+      "sha256": "7e1890121426d56ee1626ed377255343a21d6aa4cfca7c1c88697f0d1a56e961"
+    },
+    {
+      "path": "document-viewer.js",
+      "bytes": 11192,
+      "sha256": "4eb48baba5f95da98044ce6b339e7f9710c5482e859824f58089e7716be6f93c"
+    },
+    {
+      "path": "downloads/mtelkinc-dealer-navigation-customer-support-guide.pdf",
+      "bytes": 4218670,
+      "sha256": "b05a23851f4140f46e1c0de682ffcd73e857306e1e3637b008583d23d3b4f7d0"
+    },
+    {
+      "path": "downloads/mtelkinc-distributor-dealer-network-support-guide.pdf",
+      "bytes": 4228898,
+      "sha256": "775713548306507b1f3a5128f1eb9307ab0ce997a803d6ceb402b1004e520f84"
+    },
+    {
+      "path": "downloads/mtelkinc-education-training-dealer-distributor-guide.pdf",
+      "bytes": 4216613,
+      "sha256": "6b15af912fdc5b109906d19a8dc0cd43cb21ba952f60e6834f3ce409e8e19235"
+    },
+    {
+      "path": "downloads/mtelkinc-multilingual-distributor-guide.pdf",
+      "bytes": 4214327,
+      "sha256": "6d77900619e928b144773bc37912b179d8c324ea5aea58779a7e1074013dd9f1"
+    },
+    {
+      "path": "downloads/mtelkinc-website-features-benefits-guide.pdf",
+      "bytes": 5055805,
+      "sha256": "88af78ec622353d86d26d43fdaff67050f42dd86977aaf60ecb7c56d1eb7f4c3"
+    },
+    {
+      "path": "dynamic.css",
+      "bytes": 4053,
+      "sha256": "ea5c2160c782760cd2032317a29b99e67cc4bcc71e2b52434167a139e40054b8"
+    },
+    {
+      "path": "dynamic.js",
+      "bytes": 2051,
+      "sha256": "b288c2499886371f14e34486bd2809b875d022b8b80f36865c7a902f0911415b"
+    },
+    {
+      "path": "education/deer-calling/index.html",
+      "bytes": 14922,
+      "sha256": "0be3017a08e0b8e08ab934d3dc9ec3d6219178c93e39d92ead47d7465be3da7d"
+    },
+    {
+      "path": "education/index.html",
+      "bytes": 37968,
+      "sha256": "a8beec502e7c362674e796c10efa66f6f0794aef54d8689f6b79c67c754c4d33"
+    },
+    {
+      "path": "education/lessons/antelope-talk-call-band-replacement/index.html",
+      "bytes": 9877,
+      "sha256": "f0d88b5b44bebe393edaf12e759146124087d2d31dbf5a8616e0d126436142b0"
+    },
+    {
+      "path": "education/lessons/cow-talk-call-band-replacement/index.html",
+      "bytes": 12832,
+      "sha256": "93535efe64a173caa3a16f94b94c74bf58655025d45b7332807bbb53fdf17f37"
+    },
+    {
+      "path": "education/lessons/deer-talk-call-band-replacement/index.html",
+      "bytes": 10642,
+      "sha256": "08ba9ab1121f12f5cb648261c050c1a644edbdacd8e45caa0f78cdd5221cfb95"
+    },
+    {
+      "path": "education/lessons/deer-talk-demonstration/index.html",
+      "bytes": 10971,
+      "sha256": "f2a7c0988c968de8567b8cb81071af60a3fc0cf16132f7cca7c26df416581e25"
+    },
+    {
+      "path": "education/lessons/deluxe-cow-talk-call-band-replacement/index.html",
+      "bytes": 11608,
+      "sha256": "cc7e56902a1dd25215afc7e415fe479c1e9367c844ffe2a73e2a590590ab528b"
+    },
+    {
+      "path": "education/lessons/power-bugle-band-replacement/index.html",
+      "bytes": 12048,
+      "sha256": "e9e30fe6419eaf9367fec040f67cdc7bbd311a1f8961c77ecec2a30d4e33b392"
+    },
+    {
+      "path": "education/lessons/power-howler-band-replacement/index.html",
+      "bytes": 11481,
+      "sha256": "a323d025504bdfdfc36163a9396a5e2c26873e89743ed94f35aebf5137a1c693"
+    },
+    {
+      "path": "education/lessons/royal-bugle-band-replacement/index.html",
+      "bytes": 11482,
+      "sha256": "b27fd5d0a59c2fe46fab2bd1ea78df2fad1860e2a5a4e9f7f2078095c9c75edb"
+    },
+    {
+      "path": "education/lessons/the-wolf-howler-band-replacement/index.html",
+      "bytes": 11515,
+      "sha256": "6bd26acddff0ef73966fbcea4c63b41ce9d9e5726722731fa68aa2dc4209a384"
+    },
+    {
+      "path": "education/lessons/yote-buster-reed-replacement/index.html",
+      "bytes": 11478,
+      "sha256": "51a27221b2b04e60b056ea2eaa555ee48a0681ff327cd548ffda5bde0b42c3ef"
+    },
+    {
+      "path": "education/lessons/yote-howler-band-replacement/index.html",
+      "bytes": 11467,
+      "sha256": "71e83956804554f561b0832fef1f47e5313400fe788eec06aaacde12f1f92011"
+    },
+    {
+      "path": "education-expanded.css",
+      "bytes": 5599,
+      "sha256": "7c51d665fdf6896162c5fc76bbc74084f8296423a5c4eec59938861a411d80dc"
+    },
+    {
+      "path": "education-hub.js",
+      "bytes": 4888,
+      "sha256": "1886d28e11af7a082d6a9a4c0f1ef510e9cccea8923c892759c79a0d4385b71d"
+    },
+    {
+      "path": "es/about/index.html",
+      "bytes": 27558,
+      "sha256": "3286b745f14877f833550d6aa32b04ca16b43606e72c25f628c7074d0f8c495f"
+    },
+    {
+      "path": "es/archive/big-bull-elk-cow-talk/index.html",
+      "bytes": 19295,
+      "sha256": "cacb2782f779f33fa1f73a1b76e8db736b7b66a108b64fcf5087aa734cac4b37"
+    },
+    {
+      "path": "es/archive/cow-call-draws-elk/index.html",
+      "bytes": 27503,
+      "sha256": "040ff160242a18cc0a8d7f2ff83a93508c50fcaeba732365e57185f51f6ad953"
+    },
+    {
+      "path": "es/archive/cow-talk-for-elk/index.html",
+      "bytes": 31634,
+      "sha256": "01f16947586d27f46121418c2f417ead7e810eeb9d8627cc0035e65c932607f4"
+    },
+    {
+      "path": "es/archive/cow-talk-radio/index.html",
+      "bytes": 20178,
+      "sha256": "59be7e7e4533438c32b53756333e4f526950f55cd6c4709c83da6613908ea7f4"
+    },
+    {
+      "path": "es/archive/elk-talk-review/index.html",
+      "bytes": 23432,
+      "sha256": "1b444e3b94329167999b20d1978be314e6131ab9f539420f5da395cfd7c02c67"
+    },
+    {
+      "path": "es/archive/founder-record/index.html",
+      "bytes": 22276,
+      "sha256": "2e929217d1cc18a2ee1be4c95ace296b2e8361b0c078f634f830f3929ef496b4"
+    },
+    {
+      "path": "es/archive/index.html",
+      "bytes": 37268,
+      "sha256": "c941b0da482d32d2c6c83083a609a5149e1b183f0a5070fbbfdeb5031bbdbd8d"
+    },
+    {
+      "path": "es/archive/more-exposition/index.html",
+      "bytes": 22023,
+      "sha256": "8094b64b8912a6b2e604e45d990db9606e24ae820199f848648d5c6b7348c8ae"
+    },
+    {
+      "path": "es/archive/more-show/index.html",
+      "bytes": 731,
+      "sha256": "4f47e4a5f339041e3674453203f0bda91114b032a265373e9d8707a601616a17"
+    },
+    {
+      "path": "es/archive/newest-secret/index.html",
+      "bytes": 20422,
+      "sha256": "78e67490d9c5ccbeb4094df17c6e83fab1659edc6d35e72b80a9bd00724cf7a5"
+    },
+    {
+      "path": "es/archive/prime-time/index.html",
+      "bytes": 20505,
+      "sha256": "14291bc029cdc95cb7ee667402ace74236e644d4f2dcd30c9a7da6deda3c3f6a"
+    },
+    {
+      "path": "es/archive/retail-correspondence/index.html",
+      "bytes": 20731,
+      "sha256": "97c3ad64654c3f95db92de00138a289c6e00b1420d4cadff5bcc073cea9877ac"
+    },
+    {
+      "path": "es/archive/sports-afield/index.html",
+      "bytes": 20867,
+      "sha256": "1aa3715607d1dd499d8ea6aa80fa8256c0c31c7aca466685ce5c2b2fe7229f1b"
+    },
+    {
+      "path": "es/archive/take-a-bull/index.html",
+      "bytes": 30930,
+      "sha256": "ba6b7547eb37c20ebb1d393656ce502de2ba9a5cfe5399a4f14f003b50dc5cb7"
+    },
+    {
+      "path": "es/archive/talk-to-the-elk/index.html",
+      "bytes": 735,
+      "sha256": "ef31847dbcfec497bb55d9d6cdf409065d5d43a6483a9537b4982bdafe5adb4d"
+    },
+    {
+      "path": "es/banding/index.html",
+      "bytes": 15686,
+      "sha256": "77a956849fc43a50e771793bbc1534645451ece8ed33646f850da1921834489b"
+    },
+    {
+      "path": "es/calls/antelope-talk-call/index.html",
+      "bytes": 10167,
+      "sha256": "46d71b8791b761441a14084df330ff7b7732542081bbdf0b6e2400a74ac213e3"
+    },
+    {
+      "path": "es/calls/cow-talk-call/index.html",
+      "bytes": 10027,
+      "sha256": "3dff1c1f690135ae7ad5aa130a4f21bfa1f58fac1a3bf726ed04502fa84382f4"
+    },
+    {
+      "path": "es/calls/deer-talk-call/index.html",
+      "bytes": 11163,
+      "sha256": "6966780247e5b46c768df1a516e4017b500e4943f6f8bca407992d56bc5ca612"
+    },
+    {
+      "path": "es/calls/deluxe-cow-talk-call/index.html",
+      "bytes": 9625,
+      "sha256": "32e57f50c1cdb3c525fa6190f5fc6ab5b9b3614d99c3a3699f82df15d0e6ff01"
+    },
+    {
+      "path": "es/calls/power-bugle/index.html",
+      "bytes": 9976,
+      "sha256": "86f2edcbe79d4e9353def674a0d6fb7e659b4827a6d221ed40d63273cd907f81"
+    },
+    {
+      "path": "es/calls/power-howler/index.html",
+      "bytes": 9415,
+      "sha256": "39e4feb962a4aa308a96d3637955b11c906b66d5b526e40f07b7e2a4a742f593"
+    },
+    {
+      "path": "es/calls/royal-bugle/index.html",
+      "bytes": 9376,
+      "sha256": "3734a6313b429c53e8e7beccec7b06e1c61e67e04b529b1165053e65af694a17"
+    },
+    {
+      "path": "es/calls/the-wolf-howler/index.html",
+      "bytes": 9498,
+      "sha256": "05a267f3776895fb33f49c4749041ef54f6eb54a11cb5ceff5911613a13edc84"
+    },
+    {
+      "path": "es/calls/yote-buster/index.html",
+      "bytes": 9358,
+      "sha256": "797bcbd385c149ef20a536415bea3137d8cc4bcce35fd12186726edbc42bff8b"
+    },
+    {
+      "path": "es/calls/yote-howler/index.html",
+      "bytes": 9387,
+      "sha256": "5a09d38057abe9e7f602128d3d47af886171966994b8ef32d86379c60f36ddce"
+    },
+    {
+      "path": "es/canada/education/index.html",
+      "bytes": 17895,
+      "sha256": "16e69dc147dc3a21b75a2f17e3fec9636d34fecf0464ed88ea856f5ea77d4689"
+    },
+    {
+      "path": "es/canada/index.html",
+      "bytes": 24803,
+      "sha256": "af43e313a68d499262d119692e2dd9ff4189bd85bd7822fdfe4c7ae1ad563870"
+    },
+    {
+      "path": "es/canada/presentation/index.html",
+      "bytes": 15117,
+      "sha256": "bc4ef95b0ba3a7d304d9e013cec8cafcba393174e24fb267592b55197492832e"
+    },
+    {
+      "path": "es/contact/index.html",
+      "bytes": 11447,
+      "sha256": "d17c416bc04c9be7aefe8c7bdd99b3b74d6daf31643f987f997f5ad44573c080"
+    },
+    {
+      "path": "es/countries/argentina/index.html",
+      "bytes": 12684,
+      "sha256": "1456806149c6cba450a88955df80e9a0d7d749b439fd12f2c19cbd43d94592d1"
+    },
+    {
+      "path": "es/countries/canada/index.html",
+      "bytes": 12888,
+      "sha256": "4df642c72b2cd97a0b6fce58acf71f66ea99a8aef7af8b018dcf023874ce5231"
+    },
+    {
+      "path": "es/countries/central-asia/index.html",
+      "bytes": 12759,
+      "sha256": "a1f609a3a2270e0c2a21446c7506b3b9e2908dea7401fc29ee98306f147105a8"
+    },
+    {
+      "path": "es/countries/germany/index.html",
+      "bytes": 12718,
+      "sha256": "3e4d44694cc66f1aaf8eb3fd5bb3e839a90f0dec286db669e765ab612969e6aa"
+    },
+    {
+      "path": "es/countries/spain/index.html",
+      "bytes": 12639,
+      "sha256": "b290af39e31d20710913e7bc89dc5cdaa88a8d2f4f38e3ae69afc4c1907edead"
+    },
+    {
+      "path": "es/countries/united-states/index.html",
+      "bytes": 12970,
+      "sha256": "419f0ce0262415d421b3004f11dcbe7eb79595d03be64bbb15f87744ba6d1943"
+    },
+    {
+      "path": "es/dealer-application/index.html",
+      "bytes": 89042,
+      "sha256": "73655eaa5e684f5a0e0ad6ff47a9985e7b88cbf6ea0a57f25b9ff18f200916f4"
+    },
+    {
+      "path": "es/dealer-application/received/index.html",
+      "bytes": 7064,
+      "sha256": "63b590b2c89807e53523be3a968e14e10e454adb541aa398cb4276275ed92e3d"
+    },
+    {
+      "path": "es/dealer-guides/customer-support/index.html",
+      "bytes": 13632,
+      "sha256": "f1839fad34a43bd63428637d451a7382465f1dcdeec965763a27feb66793ff3b"
+    },
+    {
+      "path": "es/dealer-guides/distributor-network/index.html",
+      "bytes": 13582,
+      "sha256": "f116e758ae87c7be853ff94dbcfd36e33ac64cbc9f124c21738aad2ed57522a5"
+    },
+    {
+      "path": "es/dealers/us/index.html",
+      "bytes": 30463,
+      "sha256": "0b01a30d06a2dae12a387bcb75450e0db830b01f4a24aff4dec985be06ac41bd"
+    },
+    {
+      "path": "es/disclosures/index.html",
+      "bytes": 29025,
+      "sha256": "635b61b73e52ff16d8fd5a9347d375b3ed4f4593c2bbf8361d782b7f47468934"
+    },
+    {
+      "path": "es/disclosures/payment-policy/index.html",
+      "bytes": 30369,
+      "sha256": "626b56e813afdde8d8c3a19b90254007a5d2001503377fe92efd5c195bc82846"
+    },
+    {
+      "path": "es/disclosures/shipping-returns/index.html",
+      "bytes": 11076,
+      "sha256": "aaccd33b3cc4cc0ed738ef749d32f88128511ab621ad56cec89ba9050991aeaf"
+    },
+    {
+      "path": "es/education/deer-calling/index.html",
+      "bytes": 16088,
+      "sha256": "95d72d13d8d9fe08970e4bee00261d72b7b3827cdca5546ffc39c7e5d23762b0"
+    },
+    {
+      "path": "es/education/index.html",
+      "bytes": 40126,
+      "sha256": "9a3995dcb1c2e3953d944fde40150bfecb92f7edc50d581854eb55a15177f26b"
+    },
+    {
+      "path": "es/education/lessons/antelope-talk-call-band-replacement/index.html",
+      "bytes": 10613,
+      "sha256": "643705a34bd8e0b6b24b0e27861b395e2682b921ce100c5b4f57755d2e3f9116"
+    },
+    {
+      "path": "es/education/lessons/cow-talk-call-band-replacement/index.html",
+      "bytes": 13865,
+      "sha256": "8c653b2fac761c8dd8c6f471483beb8b1224b80c16eb5647704ebdeb04b9d727"
+    },
+    {
+      "path": "es/education/lessons/deer-talk-call-band-replacement/index.html",
+      "bytes": 11394,
+      "sha256": "63869937eac2c405de36936fc60891c63a555008c493afb05ea06333a944b455"
+    },
+    {
+      "path": "es/education/lessons/deer-talk-demonstration/index.html",
+      "bytes": 11659,
+      "sha256": "2d354f78056b30eaff1ea3b690106d2f3444c1cd98a10da626a932361fae6227"
+    },
+    {
+      "path": "es/education/lessons/deluxe-cow-talk-call-band-replacement/index.html",
+      "bytes": 12528,
+      "sha256": "022821a767f3f369150710bf7ffbc5e1e007b5dcb2a91fbec110b6a573a04549"
+    },
+    {
+      "path": "es/education/lessons/power-bugle-band-replacement/index.html",
+      "bytes": 13014,
+      "sha256": "0af0ccd5a93b68c48adcdcbccd20d2d2a71633a06dc8ce44005cb7f87f48ada8"
+    },
+    {
+      "path": "es/education/lessons/power-howler-band-replacement/index.html",
+      "bytes": 12372,
+      "sha256": "834ea507bfec169c8bda58509e512e7336ab98e4e72a06cbdbdf9f9a569b1512"
+    },
+    {
+      "path": "es/education/lessons/royal-bugle-band-replacement/index.html",
+      "bytes": 12402,
+      "sha256": "11cf72dedcb1f5b17a5ccb678eb1ab44d65b6d6a9f8191db71ddd7a07e05f628"
+    },
+    {
+      "path": "es/education/lessons/the-wolf-howler-band-replacement/index.html",
+      "bytes": 12408,
+      "sha256": "1f667d103d830fa306d63ac4e4b265022ae099a42f605feca56c097093a72a45"
+    },
+    {
+      "path": "es/education/lessons/yote-buster-reed-replacement/index.html",
+      "bytes": 12345,
+      "sha256": "f2c8f522a67d4ab6b78d7587e1fd8faaf6328fb8afefb94ef2ae68a428bac5b0"
+    },
+    {
+      "path": "es/education/lessons/yote-howler-band-replacement/index.html",
+      "bytes": 12358,
+      "sha256": "a6563b540a5d5c3e951e98d1d54be58e9f1802b6c9a218894e08a72888d2fd6f"
+    },
+    {
+      "path": "es/field-guide/index.html",
+      "bytes": 8331,
+      "sha256": "d9fd63e6b97ee997417c98cc261593670e818427a3a52ee0faf6636d92ad5739"
+    },
+    {
+      "path": "es/guidefitter/index.html",
+      "bytes": 12113,
+      "sha256": "1feca8a730ca0dcdce8a4a22d57c97b1921da4bcfd428fa0bcc9c8bd9ab31632"
+    },
+    {
+      "path": "es/index.html",
+      "bytes": 54785,
+      "sha256": "0541942c62260d18ed87d99e578abf2b3c05cd1322a7b621c33676ff2b41c2ff"
+    },
+    {
+      "path": "es/international/index.html",
+      "bytes": 22038,
+      "sha256": "738c23c606347a7829324ad73c480cf3df3e9f2a2fa931ee68ebdf513ff6f324"
+    },
+    {
+      "path": "es/legacy/index.html",
+      "bytes": 47610,
+      "sha256": "008890764727ac6870adb4c95ee7129a72ec699ac651eb51017bfd2f3f2093b4"
+    },
+    {
+      "path": "es/people/don-laubach/index.html",
+      "bytes": 9908,
+      "sha256": "308b910bfcda22604e7c321a8a3b0ca0c1d27954f7eab77222ff758e2ae67c0d"
+    },
+    {
+      "path": "es/people/gordon-eastman/index.html",
+      "bytes": 9462,
+      "sha256": "70e6d2e050e6603a14ac730f4793329021277212c4bd6d726c6a181da7ef6b64"
+    },
+    {
+      "path": "es/people/mark-henckel/index.html",
+      "bytes": 9414,
+      "sha256": "11e1d391879b8128b42c0a635878105662e37da6a07974ece7c5f54d94a4cf46"
+    },
+    {
+      "path": "es/people/t-phillip-bowers/index.html",
+      "bytes": 8690,
+      "sha256": "fcca8cb13190b2330bde011d930390963829cb4827f7046992ce12426cb1880b"
+    },
+    {
+      "path": "es/resource-index.json",
+      "bytes": 53345,
+      "sha256": "397d8eaa992969a0f755ef50d5387b988d609f3aca70a3ea2b3321cb52b4def8"
+    },
+    {
+      "path": "es/shop/index.html",
+      "bytes": 16367,
+      "sha256": "5b708699e28eae9d0be71390c84eaafe9c73c379ca864433f2d3a22505d53f12"
+    },
+    {
+      "path": "es/support/index.html",
+      "bytes": 17587,
+      "sha256": "a57dec327efcaad60066fe07ed9026cccd5f4c21ea2befc062c04d6f7b270eca"
+    },
+    {
+      "path": "es/university/index.html",
+      "bytes": 9960,
+      "sha256": "dcf0df21cebf19e8a137bebbfb92a65428894b1af00c6bff914fa57dd4a0c4ba"
+    },
+    {
+      "path": "es/videos/index.html",
+      "bytes": 83243,
+      "sha256": "ace02cc70ba6e442f8bc19cc2f4e75c0643410978357ae75714f9daef0ec7542"
+    },
+    {
+      "path": "es/videos/watch/-T-a9pnPF5E/index.html",
+      "bytes": 10096,
+      "sha256": "86a68ad50f436995708d58a2144a7bf81077681d7c9f2d1b66f0b3c52780322e"
+    },
+    {
+      "path": "es/videos/watch/0C4yCMsL0F4/index.html",
+      "bytes": 10553,
+      "sha256": "2012ea2a8a064044a2c7760fa7a60b9ae20c805d778cf443b4b28c97e21cfcc6"
+    },
+    {
+      "path": "es/videos/watch/0v-pRhhHNBQ/index.html",
+      "bytes": 9455,
+      "sha256": "0234d9cfbff2f63c8d5f5be73c180fcedee2effe7fd5959d17da00592ece9111"
+    },
+    {
+      "path": "es/videos/watch/4QB6BIsOB8s/index.html",
+      "bytes": 10804,
+      "sha256": "36d18e9be6e94c2cf64be7d715baed82c9f7142408ea16dbd9d38c00a3a27459"
+    },
+    {
+      "path": "es/videos/watch/5_9RK6RXEtM/index.html",
+      "bytes": 10148,
+      "sha256": "597417c84e475f28174d69d8c81d7bb111a399c31485833a58423e3468ecec0e"
+    },
+    {
+      "path": "es/videos/watch/8Ikymay92SY/index.html",
+      "bytes": 10221,
+      "sha256": "7d3b09ff870b50ffe5e0730fdfccdf538adb1ed64cbde5d615f7aaa81e094d7b"
+    },
+    {
+      "path": "es/videos/watch/8jP-Fl_JmU4/index.html",
+      "bytes": 9661,
+      "sha256": "b10fba458b01ccbbe36868bdc70c57cf5b1fb360e5562eac9bb81f56390cb0cd"
+    },
+    {
+      "path": "es/videos/watch/97uiIgLbEI4/index.html",
+      "bytes": 10642,
+      "sha256": "324f0f121358e5f89454039d5bef494fd06245eb01b3803fd03bfd9c72396a96"
+    },
+    {
+      "path": "es/videos/watch/9EbA5JwxwfM/index.html",
+      "bytes": 10242,
+      "sha256": "d08345c5d9145d5a1fc4df57dcb7b3a273d21be4c061b1e9eddf7634203b3cc3"
+    },
+    {
+      "path": "es/videos/watch/ALnNk-g9Uws/index.html",
+      "bytes": 10766,
+      "sha256": "beccd3e52c126446a03a8dea97c60b78f84f6c84532512344c67742ca4293538"
+    },
+    {
+      "path": "es/videos/watch/BHOsbRugRXM/index.html",
+      "bytes": 9274,
+      "sha256": "7e1a845dc6a3ddcc38a14401f92fd3ecd9a0eb33c4a6b00d1e324405a773f94a"
+    },
+    {
+      "path": "es/videos/watch/BK198m9ZYlo/index.html",
+      "bytes": 9539,
+      "sha256": "2883fb1ddcb3d44433504af030b76dd7b9947923ceab4d030bc78d60a4a50b22"
+    },
+    {
+      "path": "es/videos/watch/BO6xV_YC7pU/index.html",
+      "bytes": 10119,
+      "sha256": "bfe423dcad950f1fced18e2e95ba3959c66f1f1d3c3e96d0214d527d4be7adf4"
+    },
+    {
+      "path": "es/videos/watch/E7ckiC3qOwY/index.html",
+      "bytes": 10221,
+      "sha256": "83077b85945ad8e2883114d70d0b95c9fb80099bd2703115fc6c4db812967ae2"
+    },
+    {
+      "path": "es/videos/watch/EjjHLgF8bFw/index.html",
+      "bytes": 9571,
+      "sha256": "c63d54d0d19e5325431ab2f90ab307cb7e7455874f54552327cadbf9e126ca2e"
+    },
+    {
+      "path": "es/videos/watch/I6ZpW5udNZY/index.html",
+      "bytes": 10180,
+      "sha256": "9aeffbba0d1f884de6290fe3ee9b4a3217c60aa8339a368f9d05d5c881aeddb6"
+    },
+    {
+      "path": "es/videos/watch/IwtIGCIWQl4/index.html",
+      "bytes": 10055,
+      "sha256": "223652d0a119ce7b3a3a3cf8a6ba9357003c4656d7152e0e627ee4c0a8572ec5"
+    },
+    {
+      "path": "es/videos/watch/JQ0I1NSdYkw/index.html",
+      "bytes": 10656,
+      "sha256": "bad0961a7cd08b9052d1fe3e1622546c000d585142a515f50e8868122733fcf4"
+    },
+    {
+      "path": "es/videos/watch/KIv6WN00wao/index.html",
+      "bytes": 10403,
+      "sha256": "f506aa52ad819af2fe7d738625c1a8e877feeb454c72fb5a10242649560be262"
+    },
+    {
+      "path": "es/videos/watch/KmxBIA9FXis/index.html",
+      "bytes": 10794,
+      "sha256": "6eb84d4279eb89b7dde23704b22bd842eddacedb64a8f5d066ac20b823521a4e"
+    },
+    {
+      "path": "es/videos/watch/MpEBv9ne7Tg/index.html",
+      "bytes": 10060,
+      "sha256": "a7dc97d1f2c454528561a5c1c6e92e0a9e561c0cd633ba0a953d14e701648edd"
+    },
+    {
+      "path": "es/videos/watch/P4GooCAezkY/index.html",
+      "bytes": 10551,
+      "sha256": "d872c7994fb2f3829560e6bc48df960463240f0970df8cdf02299a8543e07b33"
+    },
+    {
+      "path": "es/videos/watch/QyJN43ZVtHQ/index.html",
+      "bytes": 10786,
+      "sha256": "017051e112e59b6ec6f260f11a86dfca874db4d52c14567815ef4d33c316dc8a"
+    },
+    {
+      "path": "es/videos/watch/R5mZSXHKaOo/index.html",
+      "bytes": 10377,
+      "sha256": "b50939092b7d184d333259aabdc8328cb18004c4e340044364c6ca4f508d2aad"
+    },
+    {
+      "path": "es/videos/watch/SImGsZQD7mc/index.html",
+      "bytes": 10808,
+      "sha256": "0684a58b37f81b25f23e21c5ac65934fc2abd70e6d265aeebc3a7e33b57fe569"
+    },
+    {
+      "path": "es/videos/watch/ScBQx4LlENs/index.html",
+      "bytes": 10656,
+      "sha256": "285ff01044c128eda20fb85359b23990f2a3c3b56745670b8db742f8c376aeed"
+    },
+    {
+      "path": "es/videos/watch/U0NsZ2Iw6hM/index.html",
+      "bytes": 10096,
+      "sha256": "d74bb022624154779b7a7503eed175396da8d3c0b7119c24932096acf59d794c"
+    },
+    {
+      "path": "es/videos/watch/UkZx7Ld_SZg/index.html",
+      "bytes": 10494,
+      "sha256": "0cbde1da9bb1fa2fa59374a76ed0c543ffdaf048bf4a7f03b2e73fad05dda5a7"
+    },
+    {
+      "path": "es/videos/watch/Vr4thuxyDqw/index.html",
+      "bytes": 10064,
+      "sha256": "ead71362b389efb6f4936254e37f2e4359c512a71f87dc5b1d26f4a6e6163aa8"
+    },
+    {
+      "path": "es/videos/watch/XsbzrXSDvxc/index.html",
+      "bytes": 10138,
+      "sha256": "d0dbbd0372634b61850fb113749519b8cb386f8a975e1701683e9a7e7a04162d"
+    },
+    {
+      "path": "es/videos/watch/ZT5WjIglXZU/index.html",
+      "bytes": 9848,
+      "sha256": "27146184c6bc7878517d23a8d05414f5454354d8b65b85e4558e8d8e5841f387"
+    },
+    {
+      "path": "es/videos/watch/_x1uoR1J8Wc/index.html",
+      "bytes": 10283,
+      "sha256": "ad64d5a766d58d34a2ed9b69c210c1e593d3841ff4679d56e64b7e21ef7fd19f"
+    },
+    {
+      "path": "es/videos/watch/cFeDZSohjrQ/index.html",
+      "bytes": 10679,
+      "sha256": "e549268f977cbb5011707b74b1b037674e529cb758df7cb5a6616738e20c92d9"
+    },
+    {
+      "path": "es/videos/watch/d1G3itdX03Y/index.html",
+      "bytes": 9980,
+      "sha256": "b744959abc8535244a55511917b3eda737ed5f56430a6575d10df7b81c1014db"
+    },
+    {
+      "path": "es/videos/watch/dq-jYpXSgx4/index.html",
+      "bytes": 10190,
+      "sha256": "fafa4b3e9fec8ce27380a1179b92aff68cbd87fab11a1100d798ed14e8a06dc5"
+    },
+    {
+      "path": "es/videos/watch/h4BU8561Dfs/index.html",
+      "bytes": 10569,
+      "sha256": "b75678b0cf9867208abf8057849f5cabac902f08a1de6bc2b52c9f8d9ad10ec3"
+    },
+    {
+      "path": "es/videos/watch/j9iU3A570gI/index.html",
+      "bytes": 10810,
+      "sha256": "177370d0b2dd35d18b70a8a7651573ed5ac89e52248922cf13449a9ca42dd53d"
+    },
+    {
+      "path": "es/videos/watch/lExNCTk5AkA/index.html",
+      "bytes": 9102,
+      "sha256": "36f009de122224bf57483f7fc7ee8285fb8f61f4868b5b32b5ac9c52da896438"
+    },
+    {
+      "path": "es/videos/watch/lbycfVnMbpk/index.html",
+      "bytes": 10067,
+      "sha256": "63f8f0ef58bfdffcc5f5f77ebfe5e2bb7a1cf4e1a0b9968cd27fe7f413cbb8e7"
+    },
+    {
+      "path": "es/videos/watch/mYew9VFY5fM/index.html",
+      "bytes": 10636,
+      "sha256": "cff3ba744ff33ddfc75a2d11aa7165b66e841b05122dfd3375e78ddd2f63b033"
+    },
+    {
+      "path": "es/videos/watch/miOheJ55ZWs/index.html",
+      "bytes": 10306,
+      "sha256": "438d715c983cb6401efddaed019cd7b1317f1b351c7d34fa93ee23423278a65a"
+    },
+    {
+      "path": "es/videos/watch/n_jUaSY9hUU/index.html",
+      "bytes": 10206,
+      "sha256": "3b82349c3399320a71b503953ff36b7ebc3fb2b06b089a13d7ecc000a3ebdb8b"
+    },
+    {
+      "path": "es/videos/watch/nmYx713ARdI/index.html",
+      "bytes": 9920,
+      "sha256": "d696569581d9781a6efc9b79db1e27aae0021be61fab81bb19386efd7337ce25"
+    },
+    {
+      "path": "es/videos/watch/qk16Pxzq3NE/index.html",
+      "bytes": 9436,
+      "sha256": "4e9915d2326718b6c6630727c2c6151b01c5b20423b741659f3e263bc99c8b50"
+    },
+    {
+      "path": "es/videos/watch/qwfLHGSpmtw/index.html",
+      "bytes": 10648,
+      "sha256": "eeb3c09a12ac27e60f37d26959126117f44694b28a86a89d443bd9d04fb6d2d7"
+    },
+    {
+      "path": "es/videos/watch/r4Ir9kGEgBY/index.html",
+      "bytes": 11054,
+      "sha256": "49a1a2e6d8ea4fbc23e4e54b0b67f304832740e7df53a2fdba4b4914c41a0894"
+    },
+    {
+      "path": "es/videos/watch/rvnK7GnBSwM/index.html",
+      "bytes": 10763,
+      "sha256": "4ce00ca5b263bd6aaf99cc1ab2abddf90443b312e17bf77266d73f815a306693"
+    },
+    {
+      "path": "es/videos/watch/x_EiSpAtrCk/index.html",
+      "bytes": 10656,
+      "sha256": "3013c184270d429d9764fad745e29524830a9926919cf365649a09a15ede1ae4"
+    },
+    {
+      "path": "es/videos/watch/zsuF0blJAYw/index.html",
+      "bytes": 10793,
+      "sha256": "b0b8c1f57ba6666418b913a4bab7a8c3c1481e5824ee870196faf161034a66f5"
+    },
+    {
+      "path": "field-guide/index.html",
+      "bytes": 7691,
+      "sha256": "4a47927cc28ae4419d07dc097b049482f12b97571afdd823a45b1cb52a435304"
+    },
+    {
+      "path": "field-guide.css",
+      "bytes": 894,
+      "sha256": "e9f1a2f3220f4c56a7cc1e61baa100e221856c825ef7f62642f71489a1980e7a"
+    },
+    {
+      "path": "field-guide.js",
+      "bytes": 2942,
+      "sha256": "625cd4bb52778133152cc4def4ee657a2e7568ec1fbf700d63d296df100a3379"
+    },
+    {
+      "path": "fr/about/index.html",
+      "bytes": 27894,
+      "sha256": "fb5474db108b243b5c77e9cc29a3051829865a44d5efac8ea833e8695951174e"
+    },
+    {
+      "path": "fr/archive/big-bull-elk-cow-talk/index.html",
+      "bytes": 19459,
+      "sha256": "08d8234e948b6e88f2c209b9ea0ee8e577f553eae71d616e491891287281f592"
+    },
+    {
+      "path": "fr/archive/cow-call-draws-elk/index.html",
+      "bytes": 28579,
+      "sha256": "ed89fad85779e0eedce55652619ccc99afac831e5ef31ee94c2203ecef52adbc"
+    },
+    {
+      "path": "fr/archive/cow-talk-for-elk/index.html",
+      "bytes": 33034,
+      "sha256": "7432e56c13b3e70c9269d58e8b7dda9735f7bfb79eeb3a58c76a0705960c3e54"
+    },
+    {
+      "path": "fr/archive/cow-talk-radio/index.html",
+      "bytes": 20493,
+      "sha256": "6ef59c333723ef06f0a2a7d8ad6ddd1cb5fd82579aad515409616167246f9505"
+    },
+    {
+      "path": "fr/archive/elk-talk-review/index.html",
+      "bytes": 23970,
+      "sha256": "f57a615f274887efa74f2740d7ea41ce7488418a94431873c0053e5f32415c52"
+    },
+    {
+      "path": "fr/archive/founder-record/index.html",
+      "bytes": 22761,
+      "sha256": "bf26478d3d44e8a8cd9b314b2d5c92b9730f5b96c36adba1db2a45d3586a0a59"
+    },
+    {
+      "path": "fr/archive/index.html",
+      "bytes": 37634,
+      "sha256": "3dec09ea1294952903eb439d727e0d2fdd8067fc0e209d92aba11ccc0fc18551"
+    },
+    {
+      "path": "fr/archive/more-exposition/index.html",
+      "bytes": 22309,
+      "sha256": "0e0e83b6ab8d74d846c85340bd14bfdbc966e8b95c4d551cab25be8e5ca69661"
+    },
+    {
+      "path": "fr/archive/more-show/index.html",
+      "bytes": 731,
+      "sha256": "953049591d7d7483cca41842582572de0c7e2ee7c45dadfe198498f52b1628b3"
+    },
+    {
+      "path": "fr/archive/newest-secret/index.html",
+      "bytes": 20738,
+      "sha256": "98f559cd4ce59a8760adaa1c326a49a08e6ebe71670ad55a4ffbb14861b8a5fe"
+    },
+    {
+      "path": "fr/archive/prime-time/index.html",
+      "bytes": 20919,
+      "sha256": "c1d7b73d255337d6705f10c4e0c8b8939caea1d6dce5cd9e988259107e21515c"
+    },
+    {
+      "path": "fr/archive/retail-correspondence/index.html",
+      "bytes": 20933,
+      "sha256": "3963c869f3a618f9fef14a69ce8c2bda3874bd713cb195a0c77a24f29c81a27e"
+    },
+    {
+      "path": "fr/archive/sports-afield/index.html",
+      "bytes": 21261,
+      "sha256": "1b58cedf1079044afa3e8de9717c5314eeaf89077cdaf9c5c2d2b2d0fe0078b4"
+    },
+    {
+      "path": "fr/archive/take-a-bull/index.html",
+      "bytes": 32301,
+      "sha256": "7fe3e4c75a8e13c1ed1a7f42fce36148e234d9a35395258c21a1821249ba9667"
+    },
+    {
+      "path": "fr/archive/talk-to-the-elk/index.html",
+      "bytes": 735,
+      "sha256": "6504836e41bdec1b5ac9e1369d2d2f5f84ee1868db7fe4e97cacc5efcfd29790"
+    },
+    {
+      "path": "fr/banding/index.html",
+      "bytes": 15721,
+      "sha256": "4b710bcd17b84abc2133346368ff2309dde45bdbfeaff37a20c957b7af374417"
+    },
+    {
+      "path": "fr/calls/antelope-talk-call/index.html",
+      "bytes": 10167,
+      "sha256": "f767843acada1af62ac1daf0af02e1a9b28a3588ebeac93594aff574dc3972ec"
+    },
+    {
+      "path": "fr/calls/cow-talk-call/index.html",
+      "bytes": 10014,
+      "sha256": "686ff6eeb63e4ec09f0c6c8e815e4cd92717f2d4e363eabae5b283dc51a9ae58"
+    },
+    {
+      "path": "fr/calls/deer-talk-call/index.html",
+      "bytes": 11152,
+      "sha256": "b3410003669274d6f02a5b3f1b515cc219b4ec75c2633bae73b5185855717529"
+    },
+    {
+      "path": "fr/calls/deluxe-cow-talk-call/index.html",
+      "bytes": 9576,
+      "sha256": "8336d647ee37c4d68df58234549f6b61e0a2b36537db17ec9325d5b97ef91f59"
+    },
+    {
+      "path": "fr/calls/power-bugle/index.html",
+      "bytes": 9963,
+      "sha256": "c5a58d1ad6708a83f8fa31a1343cb96e49ff2139140511a72243dcea1ebc33f1"
+    },
+    {
+      "path": "fr/calls/power-howler/index.html",
+      "bytes": 9372,
+      "sha256": "bd2145f27a0d04916786eedfe68dc376581d69c15a0e76320e8a96b5c5a703a2"
+    },
+    {
+      "path": "fr/calls/royal-bugle/index.html",
+      "bytes": 9327,
+      "sha256": "d13a4003ddca0a3a2a8ccd4757fe67d2fb1430b51d31003d93eeeda5b527ffb7"
+    },
+    {
+      "path": "fr/calls/the-wolf-howler/index.html",
+      "bytes": 9455,
+      "sha256": "dda9038d2a7fddcad049796d83ae0f54acb403f248e093a1bef36b02fe127f4a"
+    },
+    {
+      "path": "fr/calls/yote-buster/index.html",
+      "bytes": 9318,
+      "sha256": "fce040785fb4e85b0ffcde3b0d487e39b1e64ccdef6a075923c74e34cfaf3428"
+    },
+    {
+      "path": "fr/calls/yote-howler/index.html",
+      "bytes": 9344,
+      "sha256": "979f3bd2e8fae6604f0e38bd8d221b9dea554b98f886815cadfac8bd19e21400"
+    },
+    {
+      "path": "fr/canada/education/index.html",
+      "bytes": 18162,
+      "sha256": "2038d60710466bddebf3c0aab5cd734557b78dbc9dd52a71c5c4c5bee63233bf"
+    },
+    {
+      "path": "fr/canada/index.html",
+      "bytes": 25128,
+      "sha256": "5461a3bbc226e641129a37d796c014fe7d2ea6706584e8a0d7f73eb604790363"
+    },
+    {
+      "path": "fr/canada/presentation/index.html",
+      "bytes": 15469,
+      "sha256": "739ac2f09225d5c33a53bcda92449b6189a4309488fa47b91bcb81587b42ca8a"
+    },
+    {
+      "path": "fr/contact/index.html",
+      "bytes": 11454,
+      "sha256": "0c4c6d26dbde36e1f54a0a77d7eb10987b8ca956c16ffad83e8d2ccac166e7cb"
+    },
+    {
+      "path": "fr/countries/argentina/index.html",
+      "bytes": 12832,
+      "sha256": "51b5e06a92c91f382b62fb6716ffd10a5be43cdfd0cd9233213133145fe3954c"
+    },
+    {
+      "path": "fr/countries/canada/index.html",
+      "bytes": 12816,
+      "sha256": "0ffb67bca3a9e59357b454d9c0b2476f69b1b4f06c43e5ae6843ed3981901bcd"
+    },
+    {
+      "path": "fr/countries/central-asia/index.html",
+      "bytes": 12807,
+      "sha256": "fed67ff86ff4c5b3ee78defb96096904af7f35cda40577c59021582c2084bf06"
+    },
+    {
+      "path": "fr/countries/germany/index.html",
+      "bytes": 12847,
+      "sha256": "d27769a93196f8b386dee4cdf17a58c0cec545e16601e02c9434f16ea6b5470f"
+    },
+    {
+      "path": "fr/countries/spain/index.html",
+      "bytes": 12721,
+      "sha256": "a4656e884bf5b59338553f1dd73dc512c42c975126c95d28720ce19e2781054e"
+    },
+    {
+      "path": "fr/countries/united-states/index.html",
+      "bytes": 13088,
+      "sha256": "cdf41f9ae1599c3c3711b507d7c61f0455f1628554d9bbc235e6cde91eec0de1"
+    },
+    {
+      "path": "fr/dealer-application/index.html",
+      "bytes": 90411,
+      "sha256": "80c9321d3c9303f30ffe81682c4aee61c09b7e8d7652c606e30ba109110ce3e6"
+    },
+    {
+      "path": "fr/dealer-application/received/index.html",
+      "bytes": 7095,
+      "sha256": "fade303e13855811d152c1932dc343b38667e12d80b61529c33eeff83678742a"
+    },
+    {
+      "path": "fr/dealer-guides/customer-support/index.html",
+      "bytes": 13916,
+      "sha256": "150dc816b28f294f97fe98070a5dec1f04c15915e662178d4cedad698470117d"
+    },
+    {
+      "path": "fr/dealer-guides/distributor-network/index.html",
+      "bytes": 13976,
+      "sha256": "98c75a360ef843b8be0ba735001923017f4cf387d2aec44e35e052192e867565"
+    },
+    {
+      "path": "fr/dealers/us/index.html",
+      "bytes": 30951,
+      "sha256": "a959f94c0416a35c2eafefdb3b1e1fc57d65b363d0f3e50b3576ca847ede7d57"
+    },
+    {
+      "path": "fr/disclosures/index.html",
+      "bytes": 29096,
+      "sha256": "6ee6c43b355ec0603350a4382cb9efa43fed9023149fcdce1b31a02ba5eecdb9"
+    },
+    {
+      "path": "fr/disclosures/payment-policy/index.html",
+      "bytes": 30446,
+      "sha256": "168a6707436b092858e4a05a3f6b9ef50f9bdd57aeb6621feb5857cbdca16b42"
+    },
+    {
+      "path": "fr/disclosures/shipping-returns/index.html",
+      "bytes": 11070,
+      "sha256": "98f5b28208c6261eeb62ad83dbb91d96da3def3df93eee015738fdaadeeb5d8d"
+    },
+    {
+      "path": "fr/education/deer-calling/index.html",
+      "bytes": 16111,
+      "sha256": "275512ff3b84137057f8e53be7fc9570c42ad0c18e5cb2c320a1bfd5d53a38d1"
+    },
+    {
+      "path": "fr/education/index.html",
+      "bytes": 40090,
+      "sha256": "080ef8d112a245f3b2791a4789f1b3643962b084eac58c7c313a1801f6fe774a"
+    },
+    {
+      "path": "fr/education/lessons/antelope-talk-call-band-replacement/index.html",
+      "bytes": 10643,
+      "sha256": "9ac6e8e10dfc0cd9444ca9001b7d7b47370618e0faa5c20d54b673993ea114c5"
+    },
+    {
+      "path": "fr/education/lessons/cow-talk-call-band-replacement/index.html",
+      "bytes": 13928,
+      "sha256": "34ef31e440aea634a1b9ff16fbc998c0a0cf49b0e6df4f31732ca1caa4d58c99"
+    },
+    {
+      "path": "fr/education/lessons/deer-talk-call-band-replacement/index.html",
+      "bytes": 11431,
+      "sha256": "6baec14e2852c811a7ecb5b9dbc1cb4c986d632f0a680671d95dc01aef085900"
+    },
+    {
+      "path": "fr/education/lessons/deer-talk-demonstration/index.html",
+      "bytes": 11678,
+      "sha256": "b38e1248319a53c2b32336185a75e182e0beb04251450bfd83e31fab9e8c2102"
+    },
+    {
+      "path": "fr/education/lessons/deluxe-cow-talk-call-band-replacement/index.html",
+      "bytes": 12547,
+      "sha256": "28616d491a740616aa86aa61962bf823400c7f519b657a831f0197d28fdd2ffb"
+    },
+    {
+      "path": "fr/education/lessons/power-bugle-band-replacement/index.html",
+      "bytes": 13063,
+      "sha256": "f892086c6f38e86cc4570f798a54cedb29cf90c1e7dab95c3390922921b61ffc"
+    },
+    {
+      "path": "fr/education/lessons/power-howler-band-replacement/index.html",
+      "bytes": 12398,
+      "sha256": "52e1f524c42b4992d536bc06c4910aec262bde521a7890c803550a6845170823"
+    },
+    {
+      "path": "fr/education/lessons/royal-bugle-band-replacement/index.html",
+      "bytes": 12421,
+      "sha256": "74b8868ebe236a6ae53e652b42fb0abbc6b64bf618bd85b5b0e2b5483e34ec39"
+    },
+    {
+      "path": "fr/education/lessons/the-wolf-howler-band-replacement/index.html",
+      "bytes": 12434,
+      "sha256": "521c0953e91d4cee816050bc60d033538716a501fd428056d64557221244d495"
+    },
+    {
+      "path": "fr/education/lessons/yote-buster-reed-replacement/index.html",
+      "bytes": 12375,
+      "sha256": "d3b5819a65aa8566e657e54c4bec662646aa1c750930c137b002e955ab5661f6"
+    },
+    {
+      "path": "fr/education/lessons/yote-howler-band-replacement/index.html",
+      "bytes": 12384,
+      "sha256": "d1efffa76e35d2d600d5c14e79ac61290cadfd995e935e6d4b9d6fb2eb3c02b7"
+    },
+    {
+      "path": "fr/field-guide/index.html",
+      "bytes": 8459,
+      "sha256": "c4799f09d4936faa2444d405a638316d1275650cf2461731bb80555de6a19606"
+    },
+    {
+      "path": "fr/guidefitter/index.html",
+      "bytes": 12253,
+      "sha256": "deb4cbd3a3b4aab20288692c66904bd097bac040ffef2b0edff7ff2a62c6dded"
+    },
+    {
+      "path": "fr/index.html",
+      "bytes": 56339,
+      "sha256": "e01f37c170ae4a59d36e2f3984e02890b262b843ba46df240058cfe27f3a1a6b"
+    },
+    {
+      "path": "fr/international/index.html",
+      "bytes": 22156,
+      "sha256": "814eab1a80a393da7b4d754f149b1910e0f4abc17b86f77e9c5bdceb6c514737"
+    },
+    {
+      "path": "fr/legacy/index.html",
+      "bytes": 48972,
+      "sha256": "2a40d0aabfec4105d5b07c924593d91fd4c4c6308649274ea097af2409e0df53"
+    },
+    {
+      "path": "fr/people/don-laubach/index.html",
+      "bytes": 9930,
+      "sha256": "77fcbd87b2c55ba012acb135bd00e8de6dbb9e0eb640d28aabcf33650fd334b7"
+    },
+    {
+      "path": "fr/people/gordon-eastman/index.html",
+      "bytes": 9389,
+      "sha256": "01f5b05635001058c44e34f2bb31d7948d76b35bf6598e1157558489586ed520"
+    },
+    {
+      "path": "fr/people/mark-henckel/index.html",
+      "bytes": 9446,
+      "sha256": "30a48aefefe923f8a4e194c2f985e3c069db3c037184ad0092c5ae0a5377ec49"
+    },
+    {
+      "path": "fr/people/t-phillip-bowers/index.html",
+      "bytes": 8706,
+      "sha256": "dcd1f154960ce2fa5796d7aecbb343c14a5de307c79850689a2d7dbaed1d2f60"
+    },
+    {
+      "path": "fr/resource-index.json",
+      "bytes": 56829,
+      "sha256": "701c5468718a038c1e2577905d7ba67d787237b23e5519542f33ef0fcef876e8"
+    },
+    {
+      "path": "fr/shop/index.html",
+      "bytes": 16518,
+      "sha256": "10132022d82412dcc7bcbfbdca378835972420f2a786b3c41f94ba0d18ae3ce2"
+    },
+    {
+      "path": "fr/support/index.html",
+      "bytes": 17647,
+      "sha256": "359c25cc56686289576d01523d5e7eac3b9320a8e704efddccb03a7320bbc3dd"
+    },
+    {
+      "path": "fr/university/index.html",
+      "bytes": 10153,
+      "sha256": "e1dc3c203ac596ea39a1f16fef28ba5016b308542e1d27f5d5772c2dfb3da839"
+    },
+    {
+      "path": "fr/videos/index.html",
+      "bytes": 83307,
+      "sha256": "4b09207dd10e51699424137e402cc7046dccff326563458e642ced837d413f47"
+    },
+    {
+      "path": "fr/videos/watch/-T-a9pnPF5E/index.html",
+      "bytes": 10146,
+      "sha256": "d9170eb14af32b337760b743046382620b6f7fc7455126e95eacdebe1b21b1c4"
+    },
+    {
+      "path": "fr/videos/watch/0C4yCMsL0F4/index.html",
+      "bytes": 10628,
+      "sha256": "327fee9a473a33211f602c77a458ac397816ad4eefcee9d3dcc3bef53687cc43"
+    },
+    {
+      "path": "fr/videos/watch/0v-pRhhHNBQ/index.html",
+      "bytes": 9527,
+      "sha256": "e430d1a95f09e64d8d3b9d5f8658d5d12f15cb2312f3f5d03daab4f50954de63"
+    },
+    {
+      "path": "fr/videos/watch/4QB6BIsOB8s/index.html",
+      "bytes": 10946,
+      "sha256": "1337d83d81dd32f139cf9969ec81418b4fc8b486bff398f3ad9ee88c73d5c957"
+    },
+    {
+      "path": "fr/videos/watch/5_9RK6RXEtM/index.html",
+      "bytes": 10172,
+      "sha256": "5c83012fa57aaa0662344f7fe501266bea0fc1ec58a4ec2ef7898ef715b5e3c2"
+    },
+    {
+      "path": "fr/videos/watch/8Ikymay92SY/index.html",
+      "bytes": 10264,
+      "sha256": "5c2e737c53b2124f9472ee4108434eadb309be8fcdc519509c359d415b47d3e4"
+    },
+    {
+      "path": "fr/videos/watch/8jP-Fl_JmU4/index.html",
+      "bytes": 9792,
+      "sha256": "c19f7b359a214d0ae7e1887aa2a9741648fcd4c8fcdc792f840c1e878d32ce04"
+    },
+    {
+      "path": "fr/videos/watch/97uiIgLbEI4/index.html",
+      "bytes": 10724,
+      "sha256": "4aeaa278fda33aac5fdb657c55ead89a5b72326c2f6c69100f90d637623f0bec"
+    },
+    {
+      "path": "fr/videos/watch/9EbA5JwxwfM/index.html",
+      "bytes": 10215,
+      "sha256": "edba43853bb46ad1314a0066d869e9fd74a2ae27399a095fc3a8a9b6d0dde9f3"
+    },
+    {
+      "path": "fr/videos/watch/ALnNk-g9Uws/index.html",
+      "bytes": 10921,
+      "sha256": "a9240a71069f8bec11abb1f876d25ee6f35534ded1ba93173cac629f33b7c746"
+    },
+    {
+      "path": "fr/videos/watch/BHOsbRugRXM/index.html",
+      "bytes": 9326,
+      "sha256": "03e390b5046d040dd9285c858f5642afff7f67207578865fa49af245cbe2ca82"
+    },
+    {
+      "path": "fr/videos/watch/BK198m9ZYlo/index.html",
+      "bytes": 9540,
+      "sha256": "1ba417241eab388284ee61a4607afb6b95f8a16cb4773e45117ca3e47d706988"
+    },
+    {
+      "path": "fr/videos/watch/BO6xV_YC7pU/index.html",
+      "bytes": 10168,
+      "sha256": "5836a34e06b7e3a69100fe5f32576cad471c4f257ebfcf68895b501dd09a9511"
+    },
+    {
+      "path": "fr/videos/watch/E7ckiC3qOwY/index.html",
+      "bytes": 10264,
+      "sha256": "38db736596390317c45208fd217d1dbbb7aa82f941d02106c9b134956e09695f"
+    },
+    {
+      "path": "fr/videos/watch/EjjHLgF8bFw/index.html",
+      "bytes": 9643,
+      "sha256": "46f1a1fe56287f20ebb35846b2229fbb2c30484a55eb6abc6b645328f0662638"
+    },
+    {
+      "path": "fr/videos/watch/I6ZpW5udNZY/index.html",
+      "bytes": 10259,
+      "sha256": "05543445962a9e8c3263721c8a2585438c0507739001eb1d11348e7bd768640d"
+    },
+    {
+      "path": "fr/videos/watch/IwtIGCIWQl4/index.html",
+      "bytes": 10087,
+      "sha256": "acffe57b74ed8111b988f1e255e14b604befc919062aa678c2351aa989f83232"
+    },
+    {
+      "path": "fr/videos/watch/JQ0I1NSdYkw/index.html",
+      "bytes": 10757,
+      "sha256": "f1c2a18c9ee005cffa073f43af979f06041243d58b23cc1486a3af311ac7acb9"
+    },
+    {
+      "path": "fr/videos/watch/KIv6WN00wao/index.html",
+      "bytes": 10496,
+      "sha256": "e395547b170a2f8c19e4f4c6c1b720c82769af7975c87e8d8f8a781e21f21e66"
+    },
+    {
+      "path": "fr/videos/watch/KmxBIA9FXis/index.html",
+      "bytes": 10934,
+      "sha256": "0f1fa2f76106b5ac5ec36280d3c4bb80ee137fad29459620d2b3a9f1f8c214f0"
+    },
+    {
+      "path": "fr/videos/watch/MpEBv9ne7Tg/index.html",
+      "bytes": 10112,
+      "sha256": "0d50e7b262594dc116456bc8be88c8272282a88c4ad166bb8f9309c93ed28c97"
+    },
+    {
+      "path": "fr/videos/watch/P4GooCAezkY/index.html",
+      "bytes": 10674,
+      "sha256": "42b20d06197e042dc59ae2aa66423912249d7fe63e1a8354fa03137b4139fae1"
+    },
+    {
+      "path": "fr/videos/watch/QyJN43ZVtHQ/index.html",
+      "bytes": 10898,
+      "sha256": "1a450e3f4515ff2e8a345c79868b567dd6a21c4b7e837ee372cc7fb271b2ed55"
+    },
+    {
+      "path": "fr/videos/watch/R5mZSXHKaOo/index.html",
+      "bytes": 10394,
+      "sha256": "03cb9c6a8b6d17a83f936a88c1c0637465c42c8ccbccbbb95915d49875375cba"
+    },
+    {
+      "path": "fr/videos/watch/SImGsZQD7mc/index.html",
+      "bytes": 10941,
+      "sha256": "e79da954aded5965eda647d47feac777a65bc18d8ed4b158895dab08ee82d148"
+    },
+    {
+      "path": "fr/videos/watch/ScBQx4LlENs/index.html",
+      "bytes": 10794,
+      "sha256": "95d0b0b8ab7e2133e131e12964242cc87769f176c030161cee231f4739c5f262"
+    },
+    {
+      "path": "fr/videos/watch/U0NsZ2Iw6hM/index.html",
+      "bytes": 10117,
+      "sha256": "e31fdda2bc58867ffee207a3e2644e164ea71cef7d89cec5dc81c78cc9588696"
+    },
+    {
+      "path": "fr/videos/watch/UkZx7Ld_SZg/index.html",
+      "bytes": 10530,
+      "sha256": "e832b9c5bccbf2fc21c80d68dcb9cfdfef0eff3f6b17712b52882ce299454243"
+    },
+    {
+      "path": "fr/videos/watch/Vr4thuxyDqw/index.html",
+      "bytes": 10107,
+      "sha256": "d8edaf7e9f81f4cbf8f272cc7e47b841b23d40c10934a227cf48f3ea8d12afeb"
+    },
+    {
+      "path": "fr/videos/watch/XsbzrXSDvxc/index.html",
+      "bytes": 10159,
+      "sha256": "070d447c855f084101a6e8ec5a507408fb58bea50bb58f63236fae5f333de5ef"
+    },
+    {
+      "path": "fr/videos/watch/ZT5WjIglXZU/index.html",
+      "bytes": 9974,
+      "sha256": "5f589f6ad0d6b6247b9e9e27d39aefd32c9de30fa35d368c6a0670fbd2e6c280"
+    },
+    {
+      "path": "fr/videos/watch/_x1uoR1J8Wc/index.html",
+      "bytes": 10319,
+      "sha256": "372df80e45c5a7c4387d39dc16afbd1697a8679f1749e74eab65896ffc2740eb"
+    },
+    {
+      "path": "fr/videos/watch/cFeDZSohjrQ/index.html",
+      "bytes": 10790,
+      "sha256": "cadc875b330d5b6318086bd8f137f54eda04dabb2c901d80766c8a98b135cb65"
+    },
+    {
+      "path": "fr/videos/watch/d1G3itdX03Y/index.html",
+      "bytes": 10028,
+      "sha256": "cfefe2b8f4919e2c0366d36e5c8bd5640541d25a928cb34fd8a193aeb7035bc4"
+    },
+    {
+      "path": "fr/videos/watch/dq-jYpXSgx4/index.html",
+      "bytes": 10232,
+      "sha256": "3c6a8f39a3a563a6bced2a5757b5d7a3157d2e1abcc1a28333d1f8811a4a7936"
+    },
+    {
+      "path": "fr/videos/watch/h4BU8561Dfs/index.html",
+      "bytes": 10692,
+      "sha256": "9bc2b16a5e8f6abc789382118b56830c2e42da1fe373114bd03152741bd9f158"
+    },
+    {
+      "path": "fr/videos/watch/j9iU3A570gI/index.html",
+      "bytes": 10949,
+      "sha256": "fc23756f0066c36384cba26c15378bd3ca347f37bf9f13b730775773de91478f"
+    },
+    {
+      "path": "fr/videos/watch/lExNCTk5AkA/index.html",
+      "bytes": 9127,
+      "sha256": "814e526efa3e835bcdffc77d7c7763c66039033a4577c71c9a7644e89a075a93"
+    },
+    {
+      "path": "fr/videos/watch/lbycfVnMbpk/index.html",
+      "bytes": 10112,
+      "sha256": "5bff7fe82bd03d70a7333074abde8eaf24838804306e295c2ce884cde8310a8d"
+    },
+    {
+      "path": "fr/videos/watch/mYew9VFY5fM/index.html",
+      "bytes": 10714,
+      "sha256": "f807012fc7e59b2c9a0b54cbd93779111b464ecf0a2c7c7a6f49b363ba92b9e5"
+    },
+    {
+      "path": "fr/videos/watch/miOheJ55ZWs/index.html",
+      "bytes": 10341,
+      "sha256": "413f2c6f4ed693b24a8c9d68cdd07d9824c919798ce7a8f4ba964889d032b6ac"
+    },
+    {
+      "path": "fr/videos/watch/n_jUaSY9hUU/index.html",
+      "bytes": 10249,
+      "sha256": "594d56273d4f35846b0d9fadd08afbd2e91d9b98bdf032e0faaaf01ea819fd68"
+    },
+    {
+      "path": "fr/videos/watch/nmYx713ARdI/index.html",
+      "bytes": 9936,
+      "sha256": "207a0f649df7324f19ae3754a1b4ac445846cbf19e72ffda1c4bff34dbf7cd9f"
+    },
+    {
+      "path": "fr/videos/watch/qk16Pxzq3NE/index.html",
+      "bytes": 9456,
+      "sha256": "4aab7551c9427761b7b540a05826fc659c0494445698d1d284a9d4d94577900a"
+    },
+    {
+      "path": "fr/videos/watch/qwfLHGSpmtw/index.html",
+      "bytes": 10704,
+      "sha256": "548c63a75f7311279a54e127c528de9ba59e926f505a99f4ac7fdade872e1cb3"
+    },
+    {
+      "path": "fr/videos/watch/r4Ir9kGEgBY/index.html",
+      "bytes": 11080,
+      "sha256": "96cc4e0f32ce0abfd4c37df6444febd8b2a7f4e1c073b842f7aeab0683d15dbf"
+    },
+    {
+      "path": "fr/videos/watch/rvnK7GnBSwM/index.html",
+      "bytes": 10860,
+      "sha256": "c8cbf5f33358020bde7245d8b0a4dd88fffa883c40cbe35955a98f66261523be"
+    },
+    {
+      "path": "fr/videos/watch/x_EiSpAtrCk/index.html",
+      "bytes": 10794,
+      "sha256": "22f8b4920ffccb82def62afee3616ba30b238102aadc0d0ab176718ae31b0563"
+    },
+    {
+      "path": "fr/videos/watch/zsuF0blJAYw/index.html",
+      "bytes": 10877,
+      "sha256": "6f55badb2d9eb2dd0ba0af7f4c1d40ad55f82872c284266e85f9cd6b009940cd"
+    },
+    {
+      "path": "guidefitter/index.html",
+      "bytes": 11334,
+      "sha256": "5b8e5304221c289a8abc1fbc43834435ca31dac02c7372926ed7492af11055ba"
+    },
+    {
+      "path": "guidefitter.css",
+      "bytes": 4905,
+      "sha256": "686c99df11362ab776a16c52fe0e7b28dec34792ca04f55810cc5173ef727f1c"
+    },
+    {
+      "path": "hero-depth.js",
+      "bytes": 8179,
+      "sha256": "aab0ba93439cd679f307f47a64ccfd5d5b145c5331e224ecd2748e639855ff82"
+    },
+    {
+      "path": "home-store-campaign.css",
+      "bytes": 6793,
+      "sha256": "350ee7430dcc76b5d7109d0193c1ff3a36cabc76eedcf11e46e995153f4faa3d"
+    },
+    {
+      "path": "home-story.css",
+      "bytes": 4152,
+      "sha256": "4d41cf21503838e9164eecb45786f01395b48c477bd8f0dd4510e4bf67ac371a"
+    },
+    {
+      "path": "homepage.css",
+      "bytes": 5283,
+      "sha256": "ea761cc08f64ce2a448c93f374bf38adaf6b6ff55545ee3d1a656bf01fb3b1d2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 49876,
+      "sha256": "8dbfbae3c7ed464fd2610bf4967e17f2adbdf71f5e9845b79db1889c146a16a3"
+    },
+    {
+      "path": "international/index.html",
+      "bytes": 20460,
+      "sha256": "a517f4bebeff2862f69040907c66c65e32192527685a28f008934c9434e289e8"
+    },
+    {
+      "path": "international.css",
+      "bytes": 6325,
+      "sha256": "568734155363fa8f419d17b888ca12ccd94d2399decd553668b4c3e5ce2ebff6"
+    },
+    {
+      "path": "learn.css",
+      "bytes": 5660,
+      "sha256": "13c779585e89021a110b4545eb1b65c0b685f7a3df7f45ae42f7968b1c972179"
+    },
+    {
+      "path": "learn.js",
+      "bytes": 3780,
+      "sha256": "917c6ba974864d9c5eeae8f4dd90c153c0d7f076df890c2aafe1aef00c21873d"
+    },
+    {
+      "path": "legacy/index.html",
+      "bytes": 43339,
+      "sha256": "fa47dfe1e5e8dca9a36ec77c49589655e276cdbf1212a4bb7d09084906e2af2c"
+    },
+    {
+      "path": "legacy-expanded.css",
+      "bytes": 4438,
+      "sha256": "5bfbab71efa672176131ac9d9fa3184cfcf45194abc86b9b86ae2bb3035ea093"
+    },
+    {
+      "path": "legacy-phone.css",
+      "bytes": 4890,
+      "sha256": "003526343555007a52835ab52c93eb5087ce01ed68b4be38835ffbc9643b2145"
+    },
+    {
+      "path": "legacy-phone.js",
+      "bytes": 2681,
+      "sha256": "8973cdafb8236893170e0b080d467a164359598176c77c4bae521f329bad9418"
+    },
+    {
+      "path": "legacy.css",
+      "bytes": 2211,
+      "sha256": "16106d5f73d58ab7e0c861ad17ecb3aff493f6dd7ca6cc0ab1421aae8c110ae9"
+    },
+    {
+      "path": "media.css",
+      "bytes": 11661,
+      "sha256": "2bfa37c8894d86e5db57134459312774b0bc754bc5960b7d0915eec23f67daab"
+    },
+    {
+      "path": "media.js",
+      "bytes": 11877,
+      "sha256": "8b4550ad1090900225e5c9d02a5e8bf70c329417276908a38272308cce4942cf"
+    },
+    {
+      "path": "mobile-navigation.css",
+      "bytes": 12043,
+      "sha256": "6560382a84ebd494d3d41df52c0f88d13bef0e37cbb99e85a2cf29ab9f4c0b5e"
+    },
+    {
+      "path": "music-player.js",
+      "bytes": 17700,
+      "sha256": "1d837db319b5d88a5814ae43187821bc2b46a7c058606974a045566b1eeb9a93"
+    },
+    {
+      "path": "music-share.js",
+      "bytes": 5005,
+      "sha256": "d8130d0881a52cc6383e3fc3d3995b9e0da1e8b84a3cf80c5f917c3b5a57d983"
+    },
+    {
+      "path": "page-transitions.js",
+      "bytes": 15973,
+      "sha256": "de693bb15ab991ec5eab732d17abb90960b3e579e12a8c18d24686a273d6fb50"
+    },
+    {
+      "path": "people/don-laubach/index.html",
+      "bytes": 9301,
+      "sha256": "6a07723f6a9f785b6c093987fded50b2fbcf52279cf634574b081a0a8badd832"
+    },
+    {
+      "path": "people/gordon-eastman/index.html",
+      "bytes": 8878,
+      "sha256": "bf24c5c4fa5f28ccf710e26a4a72070899741f9a2d46fe4f93700742ef5d8119"
+    },
+    {
+      "path": "people/mark-henckel/index.html",
+      "bytes": 8823,
+      "sha256": "447880d11b084e94928c719ac80ac8a9073e5a17364e154b3cd22ad7811f10a2"
+    },
+    {
+      "path": "people/t-phillip-bowers/index.html",
+      "bytes": 8110,
+      "sha256": "c59652701972cda5b84c825632758ecd6906c17378681f10614250e14025a0a0"
+    },
+    {
+      "path": "records/BRWBCF4D415B79D_002264.pdf",
+      "bytes": 1127774,
+      "sha256": "cb33218c0e324f2c7cb18e2634f116e0bc4e9d93ed16f046c192ee965efeb9bc"
+    },
+    {
+      "path": "records/BRWBCF4D415B79D_002267.pdf",
+      "bytes": 143915,
+      "sha256": "695db92365ef6cbb96234bf14f9efd59ab31e3ffb66cc6f879c5cf5e8d1e3696"
+    },
+    {
+      "path": "records/BRWBCF4D415B79D_002270.pdf",
+      "bytes": 1106324,
+      "sha256": "595dae76b016342ab850c503852679456b9098cf2eb1ccdbb7bdcb8c1332b5ee"
+    },
+    {
+      "path": "records/BRWBCF4D415B79D_002273.pdf",
+      "bytes": 320255,
+      "sha256": "501a97a28ce5f72b2b11446c6ecf1e719898237207f8cb8c4c09d177b97ab587"
+    },
+    {
+      "path": "records/BRWBCF4D415B79D_002276.pdf",
+      "bytes": 1245156,
+      "sha256": "b768e796e44ac6bfb0a005a5491b1e295baaadc6971f58b410ccc2b98c0a69b7"
+    },
+    {
+      "path": "records/BRWBCF4D415B79D_002281.pdf",
+      "bytes": 2765283,
+      "sha256": "43d6dab5a71c36023e45299a6fe07d9de3574763460a825ebb986523c86b36b8"
+    },
+    {
+      "path": "records/BRWBCF4D415B79D_002288.pdf",
+      "bytes": 818665,
+      "sha256": "e777d385664c6e65adb071f8372892b6b4e4d498c3d3b58586911f872bf363e6"
+    },
+    {
+      "path": "records/BRWBCF4D415B79D_002290.pdf",
+      "bytes": 702682,
+      "sha256": "358eeb4196b23e97dcef83892cb76f430dd553c0b09d3f14ad5e02fc50fc1f12"
+    },
+    {
+      "path": "records/BRWBCF4D415B79D_002292.pdf",
+      "bytes": 732866,
+      "sha256": "3c4cae181ac1e133bde1160d1ada2a942a50a30091a18b8f8fcfcb807f7a4b85"
+    },
+    {
+      "path": "records/BRWBCF4D415B79D_002294.pdf",
+      "bytes": 2703827,
+      "sha256": "6666e2840722e57b8f2805a0f1e3b45c929c46434f7bbc86e7b495879567ab92"
+    },
+    {
+      "path": "records/BRWBCF4D415B79D_002299.pdf",
+      "bytes": 405072,
+      "sha256": "1fae7e75023d5059bf6069fac52e414a14b3d76a7ca6e1db82ddd8e6ab9f696e"
+    },
+    {
+      "path": "records/BRWBCF4D415B79D_002305.pdf",
+      "bytes": 770592,
+      "sha256": "a02c1060d5d4bddcf7d5870f766b6b5925f9611136a36834d2cc8b5a8cdd19e0"
+    },
+    {
+      "path": "records/BRWBCF4D415B79D_002308.pdf",
+      "bytes": 720281,
+      "sha256": "9416557e52c93138fda4b2b5dcf72d11ef87d551483479339ff0a8c44d536166"
+    },
+    {
+      "path": "records/policies/payment-policy-current.txt",
+      "bytes": 19592,
+      "sha256": "e93ab167c9ce098bc95372f76d8d43e9f27b93b8164bb41c424b64908cf0b3ad"
+    },
+    {
+      "path": "records/policies/payment-policy.txt",
+      "bytes": 19278,
+      "sha256": "a2af2688170033a5885d217a2560fe5a9994a22b929b5b3af56e15f5c0c3b62c"
+    },
+    {
+      "path": "records/policies/shipping-returns.txt",
+      "bytes": 1842,
+      "sha256": "d184575940c06af1df18b35c01ed2572b16afdda47e03b1bf1a86f95a4bf1135"
+    },
+    {
+      "path": "records/transcripts/de/cow-call-draws-elk.txt",
+      "bytes": 8008,
+      "sha256": "b7e02e34791d1f5c9ad75a95a714905ec41a19f4018bb00f0029acc5a3f7f0c9"
+    },
+    {
+      "path": "records/transcripts/de/cow-talk-for-elk.txt",
+      "bytes": 11630,
+      "sha256": "78a4174d420345f7e4fa75e18bf2feb1de3cbded04dfcf209378fb64689cc0ab"
+    },
+    {
+      "path": "records/transcripts/de/elk-talk-review.txt",
+      "bytes": 3761,
+      "sha256": "16f1bb0f9c7dfc39daa73f854c9f6c2b1201026d2743024a94dea23fa02c59a3"
+    },
+    {
+      "path": "records/transcripts/de/founder-record.txt",
+      "bytes": 2239,
+      "sha256": "1f49131e3fff2bffac21ef04ae5a93451831b9d3796675cec07b936853d2eda7"
+    },
+    {
+      "path": "records/transcripts/de/more-exposition.txt",
+      "bytes": 1733,
+      "sha256": "bc6c1773a206fc1451acefa6853f1f429bbe7b638c01d0def7cb5cfe1ecc31c2"
+    },
+    {
+      "path": "records/transcripts/de/more-show.txt",
+      "bytes": 1623,
+      "sha256": "806d8c3591166575c235c64812eff4fe0ad0ec849f6ef366642a18e1b0ef4b1c"
+    },
+    {
+      "path": "records/transcripts/de/sports-afield.txt",
+      "bytes": 1248,
+      "sha256": "9c2f3aca1046189a4e4c542408c44c7025a3218a93a8ad5755bb3dc1bf349fff"
+    },
+    {
+      "path": "records/transcripts/de/take-a-bull.txt",
+      "bytes": 11315,
+      "sha256": "38c08d976d14e6e6311a8a2a648571217f5e8328b9e43241bc14b2259aaf23c8"
+    },
+    {
+      "path": "records/transcripts/de/talk-to-the-elk.txt",
+      "bytes": 11620,
+      "sha256": "75cd842c605ba50beadcc211c4f7af777e7e8d59d5a00738cc65ea377b3d1d0e"
+    },
+    {
+      "path": "records/transcripts/en/cow-call-draws-elk.txt",
+      "bytes": 6831,
+      "sha256": "89fee1a0add20313a664d72ce22ff5002a1ade081595d5ed026047db2839c7eb"
+    },
+    {
+      "path": "records/transcripts/en/cow-talk-for-elk.txt",
+      "bytes": 9834,
+      "sha256": "fec171e89a940ce2f30117fbd68a408a07300d099332b2dc4ca3f2eb3c366f92"
+    },
+    {
+      "path": "records/transcripts/en/elk-talk-review.txt",
+      "bytes": 3114,
+      "sha256": "8bc7ac73a0834090fd346ce2789c5bf2dbcf8b474c0ede45121f021a9d39ecf0"
+    },
+    {
+      "path": "records/transcripts/en/founder-record.txt",
+      "bytes": 1807,
+      "sha256": "6bf1bae2194ffe568c738becf2bf69d8a247ea85c02c1127b64ab1f66bb65cc1"
+    },
+    {
+      "path": "records/transcripts/en/more-exposition.txt",
+      "bytes": 1477,
+      "sha256": "6781b5dcbe42f2abd16a692c3b0339167d6bb83aeeaafdfd9c6af51af3bceb5c"
+    },
+    {
+      "path": "records/transcripts/en/more-show.txt",
+      "bytes": 1349,
+      "sha256": "442f51f8b134b8810bbdbbbcf9c7431a9a14d59856275b0b01e369003dc97a97"
+    },
+    {
+      "path": "records/transcripts/en/sports-afield.txt",
+      "bytes": 957,
+      "sha256": "ae5a8b54918b01e56144bf3a8ae014f0d5bd1e6e93da456bd15ba007145d9289"
+    },
+    {
+      "path": "records/transcripts/en/take-a-bull.txt",
+      "bytes": 9608,
+      "sha256": "3e2559d8467b1ae9d61ea99be27dcb819b057d181a2cf3dd68911fa51884302c"
+    },
+    {
+      "path": "records/transcripts/en/talk-to-the-elk.txt",
+      "bytes": 9833,
+      "sha256": "e5ede5a95f6777235684992226e64de312a81fc6e7ab72f719c69b67165d9a42"
+    },
+    {
+      "path": "records/transcripts/es/cow-call-draws-elk.txt",
+      "bytes": 7672,
+      "sha256": "78777868ac22095c1bda09e2365fb6134faf46c779322e8fa20c1eda9c757f13"
+    },
+    {
+      "path": "records/transcripts/es/cow-talk-for-elk.txt",
+      "bytes": 11707,
+      "sha256": "3982e2505066bd8aceb69e6813693df6e00bc9af1ee28eb53eb663c7363df96d"
+    },
+    {
+      "path": "records/transcripts/es/elk-talk-review.txt",
+      "bytes": 3697,
+      "sha256": "1ef675e344542b790035cac87fac24bc5d82715e5367b37a1bac9bfce3636203"
+    },
+    {
+      "path": "records/transcripts/es/founder-record.txt",
+      "bytes": 2224,
+      "sha256": "4eac46e33a602328b76e8dd667be83f80bf7861c0a6bd652f100d638f5a2cf0a"
+    },
+    {
+      "path": "records/transcripts/es/more-exposition.txt",
+      "bytes": 1800,
+      "sha256": "e4218fff4269e6b00cf7faa742ed0a78984fdcd63a169171608f93100d755c6e"
+    },
+    {
+      "path": "records/transcripts/es/more-show.txt",
+      "bytes": 1678,
+      "sha256": "c85eadbcb36867e94fd164236a6d4cc9309805efc4f5ac8c88171fedd52439b8"
+    },
+    {
+      "path": "records/transcripts/es/sports-afield.txt",
+      "bytes": 1194,
+      "sha256": "c7dc662e2285730527c6ba8c9626f6d221a85e37ea9d536f0e149e0ccfd40901"
+    },
+    {
+      "path": "records/transcripts/es/take-a-bull.txt",
+      "bytes": 10899,
+      "sha256": "24d97ce3f1f5519e91b2c43bac8010e28c8674ec8553f6f04795016d317b4e61"
+    },
+    {
+      "path": "records/transcripts/es/talk-to-the-elk.txt",
+      "bytes": 11699,
+      "sha256": "95a3182c321d2d0070cb609dfef2cb7974684817c951623ea3fc017f7259b15b"
+    },
+    {
+      "path": "records/transcripts/fr/cow-call-draws-elk.txt",
+      "bytes": 8524,
+      "sha256": "c4de683fc4e1f093cdb72fa5fc243f6a71da5c7b74c8695dffc8b148f6df11ea"
+    },
+    {
+      "path": "records/transcripts/fr/cow-talk-for-elk.txt",
+      "bytes": 12095,
+      "sha256": "419084fcbbe6659a978f80778e933e9ea2def81fc23d8248296573ecc009213e"
+    },
+    {
+      "path": "records/transcripts/fr/elk-talk-review.txt",
+      "bytes": 3893,
+      "sha256": "71686b262627399f51f8eeccb0bea2eb14e3fc52b5df0afdcbf50ad81d18a41a"
+    },
+    {
+      "path": "records/transcripts/fr/founder-record.txt",
+      "bytes": 2297,
+      "sha256": "3435eabf511a8a239f118d39673c852089518eba82ca3248f6dbd019d7fef29d"
+    },
+    {
+      "path": "records/transcripts/fr/more-exposition.txt",
+      "bytes": 1873,
+      "sha256": "8d1ef599359e4b921bd319d81ecb1ef6d50b74c7bfd6eb6a357aadd1fea78837"
+    },
+    {
+      "path": "records/transcripts/fr/more-show.txt",
+      "bytes": 1759,
+      "sha256": "49e35cd1057b335a3809dfecddc2374be04742c4cf065306387dcd7b96a72f40"
+    },
+    {
+      "path": "records/transcripts/fr/sports-afield.txt",
+      "bytes": 1266,
+      "sha256": "14276209ec256638d4c9cf0abd3ff83144c23079ec698a94ef8eae1970410b07"
+    },
+    {
+      "path": "records/transcripts/fr/take-a-bull.txt",
+      "bytes": 11354,
+      "sha256": "28bd87fdecdca0626043e7c1bf1ba949f631127946017f5f9f15179910187442"
+    },
+    {
+      "path": "records/transcripts/fr/talk-to-the-elk.txt",
+      "bytes": 12091,
+      "sha256": "2600e3313a71f3d70dd7f4864d577650de1478d88ac0a9849c0eea04769ae499"
+    },
+    {
+      "path": "resource-finder.js",
+      "bytes": 4624,
+      "sha256": "5c8f667e75c7bd29891d62db1c27fa5a236323881d22d18fbcf4c7dd802d7c41"
+    },
+    {
+      "path": "resource-index.json",
+      "bytes": 32818,
+      "sha256": "4938a1c546b1e7ef82319d11f3a20e27b0b832d3653d73c739150e6b8364ea35"
+    },
+    {
+      "path": "saved-resources.js",
+      "bytes": 2771,
+      "sha256": "181c1cf4a1de5c498f9c384efdda548f4b14bc004d0b698e03be751348839eb0"
+    },
+    {
+      "path": "script.js",
+      "bytes": 13718,
+      "sha256": "399ee03f3a0a9a8a0b32c998783a1b8f675435c4aed55b0123ce23f87d52f49e"
+    },
+    {
+      "path": "shop/index.html",
+      "bytes": 15531,
+      "sha256": "c593cc8fdb003ac0d40ba30bfd7a82665c59bfef64301b58d462f44f8afff924"
+    },
+    {
+      "path": "site-language.css",
+      "bytes": 2442,
+      "sha256": "298ff3d556544a9d93d9992d4b42f79650a5e5fcaaaf8e0246e2a3e20325ee8e"
+    },
+    {
+      "path": "site-language.js",
+      "bytes": 4940,
+      "sha256": "8f8291351b89c71fb3e8e831fc3f4d0cb52aeff15361d2b44f8f5890b5feb1c4"
+    },
+    {
+      "path": "sitemap.xml",
+      "bytes": 42137,
+      "sha256": "5ceda0106643b9638df37b406739c54367ff19153798b8547cef3acbbe4f8364"
+    },
+    {
+      "path": "soundscape.css",
+      "bytes": 12209,
+      "sha256": "ba861ab4effa2f00611483a2f7a904f020a44c50100025b9b6bb67412c86b173"
+    },
+    {
+      "path": "store-motion.js",
+      "bytes": 5889,
+      "sha256": "5df109310ef51dacba6844824741385016b30b969f3e6fc0214fb710fe52c9af"
+    },
+    {
+      "path": "store-suggestion-rules.js",
+      "bytes": 2993,
+      "sha256": "b616efc21d4985761b0f739bb7614064b2baf1f69ddf5129563c7c48e663ddf0"
+    },
+    {
+      "path": "store-suggestions.css",
+      "bytes": 8391,
+      "sha256": "446b95564e8c2a9ef9e440df05e3de9627147ccfb3382696d70d8abcbe6ede9e"
+    },
+    {
+      "path": "store-suggestions.js",
+      "bytes": 9394,
+      "sha256": "3ea9813979be329d8bcce67b52ad6b745d6ce12ca23ed403005d446acefbccbd"
+    },
+    {
+      "path": "store.css",
+      "bytes": 9134,
+      "sha256": "b49d6f60b0c12a0fdccab66da44d0a695e09b06a634350885dc81dfcbf41bdf3"
+    },
+    {
+      "path": "store.js",
+      "bytes": 10278,
+      "sha256": "b7c6ad945e1e24a0aa0dc5b0c527bc6287779ad732a09304d4369e3ad28cb364"
+    },
+    {
+      "path": "styles.css",
+      "bytes": 22113,
+      "sha256": "a4880cd0269fecc6fb782b63e4443497c93aafcc9234bd1a1ab71faf4a71a9cd"
+    },
+    {
+      "path": "support/index.html",
+      "bytes": 15962,
+      "sha256": "3dc38716d243abae15f3782017f5b6d0b09d8cc54b5f53f3f3fe3ed1c8d2ff30"
+    },
+    {
+      "path": "support.css",
+      "bytes": 1610,
+      "sha256": "dfc964d4217be83dd2d8c6ca361b370f060088a76b4d18ef1c3b1ee06e538b50"
+    },
+    {
+      "path": "support.js",
+      "bytes": 1822,
+      "sha256": "6c8593243094a783ceccf53abbe0aa42889d5e235b8824e232c1665900670e3f"
+    },
+    {
+      "path": "university/index.html",
+      "bytes": 9334,
+      "sha256": "e2a31fda2962cbd7dca7f295b7bed176299d232bb7a2f698fbdcc303d76a153c"
+    },
+    {
+      "path": "university.css",
+      "bytes": 7195,
+      "sha256": "4cbae83a429683e37b6dd7ff1a00963ba09fe150fa3112e4782221cae1451b21"
+    },
+    {
+      "path": "us-dealers.css",
+      "bytes": 5818,
+      "sha256": "e9f2b44c3ffedc7b88b002da7c42d48c4d06a2d534e555354fb889153a5d20d1"
+    },
+    {
+      "path": "vendor/dealer-pdf-abc73e6e67db/@pdf-lib-fontkit-README.md",
+      "bytes": 16875,
+      "sha256": "7315fcc54511f5ffc906969c39333f93cd47f5217ab014fe45acff14bd5ec4c0"
+    },
+    {
+      "path": "vendor/dealer-pdf-abc73e6e67db/@pdf-lib-fontkit-package.json",
+      "bytes": 2278,
+      "sha256": "42b7a756ea4c11abfa664ffe9f9b67c1e30e564b5e2fb6db5b1775dac3eabb35"
+    },
+    {
+      "path": "vendor/dealer-pdf-abc73e6e67db/@pdf-lib-standard-fonts-LICENSE.md",
+      "bytes": 1070,
+      "sha256": "45cc2bb9957ed43f5c7f5eb1912f9f670730394d614079510477cae626194649"
+    },
+    {
+      "path": "vendor/dealer-pdf-abc73e6e67db/@pdf-lib-upng-LICENSE",
+      "bytes": 1065,
+      "sha256": "c1fb8861eca211bf5aea574358aba7039396c0c1824c2a1477cc126d398efd89"
+    },
+    {
+      "path": "vendor/dealer-pdf-abc73e6e67db/engine.js",
+      "bytes": 1370962,
+      "sha256": "abc73e6e67dbf03880558edf1722a6f43bd7fb987d0ced760d18e84fbd941c5e"
+    },
+    {
+      "path": "vendor/dealer-pdf-abc73e6e67db/pako-LICENSE",
+      "bytes": 1104,
+      "sha256": "a04665b3b2de56c66730c1f720f528175739e4104f79073614aa611da1e85539"
+    },
+    {
+      "path": "vendor/dealer-pdf-abc73e6e67db/pdf-lib-LICENSE.md",
+      "bytes": 1070,
+      "sha256": "f2c9fc00fdb66eb99ac156ba52d734af66d8d309f65753ae809ad34ee2883bcb"
+    },
+    {
+      "path": "vendor/dealer-pdf-abc73e6e67db/tslib-LICENSE.txt",
+      "bytes": 655,
+      "sha256": "210b19e543130388c68654b7497e967119ce17145f66ab7d85688fbd70f08751"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/LICENSE",
+      "bytes": 10174,
+      "sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/78-EUC-H.bcmap",
+      "bytes": 2404,
+      "sha256": "d92a261336dc18b8c03a46eb4d462382d33f4338fa195d303256b2031434c874"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/78-EUC-V.bcmap",
+      "bytes": 173,
+      "sha256": "61670bebc4e4827b67230c054fd0d820d6e30c3584d02e386804e62bbedc032a"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/78-H.bcmap",
+      "bytes": 2379,
+      "sha256": "ece6415b853d61e1b2560165151407d35cf16e6556932b85a13ea75276b77402"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/78-RKSJ-H.bcmap",
+      "bytes": 2398,
+      "sha256": "696b1f973c97623496703809eaaa5f9b40696c77540057413f4b826a08edfa7b"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/78-RKSJ-V.bcmap",
+      "bytes": 173,
+      "sha256": "53cb6d560ab377da48cf65d6dcacb0bdb31f13fab7066c580de38c12a73a7ff9"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/78-V.bcmap",
+      "bytes": 169,
+      "sha256": "289000f02fd34872b6975503217f33abae6bee676e7d28f640473a67c8db1712"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/78ms-RKSJ-H.bcmap",
+      "bytes": 2651,
+      "sha256": "a2442595218f5f8bd8e1b42188e368587d876cfe0cc4cd87196f077c878f72e2"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/78ms-RKSJ-V.bcmap",
+      "bytes": 290,
+      "sha256": "f8ddceba96bfd9d3740bd1789ee30d1f47c78371520a8084f71f7df58f19be0b"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/83pv-RKSJ-H.bcmap",
+      "bytes": 905,
+      "sha256": "44040051ec818fe09b9703472bea72efd2759d5eeb5ff0d77c718d6bb5e6d1df"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/90ms-RKSJ-H.bcmap",
+      "bytes": 721,
+      "sha256": "c13e043e85ff715b75bb03801e8fd0fb8f3a75e4a48496faa6baaf92b5b48ba1"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/90ms-RKSJ-V.bcmap",
+      "bytes": 290,
+      "sha256": "499bb916ce1adbe4289b6e5811f4dc20eb238cdc2ffad20cf26ae56716885bab"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/90msp-RKSJ-H.bcmap",
+      "bytes": 715,
+      "sha256": "7b8b3b8bbf821702e9a4df9f3596ce292380c8c1b0925dedadbb4e4b2d80498b"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/90msp-RKSJ-V.bcmap",
+      "bytes": 291,
+      "sha256": "6296c2b5c07dca8128e96d5296d621a3268803d4fa0e5812a21e52fe2802aacb"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/90pv-RKSJ-H.bcmap",
+      "bytes": 982,
+      "sha256": "fb5103f03d3a34547e18d316e52b6d9b26e485c662999222f84d2ba54c2e4fa8"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/90pv-RKSJ-V.bcmap",
+      "bytes": 260,
+      "sha256": "7bcb5ad2ba55b9662ce379e16c2d9cc2b82d621a579807353741172e4af615c2"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/Add-H.bcmap",
+      "bytes": 2419,
+      "sha256": "a2ffab28b990998181bcca9b0e914bb2207820f100ae31d5c469444892e5ad8e"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/Add-RKSJ-H.bcmap",
+      "bytes": 2413,
+      "sha256": "b29f4b52e2465d0485856d5e69f1ba69927deb2848d8fd328c8035583b35bb7e"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/Add-RKSJ-V.bcmap",
+      "bytes": 287,
+      "sha256": "2aa2232c283a3f5d0997c2834a36cead0b79ce2657944cfeed08140c293460ff"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/Add-V.bcmap",
+      "bytes": 282,
+      "sha256": "25125d3b1be64e86b2df5b3344170b45a42bcaa0b46e43a34314ef73c166e542"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/Adobe-CNS1-0.bcmap",
+      "bytes": 317,
+      "sha256": "8c65be9d51a9f269a547dc12460707aaf4031ab67ebe8a2900f4b4cc6b3e450e"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/Adobe-CNS1-1.bcmap",
+      "bytes": 371,
+      "sha256": "73152bc1a59cc594b414ac6068be48e5512b96ae85920c40e32a99269fdb0c04"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/Adobe-CNS1-2.bcmap",
+      "bytes": 376,
+      "sha256": "a1b8d353bdef9584c820464e8f1c9e2013d64ebf433cba0aa831dddf515818c2"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/Adobe-CNS1-3.bcmap",
+      "bytes": 401,
+      "sha256": "2ffc0c75c79fafde506163d3c08c390d183251009f3fbf6ae50d1167d14b9570"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/Adobe-CNS1-4.bcmap",
+      "bytes": 405,
+      "sha256": "98a1f470c878c6b9691a4d7aef776af8ac9b55f5587c9fafa00547f3bf655716"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/Adobe-CNS1-5.bcmap",
+      "bytes": 406,
+      "sha256": "ddd6e29955eb8cb545f2ebd09c628c3bbda5023256eda1b728f743c75fb77829"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/Adobe-CNS1-6.bcmap",
+      "bytes": 406,
+      "sha256": "317bb2db71e0e5b7b0c47b75de1da915c2e22f65f0c0861507f9ca7ba238f8a2"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/Adobe-CNS1-UCS2.bcmap",
+      "bytes": 41193,
+      "sha256": "e665837f2197c6bd08cd8955ad4d6932cee2398e2e328b25b00e6bfb3bd72af9"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/Adobe-GB1-0.bcmap",
+      "bytes": 217,
+      "sha256": "8b81cce8a11d510e505704953cfa4e4ab080c1a0cab991145a3512ee433946b9"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/Adobe-GB1-1.bcmap",
+      "bytes": 250,
+      "sha256": "0426983081788ec7202703e71f1efa4b860f75b936994236010b39d89251a81e"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/Adobe-GB1-2.bcmap",
+      "bytes": 465,
+      "sha256": "e67b37a83b160ab3831306a71a605893b24454ee81ac9b6123bf2d3984d268d5"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/Adobe-GB1-3.bcmap",
+      "bytes": 470,
+      "sha256": "aa299afc3e12a28726147305f191be28c7498078c8b182ece7886ac79cd99078"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/Adobe-GB1-4.bcmap",
+      "bytes": 601,
+      "sha256": "8fbd7d74c2ddb1350c1cecce54a73fde3f5453093d4bed445283ec0033d2097f"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/Adobe-GB1-5.bcmap",
+      "bytes": 625,
+      "sha256": "c22cb2fcff24112fa31dab2111bdc51957006576d31aad5a25e67793ac01428c"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/Adobe-GB1-UCS2.bcmap",
+      "bytes": 33974,
+      "sha256": "20507620260c0c935c35afc1e70e5888aa7125d5ec7ffc03cef1959feb2c1641"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/Adobe-Japan1-0.bcmap",
+      "bytes": 225,
+      "sha256": "464f08905236f5703b1f5cf8358767c8b18e6bcc808840d081f1de2c7ab38134"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/Adobe-Japan1-1.bcmap",
+      "bytes": 226,
+      "sha256": "4c823848722187d1ffe75ae3f5f9126ccd2d7895a05fad14c919fb119e037008"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/Adobe-Japan1-2.bcmap",
+      "bytes": 233,
+      "sha256": "7810fb808e367e70429e90a9478fe6a3fdc3e214f25c7582ce9c2da6a242315c"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/Adobe-Japan1-3.bcmap",
+      "bytes": 242,
+      "sha256": "84deb1828711ad3d390c9899c38abce1bf619d65ff7bf1a326ec95acc45f08f8"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/Adobe-Japan1-4.bcmap",
+      "bytes": 337,
+      "sha256": "3f8a4f974919c2b8bae5d10175ffa2673be140481e00840542c85d48ef184067"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/Adobe-Japan1-5.bcmap",
+      "bytes": 430,
+      "sha256": "1d3ce4ff28d977f8cf37a912ae4ec811f4175c3167b1ec0b2567feec3e79e1db"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/Adobe-Japan1-6.bcmap",
+      "bytes": 485,
+      "sha256": "5609797b9401b30be72ef9645da62a87829f058c3be4b5c623383119f584b1d9"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/Adobe-Japan1-UCS2.bcmap",
+      "bytes": 40951,
+      "sha256": "66c5d0dc4964f4093e77b194023f3a0f689324028ec8330e1e1d0570bcba7c2f"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/Adobe-Korea1-0.bcmap",
+      "bytes": 241,
+      "sha256": "dfb8c3874f0e5a8c3acf597d2c12d2b63e90bc5e4f0fce990ec4c56077d80b32"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/Adobe-Korea1-1.bcmap",
+      "bytes": 386,
+      "sha256": "62f277b7b1c441c007797ae707d5c37258d029ce4661a2b911e2e1ee35e6adc1"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/Adobe-Korea1-2.bcmap",
+      "bytes": 391,
+      "sha256": "1d77068af462f96d7ad28ad7e7d43eef6423c685b479d7dc25ff5df38db0380d"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/Adobe-Korea1-UCS2.bcmap",
+      "bytes": 23293,
+      "sha256": "857b723088be97255053562bfa41bd1075a7f7910d3bab59a0645c8bbc7060ff"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/B5-H.bcmap",
+      "bytes": 1086,
+      "sha256": "718ad0ffbef4c34f8f3f31292c462e519cd567a5511fc8b346c60010d64f4ef9"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/B5-V.bcmap",
+      "bytes": 142,
+      "sha256": "b5c37383517477620ced927b6b4ffd4f4cc6230d8051b5b46a21d6768e07f7d8"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/B5pc-H.bcmap",
+      "bytes": 1099,
+      "sha256": "bab6028aead1d6149400e904ab10cfd319082d826473ed4c582c8eeed920f17e"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/B5pc-V.bcmap",
+      "bytes": 144,
+      "sha256": "41543142b9767f3b76133899fc8453282b01ad3c653acaeea42d78c5a7d08c63"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/CNS-EUC-H.bcmap",
+      "bytes": 1780,
+      "sha256": "e8f89cd61e6486b948205da46499d659ed0aed949b7095fd3c8e95ffe2b0e7a9"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/CNS-EUC-V.bcmap",
+      "bytes": 1920,
+      "sha256": "cae422bec2ac6dbe86bf921cec942bacd2d0b733ffcca5f91b3ba14e917025a0"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/CNS1-H.bcmap",
+      "bytes": 706,
+      "sha256": "e8487971ab20cd16f3de3e8ac56ec994b72b658ad113f2818239dfd5108f501a"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/CNS1-V.bcmap",
+      "bytes": 143,
+      "sha256": "42df8076aaa7574505e7304af83a3323ec032c4177d64b1309db8c043d594a8a"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/CNS2-H.bcmap",
+      "bytes": 504,
+      "sha256": "bc6024d274d440f0625c69e25f37036ef6cb6689432ceaa160d3432a2a716ca7"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/CNS2-V.bcmap",
+      "bytes": 93,
+      "sha256": "2e4f70a8afd23a121030fc2e5b5f3816e903b11e7ba8b8c09654b31c80399c38"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/ETHK-B5-H.bcmap",
+      "bytes": 4426,
+      "sha256": "d2f10fa519336bc4efcc7b6deb9604b75429946b40d82e311cb3a97a1994c89a"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/ETHK-B5-V.bcmap",
+      "bytes": 158,
+      "sha256": "1fea3fd0d9f0f679f80505800851ef2e4131d81127e18c006938ffa2f4c8b247"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/ETen-B5-H.bcmap",
+      "bytes": 1125,
+      "sha256": "87ee6b3f5bfda5fe26fa35431264c7d73070d10dbbf398a75185d63ae322c18d"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/ETen-B5-V.bcmap",
+      "bytes": 158,
+      "sha256": "47dc0d2c21e3bde317947aec1675ceabc1d5460a60bf9c24334b8c407a17172c"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/ETenms-B5-H.bcmap",
+      "bytes": 101,
+      "sha256": "d5f5a73da4173b7da9a3a20e16f26f9cd5d12deb1553409919e0cec6fd37fdee"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/ETenms-B5-V.bcmap",
+      "bytes": 172,
+      "sha256": "18252fca90f472f479af1bddd60d6ab51c8e1b55dcf6845951426504934543e0"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/EUC-H.bcmap",
+      "bytes": 578,
+      "sha256": "f9939cd57fccdc65c5d9f4c205fd497ebdbd283643308da5663801a8c1d9c595"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/EUC-V.bcmap",
+      "bytes": 170,
+      "sha256": "1283a50a706507c4436da83ede9ad7a4440be25378f2e96f6c81a430081426a3"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/Ext-H.bcmap",
+      "bytes": 2536,
+      "sha256": "4000ed4e61a1c668ef453bbd0603cfa383defa793abd46a57ed870d7f527350b"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/Ext-RKSJ-H.bcmap",
+      "bytes": 2542,
+      "sha256": "e0d2f0df337660e73813238dd4a725f11f0621b90f3273857db253d0e7694caa"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/Ext-RKSJ-V.bcmap",
+      "bytes": 218,
+      "sha256": "f617a22b6d67febb187990952006c91a9f5a4db21155d268c656252d0c21985d"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/Ext-V.bcmap",
+      "bytes": 215,
+      "sha256": "c2087fb845a9e3acea0c2922cd40e6af67e11957bec74dcd597f1285edd490ce"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/GB-EUC-H.bcmap",
+      "bytes": 549,
+      "sha256": "928bad06fd84a48f5ba7150d7716609119fb660f2aaa73eccad81ddab9b9d203"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/GB-EUC-V.bcmap",
+      "bytes": 179,
+      "sha256": "a9ad88ac2479da529b16dc48abc5952332e27bc355335f91df5729a587533324"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/GB-H.bcmap",
+      "bytes": 528,
+      "sha256": "1018c777a8910b5bb46d7d54a4aee9d51ca5cff8addb2b41c969d9101cb3fd1c"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/GB-V.bcmap",
+      "bytes": 175,
+      "sha256": "0b96789143c0bbf9f1641ae7165b3456dccd14dabffcbb0bd654d5bf6f94f863"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/GBK-EUC-H.bcmap",
+      "bytes": 14692,
+      "sha256": "2103fed28650ede096a2281104a1a8a4304dae0db414342c636867522307123b"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/GBK-EUC-V.bcmap",
+      "bytes": 180,
+      "sha256": "a7fd35dd14d9dbdb955f34e6c0630618b6620dfd09d4283b2f65a65ce77fcaea"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/GBK2K-H.bcmap",
+      "bytes": 19662,
+      "sha256": "3d919ae72af16c5cc6846ec87a4326a9f125e493c59d3628429d35c2c95fe8c4"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/GBK2K-V.bcmap",
+      "bytes": 219,
+      "sha256": "b927fdfd595c07ce9158bf2ec13f4641b2e83b01c70989dadfabd6ed7c6ac2dc"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/GBKp-EUC-H.bcmap",
+      "bytes": 14686,
+      "sha256": "d15ebd8e81fb4fe8a244f1b1e877922e03500ac69eddf5001093e502430451d2"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/GBKp-EUC-V.bcmap",
+      "bytes": 181,
+      "sha256": "fdc736d46e642625dccc8ad8c59f2c69fc7db7a13f2e799c6c6b779e707bb97a"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/GBT-EUC-H.bcmap",
+      "bytes": 7290,
+      "sha256": "dc5f44e48a39f3367ae28665027d8ab1d8cedb5a9dcc5068a900acd6709f60f9"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/GBT-EUC-V.bcmap",
+      "bytes": 180,
+      "sha256": "a1ad24e63653b8aa388c18fa5e498f007564e43dde699a9f91ccb4645c999be8"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/GBT-H.bcmap",
+      "bytes": 7269,
+      "sha256": "8afda745a505763f3ff54c8126eeb48ef376ea9ed07d9f42ff9a22c5c547ec57"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/GBT-V.bcmap",
+      "bytes": 176,
+      "sha256": "cdc2ec5c3c7c7033290c9a8894878202f08674eb9b1ae7d36218430326768771"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/GBTpc-EUC-H.bcmap",
+      "bytes": 7298,
+      "sha256": "7b23e2f7bfdb6c918f567b7324bf858f398bd8cd5f268d74ece19a3c91bf4f32"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/GBTpc-EUC-V.bcmap",
+      "bytes": 182,
+      "sha256": "d7a1b13ead9ab511cf2cd01de6ce8b02aa8e8767e84895337d7a3b67f039f93b"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/GBpc-EUC-H.bcmap",
+      "bytes": 557,
+      "sha256": "3c4a4eb82f05abe51f6650985c630e180438bfdd491318f5d20d2ec29236e1c3"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/GBpc-EUC-V.bcmap",
+      "bytes": 181,
+      "sha256": "215bdfa2842705624b4cf4cd29b8e3c720f1e192365e0305c11030a424c84d7c"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/H.bcmap",
+      "bytes": 553,
+      "sha256": "a0233e21047ec00b852125b243cbcf30abee511155b6d8159c24f944384bc9ee"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/HKdla-B5-H.bcmap",
+      "bytes": 2654,
+      "sha256": "5242bce18fb13ab4cc59b146a03eba36e4ce42667eeff09e10981a9d2aa4996b"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/HKdla-B5-V.bcmap",
+      "bytes": 148,
+      "sha256": "2e0537f786c0791d41a925f72bad2d4e7268aa6cbf15a1400a722672cec38e2c"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/HKdlb-B5-H.bcmap",
+      "bytes": 2414,
+      "sha256": "fdc8159984bf5dbe475c0d5dfcb621ecee4dea07c38c668bd77f4c679e23b9b3"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/HKdlb-B5-V.bcmap",
+      "bytes": 148,
+      "sha256": "b249eb9dcb915ab45057c5d4d7aa55ef88d0efbb092af6bae0b2d4705d139abf"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/HKgccs-B5-H.bcmap",
+      "bytes": 2292,
+      "sha256": "ab64c7fc5e9b2e97750cc4f269b0da14fd8649e49151b7598c8df86599bac591"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/HKgccs-B5-V.bcmap",
+      "bytes": 149,
+      "sha256": "02ebdf7cdffb5395fb21091cd58a013a18ae5388922822f9dc6292ef16b98956"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/HKm314-B5-H.bcmap",
+      "bytes": 1772,
+      "sha256": "bfd8bbde6b36a9da4c1c902c74121a30d9807a7079a00eeea218be6adc223cef"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/HKm314-B5-V.bcmap",
+      "bytes": 149,
+      "sha256": "2a64a815cfb6fdd480674a868762e3d161fda17543b20c9209978559f0667164"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/HKm471-B5-H.bcmap",
+      "bytes": 2171,
+      "sha256": "49d7c037758826b5b6c0fa329c35bbf25d3943197754e72ecd30c6fb04d745e6"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/HKm471-B5-V.bcmap",
+      "bytes": 149,
+      "sha256": "be24c109e78aa4fe3c1f27d30aab3ed0741e783fa1b6b6c2719741072b54b132"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/HKscs-B5-H.bcmap",
+      "bytes": 4437,
+      "sha256": "08599378f41d96b40537adef6e6edcc4a787bc63f5accf47c026df4905a13914"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/HKscs-B5-V.bcmap",
+      "bytes": 159,
+      "sha256": "d073542b7dad1c4cbf01c1af5f0cd13218d1281a491956e310c55702fc8705c4"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/Hankaku.bcmap",
+      "bytes": 132,
+      "sha256": "b454701f7aecd7856769016dfd04ca64280a060f2c67a2466d50b4395d24974e"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/Hiragana.bcmap",
+      "bytes": 124,
+      "sha256": "2ed669394756dd9458651cd9995ab29ab691ecb7686659003306cdf22767a414"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/KSC-EUC-H.bcmap",
+      "bytes": 1848,
+      "sha256": "6784e16dbc5861c036c23d3e55f0d4ba0975a3e464da0ee8e49bcfff0be070c4"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/KSC-EUC-V.bcmap",
+      "bytes": 164,
+      "sha256": "fdb36bad85e9924823d49db374067988e024cf80fc894711f2c9178951cbbe95"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/KSC-H.bcmap",
+      "bytes": 1831,
+      "sha256": "c1f6d61f1d3304fd539a65ae72624fa567ecc3853bf52e283958a7a2515b3eee"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/KSC-Johab-H.bcmap",
+      "bytes": 16791,
+      "sha256": "939993d213f68db763bf156217c217ae23af082b91a0eacecf3d11eb4ff8ef8c"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/KSC-Johab-V.bcmap",
+      "bytes": 166,
+      "sha256": "5d61967aac0e666def721e8b8d0fed8f95a879a14f2e76ce516c3d11c621e519"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/KSC-V.bcmap",
+      "bytes": 160,
+      "sha256": "d7da5afd9f1fe74816d79c9325f0139a4efb6438664ebfdf9a7aa92f3034360f"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/KSCms-UHC-H.bcmap",
+      "bytes": 2787,
+      "sha256": "5b70d8f6a4fa9e2283dc649f0ff95d906d56efbee50a20e8d2faec3a8fed078e"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/KSCms-UHC-HW-H.bcmap",
+      "bytes": 2789,
+      "sha256": "a5e6ba22aceb02fdedee11bfb9ed138463d89e85b87810b9f075b469d936f8ec"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/KSCms-UHC-HW-V.bcmap",
+      "bytes": 169,
+      "sha256": "890332a6a26880d463a12f2a6ff048bf9cf7e45077cfb1ca8815b89baa7bf411"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/KSCms-UHC-V.bcmap",
+      "bytes": 166,
+      "sha256": "1631b531c9a40c8cbe24c2317dba107362e49fa6e18af620414d627c111d570c"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/KSCpc-EUC-H.bcmap",
+      "bytes": 2024,
+      "sha256": "709480682c55cedbb0124b9960d78e28febeee0df2e34607d61aac6601647ec7"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/KSCpc-EUC-V.bcmap",
+      "bytes": 166,
+      "sha256": "031707887d6fc2378a36cdb6775334fd7a236c3f95048d8436abf43fe26fc49d"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/Katakana.bcmap",
+      "bytes": 100,
+      "sha256": "3b6ca6642fbf8822da00d5e58a8aa275216d5c32dbf2bd73e934197fc9fc5c53"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/LICENSE",
+      "bytes": 2080,
+      "sha256": "aa92ab5a472974865a96fd4a4e9c13bb41bf6fe1b309cb6b8da48bc9e19839a2"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/NWP-H.bcmap",
+      "bytes": 2765,
+      "sha256": "286c6c9e335da330928a01edc3c97a3a623f1f7f3c42762b0a7dc2f651b1a78f"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/NWP-V.bcmap",
+      "bytes": 252,
+      "sha256": "3a75fb7b59adfb172710758c425d8ac6c93fd5360a64dd4afd5dd04e60ab4b4d"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/RKSJ-H.bcmap",
+      "bytes": 534,
+      "sha256": "a70de61a22a898f693f02cc011c3e3cff2e10aaa7cddb4661e456a21ae859f78"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/RKSJ-V.bcmap",
+      "bytes": 170,
+      "sha256": "68c1a64506471a524ea5cfc3b3a9f8f70031989a6bd95427b1351f33ccf50b06"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/Roman.bcmap",
+      "bytes": 96,
+      "sha256": "1c6b3ef9d9e5cb1aa329142ce9414b90f9b6d7f9182a2a9e927378dab8f0d43f"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniCNS-UCS2-H.bcmap",
+      "bytes": 48280,
+      "sha256": "779428116752f34e2490a1941d24e4634c71e3c22d053b811d2090ae2fb3c704"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniCNS-UCS2-V.bcmap",
+      "bytes": 156,
+      "sha256": "1e5cc184b850ea44abc2df8ae5674279df668e8edf5e2a1a2ea2bd77adbd280f"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniCNS-UTF16-H.bcmap",
+      "bytes": 50419,
+      "sha256": "32ff139b3c7b91d6ad25f994701f3ce7b242906022c418fd73e6493fc228bfe5"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniCNS-UTF16-V.bcmap",
+      "bytes": 156,
+      "sha256": "278eb1e68d1a236c60ef59472cf0176ee0d45f364285e76ca12419a08d46fb9a"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniCNS-UTF32-H.bcmap",
+      "bytes": 52679,
+      "sha256": "bf26eb67fe19ee5ba915799e80ca72408400aa8342fdf6a244a4f44de8f97336"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniCNS-UTF32-V.bcmap",
+      "bytes": 160,
+      "sha256": "f7da3caf83ceb1cb37936fa10700d9ba6e9c3f72c5bc9724e3ac79bff0c0179e"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniCNS-UTF8-H.bcmap",
+      "bytes": 53629,
+      "sha256": "2f2a742bcd1a84a148a4a518b9eed51a8f9c6ca5ed3bc5e2e41fff97de5dc2d8"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniCNS-UTF8-V.bcmap",
+      "bytes": 157,
+      "sha256": "b7c3f10780a8c62dd1c8ff6c30dc1e4e23b6cdc87c3a96fcd514cc98ffd3af9d"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniGB-UCS2-H.bcmap",
+      "bytes": 43366,
+      "sha256": "9201569b402e81ad8860650bd86350c4fa28e5dd5971f05fcacaf40f51de18ed"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniGB-UCS2-V.bcmap",
+      "bytes": 193,
+      "sha256": "f10282335e4d64203bc2a653a3a47d745ec76c8ae04549f4d50180c1899be216"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniGB-UTF16-H.bcmap",
+      "bytes": 44086,
+      "sha256": "386fd39581245c034da016a92d23f3df1117d169f996100050b264fc09a84e35"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniGB-UTF16-V.bcmap",
+      "bytes": 178,
+      "sha256": "0473cfbba612b92dd9918f0ff8aee9112897c48e0ffdc0eb82da3144ed8ea84a"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniGB-UTF32-H.bcmap",
+      "bytes": 45738,
+      "sha256": "f48a145dc4e3ed1dca1dde7111716a72306a2a4191ab05c6bae3a5c3a961cd2f"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniGB-UTF32-V.bcmap",
+      "bytes": 182,
+      "sha256": "106acc49b7118bdef944e32107b4f348238f3929a0a15d3b7aab7b9101535993"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniGB-UTF8-H.bcmap",
+      "bytes": 46837,
+      "sha256": "f217b439c80ee5fa1bc2cf6d1defcc319f8d84483d166a00ee199e05a68588df"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniGB-UTF8-V.bcmap",
+      "bytes": 181,
+      "sha256": "a64df947632878eacc532fa193c735c92a383b7d66e6f8374ac193af7c64fc63"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniJIS-UCS2-H.bcmap",
+      "bytes": 25439,
+      "sha256": "ad2352f40870880fbf7f8ee5abadff743fbd025fbf9830b8ada472d1c5e4da0b"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniJIS-UCS2-HW-H.bcmap",
+      "bytes": 119,
+      "sha256": "16e87edca954177c0881c874859d6783220925d821b5cdfb8755b61ebd93f9ce"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniJIS-UCS2-HW-V.bcmap",
+      "bytes": 680,
+      "sha256": "1973457e2c0192819947e56068625b34fb9a72ecc8a476ce6d7eaae5f73e2e5c"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniJIS-UCS2-V.bcmap",
+      "bytes": 664,
+      "sha256": "42a133d8e2ce9dd6d2288018e01592d2bf2435b326d39b94ea0b6e6a44ac33d3"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniJIS-UTF16-H.bcmap",
+      "bytes": 39443,
+      "sha256": "f6a89c5688978548c83fcee990e205bc63c74274d5c69b49032a3bd4c49a05ee"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniJIS-UTF16-V.bcmap",
+      "bytes": 643,
+      "sha256": "c67126fc7c73850855186bb0d6482ac0a365057e0b58778c4ab9f234683fef53"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniJIS-UTF32-H.bcmap",
+      "bytes": 40539,
+      "sha256": "96195950ce0fe24443d8eb426fa6b88534ec421d7bef9046f0b2362809cfba73"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniJIS-UTF32-V.bcmap",
+      "bytes": 677,
+      "sha256": "ed4dafda402bdd19c4d5d8bf2ab41473c0f86f384552b4c7b963d6627daedeb1"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniJIS-UTF8-H.bcmap",
+      "bytes": 41695,
+      "sha256": "798fb0bf06ab0788d1f6a91c2db7de581612eef03c628f10e8f7ecd8f70ab448"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniJIS-UTF8-V.bcmap",
+      "bytes": 678,
+      "sha256": "1021611424f913b2df0bfdbe94bd327c04e224ec89d8e821c6501ea3d21f4265"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniJIS2004-UTF16-H.bcmap",
+      "bytes": 39534,
+      "sha256": "710a32d7cb43fd6bd9dbf30da5971f8c941590f74441e208d852c2be0e74cc97"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniJIS2004-UTF16-V.bcmap",
+      "bytes": 647,
+      "sha256": "3b149aff5c5707b57fb3215d1775852c8b1f413ec0f679ea628f25cf87fe098d"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniJIS2004-UTF32-H.bcmap",
+      "bytes": 40630,
+      "sha256": "8d2658e18741af7937d586a57c89729a6fec0d86121197c1f8518aa58b29cdfb"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniJIS2004-UTF32-V.bcmap",
+      "bytes": 681,
+      "sha256": "6dd475782f2897648a683c48b2fa015a15b8f06856760bddc8a17a63f418bacb"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniJIS2004-UTF8-H.bcmap",
+      "bytes": 41779,
+      "sha256": "691c614ce432b3e62486efb54e5c84c6da5afe9b51b21253bde4758feb484183"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniJIS2004-UTF8-V.bcmap",
+      "bytes": 682,
+      "sha256": "40a8c7ea2d46711c5f78fc9a878a7db68b1543ba5cd60ecf14f519a2deb829b7"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniJISPro-UCS2-HW-V.bcmap",
+      "bytes": 705,
+      "sha256": "6826f94d789d7bf1960668c1c5819c34c9585c1b23152fbc19ee81c7df08524b"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniJISPro-UCS2-V.bcmap",
+      "bytes": 689,
+      "sha256": "493de9fd1a08f7946065d8ab58f0c3c9fe489f5a0f109f2d05a3169b4bd5789f"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniJISPro-UTF8-V.bcmap",
+      "bytes": 726,
+      "sha256": "6181d382cf736c5e09492e8be9f26f31fa25b7462253f23ab16646af432cad81"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniJISX0213-UTF32-H.bcmap",
+      "bytes": 40517,
+      "sha256": "692044e1fb33445668632bc9fe7386805c624864be1ddeb29d65bb0c99fc630c"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniJISX0213-UTF32-V.bcmap",
+      "bytes": 684,
+      "sha256": "dd54e16ca7bffb3a886242549b2bf7d78a277087f7c60d2636f118c21a5b0646"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniJISX02132004-UTF32-H.bcmap",
+      "bytes": 40608,
+      "sha256": "f80ea5a989be30ccda5a8804baef6d3b4b044d2b339bf8b31c671b2466171cf6"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniJISX02132004-UTF32-V.bcmap",
+      "bytes": 688,
+      "sha256": "94c22bd99e771c5fbe0dd8dc39850570d4db0075074aca13e272813edd7cc57f"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniKS-UCS2-H.bcmap",
+      "bytes": 25783,
+      "sha256": "a1081396ab4adb6f4a5b6c15f896963c244c1c9bcb65ce5616d06096a1b9811c"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniKS-UCS2-V.bcmap",
+      "bytes": 178,
+      "sha256": "6cab547431958fbdc1d401d06ebd4dd61a73f5509a10f974df32bcbca11a2e43"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniKS-UTF16-H.bcmap",
+      "bytes": 26327,
+      "sha256": "42d35b396286499dfae1737a07adb3a64500df37b426580bfb1d3ea872938519"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniKS-UTF16-V.bcmap",
+      "bytes": 164,
+      "sha256": "5bdb7390c80dcc136cb47d41dc7460082560969c17322ee739fe3020fb642410"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniKS-UTF32-H.bcmap",
+      "bytes": 26451,
+      "sha256": "3a01ec51ed1b828101351e337ffb8250abe11880032e5210f881170fed2588de"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniKS-UTF32-V.bcmap",
+      "bytes": 168,
+      "sha256": "dfda895eceaed081af030dbbb962b49629eea817fc3c02bae15db93d0c68acd7"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniKS-UTF8-H.bcmap",
+      "bytes": 27790,
+      "sha256": "3fac9c65145f72d7d42157a3b9c5ed6904632184e6a0888f2b828699afd2002f"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/UniKS-UTF8-V.bcmap",
+      "bytes": 169,
+      "sha256": "9ecc6cf30dd354b9778ddba163b6cc7302b087ce9f39d1ba73472d2b75ed13ca"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/V.bcmap",
+      "bytes": 166,
+      "sha256": "b9ad1c0c09ff14bca52f9a28a9767eb857ad0e8946e64ba14c7387a7eb69866a"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/cmaps/WP-Symbol.bcmap",
+      "bytes": 179,
+      "sha256": "543923bead225732aba30976690ee89095a19628277b5863efecc2c728d5d7bf"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/iccs/CGATS001Compat-v2-micro.icc",
+      "bytes": 8464,
+      "sha256": "73e1ba37d2bad5bab2a964f40a9eed96209666efc067c3322626214bbef234a0"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/iccs/LICENSE",
+      "bytes": 6553,
+      "sha256": "286e4fd7b447330b2c88e23890e3cd0a9d38cb398d4a59cb247f578ccbda3213"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/legacy/build/pdf.min.mjs",
+      "bytes": 523774,
+      "sha256": "bccc24ea711db8e44503629519904a5292d73b9daaa214bbe7cdcc282b0f4259"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/legacy/build/pdf.worker.min.mjs",
+      "bytes": 1321307,
+      "sha256": "145d2dd3ab0c86151011dba95acfa2d5336e2accd59388ea43dbee0efddaaec6"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/standard_fonts/FoxitDingbats.pfb",
+      "bytes": 29513,
+      "sha256": "845c752392b6c914fb989c75a08b7792b88f542d2499042ef2889f8c814a16ed"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/standard_fonts/FoxitFixed.pfb",
+      "bytes": 17597,
+      "sha256": "b6c8fe53f134b8b6d4578cd2d544df4cee9624c4efa8d51a560fb40ea296101b"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/standard_fonts/FoxitFixedBold.pfb",
+      "bytes": 18055,
+      "sha256": "f1b7159702973f54fc86254ea38bcf3712b2a736eb3a0995751e9f4bb45ad603"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/standard_fonts/FoxitFixedBoldItalic.pfb",
+      "bytes": 19151,
+      "sha256": "8a000945843bd31add06aee63bf9fd41b7578b4f3242a4b7cd46349ad9d24d4d"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/standard_fonts/FoxitFixedItalic.pfb",
+      "bytes": 18746,
+      "sha256": "5007faf8320fa1fcc08b8894b356ad976f60b992ba29ee5272578bbdebaf3876"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/standard_fonts/FoxitSerif.pfb",
+      "bytes": 19469,
+      "sha256": "4f57d2b9d884af8f907bf22df6019b52d86cbf6214fdbd02b1ae05472a543f35"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/standard_fonts/FoxitSerifBold.pfb",
+      "bytes": 19395,
+      "sha256": "0bdf4b04e964139818d51eda03d566ba999fc3ba2421b1c6c51f9dc969022e80"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/standard_fonts/FoxitSerifBoldItalic.pfb",
+      "bytes": 20733,
+      "sha256": "a406cac82583bf98175cb62c87ed5e95c45fbb34eece63a10b0a13e793cb2e10"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/standard_fonts/FoxitSerifItalic.pfb",
+      "bytes": 21227,
+      "sha256": "610ae0687198045c4db5d1a6650fd5e92536631706382eb8b72e38df578d0ae9"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/standard_fonts/FoxitSymbol.pfb",
+      "bytes": 16729,
+      "sha256": "47967d055530e7357088a08403115425643ec2cdfd6201ba8af0fbd7116c1539"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/standard_fonts/LICENSE_FOXIT",
+      "bytes": 1553,
+      "sha256": "b578cdd2345840ada550bd12519533812320d5f1d21cf4c1c7e1b1b0a31c98b7"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/standard_fonts/LICENSE_LIBERATION",
+      "bytes": 22154,
+      "sha256": "d2c4d5b3e115a519cb58eb691aa64538397e2611f9ebe801392cf9667997e7dc"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/standard_fonts/LiberationSans-Bold.ttf",
+      "bytes": 137052,
+      "sha256": "361c61b82d575c5c35fd9157fda8b0194bcfcd0d88ea8521a4fb5dd53d33dddc"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/standard_fonts/LiberationSans-BoldItalic.ttf",
+      "bytes": 135124,
+      "sha256": "a224075ac17495ad0a3af3bc0a419ac0704a8b3fd1095456201fb9b095fc281d"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/standard_fonts/LiberationSans-Italic.ttf",
+      "bytes": 162036,
+      "sha256": "832b4406dbef23628800d3aaad21048534ac84d7e3ad955be83b8172ed8ef512"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/standard_fonts/LiberationSans-Regular.ttf",
+      "bytes": 139512,
+      "sha256": "f8ace1f892b2bd9dc1792ba7f097fa7588f84fed48321480e04de5390828221f"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/wasm/LICENSE_JBIG2",
+      "bytes": 12862,
+      "sha256": "9e66b7f1b934a28b37f3bc4dac97915de1674271e79a0a88182a18ed9731b4d1"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/wasm/LICENSE_OPENJPEG",
+      "bytes": 2112,
+      "sha256": "a6af136f3e15038a666b61f376612a07d9a4e48cb7c01adbf3e33b3f14ab49b6"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/wasm/LICENSE_PDFJS_JBIG2",
+      "bytes": 555,
+      "sha256": "aad3cce09842e00e9e11ad5e8fef8cc02fbc3a3768fe2f007443b9cee37aaee5"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/wasm/LICENSE_PDFJS_OPENJPEG",
+      "bytes": 1285,
+      "sha256": "717fc62da03292dbb4dd0c8280bd4ce7bb8550dcf31d772bc93455fb50313425"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/wasm/LICENSE_PDFJS_QCMS",
+      "bytes": 1036,
+      "sha256": "508a77d2e7b51d98adeed32648ad124b7b30241a8e70b2e72c99f92d8e5874d1"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/wasm/LICENSE_QCMS",
+      "bytes": 1121,
+      "sha256": "36d847ae882f6574ebc72f56a4f354e4f104fde4a584373496482e97d52d31bc"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/wasm/jbig2.wasm",
+      "bytes": 103671,
+      "sha256": "466f45c2a61a698152fb5400c27e56ff2ceb73dcb71fde3fc366a502308eaab0"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/wasm/jbig2_nowasm_fallback.js",
+      "bytes": 152009,
+      "sha256": "68686ced624a48c42f84cdaa482ec44b72b0de4dc84a0df903af1fb7b45b5d9a"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/wasm/openjpeg.wasm",
+      "bytes": 251131,
+      "sha256": "95e5002597af0824004aa57b1900fe019715db389e37640b1e58395e42f00cc5"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/wasm/openjpeg_nowasm_fallback.js",
+      "bytes": 445781,
+      "sha256": "9047b34b6bc142d85e4b0aa1b08b0b9baad4c6f8b7ac87641b9e8f90eb6fd23e"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/wasm/qcms_bg.wasm",
+      "bytes": 96589,
+      "sha256": "663d86126d5f5fcb1c61490f94353e2a8375660b8c5498ab3ebab5a34b08800e"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/wasm/quickjs-eval.js",
+      "bytes": 6232,
+      "sha256": "fe7930418e869791ce892567dbd0bc4698152b7e550b5cefa553992c56ddc325"
+    },
+    {
+      "path": "vendor/pdfjs-6.4.299/wasm/quickjs-eval.wasm",
+      "bytes": 469105,
+      "sha256": "7bcacc9f22cacf7e9b23866d2a6d1639693d40c7f144e41b7c69ed37ba9cbe8f"
+    },
+    {
+      "path": "vendor/three/LICENSE",
+      "bytes": 1081,
+      "sha256": "bfe119ea4fd413f5f7ca3fcd63adb0c4a073ed39daa2fe7d3e6b769e21272601"
+    },
+    {
+      "path": "vendor/three/three-hero-r180-da00bccb.min.js",
+      "bytes": 532331,
+      "sha256": "da00bccbfd3940b24aca746a2819157146e8c54c39f4c9ae727c7d0f8c06e35e"
+    },
+    {
+      "path": "vendor/three/three.core.min.js",
+      "bytes": 381124,
+      "sha256": "61ba0df005b05991361d040d8ff670e1aadfd0ce7aeebd1fdb0725957a8957de"
+    },
+    {
+      "path": "vendor/three/three.module.min.js",
+      "bytes": 338908,
+      "sha256": "e2b5ee6bccd38fd6d8a2428546b83c5f2426d84b152ef82be8055556e3b40eb6"
+    },
+    {
+      "path": "video-compatibility.css",
+      "bytes": 302,
+      "sha256": "b6990841720a499787f8813dd5c4f75fc99fc9b392a10ab5b00417179f75ea13"
+    },
+    {
+      "path": "video-resource.css",
+      "bytes": 1459,
+      "sha256": "e70a9a4e306a5ab14c4edf60314ebf62aca8105b8cad6e83259847992f17edb1"
+    },
+    {
+      "path": "videos/index.html",
+      "bytes": 81219,
+      "sha256": "67b30448ff957bc6093e03ea403271a4a6f294a93e21a35e2d545b640fe713c5"
+    },
+    {
+      "path": "videos/watch/-T-a9pnPF5E/index.html",
+      "bytes": 9487,
+      "sha256": "760c14da6cd28a6ee13475af5b80c0391404ee61b1bf2f685c1660f1433feb2e"
+    },
+    {
+      "path": "videos/watch/0C4yCMsL0F4/index.html",
+      "bytes": 9921,
+      "sha256": "9a0fe68d8b8941d6cfcc7aa66169dde108d519d2719fa1e6825fa68929787959"
+    },
+    {
+      "path": "videos/watch/0v-pRhhHNBQ/index.html",
+      "bytes": 8882,
+      "sha256": "b8ca7c1ea2ba779a32140cae8117df3185b4fda4a012ab43ac45a87bd328e239"
+    },
+    {
+      "path": "videos/watch/4QB6BIsOB8s/index.html",
+      "bytes": 10170,
+      "sha256": "2230349da98848c5333c735864105106959dc55e76065a60a9ce96a4f1f7299d"
+    },
+    {
+      "path": "videos/watch/5_9RK6RXEtM/index.html",
+      "bytes": 9573,
+      "sha256": "5ad21d42048a95d6cb736f9b6b8034993ba0e75d479aee55dc66d2ec34011b30"
+    },
+    {
+      "path": "videos/watch/8Ikymay92SY/index.html",
+      "bytes": 9634,
+      "sha256": "8a8b23c27c535989b7da81636a2378df085765ded3ae0494d86675750690b746"
+    },
+    {
+      "path": "videos/watch/8jP-Fl_JmU4/index.html",
+      "bytes": 9050,
+      "sha256": "ccbb656ed8d4e6a072e03e99be2013bcb4c8c02aaac4b0b3f57e310a8d15be57"
+    },
+    {
+      "path": "videos/watch/97uiIgLbEI4/index.html",
+      "bytes": 10032,
+      "sha256": "d017f4e147a5b1f36b847a7b7c7c2f2b4620edf3d82464de1d0a53cc02827b45"
+    },
+    {
+      "path": "videos/watch/9EbA5JwxwfM/index.html",
+      "bytes": 9653,
+      "sha256": "b45d4b65987ada48da9b79f640327070940628e799285fa54ed37cd839ed0da8"
+    },
+    {
+      "path": "videos/watch/ALnNk-g9Uws/index.html",
+      "bytes": 10133,
+      "sha256": "0081bc29d9c96c310b557f6f12def271cdce48de908da9030fb9624c8a73963c"
+    },
+    {
+      "path": "videos/watch/BHOsbRugRXM/index.html",
+      "bytes": 8707,
+      "sha256": "c3f5af7d02ad6e7c51a0227c526da7976807d8f76ecb838aad9107a13de95390"
+    },
+    {
+      "path": "videos/watch/BK198m9ZYlo/index.html",
+      "bytes": 8964,
+      "sha256": "d5538eba89f37d3b4add7d086e0f17ec22efb02e4a69a5d3e8665cacf191e3d8"
+    },
+    {
+      "path": "videos/watch/BO6xV_YC7pU/index.html",
+      "bytes": 9517,
+      "sha256": "ae34f76bd98d8f70ad85a5c7bc575d37771b3fade83d826580909400972bb69d"
+    },
+    {
+      "path": "videos/watch/E7ckiC3qOwY/index.html",
+      "bytes": 9634,
+      "sha256": "3c2e9dbc3925327b0c71d34fad73594b947d9c6963f7c2883c9cd610c26b101f"
+    },
+    {
+      "path": "videos/watch/EjjHLgF8bFw/index.html",
+      "bytes": 8995,
+      "sha256": "94926185edf25f7ddc13706cbd8b2aeb730512ecb2be727223c56b04a4327dc3"
+    },
+    {
+      "path": "videos/watch/I6ZpW5udNZY/index.html",
+      "bytes": 9621,
+      "sha256": "01e2ca30a1b54e5e722907b7394bb73e31fe34b5004cc4fe01a850412d9476fb"
+    },
+    {
+      "path": "videos/watch/IwtIGCIWQl4/index.html",
+      "bytes": 9485,
+      "sha256": "dd6198b5cc3499d4d270e49eedffbab59d165996b35612ed8a1a8f44eb6542fa"
+    },
+    {
+      "path": "videos/watch/JQ0I1NSdYkw/index.html",
+      "bytes": 10016,
+      "sha256": "cfd66ee07430b730418cabd96175e22810d5c9204ce62d446e8402ad0438c6d8"
+    },
+    {
+      "path": "videos/watch/KIv6WN00wao/index.html",
+      "bytes": 9797,
+      "sha256": "ea9da33d40d7863868a30339ce0cb78478d40ba4ac80ae583b024c37525f2cf9"
+    },
+    {
+      "path": "videos/watch/KmxBIA9FXis/index.html",
+      "bytes": 10165,
+      "sha256": "764268c356428a0b88add73132a510d7889f67078036658004214de5419ec839"
+    },
+    {
+      "path": "videos/watch/MpEBv9ne7Tg/index.html",
+      "bytes": 9477,
+      "sha256": "c5722c39585f022f7ce784ab081424eccf08741b26edda5c49e5d8bbc30d52ba"
+    },
+    {
+      "path": "videos/watch/P4GooCAezkY/index.html",
+      "bytes": 9961,
+      "sha256": "f0fa22643ab7bc78c86138bfa0dca446bf37d1e8c54065b009d11c44c979d683"
+    },
+    {
+      "path": "videos/watch/QyJN43ZVtHQ/index.html",
+      "bytes": 10205,
+      "sha256": "4f7dcf61a7743ad892c47f7b6b9c461a0596f09c0772ecc22628c79e0c73003f"
+    },
+    {
+      "path": "videos/watch/R5mZSXHKaOo/index.html",
+      "bytes": 9769,
+      "sha256": "b929c8c77df26fad437bc2d3582330376a8bf2d6922a89e0d2c8b3c82d2597d4"
+    },
+    {
+      "path": "videos/watch/SImGsZQD7mc/index.html",
+      "bytes": 10165,
+      "sha256": "d3e4c9b401a760893b778789c8de0be609bd36ad925966cd50814b41293034c2"
+    },
+    {
+      "path": "videos/watch/ScBQx4LlENs/index.html",
+      "bytes": 10018,
+      "sha256": "87d02c7ff37dd3d51a62af755f7b87665b5b31d057f9977a6639e6437ff61f55"
+    },
+    {
+      "path": "videos/watch/U0NsZ2Iw6hM/index.html",
+      "bytes": 9517,
+      "sha256": "30f22ab292393775ab5747c42eff966165ab775914206763e3f93e283b2e6305"
+    },
+    {
+      "path": "videos/watch/UkZx7Ld_SZg/index.html",
+      "bytes": 9883,
+      "sha256": "387c98d9a4edd8eeffa172a40c41efd732a6a6a02842707f11bf1ab161cac3da"
+    },
+    {
+      "path": "videos/watch/Vr4thuxyDqw/index.html",
+      "bytes": 9510,
+      "sha256": "c8fcbb0f4ea9903d15d5769079306cb4e793e7f01c8a71da67c707c842984ec5"
+    },
+    {
+      "path": "videos/watch/XsbzrXSDvxc/index.html",
+      "bytes": 9501,
+      "sha256": "d0468c0a8157131c685001eff9e584fd3612e11e3b631250a6dad32bd8d6ff00"
+    },
+    {
+      "path": "videos/watch/ZT5WjIglXZU/index.html",
+      "bytes": 9217,
+      "sha256": "41ace67bb5cb6282852d340a6b10ae32ae41a0a9e9fddb27e335e5f7abf7cd9e"
+    },
+    {
+      "path": "videos/watch/_x1uoR1J8Wc/index.html",
+      "bytes": 9689,
+      "sha256": "c9b50ec481aaf30aa6b9178c15cae5a4d89346bdb231c753feef66d16418501c"
+    },
+    {
+      "path": "videos/watch/cFeDZSohjrQ/index.html",
+      "bytes": 10051,
+      "sha256": "ec6fd3ed253b0b8dc9bf678e677f4481fc3b45aa88a49208d8340ee5dd2aabda"
+    },
+    {
+      "path": "videos/watch/d1G3itdX03Y/index.html",
+      "bytes": 9403,
+      "sha256": "85cdf959af270e139bb7786b1b097f316d82d06ec98fd124944d8ee0c9991c39"
+    },
+    {
+      "path": "videos/watch/dq-jYpXSgx4/index.html",
+      "bytes": 9613,
+      "sha256": "2c4e19844b90428230b5134a39770228a6b1832ede0a8c2d02e613dca2d8708d"
+    },
+    {
+      "path": "videos/watch/h4BU8561Dfs/index.html",
+      "bytes": 9965,
+      "sha256": "92d2b91fe7df0ea167175c40adbe5d5e1163a7a3e393655ac9873a6f54afcf7d"
+    },
+    {
+      "path": "videos/watch/j9iU3A570gI/index.html",
+      "bytes": 10160,
+      "sha256": "abe1ff956637987813bf50712251409c6e8f7fc585ee65003c7d3f3585b187fd"
+    },
+    {
+      "path": "videos/watch/lExNCTk5AkA/index.html",
+      "bytes": 8543,
+      "sha256": "06d57a5c1af84c9c7b01c62c1004d2d3614a27e13ffef97624ada2fe7d0fb5ed"
+    },
+    {
+      "path": "videos/watch/lbycfVnMbpk/index.html",
+      "bytes": 9477,
+      "sha256": "e5da1519516000577c306f7d00683f9a7517963a2c5aaac280309210e4806498"
+    },
+    {
+      "path": "videos/watch/mYew9VFY5fM/index.html",
+      "bytes": 9993,
+      "sha256": "dcfb1acc68d86e6a12925f2b5ee9024bfa430f6b92092337f785a72520451fb5"
+    },
+    {
+      "path": "videos/watch/miOheJ55ZWs/index.html",
+      "bytes": 9740,
+      "sha256": "083f5a86f45dda341f033031a66144093f489072b838ce5cfbbf130d64614c71"
+    },
+    {
+      "path": "videos/watch/n_jUaSY9hUU/index.html",
+      "bytes": 9619,
+      "sha256": "05f4a79788786f83b547d4fd735f918e47d67a8af27e2ee945089a7879389e39"
+    },
+    {
+      "path": "videos/watch/nmYx713ARdI/index.html",
+      "bytes": 9309,
+      "sha256": "ef5885020c3fb06dddaa94cef6036e9eb5b43bd6ff2f1385208c0c00eab130bc"
+    },
+    {
+      "path": "videos/watch/qk16Pxzq3NE/index.html",
+      "bytes": 8873,
+      "sha256": "3acc1f61c5385f12ec8eb10202f44ed6e67eba8b66b10d1f5d1df125ee0c4cc7"
+    },
+    {
+      "path": "videos/watch/qwfLHGSpmtw/index.html",
+      "bytes": 10069,
+      "sha256": "99790b540cf8ea85b717f3f7506c75f707be44625d3f6d76b820191ecc2569d3"
+    },
+    {
+      "path": "videos/watch/r4Ir9kGEgBY/index.html",
+      "bytes": 10388,
+      "sha256": "34e348fe5c72d2bdf451c27e3785b39b557935eb3e3d0fdd19f614140f09d9aa"
+    },
+    {
+      "path": "videos/watch/rvnK7GnBSwM/index.html",
+      "bytes": 10169,
+      "sha256": "8be38eae6ee490d48f5d0f0135e8d5a299e3c2d89ef8bb6b71dd4134bc8e3260"
+    },
+    {
+      "path": "videos/watch/x_EiSpAtrCk/index.html",
+      "bytes": 10018,
+      "sha256": "a17946d064ed7c0a671d3c7abf0ca9a8725da6f63b9e9016f531ea14aaf38135"
+    },
+    {
+      "path": "videos/watch/zsuF0blJAYw/index.html",
+      "bytes": 10197,
+      "sha256": "ef0b3678a60daca78f06fd70ba5ac578b284a178e28f2c96eef9c37ef8697ce8"
+    },
+    {
+      "path": "youtube-player.js",
+      "bytes": 613,
+      "sha256": "eb44b35f6e5f28f1fd7151c28f3d153eb5eb93acbc2634a6d3ca860bac5ef5a2"
+    }
+  ]
+}

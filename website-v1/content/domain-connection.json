@@ -1,0 +1,28 @@
+{
+  "domain": "www.mtelkinc.com",
+  "apex_alias": "mtelkinc.com",
+  "netlify_site_id": "2235167f-7f96-4631-a741-1394bfa6b8d0",
+  "netlify_domain_assignment": "complete",
+  "dns_provider": "Directnic",
+  "dns_status": "correct on all four authoritative nameservers and Google/Cloudflare public resolvers",
+  "records": [
+    {
+      "type": "CNAME",
+      "host": "www",
+      "value": "mtelkinc-educationhub.netlify.app"
+    },
+    {
+      "type": "A",
+      "host": "@",
+      "value": "75.2.60.5"
+    }
+  ],
+  "replace_conflicting_website_records": [
+    "104.143.9.210",
+    "104.143.9.211"
+  ],
+  "preserve_other_dns_records": true,
+  "https_status": "provisioning requested; certificate not yet issued",
+  "documentation": "https://docs.netlify.com/manage/domains/configure-domains/configure-external-dns/",
+  "local_dns_cache": "still resolving previous addresses during verification"
+}

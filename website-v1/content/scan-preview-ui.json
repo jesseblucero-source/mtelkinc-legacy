@@ -1,0 +1,42 @@
+{
+  "en": {
+    "preview": "Expand article scan",
+    "zoom": "Zoom in",
+    "fit": "Fit to screen",
+    "close": "Close",
+    "details": "About this audio",
+    "hint": "Choose a year. Expand a scan, read the transcript, or listen in your selected language.",
+    "source": "Open original PDF",
+    "progress": "Article audio progress"
+  },
+  "fr": {
+    "preview": "Agrandir le document",
+    "zoom": "Agrandir",
+    "fit": "Adapter à l’écran",
+    "close": "Fermer",
+    "details": "À propos de cet audio",
+    "hint": "Choisissez une année. Agrandissez le document, lisez la transcription ou écoutez dans la langue sélectionnée.",
+    "source": "Ouvrir le PDF original",
+    "progress": "Progression de la lecture audio"
+  },
+  "es": {
+    "preview": "Ampliar el documento",
+    "zoom": "Ampliar",
+    "fit": "Ajustar a la pantalla",
+    "close": "Cerrar",
+    "details": "Acerca de este audio",
+    "hint": "Elija un año. Amplíe el documento, lea la transcripción o escuche en el idioma seleccionado.",
+    "source": "Abrir el PDF original",
+    "progress": "Progreso del audio del artículo"
+  },
+  "de": {
+    "preview": "Dokument vergrößern",
+    "zoom": "Vergrößern",
+    "fit": "An Bildschirm anpassen",
+    "close": "Schließen",
+    "details": "Über diese Audiofunktion",
+    "hint": "Wählen Sie ein Jahr. Vergrößern Sie den Scan, lesen Sie den Text oder hören Sie ihn in der gewählten Sprache.",
+    "source": "Original-PDF öffnen",
+    "progress": "Fortschritt der Artikelvorlesung"
+  }
+}

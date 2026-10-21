@@ -1,0 +1,647 @@
+{
+  "source": "https://elkinc.com/products/",
+  "store_id": 117609763,
+  "captured_on": "2026-10-15",
+  "usage": "Public product identity, images and category relationships only; prices and checkout remain live in Ecwid.",
+  "products": [
+    {
+      "id": 751638698,
+      "name": "Royal Bugle Pro Edition",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926933613.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/Royal-Bugle-Pro-Edition/p/751638698",
+      "stock_note": "check current product page",
+      "categories": [
+        "elk",
+        "calls"
+      ]
+    },
+    {
+      "id": 751639135,
+      "name": "*Power Bugle Pro Edition Package Special",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926933117.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/*Power-Bugle-Pro-Edition-Package-Special/p/751639135",
+      "stock_note": "check current product page",
+      "categories": [
+        "elk",
+        "calls"
+      ]
+    },
+    {
+      "id": 751638462,
+      "name": "Power Bugle Pro Edition",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926933540.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/Power-Bugle-Pro-Edition/p/751638462",
+      "stock_note": "check current product page",
+      "categories": [
+        "elk",
+        "calls"
+      ]
+    },
+    {
+      "id": 751638460,
+      "name": "3' x 3' Ghillie Sheets",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926934036.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/3-x-3-Ghillie-Sheets/p/751638460",
+      "stock_note": "check current product page",
+      "categories": [
+        "blinds"
+      ]
+    },
+    {
+      "id": 751638696,
+      "name": "*POWER HOWLER W/ DVD PACKAGE SPECIAL",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/products/751638696/4926933609.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/*POWER-HOWLER-W-DVD-PACKAGE-SPECIAL/p/751638696",
+      "stock_note": "check current product page",
+      "categories": [
+        "predator",
+        "dvds",
+        "calls"
+      ]
+    },
+    {
+      "id": 751638675,
+      "name": "*COW TALK W/ DVD PACKAGE SPECIAL",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926931364.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/*COW-TALK-W-DVD-PACKAGE-SPECIAL/p/751638675",
+      "stock_note": "check current product page",
+      "categories": [
+        "elk",
+        "dvds",
+        "calls"
+      ]
+    },
+    {
+      "id": 751639125,
+      "name": "*DEER TALK W/ DVD PACKAGE",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926932369.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/*DEER-TALK-W-DVD-PACKAGE/p/751639125",
+      "stock_note": "check current product page",
+      "categories": [
+        "mule-deer",
+        "whitetail",
+        "dvds"
+      ]
+    },
+    {
+      "id": 751639154,
+      "name": "MINI GRUNT TUBE",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926933601.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/MINI-GRUNT-TUBE/p/751639154",
+      "stock_note": "check current product page",
+      "categories": [
+        "elk",
+        "calls"
+      ]
+    },
+    {
+      "id": 751639161,
+      "name": "BUGLE CAMO COVER",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926933877.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/BUGLE-CAMO-COVER/p/751639161",
+      "stock_note": "check current product page",
+      "categories": [
+        "elk",
+        "calls"
+      ]
+    },
+    {
+      "id": 751638444,
+      "name": "POWER BUGLE PROTECTIVE CAP",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926933230.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/POWER-BUGLE-PROTECTIVE-CAP/p/751638444",
+      "stock_note": "check current product page",
+      "categories": [
+        "elk",
+        "calls"
+      ]
+    },
+    {
+      "id": 751638445,
+      "name": "CALL CARRYING LANYARD",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926933213.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/CALL-CARRYING-LANYARD/p/751638445",
+      "stock_note": "check current product page",
+      "categories": [
+        "elk",
+        "mule-deer",
+        "whitetail",
+        "antelope"
+      ]
+    },
+    {
+      "id": 751638468,
+      "name": "FOOLIN' COYOTES DVD",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926933868.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/FOOLIN-COYOTES-DVD/p/751638468",
+      "stock_note": "check current product page",
+      "categories": [
+        "predator",
+        "dvds"
+      ]
+    },
+    {
+      "id": 751639158,
+      "name": "COYOTE TACTICS DVD",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926933593.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/COYOTE-TACTICS-DVD/p/751639158",
+      "stock_note": "check current product page",
+      "categories": [
+        "predator",
+        "dvds"
+      ]
+    },
+    {
+      "id": 751638688,
+      "name": "ELK CALLING...SOUNDS TO SUCCESS DVD",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926932429.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/ELK-CALLING-SOUNDS-TO-SUCCESS-DVD/p/751638688",
+      "stock_note": "check current product page",
+      "categories": [
+        "elk",
+        "dvds"
+      ]
+    },
+    {
+      "id": 751638456,
+      "name": "COYOTE ACTION DVD",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926933811.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/COYOTE-ACTION-DVD/p/751638456",
+      "stock_note": "check current product page",
+      "categories": [
+        "predator",
+        "dvds"
+      ]
+    },
+    {
+      "id": 751638449,
+      "name": "HUNTING COYOTES DVD",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926933221.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/HUNTING-COYOTES-DVD/p/751638449",
+      "stock_note": "check current product page",
+      "categories": [
+        "predator",
+        "dvds"
+      ]
+    },
+    {
+      "id": 751638446,
+      "name": "POWER HOWLING COYOTES DVD",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926931394.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/POWER-HOWLING-COYOTES-DVD/p/751638446",
+      "stock_note": "check current product page",
+      "categories": [
+        "predator",
+        "dvds"
+      ]
+    },
+    {
+      "id": 751639126,
+      "name": "BUSTIN' COYOTES DVD",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926931398.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/BUSTIN-COYOTES-DVD/p/751639126",
+      "stock_note": "check current product page",
+      "categories": [
+        "predator",
+        "dvds"
+      ]
+    },
+    {
+      "id": 751638700,
+      "name": "DOGGING COYOTES II DVD",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926933842.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/DOGGING-COYOTES-II-DVD/p/751638700",
+      "stock_note": "check current product page",
+      "categories": [
+        "predator",
+        "dvds"
+      ]
+    },
+    {
+      "id": 751638707,
+      "name": "DOGGING COYOTES DVD",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926934060.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/DOGGING-COYOTES-DVD/p/751638707",
+      "stock_note": "check current product page",
+      "categories": [
+        "predator",
+        "dvds"
+      ]
+    },
+    {
+      "id": 751638712,
+      "name": "WESTERN DEER HUNTING DVD",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926933640.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/WESTERN-DEER-HUNTING-DVD/p/751638712",
+      "stock_note": "check current product page",
+      "categories": [
+        "mule-deer",
+        "whitetail",
+        "dvds"
+      ]
+    },
+    {
+      "id": 751638687,
+      "name": "ELK DVD",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926933141.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/ELK-DVD/p/751638687",
+      "stock_note": "check current product page",
+      "categories": [
+        "elk",
+        "dvds"
+      ]
+    },
+    {
+      "id": 751638686,
+      "name": "WHITETAIL HOOKER DVD",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926931410.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/WHITETAIL-HOOKER-DVD/p/751638686",
+      "stock_note": "check current product page",
+      "categories": [
+        "whitetail",
+        "dvds"
+      ]
+    },
+    {
+      "id": 751638689,
+      "name": "WHITETAIL COUNTRY DVD",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926932417.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/WHITETAIL-COUNTRY-DVD/p/751638689",
+      "stock_note": "check current product page",
+      "categories": [
+        "whitetail",
+        "dvds"
+      ]
+    },
+    {
+      "id": 751639131,
+      "name": "SAVAGE WILD DVD",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926932348.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/SAVAGE-WILD-DVD/p/751639131",
+      "stock_note": "check current product page",
+      "categories": [
+        "dvds"
+      ]
+    },
+    {
+      "id": 751638678,
+      "name": "SASKATCHEWAN GIANT BUCKS DVD",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926931422.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/SASKATCHEWAN-GIANT-BUCKS-DVD/p/751638678",
+      "stock_note": "check current product page",
+      "categories": [
+        "whitetail",
+        "dvds"
+      ]
+    },
+    {
+      "id": 751638706,
+      "name": "IN SEARCH OF MONSTER WHITETAIL DVD",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926933838.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/IN-SEARCH-OF-MONSTER-WHITETAIL-DVD/p/751638706",
+      "stock_note": "check current product page",
+      "categories": [
+        "whitetail",
+        "dvds"
+      ]
+    },
+    {
+      "id": 751638448,
+      "name": "THE DEER HUNTER DVD",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926931406.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/THE-DEER-HUNTER-DVD/p/751638448",
+      "stock_note": "check current product page",
+      "categories": [
+        "mule-deer",
+        "dvds"
+      ]
+    },
+    {
+      "id": 751638454,
+      "name": "BEARS & BEAR HUNTERS DVD",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926933795.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/BEARS-&-BEAR-HUNTERS-DVD/p/751638454",
+      "stock_note": "check current product page",
+      "categories": [
+        "dvds"
+      ]
+    },
+    {
+      "id": 751638439,
+      "name": "HOW TO POWER BUGLE ELK DVD",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926931437.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/HOW-TO-POWER-BUGLE-ELK-DVD/p/751638439",
+      "stock_note": "check current product page",
+      "categories": [
+        "elk",
+        "dvds",
+        "calls"
+      ]
+    },
+    {
+      "id": 751638461,
+      "name": "HOW TO TALK TO THE DEER DVD",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926934027.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/HOW-TO-TALK-TO-THE-DEER-DVD/p/751638461",
+      "stock_note": "check current product page",
+      "categories": [
+        "mule-deer",
+        "whitetail",
+        "dvds",
+        "calls"
+      ]
+    },
+    {
+      "id": 751639162,
+      "name": "SHORT IN THE SADDLE BOOK",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926933659.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/SHORT-IN-THE-SADDLE-BOOK/p/751639162",
+      "stock_note": "check current product page",
+      "categories": [
+        "books"
+      ]
+    },
+    {
+      "id": 751639164,
+      "name": "COYOTE HUNTER BOOK",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926933634.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/COYOTE-HUNTER-BOOK/p/751639164",
+      "stock_note": "check current product page",
+      "categories": [
+        "predator",
+        "books"
+      ]
+    },
+    {
+      "id": 751638450,
+      "name": "DEER TALK BOOK",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926931414.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/DEER-TALK-BOOK/p/751638450",
+      "stock_note": "check current product page",
+      "categories": [
+        "mule-deer",
+        "whitetail",
+        "books"
+      ]
+    },
+    {
+      "id": 751638711,
+      "name": "ELK TACTICS BOOK",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926933645.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/ELK-TACTICS-BOOK/p/751638711",
+      "stock_note": "check current product page",
+      "categories": [
+        "elk",
+        "books"
+      ]
+    },
+    {
+      "id": 751639132,
+      "name": "ELK HUNTER BOOK",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926933169.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/ELK-HUNTER-BOOK/p/751639132",
+      "stock_note": "check current product page",
+      "categories": [
+        "elk",
+        "books"
+      ]
+    },
+    {
+      "id": 751638466,
+      "name": "ELK TALK BOOK",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926933887.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/ELK-TALK-BOOK/p/751638466",
+      "stock_note": "check current product page",
+      "categories": [
+        "elk",
+        "books"
+      ]
+    },
+    {
+      "id": 751638440,
+      "name": "POWER BUGLING INSTRUCTIONAL CD",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926933103.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/POWER-BUGLING-INSTRUCTIONAL-CD/p/751638440",
+      "stock_note": "check current product page",
+      "categories": [
+        "elk"
+      ]
+    },
+    {
+      "id": 751638447,
+      "name": "DEER CALLING INSTRUCTIONAL CD",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926931360.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/DEER-CALLING-INSTRUCTIONAL-CD/p/751638447",
+      "stock_note": "check current product page",
+      "categories": [
+        "mule-deer",
+        "whitetail"
+      ]
+    },
+    {
+      "id": 751638674,
+      "name": "COW CALLING INSTRUCTIONAL CD",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926931402.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/COW-CALLING-INSTRUCTIONAL-CD/p/751638674",
+      "stock_note": "check current product page",
+      "categories": [
+        "elk"
+      ]
+    },
+    {
+      "id": 751638693,
+      "name": "YOTE BUSTER REPLACEMENT REEDS",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926934040.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/YOTE-BUSTER-REPLACEMENT-REEDS/p/751638693",
+      "stock_note": "check current product page",
+      "categories": [
+        "predator",
+        "bands-reeds"
+      ]
+    },
+    {
+      "id": 751639145,
+      "name": "POWER BANDS - BLACK",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926933862.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/POWER-BANDS-BLACK/p/751639145",
+      "stock_note": "check current product page",
+      "categories": [
+        "elk",
+        "predator",
+        "bands-reeds"
+      ]
+    },
+    {
+      "id": 751638699,
+      "name": "POWER BANDS - GRAY",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926933854.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/POWER-BANDS-GRAY/p/751638699",
+      "stock_note": "check current product page",
+      "categories": [
+        "elk",
+        "predator",
+        "bands-reeds"
+      ]
+    },
+    {
+      "id": 751638697,
+      "name": "POWER BANDS - WHITE",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926934048.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/POWER-BANDS-WHITE/p/751638697",
+      "stock_note": "check current product page",
+      "categories": [
+        "elk",
+        "predator",
+        "bands-reeds"
+      ]
+    },
+    {
+      "id": 751639150,
+      "name": "ANTELOPE TALK BANDS",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926933555.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/ANTELOPE-TALK-BANDS/p/751639150",
+      "stock_note": "check current product page",
+      "categories": [
+        "antelope",
+        "bands-reeds"
+      ]
+    },
+    {
+      "id": 751639143,
+      "name": "DEER TALK REPLACEMENT BANDS",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926934052.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/DEER-TALK-REPLACEMENT-BANDS/p/751639143",
+      "stock_note": "check current product page",
+      "categories": [
+        "mule-deer",
+        "whitetail",
+        "bands-reeds"
+      ]
+    },
+    {
+      "id": 751638704,
+      "name": "COW TALK REPLACEMENT BANDS",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926933799.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/COW-TALK-REPLACEMENT-BANDS/p/751638704",
+      "stock_note": "check current product page",
+      "categories": [
+        "elk",
+        "bands-reeds"
+      ]
+    },
+    {
+      "id": 751639137,
+      "name": "YOTE SQUEAKER",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926932356.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/YOTE-SQUEAKER/p/751639137",
+      "stock_note": "check current product page",
+      "categories": [
+        "predator",
+        "calls"
+      ]
+    },
+    {
+      "id": 751638709,
+      "name": "POWER HOWLER",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/products/751638709/4926934018.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/POWER-HOWLER/p/751638709",
+      "stock_note": "check current product page",
+      "categories": [
+        "predator",
+        "calls"
+      ]
+    },
+    {
+      "id": 751638467,
+      "name": "ANTELOPE TALK CALL",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926933655.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/ANTELOPE-TALK-CALL/p/751638467",
+      "stock_note": "check current product page",
+      "categories": [
+        "antelope",
+        "calls"
+      ]
+    },
+    {
+      "id": 751638443,
+      "name": "DEER TALK The DEER STOPPER CALL",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926931432.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/DEER-TALK-The-DEER-STOPPER-CALL/p/751638443",
+      "stock_note": "check current product page",
+      "categories": [
+        "mule-deer",
+        "whitetail",
+        "calls"
+      ]
+    },
+    {
+      "id": 751639142,
+      "name": "COW TALK ELK CALL",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926933229.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/COW-TALK-ELK-CALL/p/751639142",
+      "stock_note": "check current product page",
+      "categories": [
+        "elk",
+        "calls"
+      ]
+    },
+    {
+      "id": 751639129,
+      "name": "THE WOLF HOWLER",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926932461.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/THE-WOLF-HOWLER/p/751639129",
+      "stock_note": "check current product page",
+      "categories": [
+        "predator",
+        "calls"
+      ]
+    },
+    {
+      "id": 751639147,
+      "name": "YOTE BUSTER",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926933577.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/YOTE-BUSTER/p/751639147",
+      "stock_note": "check current product page",
+      "categories": [
+        "predator",
+        "calls"
+      ]
+    },
+    {
+      "id": 751639144,
+      "name": "*ANTELOPE TALK W/ DVD PACKAGE SPECIAL",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926934064.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/*ANTELOPE-TALK-W-DVD-PACKAGE-SPECIAL/p/751639144",
+      "stock_note": "unavailable at capture",
+      "categories": [
+        "antelope",
+        "dvds",
+        "calls"
+      ]
+    },
+    {
+      "id": 751638691,
+      "name": "HOW TO TALK TO THE ANTELOPE DVD",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926932497.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/HOW-TO-TALK-TO-THE-ANTELOPE-DVD/p/751638691",
+      "stock_note": "unavailable at capture",
+      "categories": [
+        "antelope",
+        "dvds",
+        "calls"
+      ]
+    },
+    {
+      "id": 751639136,
+      "name": "GREEN BANDS (Replace with Black Bands)",
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/117609763/4926933059.jpg",
+      "source_url": "https://mtelkinc-educationhub.netlify.app/shop/#!/GREEN-BANDS-Replace-with-Black-Bands/p/751639136",
+      "stock_note": "unavailable at capture",
+      "categories": [
+        "elk",
+        "predator",
+        "bands-reeds"
+      ]
+    }
+  ]
+}

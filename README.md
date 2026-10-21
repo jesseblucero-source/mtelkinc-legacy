@@ -1,3 +1,13 @@
+# MT E.L.K., INC.
+
+## Published website - V1
+
+The **V1 / 1.0.0** production baseline is archived in [website-v1](website-v1/README.md). It includes the static website, structured source records, maintenance scripts, release notes and a SHA-256 manifest. See [V1 release notes](website-v1/V1-RELEASE-NOTES.md).
+
+The existing Vinext application below is preserved. The V1 static snapshot has its own deployment configuration and does not change this root application's build or the live Netlify connection.
+
+---
+
 # vinext-starter
 
 A clean full-stack starter running on

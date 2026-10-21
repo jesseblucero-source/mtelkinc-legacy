@@ -1,0 +1,135 @@
+{
+  "origin": "http://127.0.0.1:8772",
+  "providerIframeMocked": true,
+  "nativeShareMocked": true,
+  "results": [
+    {
+      "engine": "chromium",
+      "lang": "en",
+      "id": "customer-support",
+      "embeddedReader": true,
+      "pdfPages": 6,
+      "sharing": true
+    },
+    {
+      "engine": "chromium",
+      "lang": "en",
+      "id": "distributor-network",
+      "embeddedReader": true,
+      "pdfPages": 8,
+      "sharing": true
+    },
+    {
+      "engine": "chromium",
+      "lang": "fr",
+      "id": "customer-support",
+      "embeddedReader": true,
+      "pdfPages": 6,
+      "sharing": true
+    },
+    {
+      "engine": "chromium",
+      "lang": "fr",
+      "id": "distributor-network",
+      "embeddedReader": true,
+      "pdfPages": 8,
+      "sharing": true
+    },
+    {
+      "engine": "chromium",
+      "lang": "es",
+      "id": "customer-support",
+      "embeddedReader": true,
+      "pdfPages": 6,
+      "sharing": true
+    },
+    {
+      "engine": "chromium",
+      "lang": "es",
+      "id": "distributor-network",
+      "embeddedReader": true,
+      "pdfPages": 8,
+      "sharing": true
+    },
+    {
+      "engine": "chromium",
+      "lang": "de",
+      "id": "customer-support",
+      "embeddedReader": true,
+      "pdfPages": 6,
+      "sharing": true
+    },
+    {
+      "engine": "chromium",
+      "lang": "de",
+      "id": "distributor-network",
+      "embeddedReader": true,
+      "pdfPages": 8,
+      "sharing": true
+    },
+    {
+      "engine": "webkit",
+      "lang": "en",
+      "id": "customer-support",
+      "embeddedReader": true,
+      "pdfPages": 6,
+      "sharing": true
+    },
+    {
+      "engine": "webkit",
+      "lang": "en",
+      "id": "distributor-network",
+      "embeddedReader": true,
+      "pdfPages": 8,
+      "sharing": true
+    },
+    {
+      "engine": "webkit",
+      "lang": "fr",
+      "id": "customer-support",
+      "embeddedReader": true,
+      "pdfPages": 6,
+      "sharing": true
+    },
+    {
+      "engine": "webkit",
+      "lang": "fr",
+      "id": "distributor-network",
+      "embeddedReader": true,
+      "pdfPages": 8,
+      "sharing": true
+    },
+    {
+      "engine": "webkit",
+      "lang": "es",
+      "id": "customer-support",
+      "embeddedReader": true,
+      "pdfPages": 6,
+      "sharing": true
+    },
+    {
+      "engine": "webkit",
+      "lang": "es",
+      "id": "distributor-network",
+      "embeddedReader": true,
+      "pdfPages": 8,
+      "sharing": true
+    },
+    {
+      "engine": "webkit",
+      "lang": "de",
+      "id": "customer-support",
+      "embeddedReader": true,
+      "pdfPages": 6,
+      "sharing": true
+    },
+    {
+      "engine": "webkit",
+      "lang": "de",
+      "id": "distributor-network",
+      "embeddedReader": true,
+      "pdfPages": 8,
+      "sharing": true
+    }
+  ]
+}

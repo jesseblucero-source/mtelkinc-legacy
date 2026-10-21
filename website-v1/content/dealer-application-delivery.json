@@ -1,0 +1,164 @@
+{
+  "provider": "Netlify Forms",
+  "site_id": "2235167f-7f96-4631-a741-1394bfa6b8d0",
+  "notifications": [
+    {
+      "form": "dealer-application-de",
+      "form_id": "6ad7965ac4794dbeffc8c126",
+      "email": "phillip@elkinc.com",
+      "notification_id": "6ad79718efd04d7b1bc15589"
+    },
+    {
+      "form": "dealer-application-de",
+      "form_id": "6ad7965ac4794dbeffc8c126",
+      "email": "jesse@elkinc.com",
+      "notification_id": "6ad7971c0ebbf931ed435582"
+    },
+    {
+      "form": "dealer-application",
+      "form_id": "6ad79657c4794dbeffc8c0d2",
+      "email": "phillip@elkinc.com",
+      "notification_id": "6ad797208b218d1af3cef49e"
+    },
+    {
+      "form": "dealer-application",
+      "form_id": "6ad79657c4794dbeffc8c0d2",
+      "email": "jesse@elkinc.com",
+      "notification_id": "6ad7972309934745ce3d9a4a"
+    },
+    {
+      "form": "dealer-application-es",
+      "form_id": "6ad79655c4794dbeffc8c099",
+      "email": "phillip@elkinc.com",
+      "notification_id": "6ad79728408f31bb224c13d0"
+    },
+    {
+      "form": "dealer-application-es",
+      "form_id": "6ad79655c4794dbeffc8c099",
+      "email": "jesse@elkinc.com",
+      "notification_id": "6ad7972c6278825cceb6323b"
+    },
+    {
+      "form": "dealer-application-fr",
+      "form_id": "6ad79651c4794dbeffc8c01a",
+      "email": "phillip@elkinc.com",
+      "notification_id": "6ad79730759035ef589fa04e"
+    },
+    {
+      "form": "dealer-application-fr",
+      "form_id": "6ad79651c4794dbeffc8c01a",
+      "email": "jesse@elkinc.com",
+      "notification_id": "6ad797340ded47d8ffedf69d"
+    }
+  ],
+  "test": {
+    "reference": "MTELK-20261020-6FE3258B",
+    "accepted": true,
+    "form": "dealer-application",
+    "stored_verified": true,
+    "submission_id": "6ad7974f75f3b594ace04c11",
+    "initially_flagged_spam": true
+  },
+  "inbox_delivery_confirmed": false,
+  "notification_mode": "Separate application-specific notifications; no Cc header; no Make automation.",
+  "schema_revision_verification": {
+    "version": 4,
+    "deploy_id": "6ad7a2c691ce8b536e412481",
+    "forms": [
+      {
+        "name": "dealer-application-de",
+        "id": "6ad7965ac4794dbeffc8c126",
+        "registered_fields": 75
+      },
+      {
+        "name": "dealer-application",
+        "id": "6ad79657c4794dbeffc8c0d2",
+        "registered_fields": 75
+      },
+      {
+        "name": "dealer-application-es",
+        "id": "6ad79655c4794dbeffc8c099",
+        "registered_fields": 75
+      },
+      {
+        "name": "dealer-application-fr",
+        "id": "6ad79651c4794dbeffc8c01a",
+        "registered_fields": 75
+      }
+    ],
+    "live_test_submitted": false
+  },
+  "forms_activation": {
+    "enabled": true,
+    "use_forms": true,
+    "ignore_html_forms": false,
+    "checked_on": "2026-10-20",
+    "deploy_id": "6ad7b516d65471e626e87a8e",
+    "languages": [
+      "en",
+      "fr",
+      "es",
+      "de"
+    ],
+    "registered_fields_per_form": 75,
+    "questionnaire_fields_registered": 66,
+    "native_submit_preserved": true,
+    "live_test": {
+      "reference": "MTELK-20261020-ECDFB75C",
+      "submission_id": "6ad7b57f62d415bf09cc8718",
+      "form": "dealer-application",
+      "stored_verified": true,
+      "initially_flagged_spam": true,
+      "known_test_marked_verified": true,
+      "all_applicable_answers_matched": 63,
+      "full_summary_matched": true,
+      "ein_and_directory_interest_matched": true,
+      "created_at": "2026-10-20T18:39:59.022Z",
+      "inbox_delivery_confirmed": false
+    }
+  },
+  "signature_schema": {
+    "version": 5,
+    "questionnaire_fields": 67,
+    "signature_consent_required": true,
+    "signature_fields": [
+      "signature_name",
+      "signature_saved_at",
+      "signature_timezone",
+      "signature_device",
+      "signature_browser_language",
+      "signature_clock_source",
+      "signature_version",
+      "signature_statement"
+    ],
+    "clock_source": "Applicant device clock",
+    "device_source": "Browser-reported user-agent/platform/language/time zone",
+    "ip_capture": "Netlify server metadata at website submission; not included in the local PDF",
+    "identity_verified": false,
+    "certificate_signature": false
+  },
+  "signature_deployment": {
+    "id": "6ad7b99d01d4296191eb0100",
+    "state": "ready",
+    "published_at": "2026-10-20T18:57:46.549Z",
+    "url": "https://www.mtelkinc.com/dealer-application/",
+    "forms_registered": 4,
+    "registered_fields_per_form": 84,
+    "live_verification_report": "reports/dealer-signature-live-result.json"
+  },
+  "custom_sender": {
+    "from": "jesse@mtelkinc.com",
+    "to": "phillip@elkinc.com",
+    "status": "prepared; not activated or deployed",
+    "sender_env_configured": true,
+    "smtp_connection_configured": false,
+    "pending": [
+      "Exact SMTP hostname from Directnic email details",
+      "Enter mailbox password securely in Netlify with Functions scope",
+      "Deploy and verify delivery"
+    ],
+    "dns_check": "2026-10-20: no MX answer for mtelkinc.com; do not assume elkinc.com SMTP host serves this domain",
+    "mailbox_exists_user_confirmed": true,
+    "smtp_user_env_configured": true
+  }
+}

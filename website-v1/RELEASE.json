@@ -1,0 +1,14 @@
+{
+  "name": "MT E.L.K., INC.",
+  "version": "1.0.0",
+  "label": "V1",
+  "release_date": "2026-10-21",
+  "production_url": "https://www.mtelkinc.com",
+  "production_deploy_id": "6ad8fe7f7088b92e9523fcf7",
+  "github_repository": "jesseblucero-source/mtelkinc-legacy",
+  "snapshot_directory": "website-v1",
+  "publication_scope": "Existing public website assets and source records; excludes internal planning PDFs, email records, credentials and pending SMTP functions.",
+  "operational_caveat": "V1 records the published baseline; it does not certify payment settlement, company-sender email delivery or every additional domain.",
+  "dist_file_count": 948,
+  "dist_manifest_sha256": "3d482a05ac4b5963eea0536ba83a301a383b576b700551377e1c5f056bdacad1"
+}

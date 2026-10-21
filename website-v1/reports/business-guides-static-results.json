@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "/dealer-guides/customer-support/",
+    "/dealer-guides/distributor-network/",
+    "/fr/dealer-guides/customer-support/",
+    "/fr/dealer-guides/distributor-network/",
+    "/es/dealer-guides/customer-support/",
+    "/es/dealer-guides/distributor-network/",
+    "/de/dealer-guides/customer-support/",
+    "/de/dealer-guides/distributor-network/"
+  ],
+  "originalPdfBytesUnchanged": true,
+  "coverBytes": {
+    "customer-support": 25194,
+    "distributor-network": 29708
+  }
+}

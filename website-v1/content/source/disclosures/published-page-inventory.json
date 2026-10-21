@@ -1,0 +1,102 @@
+{
+  "checked": "2026-10-14",
+  "endpoint": "https://elkinc.com/wp-json/wp/v2/pages?per_page=100&_fields=id,slug,link,title",
+  "pages": [
+    {
+      "id": 648,
+      "slug": "payment-policy",
+      "link": "https://elkinc.com/payment-policy/",
+      "title": {
+        "rendered": "Payment Policy"
+      }
+    },
+    {
+      "id": 629,
+      "slug": "shipping-returns",
+      "link": "https://elkinc.com/shipping-returns/",
+      "title": {
+        "rendered": "Shipping &amp; Returns"
+      }
+    },
+    {
+      "id": 594,
+      "slug": "banding-instructions",
+      "link": "https://elkinc.com/banding-instructions/",
+      "title": {
+        "rendered": "Banding Instructions"
+      }
+    },
+    {
+      "id": 556,
+      "slug": "customer-support-team",
+      "link": "https://elkinc.com/customer-support-team/",
+      "title": {
+        "rendered": "Contact Our Support Team"
+      }
+    },
+    {
+      "id": 482,
+      "slug": "checkout",
+      "link": "https://elkinc.com/checkout/",
+      "title": {
+        "rendered": "Checkout"
+      }
+    },
+    {
+      "id": 477,
+      "slug": "cart",
+      "link": "https://elkinc.com/cart/",
+      "title": {
+        "rendered": "Cart"
+      }
+    },
+    {
+      "id": 447,
+      "slug": "education",
+      "link": "https://elkinc.com/education/",
+      "title": {
+        "rendered": "Education"
+      }
+    },
+    {
+      "id": 441,
+      "slug": "testimonials",
+      "link": "https://elkinc.com/testimonials/",
+      "title": {
+        "rendered": "Testimonials"
+      }
+    },
+    {
+      "id": 350,
+      "slug": "products",
+      "link": "https://elkinc.com/products/",
+      "title": {
+        "rendered": "Products"
+      }
+    },
+    {
+      "id": 308,
+      "slug": "contact",
+      "link": "https://elkinc.com/contact/",
+      "title": {
+        "rendered": "Contact"
+      }
+    },
+    {
+      "id": 306,
+      "slug": "about",
+      "link": "https://elkinc.com/about/",
+      "title": {
+        "rendered": "About"
+      }
+    },
+    {
+      "id": 290,
+      "slug": "home",
+      "link": "https://elkinc.com/",
+      "title": {
+        "rendered": "Home"
+      }
+    }
+  ]
+}

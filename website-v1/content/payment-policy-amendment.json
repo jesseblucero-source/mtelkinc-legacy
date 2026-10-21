@@ -1,0 +1,55 @@
+{
+  "record_id": "payment-policy",
+  "updated": "2026-10-14",
+  "reason": "User-authorized update to reflect the existing embedded Ecwid checkout; original source documents preserved.",
+  "provider_reference": "https://support.ecwid.com/hc/en-us/articles/207100429-Intro-to-payments-How-do-you-get-paid",
+  "download": "/records/policies/payment-policy-current.txt",
+  "replacements": [
+    {
+      "source_text": "MT Elk Inc. accepts the following payment methods through our Shopify-hosted checkout:",
+      "replacement": {
+        "tag": "p",
+        "html": "<p>MT E.L.K., INC. uses the embedded Ecwid checkout on this website. The payment methods currently available for your order are displayed during checkout.</p>",
+        "text": "MT E.L.K., INC. uses the embedded Ecwid checkout on this website. The payment methods currently available for your order are displayed during checkout."
+      }
+    },
+    {
+      "source_text": "Major credit and debit cards (Visa, Mastercard, American Express, Discover)Shop Pay and Shopify PaymentsPayPal (where available)Apple Pay and Google Pay (where available)",
+      "replacement": {
+        "tag": "p",
+        "html": "<p>Choose from the payment methods displayed in checkout. Availability depends on the payment providers enabled for our store and the details of your order.</p>",
+        "text": "Choose from the payment methods displayed in checkout. Availability depends on the payment providers enabled for our store and the details of your order."
+      }
+    },
+    {
+      "source_text": "All payment transactions are encrypted and processed through Shopify’s PCI-DSS compliant payment infrastructure. MT Elk Inc. does not store full card numbers on our servers.",
+      "replacement": {
+        "tag": "p",
+        "html": "<p>Payments are processed by the payment providers connected to our Ecwid checkout. Complete any payment-provider authentication steps shown during checkout.</p>",
+        "text": "Payments are processed by the payment providers connected to our Ecwid checkout. Complete any payment-provider authentication steps shown during checkout."
+      }
+    }
+  ],
+  "labels": {
+    "en": {
+      "note": "The checkout information in section 6.2 has been updated for the existing Ecwid checkout. The other policy provisions are retained from the published source. The original source remains available below.",
+      "updated": "Checkout information updated",
+      "download": "Download current policy (English)"
+    },
+    "fr": {
+      "note": "Les informations de paiement de la section 6.2 ont été mises à jour pour le paiement Ecwid existant. Les autres dispositions sont conservées depuis la source publiée. Le texte source original reste disponible ci-dessous.",
+      "updated": "Informations de paiement mises à jour",
+      "download": "Télécharger la politique actuelle (anglais)"
+    },
+    "es": {
+      "note": "La información de pago de la sección 6.2 se ha actualizado para el proceso de pago Ecwid existente. Las demás disposiciones se conservan de la fuente publicada. El texto original sigue disponible a continuación.",
+      "updated": "Información de pago actualizada",
+      "download": "Descargar política actual (inglés)"
+    },
+    "de": {
+      "note": "Die Zahlungsinformationen in Abschnitt 6.2 wurden für den bestehenden Ecwid-Checkout aktualisiert. Die übrigen Bestimmungen stammen weiterhin aus der veröffentlichten Quelle. Der ursprüngliche Quelltext bleibt unten verfügbar.",
+      "updated": "Zahlungsinformationen aktualisiert",
+      "download": "Aktuelle Richtlinie herunterladen (Englisch)"
+    }
+  }
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "confidence" : 1,
+    "h" : 0.13152903490105783,
+    "text" : "Don Laubach is the founder and president of E.L.K., Inc. He is the",
+    "w" : 0.70357269683441559,
+    "x" : 0.17583493547640086,
+    "y" : 0.10116482059941445
+  },
+  {
+    "confidence" : 1,
+    "h" : 0.13260598830234849,
+    "text" : "inventor and patent holder on the \"Cow Talk\" call and the \"Larynx",
+    "w" : 0.69696171748173696,
+    "x" : 0.18368417117830207,
+    "y" : 0.17243841223964718
+  },
+  {
+    "confidence" : 1,
+    "h" : 0.11249999843016567,
+    "text" : "Bull Call\" for elk and the \"Antelope Talk,\" \"Deer Talk,\" and \"Turkey",
+    "w" : 0.68725363991477284,
+    "x" : 0.19448093588079646,
+    "y" : 0.26249999998134577
+  },
+  {
+    "confidence" : 1,
+    "h" : 0.10082304526748964,
+    "text" : "Talk* calls. With co-author Mark Henckel, his books include Elk",
+    "w" : 0.68725363991477273,
+    "x" : 0.19448093052443585,
+    "y" : 0.36213991746611174
+  },
+  {
+    "confidence" : 1,
+    "h" : 0.12448543579980675,
+    "text" : "Talk, The Elk Hunter, Deer Talk, and now Elk Tactics. Laubach also",
+    "w" : 0.68911378538453727,
+    "x" : 0.19419699835739354,
+    "y" : 0.43536394679059798
+  },
+  {
+    "confidence" : 1,
+    "h" : 0.11253401673870322,
+    "text" : "was involved in creating a number of successful videos with legend-",
+    "w" : 0.69684194589590098,
+    "x" : 0.18771252538338046,
+    "y" : 0.52389363449852899
+  },
+  {
+    "confidence" : 1,
+    "h" : 0.11048109737443335,
+    "text" : "ary filmmaker Gordon Eastman and has more recently begun creating",
+    "w" : 0.70208074396306819,
+    "x" : 0.18112373906888998,
+    "y" : 0.60746645884681894
+  },
+  {
+    "confidence" : 1,
+    "h" : 0.10905349794238683,
+    "text" : "videos of his own, including Wyoming's Thunder Bulls, Mule Deer",
+    "w" : 0.72930353338068188,
+    "x" : 0.15637320450983419,
+    "y" : 0.69547325065843613
+  },
+  {
+    "confidence" : 1,
+    "h" : 0.11778991997487265,
+    "text" : "Advantage, and Dogging Coyotes, All are available from E.L.K., Iac., P.O. Box 85,",
+    "w" : 0.80182859742796264,
+    "x" : 0.082647471641060691,
+    "y" : 0.77591129625399835
+  },
+  {
+    "confidence" : 1,
+    "h" : 0.096707818930041212,
+    "text" : "Gardiner, MT, 59030.",
+    "w" : 0.22996057287439123,
+    "x" : 0.01314060767769082,
+    "y" : 0.886831274049937
+  }
+]

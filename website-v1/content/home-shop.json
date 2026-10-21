@@ -1,0 +1,66 @@
+{
+  "en": {
+    "shop": "Shop Now",
+    "learn": "Calling Education",
+    "legacy": "Our Legacy",
+    "label": "SHOP",
+    "title": "Find your next call.",
+    "intro": "Calls, bands, reeds, books, DVDs, and blinds—all in one store.",
+    "browse": "Browse the Store",
+    "categorynav": "Shop by category",
+    "categories": [
+      "Elk",
+      "Mule deer",
+      "Whitetail",
+      "Bands & reeds"
+    ]
+  },
+  "fr": {
+    "shop": "Voir la boutique",
+    "learn": "Leçons d’appeaux",
+    "legacy": "Notre héritage",
+    "label": "BOUTIQUE",
+    "title": "Trouvez votre prochain appeau.",
+    "intro": "Appeaux, élastiques, anches, livres, DVD et affûts dans une même boutique.",
+    "browse": "Explorer la boutique",
+    "categorynav": "Acheter par catégorie",
+    "categories": [
+      "Wapiti",
+      "Cerf mulet",
+      "Cerf de Virginie",
+      "Élastiques et anches"
+    ]
+  },
+  "es": {
+    "shop": "Ir a la tienda",
+    "learn": "Lecciones de reclamos",
+    "legacy": "Nuestro legado",
+    "label": "TIENDA",
+    "title": "Encuentre su próximo reclamo.",
+    "intro": "Reclamos, bandas, lengüetas, libros, DVD y puestos de caza en una sola tienda.",
+    "browse": "Explorar la tienda",
+    "categorynav": "Comprar por categoría",
+    "categories": [
+      "Wapití",
+      "Ciervo mulo",
+      "Ciervo de cola blanca",
+      "Bandas y lengüetas"
+    ]
+  },
+  "de": {
+    "shop": "Zum Shop",
+    "learn": "Lockruf-Lektionen",
+    "legacy": "Unser Vermächtnis",
+    "label": "SHOP",
+    "title": "Den nächsten Wildlocker finden.",
+    "intro": "Wildlocker, Bänder, Rufzungen, Bücher, DVDs und Jagdschirme in einem Shop.",
+    "browse": "Shop entdecken",
+    "categorynav": "Nach Kategorie einkaufen",
+    "categories": [
+      "Wapiti",
+      "Maultierhirsch",
+      "Weißwedelhirsch",
+      "Bänder und Rufzungen"
+    ]
+  }
+}

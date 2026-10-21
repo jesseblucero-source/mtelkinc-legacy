@@ -1,0 +1,190 @@
+{
+  "name": "MT E.L.K., INC. UNIVERSITY",
+  "status": "planned",
+  "locales": {
+    "en": {
+      "status": "Coming Soon",
+      "tagline": "Learn the language of the wild.",
+      "intro": "MT E.L.K., INC. UNIVERSITY will bring calling education, call care, and our company story together—including our video archive to help you train, practice, and work toward your best.",
+      "planned": "What we’re building",
+      "note": "MT E.L.K., INC. UNIVERSITY is a planned learning resource. A launch date has not been announced.",
+      "themes": [
+        [
+          "Calling education",
+          "Explore learning resources organized around species and calls, with a clear path to relevant demonstrations."
+        ],
+        [
+          "Watch. Listen. Learn.",
+          "We’re including our video archive so you can watch, listen, revisit demonstrations, and build your practice—all with playback right here on the website."
+        ],
+        [
+          "Call care",
+          "Connect your call with the appropriate band and reed replacement resources."
+        ],
+        [
+          "The story behind the calls",
+          "Explore the people, historical records, and original documents preserved in our archive."
+        ]
+      ],
+      "now": "Start learning today.",
+      "nowbody": "You don’t have to wait. Our current lessons, video library, call-care resources, and historical archive are available now.",
+      "learn": "Explore current lessons",
+      "videos": "Watch the video library",
+      "care": "Find call-care resources",
+      "legacy": "Explore our legacy",
+      "home": "Home",
+      "education": "Education",
+      "teaser": "A new place to learn is taking shape.",
+      "details": "Discover what’s planned",
+      "imagealt": "Bull elk standing in a meadow",
+      "homepage": {
+        "button": "Explore the University",
+        "body": "Our video archive will be part of MT E.L.K., INC. UNIVERSITY—helping you watch, listen, train, and work toward your best, alongside calling education, call care, and the story behind the calls.",
+        "topics": [
+          "Calling education",
+          "Demonstrations",
+          "Call care",
+          "Company history"
+        ]
+      }
+    },
+    "fr": {
+      "status": "Bientôt disponible",
+      "tagline": "Apprenez le langage de la nature.",
+      "intro": "MT E.L.K., INC. UNIVERSITY réunira la formation à l’utilisation des appeaux, l’entretien et notre histoire, avec nos archives vidéo pour vous aider à vous entraîner, à pratiquer et à donner le meilleur de vous-même.",
+      "planned": "Ce que nous préparons",
+      "note": "MT E.L.K., INC. UNIVERSITY est une ressource pédagogique en préparation. Aucune date de lancement n’a été annoncée.",
+      "themes": [
+        [
+          "Formation à l’utilisation des appeaux",
+          "Explorez des ressources organisées par espèce et par appeau, avec un accès clair aux démonstrations associées."
+        ],
+        [
+          "Regarder. Écouter. Apprendre.",
+          "Nous intégrons nos archives vidéo pour vous permettre de regarder, d’écouter, de revoir les démonstrations et de vous entraîner, avec une lecture directement sur le site."
+        ],
+        [
+          "Entretien des appeaux",
+          "Retrouvez les ressources de remplacement des élastiques et des anches adaptées à votre appeau."
+        ],
+        [
+          "L’histoire derrière les appeaux",
+          "Découvrez les personnes, les archives historiques et les documents originaux conservés dans nos archives."
+        ]
+      ],
+      "now": "Commencez à apprendre dès maintenant.",
+      "nowbody": "Les leçons actuelles, la vidéothèque, les ressources d’entretien et les archives historiques sont déjà disponibles.",
+      "learn": "Explorer les leçons actuelles",
+      "videos": "Voir la vidéothèque",
+      "care": "Trouver les ressources d’entretien",
+      "legacy": "Découvrir notre héritage",
+      "home": "Accueil",
+      "education": "Formation",
+      "teaser": "Un nouvel espace d’apprentissage se prépare.",
+      "details": "Découvrir le projet",
+      "imagealt": "Wapiti mâle dans une prairie",
+      "homepage": {
+        "button": "Découvrir le projet",
+        "body": "Nos archives vidéo feront partie de MT E.L.K., INC. UNIVERSITY pour vous aider à regarder, à écouter, à vous entraîner et à donner le meilleur de vous-même, aux côtés de la formation, de l’entretien et de notre histoire.",
+        "topics": [
+          "Formation",
+          "Démonstrations",
+          "Entretien",
+          "Histoire de l’entreprise"
+        ]
+      }
+    },
+    "es": {
+      "status": "Próximamente",
+      "tagline": "Aprenda el lenguaje de la naturaleza.",
+      "intro": "MT E.L.K., INC. UNIVERSITY reunirá formación sobre reclamos, mantenimiento y nuestra historia, e incluirá nuestro archivo de vídeos para ayudarle a entrenar, practicar y dar lo mejor de sí.",
+      "planned": "Lo que estamos preparando",
+      "note": "MT E.L.K., INC. UNIVERSITY es un recurso educativo en preparación. Todavía no se ha anunciado una fecha de lanzamiento.",
+      "themes": [
+        [
+          "Formación sobre reclamos",
+          "Explore recursos organizados por especie y reclamo, con una ruta clara hacia las demostraciones relacionadas."
+        ],
+        [
+          "Ver. Escuchar. Aprender.",
+          "Incluimos nuestro archivo de vídeos para que pueda ver, escuchar, repasar las demostraciones y practicar, con la reproducción directamente en el sitio web."
+        ],
+        [
+          "Mantenimiento de reclamos",
+          "Encuentre los recursos de sustitución de bandas y lengüetas adecuados para su reclamo."
+        ],
+        [
+          "La historia de los reclamos",
+          "Conozca a las personas, los registros históricos y los documentos originales conservados en nuestro archivo."
+        ]
+      ],
+      "now": "Empiece a aprender hoy.",
+      "nowbody": "Las lecciones actuales, la videoteca, los recursos de mantenimiento y el archivo histórico ya están disponibles.",
+      "learn": "Explorar las lecciones actuales",
+      "videos": "Ver la videoteca",
+      "care": "Buscar recursos de mantenimiento",
+      "legacy": "Explorar nuestro legado",
+      "home": "Inicio",
+      "education": "Formación",
+      "teaser": "Un nuevo espacio para aprender está tomando forma.",
+      "details": "Descubrir el proyecto",
+      "imagealt": "Wapití macho en una pradera",
+      "homepage": {
+        "button": "Explorar el proyecto",
+        "body": "Nuestro archivo de vídeos formará parte de MT E.L.K., INC. UNIVERSITY para ayudarle a ver, escuchar, entrenar y dar lo mejor de sí, junto con formación sobre reclamos, mantenimiento y nuestra historia.",
+        "topics": [
+          "Formación",
+          "Demostraciones",
+          "Mantenimiento",
+          "Historia de la empresa"
+        ]
+      }
+    },
+    "de": {
+      "status": "Demnächst",
+      "tagline": "Die Sprache der Natur verstehen.",
+      "intro": "MT E.L.K., INC. UNIVERSITY wird Wissen über Wildlocker, Pflege und unsere Geschichte zusammenführen – einschließlich unseres Videoarchivs, damit Sie trainieren, üben und Ihr Bestes geben können.",
+      "planned": "Was wir vorbereiten",
+      "note": "MT E.L.K., INC. UNIVERSITY ist ein geplanter Lernbereich. Ein Starttermin wurde noch nicht bekannt gegeben.",
+      "themes": [
+        [
+          "Wissen über Wildlocker",
+          "Entdecken Sie Lernmaterial nach Tierart und Wildlocker, mit einem klaren Weg zu passenden Vorführungen."
+        ],
+        [
+          "Sehen. Hören. Lernen.",
+          "Wir binden unser Videoarchiv ein, damit Sie Vorführungen ansehen, zuhören, Inhalte wiederholen und üben können – mit Wiedergabe direkt auf unserer Website."
+        ],
+        [
+          "Pflege der Wildlocker",
+          "Finden Sie passende Ressourcen zum Austausch von Bändern und Zungen für Ihren Wildlocker."
+        ],
+        [
+          "Die Geschichte hinter den Wildlockern",
+          "Entdecken Sie die Menschen, historischen Aufzeichnungen und Originaldokumente in unserem Archiv."
+        ]
+      ],
+      "now": "Schon heute lernen.",
+      "nowbody": "Unsere bisherigen Lektionen, die Videothek, Pflegeressourcen und das historische Archiv sind bereits verfügbar.",
+      "learn": "Aktuelle Lektionen entdecken",
+      "videos": "Zur Videothek",
+      "care": "Pflegeressourcen finden",
+      "legacy": "Unsere Geschichte entdecken",
+      "home": "Startseite",
+      "education": "Lernen",
+      "teaser": "Ein neuer Ort zum Lernen entsteht.",
+      "details": "Das Vorhaben entdecken",
+      "imagealt": "Wapitihirsch auf einer Wiese",
+      "homepage": {
+        "button": "Das Vorhaben entdecken",
+        "body": "Unser Videoarchiv wird Teil von MT E.L.K., INC. UNIVERSITY: ansehen, zuhören, trainieren und Ihr Bestes geben – ergänzt durch Wissen über Wildlocker, Pflege und unsere Geschichte.",
+        "topics": [
+          "Wissen über Wildlocker",
+          "Vorführungen",
+          "Pflege",
+          "Unternehmensgeschichte"
+        ]
+      }
+    }
+  }
+}
