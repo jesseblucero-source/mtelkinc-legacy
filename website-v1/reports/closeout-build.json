@@ -1,0 +1,13 @@
+{
+  "version": "1.1.0",
+  "original_documents_verified": 57,
+  "stages": [
+    "guided-university",
+    "keep-videos-on-site",
+    "resource-index",
+    "video-compatibility",
+    "document-viewer",
+    "canonical",
+    "delivery"
+  ]
+}

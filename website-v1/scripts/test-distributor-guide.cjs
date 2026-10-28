@@ -1,4 +1,4 @@
-const {chromium,webkit,firefox}=require(process.env.MT_PLAYWRIGHT_MODULE || 'playwright');
+const {chromium,webkit,firefox}=require(process.env.MT_PLAYWRIGHT_MODULE||'playwright');
 const assert=require('node:assert/strict'),fs=require('node:fs');
 const origin=process.argv[2]||'http://127.0.0.1:8772';
 const pdf='/downloads/mtelkinc-multilingual-distributor-guide.pdf';

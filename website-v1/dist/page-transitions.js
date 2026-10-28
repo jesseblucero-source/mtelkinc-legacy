@@ -1,7 +1,7 @@
 // Persistent site navigation: public pages remain independently usable without JavaScript.
 (() => {
  if(window.MTPageRouter||!window.fetch||!window.AbortController||!Element.prototype.replaceChildren)return;
- const entries=new Set(['script','dynamic','learn','media','education-hub','about','canada','deer-path','support','field-guide','cinematic','hero-depth','site-language','store','disclosures','article-reader','legacy-phone','document-viewer','dealer-application','dealer-share','distributor-guide']);
+ const entries=new Set(['script','dynamic','learn','media','education-hub','about','canada','deer-path','support','field-guide','cinematic','hero-depth','site-language','store','disclosures','article-reader','legacy-phone','document-viewer','dealer-application','dealer-share','distributor-guide','university-training']);
  const native={add:EventTarget.prototype.addEventListener,remove:EventTarget.prototype.removeEventListener,timeout:window.setTimeout.bind(window),clear:window.clearTimeout.bind(window),raf:window.requestAnimationFrame.bind(window),cancel:window.cancelAnimationFrame.bind(window)};
  let context,scope,route=location.pathname,currentHref=location.href,operation=0,loading,animation,soundContext,soundEnabled=true;
  const persistent=node=>node?.nodeType===1&&!!node.closest('[data-site-persist]');

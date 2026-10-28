@@ -1,0 +1,94 @@
+{
+  "origin": "https://www.mtelkinc.com",
+  "providerVideoMocked": true,
+  "results": [
+    {
+      "engine": "chromium",
+      "lang": "en",
+      "verifiedLessons": 11,
+      "lazyEmbeddedVideo": true,
+      "progressPersists": true,
+      "filters": true,
+      "reset": true,
+      "export": true,
+      "responsive": true
+    },
+    {
+      "engine": "chromium",
+      "lang": "fr",
+      "verifiedLessons": 11,
+      "lazyEmbeddedVideo": true,
+      "progressPersists": true,
+      "filters": true,
+      "reset": true,
+      "export": true,
+      "responsive": true
+    },
+    {
+      "engine": "chromium",
+      "lang": "es",
+      "verifiedLessons": 11,
+      "lazyEmbeddedVideo": true,
+      "progressPersists": true,
+      "filters": true,
+      "reset": true,
+      "export": true,
+      "responsive": true
+    },
+    {
+      "engine": "chromium",
+      "lang": "de",
+      "verifiedLessons": 11,
+      "lazyEmbeddedVideo": true,
+      "progressPersists": true,
+      "filters": true,
+      "reset": true,
+      "export": true,
+      "responsive": true
+    },
+    {
+      "engine": "webkit",
+      "lang": "en",
+      "verifiedLessons": 11,
+      "lazyEmbeddedVideo": true,
+      "progressPersists": true,
+      "filters": true,
+      "reset": true,
+      "export": true,
+      "responsive": true
+    },
+    {
+      "engine": "webkit",
+      "lang": "fr",
+      "verifiedLessons": 11,
+      "lazyEmbeddedVideo": true,
+      "progressPersists": true,
+      "filters": true,
+      "reset": true,
+      "export": true,
+      "responsive": true
+    },
+    {
+      "engine": "webkit",
+      "lang": "es",
+      "verifiedLessons": 11,
+      "lazyEmbeddedVideo": true,
+      "progressPersists": true,
+      "filters": true,
+      "reset": true,
+      "export": true,
+      "responsive": true
+    },
+    {
+      "engine": "webkit",
+      "lang": "de",
+      "verifiedLessons": 11,
+      "lazyEmbeddedVideo": true,
+      "progressPersists": true,
+      "filters": true,
+      "reset": true,
+      "export": true,
+      "responsive": true
+    }
+  ]
+}

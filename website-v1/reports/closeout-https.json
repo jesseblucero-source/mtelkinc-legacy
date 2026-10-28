@@ -1,0 +1,11 @@
+{
+  "state": "issued",
+  "domains": [
+    "mtelkinc.com",
+    "www.mtelkinc.com"
+  ],
+  "custom": false,
+  "renewal_error_message": null,
+  "renewable": true,
+  "renew_running": false
+}

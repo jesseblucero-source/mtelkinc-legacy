@@ -1,14 +1,16 @@
 {
   "name": "MT E.L.K., INC.",
-  "version": "1.0.0",
-  "label": "V1",
-  "release_date": "2026-10-21",
+  "version": "1.1.0",
+  "label": "V1 compatible expansion",
+  "release_date": "2026-10-27",
   "production_url": "https://www.mtelkinc.com",
-  "production_deploy_id": "6ad8fe7f7088b92e9523fcf7",
+  "production_deploy_id": "6ae17ee5565795d45bdb3847",
   "github_repository": "jesseblucero-source/mtelkinc-legacy",
   "snapshot_directory": "website-v1",
-  "publication_scope": "Existing public website assets and source records; excludes internal planning PDFs, email records, credentials and pending SMTP functions.",
+  "publication_scope": "Public static website, guided University and routing; pending SMTP functions are source-only and excluded from this deployment.",
   "operational_caveat": "V1 records the published baseline; it does not certify payment settlement, company-sender email delivery or every additional domain.",
-  "dist_file_count": 948,
-  "dist_manifest_sha256": "3d482a05ac4b5963eea0536ba83a301a383b576b700551377e1c5f056bdacad1"
+  "dist_file_count": 970,
+  "dist_manifest_sha256": "45f96f5732c9850d6311aff2a63e85a639ea3490e27ba86c427e29a6707a0eb5",
+  "baseline_tag": "v1.0.0",
+  "baseline_commit": "317a1e22d740dbd4852ae76cc7705cc382ecec70"
 }

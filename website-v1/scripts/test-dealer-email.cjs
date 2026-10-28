@@ -1,4 +1,4 @@
-const pw=require(process.env.MT_PLAYWRIGHT_MODULE || 'playwright');
+const pw=require(process.env.MT_PLAYWRIGHT_MODULE||'playwright');
 const assert=require('assert'),fs=require('fs');
 const normalize=s=>s.normalize('NFC').replace(/\s/g,'');
 (async()=>{const results=[];for(const engine of (process.env.MT_BROWSER?[process.env.MT_BROWSER]:['chromium','webkit','firefox'])){const browser=await pw[engine].launch(engine==='firefox'?{executablePath:'/private/tmp/mtelk-browser-tests/firefox-1538/firefox/Nightly.app/Contents/MacOS/firefox'}:{});try{for(const [lang,width,mode] of [['en',390,'dealer'],['fr',320,'distributor-account'],['es',768,'dealer'],['de',1440,'distributor-account']].filter(([lang])=>!process.env.MT_TEST_LANG||lang===process.env.MT_TEST_LANG)){

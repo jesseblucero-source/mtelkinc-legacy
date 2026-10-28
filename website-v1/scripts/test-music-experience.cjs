@@ -1,4 +1,4 @@
-const pw=require(process.env.MT_PLAYWRIGHT_MODULE || 'playwright');
+const pw=require(process.env.MT_PLAYWRIGHT_MODULE||'playwright');
 const assert=require('node:assert/strict'),fs=require('node:fs'),path=require('node:path');
 const origin=process.argv[2]||'http://127.0.0.1:8774',engine=process.env.MT_BROWSER||'chromium';
 (async()=>{const browser=await pw[engine].launch();const results=[];try{

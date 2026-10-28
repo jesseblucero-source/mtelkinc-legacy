@@ -16,9 +16,9 @@ if __name__=='__main__':
   s=restore(p.read_text())
   s=re.sub(r'/assets/(roboto-400|robotoslab-600)-optimized-[a-f0-9]+\.woff2',lambda m:'/assets/'+m[1]+'.woff2',s)
   # Keep exact cascade order, including language and palette overrides.
-  links=list(re.finditer(r'<link rel="stylesheet" href="(/[^"?]+\.css)">',s))
+  links=list(re.finditer(r'<link rel="stylesheet" href="(/[^"?]+\.css(?:\?[^\"]*)?)">',s))
   if links:
-   sources=[m[1] for m in links]
+   sources=[m[1].split("?")[0] for m in links]
    css='\n'.join('/* '+url+' */\n'+(dist/url.lstrip('/')).read_text() for url in sources)
    for original,optimized in fonts.items():css=css.replace(original,optimized)
    digest=hashlib.sha256(css.encode()).hexdigest()[:12];name='page-styles-'+digest+'.css';bundles.add(name)

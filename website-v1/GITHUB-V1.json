@@ -1,0 +1,16 @@
+{
+  "name": "MT E.L.K., INC.",
+  "label": "V1",
+  "version": "1.0.0",
+  "repository": "https://github.com/jesseblucero-source/mtelkinc-legacy",
+  "tag": "v1.0.0",
+  "commit": "317a1e22d740dbd4852ae76cc7705cc382ecec70",
+  "branch": "codex/mtelkinc-v1-release",
+  "snapshot_url": "https://github.com/jesseblucero-source/mtelkinc-legacy/tree/v1.0.0/website-v1",
+  "pull_request": "https://github.com/jesseblucero-source/mtelkinc-legacy/pull/1",
+  "pull_request_status": "merged",
+  "production_deploy_id": "6ad8fe7f7088b92e9523fcf7",
+  "public_files_verified": 948,
+  "production_assets_changed": false,
+  "merge_commit": "85d16ae8c70970a84578bae4c8b8079857837b72"
+}

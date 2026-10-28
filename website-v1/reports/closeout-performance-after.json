@@ -1,0 +1,48 @@
+{
+  "browser": "Chromium",
+  "viewport": "390x844",
+  "lab": true,
+  "conditions": "cold browser contexts; simulated 1.6Mbps down / 750Kbps up, 150ms latency, 4x CPU slowdown; observed through load + 2s",
+  "rows": [
+    {
+      "path": "/",
+      "sample": 1,
+      "lcp": 4420,
+      "cls": 0,
+      "longTasks": 740,
+      "transfer": 509430,
+      "dcl": 5075.099999964237,
+      "overflow": false
+    },
+    {
+      "path": "/",
+      "sample": 2,
+      "lcp": 3128,
+      "cls": 0,
+      "longTasks": 521,
+      "transfer": 509314,
+      "dcl": 3286.300000011921,
+      "overflow": false
+    },
+    {
+      "path": "/university/",
+      "sample": 1,
+      "lcp": 2336,
+      "cls": 0,
+      "longTasks": 34,
+      "transfer": 149794,
+      "dcl": 2355.5,
+      "overflow": false
+    },
+    {
+      "path": "/university/",
+      "sample": 2,
+      "lcp": 2120,
+      "cls": 0,
+      "longTasks": 31,
+      "transfer": 149831,
+      "dcl": 2129.5,
+      "overflow": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+const KEY='mtelkinc-training-v1';
+export function initPage(){
+ const root=document.querySelector('[data-training-root]');if(!root)return;
+ const boxes=[...root.querySelectorAll('[data-training-done]')],allowed=new Set(boxes.map(b=>b.dataset.trainingDone));let reviewed=new Set(),storage=true;
+ const read=()=>{try{const value=JSON.parse(localStorage.getItem(KEY)||'[]');if(!Array.isArray(value))return new Set();return new Set(value.filter(x=>allowed.has(x)));}catch{storage=false;return new Set();}};
+ reviewed=read();const counter=root.querySelector('[data-training-count]'),bar=root.querySelector('progress'),warning=root.querySelector('[data-training-storage]'),dialog=document.querySelector('#training-reset');
+ function draw(){for(const b of boxes){b.disabled=false;b.checked=reviewed.has(b.dataset.trainingDone);}bar.value=reviewed.size;counter.textContent=reviewed.size+' / '+boxes.length+' '+root.dataset.progressLabel;warning.textContent=storage?'':root.dataset.storageMessage;}
+ function save(){try{localStorage.setItem(KEY,JSON.stringify([...reviewed]));}catch{storage=false;}draw();}
+ root.querySelector('.training-progress').hidden=false;
+ for(const box of boxes)box.addEventListener('change',()=>{if(box.checked)reviewed.add(box.dataset.trainingDone);else reviewed.delete(box.dataset.trainingDone);save();});
+ const paths=[...root.querySelectorAll('[data-training-path]')];function filter(){const query=new URLSearchParams(location.search).get('path'),active=paths.some(x=>x.dataset.trainingPath===query)?query:'all';for(const a of paths)a.setAttribute('aria-current',a.dataset.trainingPath===active?'true':'false');for(const card of root.querySelectorAll('[data-training-card]'))card.hidden=active!=='all'&&card.dataset.species!==active;}
+ for(const a of paths)a.addEventListener('click',event=>{if(event.metaKey||event.ctrlKey||event.shiftKey||event.altKey)return;event.preventDefault();const url=new URL(location.href);url.searchParams.set('path',a.dataset.trainingPath);history.pushState(null,'',url);filter();});window.addEventListener('popstate',filter);window.addEventListener('storage',event=>{if(event.key===KEY){reviewed=read();draw();}});
+ root.querySelector('[data-training-reset]').addEventListener('click',()=>dialog.showModal());dialog.querySelector('[data-reset-cancel]').addEventListener('click',()=>dialog.close());dialog.querySelector('[data-reset-confirm]').addEventListener('click',()=>{reviewed.clear();save();dialog.close();root.querySelector('[data-training-reset]').focus();});
+ root.querySelector('[data-training-export]').addEventListener('click',()=>{const text='MT E.L.K., INC. UNIVERSITY\n'+root.querySelector('h2').textContent+'\n\n'+boxes.map(b=>{const card=b.closest('article'),a=card.querySelector('a');return(reviewed.has(b.dataset.trainingDone)?'[x] ':'[ ] ')+card.querySelector('h3').textContent+'\n'+new URL(a.href).href;}).join('\n\n');const url=URL.createObjectURL(new Blob([text],{type:'text/plain;charset=utf-8'}));const a=document.createElement('a');a.href=url;a.download='mtelkinc-training-plan.txt';a.dataset.noFade='';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);});draw();filter();
+}
+if(!window.MTPageRouter?.booting){if(window.MTPageRouter)window.MTPageRouter.run(initPage);else initPage();}

@@ -1,4 +1,4 @@
-const{chromium}=require(process.env.MT_PLAYWRIGHT_MODULE || 'playwright'),assert=require('assert');
+const{chromium}=require(process.env.MT_PLAYWRIGHT_MODULE||'playwright'),assert=require('assert');
 function speech(){let timer;const s=new EventTarget();Object.assign(s,{getVoices:()=>['en-US','fr-FR','es-ES','de-DE'].map(lang=>({lang,name:lang,localService:true})),cancel(){clearTimeout(timer)},speak(u){window.lastSpeech=u;timer=setTimeout(()=>u.onstart?.(),5)}});Object.defineProperty(window,'speechSynthesis',{value:s});Object.defineProperty(window,'SpeechSynthesisUtterance',{value:class{constructor(text){this.text=text}}});}
 (async()=>{const base=process.argv[2]||'http://127.0.0.1:8772',b=await chromium.launch();try{for(const prefix of ['','/fr','/es','/de'])for(const width of [320,390,1280]){
 const p=await b.newPage({viewport:{width,height:900},reducedMotion:'reduce'});await p.addInitScript(speech);const errors=[];p.on('pageerror',e=>errors.push(e.message));await p.goto(base+prefix+'/legacy/#legacy-records');
