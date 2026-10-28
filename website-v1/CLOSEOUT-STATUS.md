@@ -1,7 +1,9 @@
 # MT E.L.K., INC. — release closeout
 
-Release: 1.1.0, October 27, 2026. Production: https://www.mtelkinc.com/university/.
-Deploy: `6ae17ee5565795d45bdb3847`. Original V1: Git tag `v1.0.0`; V1 pull request merged as `85d16ae8c70970a84578bae4c8b8079857837b72`.
+Release: 1.1.1, October 27, 2026. Production: https://www.mtelkinc.com/university/.
+Deploy: `6ae187b9980cfaced05011e9`. Original V1: Git tag `v1.0.0`; V1 pull request merged as `85d16ae8c70970a84578bae4c8b8079857837b72`.
+
+The 1.1.1 homepage patch adds responsive AVIF delivery with WebP fallbacks, shared-photo reuse and a smaller English initialization path. See `PERFORMANCE-1.1.1.md` for the latest paired laboratory results: median LCP 4.37 → 3.69 seconds, observed transfer about 8% lower, CLS 0. The homepage remains above target; this does not close the field-performance requirement. The earlier 1.1.0 measurements below are retained as historical evidence.
 
 ## Published and verified
 

@@ -12,7 +12,7 @@ for page in (root/'dist').rglob('index.html'):page.write_text(restore(page.read_
 # Semantic grouping for labeled combined filters across language editions.
 for page in (root/'dist').rglob('index.html'):
  html=page.read_text();html=re.sub(r'<div class="education-active-filters"(?! role=)', '<div class="education-active-filters" role="group"',html);page.write_text(html)
-for name in ['build-university.py']:
+for name in ['build-university.py','build-home-delivery.py']:
  runpy.run_path(str(root/'scripts'/name),run_name='__main__')
 keeper=root/'scripts/keep-videos-on-site.py'
 assert keeper.exists(),'Missing on-site video preservation script.'
@@ -39,7 +39,7 @@ optimizer=root/'scripts/optimize-delivery.py'
 source=optimizer.read_text().replace("root=Path(__file__).resolve().parent.parent;dist=root/'dist'","root=Path.cwd();dist=root/'dist'")
 exec(compile(source,str(optimizer),'exec'),{'__name__':'__main__'})
 for path,sha in protected.items():assert hashlib.sha256((root/'dist'/path).read_bytes()).hexdigest()==sha,'Original document changed: '+path
-release={'name':'MT E.L.K., INC.','version':'1.1.0','baseline':'v1.0.0','scope':'Guided University, canonical production metadata and release verification; SMTP activation separately gated.'}
+release={'name':'MT E.L.K., INC.','version':'1.1.1','baseline':'v1.0.0','scope':'Homepage responsive hero delivery and English initialization optimization; SMTP activation separately gated.'}
 (root/'dist/build-info.json').write_text(json.dumps(release,indent=2)+'\n')
-(root/'reports/closeout-build.json').write_text(json.dumps({'version':'1.1.0','original_documents_verified':len(protected),'stages':['guided-university','keep-videos-on-site','resource-index','video-compatibility','document-viewer','canonical','delivery']},indent=2)+'\n')
-print('Built 1.1.0; original source documents preserved. Run test:closeout before packaging/deploying.')
+(root/'reports/closeout-build.json').write_text(json.dumps({'version':'1.1.1','original_documents_verified':len(protected),'stages':['home-delivery','guided-university','keep-videos-on-site','resource-index','video-compatibility','document-viewer','canonical','delivery']},indent=2)+'\n')
+print('Built 1.1.1; original source documents preserved. Run test:closeout before packaging/deploying.')

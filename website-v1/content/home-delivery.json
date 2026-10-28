@@ -1,0 +1,41 @@
+{
+  "source": "/assets/hero.jpg",
+  "source_sha256": "943f6b1120ada0ee0b0ffe1ed7500884a0985947270b3c6fdcf0216539e1a93a",
+  "avif": [
+    {
+      "url": "/assets/hero-480-449876db81bb.avif",
+      "width": 480,
+      "height": 730,
+      "bytes": 21184,
+      "sha256": "449876db81bb6775a04ee52da8f8c40b458fd1ee7c2c649c92d673f9d423889e"
+    },
+    {
+      "url": "/assets/hero-780-2e1918638c06.avif",
+      "width": 780,
+      "height": 1186,
+      "bytes": 45055,
+      "sha256": "2e1918638c06a3d67ebfa6de073f1905315fd51af0a8ee64e5fca5656fed068f"
+    },
+    {
+      "url": "/assets/hero-960-715a56beaec6.avif",
+      "width": 960,
+      "height": 1459,
+      "bytes": 62234,
+      "sha256": "715a56beaec65a8085124cc82cf2b7fa6bb027db87a1e9f156ad7996e92fb4c9"
+    },
+    {
+      "url": "/assets/hero-1440-881b6fa45029.avif",
+      "width": 1440,
+      "height": 2189,
+      "bytes": 117454,
+      "sha256": "881b6fa450292d39f08b7ab3ce6284f72347254af2c410eba89cb2add6a13523"
+    }
+  ],
+  "webp_780": {
+    "url": "/assets/hero-780-2eed9c0e6f54.webp",
+    "width": 780,
+    "height": 1186,
+    "bytes": 63892,
+    "sha256": "2eed9c0e6f546a71b728fa5624c151341280abe83a8e73cf46f04d0615cd9432"
+  }
+}
