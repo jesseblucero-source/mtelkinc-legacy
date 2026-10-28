@@ -1,7 +1,8 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "original_documents_verified": 57,
   "stages": [
+    "home-delivery",
     "guided-university",
     "keep-videos-on-site",
     "resource-index",

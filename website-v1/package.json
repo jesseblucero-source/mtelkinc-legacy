@@ -1,7 +1,7 @@
 {
   "name": "mtelkinc-final-website",
   "private": true,
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "MT E.L.K., INC. website and guided training",
   "engines": {
     "node": ">=22"

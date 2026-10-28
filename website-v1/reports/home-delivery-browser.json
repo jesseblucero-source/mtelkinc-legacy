@@ -1,0 +1,79 @@
+{
+  "origin": "https://www.mtelkinc.com",
+  "providerVideoMocked": true,
+  "fallbackSourceRemovedByTest": true,
+  "rows": [
+    {
+      "engine": "chromium",
+      "lang": "en",
+      "width": 390,
+      "dpr": 2,
+      "avif": true,
+      "preloadReused": true,
+      "geometry": true
+    },
+    {
+      "engine": "chromium",
+      "lang": "fr",
+      "width": 320,
+      "dpr": 1,
+      "avif": true,
+      "preloadReused": true,
+      "geometry": true
+    },
+    {
+      "engine": "chromium",
+      "lang": "es",
+      "width": 390,
+      "dpr": 3,
+      "avif": true,
+      "preloadReused": true,
+      "geometry": true
+    },
+    {
+      "engine": "chromium",
+      "lang": "de",
+      "width": 1440,
+      "dpr": 1,
+      "avif": true,
+      "preloadReused": true,
+      "geometry": true
+    },
+    {
+      "engine": "webkit",
+      "lang": "en",
+      "width": 390,
+      "dpr": 2,
+      "avif": true,
+      "preloadReused": true,
+      "geometry": true
+    },
+    {
+      "engine": "webkit",
+      "lang": "fr",
+      "width": 320,
+      "dpr": 1,
+      "avif": true,
+      "preloadReused": true,
+      "geometry": true
+    },
+    {
+      "engine": "webkit",
+      "lang": "es",
+      "width": 390,
+      "dpr": 3,
+      "avif": true,
+      "preloadReused": true,
+      "geometry": true
+    },
+    {
+      "engine": "webkit",
+      "lang": "de",
+      "width": 1440,
+      "dpr": 1,
+      "avif": true,
+      "preloadReused": true,
+      "geometry": true
+    }
+  ]
+}

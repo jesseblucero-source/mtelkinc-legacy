@@ -1,0 +1,7 @@
+{
+  "version": "1.1.1",
+  "files": 975,
+  "idempotent": true,
+  "final_photo_reuse_pass_differences": [],
+  "full_pipeline_idempotence_previously_verified": true
+}

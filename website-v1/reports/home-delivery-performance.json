@@ -1,0 +1,157 @@
+{
+  "before": "https://6ae17ee5565795d45bdb3847--mtelkinc-educationhub.netlify.app",
+  "after": "https://6ae187253f7c8506b10d9df8--mtelkinc-educationhub.netlify.app",
+  "lab": true,
+  "browser": "Chromium",
+  "conditions": "Three alternating paired cold samples; 390x844 DPR2, 1.6Mbps down, 150ms latency, CPU4x; load +2.5s; no interception. Shared workstation load is uncontrolled, not field data.",
+  "summary": {
+    "before": {
+      "lcpMedian": 4372,
+      "lcpRange": [
+        3620,
+        6268
+      ],
+      "clsMax": 0,
+      "heroBytesMedian": 85912,
+      "transferMedian": 509354
+    },
+    "after": {
+      "lcpMedian": 3688,
+      "lcpRange": [
+        2724,
+        4096
+      ],
+      "clsMax": 0,
+      "heroBytesMedian": 45355,
+      "transferMedian": 468900
+    }
+  },
+  "rows": [
+    {
+      "label": "before",
+      "round": 1,
+      "workstationLoadAverage": [
+        64.416015625,
+        104.47314453125,
+        151.4912109375
+      ],
+      "lcp": 6268,
+      "cls": 0,
+      "longTasks": 685,
+      "lcpUrl": "https://6ae17ee5565795d45bdb3847--mtelkinc-educationhub.netlify.app/assets/hero-960-b3e89c22.webp",
+      "lcpTag": "IMG",
+      "ttfb": 662.3999999761581,
+      "dcl": 6571.099999964237,
+      "transfer": 509354,
+      "heroBytes": 85912,
+      "heroEnd": 2461,
+      "renderDelay": 3807,
+      "overflow": false
+    },
+    {
+      "label": "after",
+      "round": 1,
+      "workstationLoadAverage": [
+        60.77880859375,
+        103.0537109375,
+        150.71484375
+      ],
+      "lcp": 4096,
+      "cls": 0,
+      "longTasks": 846,
+      "lcpUrl": "https://6ae187253f7c8506b10d9df8--mtelkinc-educationhub.netlify.app/assets/hero-780-2e1918638c06.avif",
+      "lcpTag": "IMG",
+      "ttfb": 522.7999999523163,
+      "dcl": 4206.899999976158,
+      "transfer": 468932,
+      "heroBytes": 45355,
+      "heroEnd": 1657.5,
+      "renderDelay": 2438.5,
+      "overflow": false
+    },
+    {
+      "label": "after",
+      "round": 2,
+      "workstationLoadAverage": [
+        53.64111328125,
+        100.13671875,
+        149.12255859375
+      ],
+      "lcp": 3688,
+      "cls": 0,
+      "longTasks": 716,
+      "lcpUrl": "https://6ae187253f7c8506b10d9df8--mtelkinc-educationhub.netlify.app/assets/hero-780-2e1918638c06.avif",
+      "lcpTag": "IMG",
+      "ttfb": 637,
+      "dcl": 3909.5,
+      "transfer": 468900,
+      "heroBytes": 45355,
+      "heroEnd": 1536.699999988079,
+      "renderDelay": 2151.300000011921,
+      "overflow": false
+    },
+    {
+      "label": "before",
+      "round": 2,
+      "workstationLoadAverage": [
+        66.64208984375,
+        102.06005859375,
+        149.51416015625
+      ],
+      "lcp": 3620,
+      "cls": 0,
+      "longTasks": 778,
+      "lcpUrl": "https://6ae17ee5565795d45bdb3847--mtelkinc-educationhub.netlify.app/assets/hero-960-b3e89c22.webp",
+      "lcpTag": "IMG",
+      "ttfb": 369.19999998807907,
+      "dcl": 4165.199999988079,
+      "transfer": 509320,
+      "heroBytes": 85912,
+      "heroEnd": 1574.800000011921,
+      "renderDelay": 2045.199999988079,
+      "overflow": false
+    },
+    {
+      "label": "before",
+      "round": 3,
+      "workstationLoadAverage": [
+        76.259765625,
+        103.07958984375,
+        149.328125
+      ],
+      "lcp": 4372,
+      "cls": 0,
+      "longTasks": 1074,
+      "lcpUrl": "https://6ae17ee5565795d45bdb3847--mtelkinc-educationhub.netlify.app/assets/hero-960-b3e89c22.webp",
+      "lcpTag": "IMG",
+      "ttfb": 606.3000000119209,
+      "dcl": 4606.100000023842,
+      "transfer": 509360,
+      "heroBytes": 85912,
+      "heroEnd": 2097.899999976158,
+      "renderDelay": 2274.100000023842,
+      "overflow": false
+    },
+    {
+      "label": "after",
+      "round": 3,
+      "workstationLoadAverage": [
+        71.11376953125,
+        101.5673828125,
+        148.5234375
+      ],
+      "lcp": 2724,
+      "cls": 0,
+      "longTasks": 428,
+      "lcpUrl": "https://6ae187253f7c8506b10d9df8--mtelkinc-educationhub.netlify.app/assets/hero-780-2e1918638c06.avif",
+      "lcpTag": "IMG",
+      "ttfb": 344.19999998807907,
+      "dcl": 2841.900000035763,
+      "transfer": 468898,
+      "heroBytes": 45355,
+      "heroEnd": 1300.4000000357628,
+      "renderDelay": 1423.5999999642372,
+      "overflow": false
+    }
+  ]
+}

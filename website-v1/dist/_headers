@@ -27,3 +27,18 @@
 
 /vendor/dealer-pdf-abc73e6e67db/*
   Cache-Control: public, max-age=31536000, immutable
+
+/assets/hero-480-449876db81bb.avif
+  Cache-Control: public, max-age=31536000, immutable
+
+/assets/hero-780-2e1918638c06.avif
+  Cache-Control: public, max-age=31536000, immutable
+
+/assets/hero-960-715a56beaec6.avif
+  Cache-Control: public, max-age=31536000, immutable
+
+/assets/hero-1440-881b6fa45029.avif
+  Cache-Control: public, max-age=31536000, immutable
+
+/assets/hero-780-2eed9c0e6f54.webp
+  Cache-Control: public, max-age=31536000, immutable

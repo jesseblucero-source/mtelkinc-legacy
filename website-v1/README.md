@@ -1,6 +1,8 @@
-# MT E.L.K., INC. — 1.1.0 closeout
+# MT E.L.K., INC. — 1.1.1
 
-The tagged `v1.0.0` remains the immutable V1 baseline. The active static release adds guided University training in English, French, Spanish and German, production-domain canonical metadata, consolidated CSS delivery, and repeatable release checks. The V1 pull request is merged.
+The tagged `v1.0.0` remains the immutable V1 baseline. The active static release retains guided University training in English, French, Spanish and German, production-domain canonical metadata, consolidated CSS delivery, and repeatable release checks. The V1 pull request is merged.
+
+The 1.1.1 patch adds responsive AVIF hero variants with WebP fallbacks and a matching preload on all four homepages. English initialization restores persistent translated controls without rescanning the entire static page. Original imagery and current cinematic motion remain. See `reports/home-delivery-performance.json` for paired CDN lab measurements and `PERFORMANCE-1.1.1.md` for the release assessment.
 
 ## Build and verify this release
 
