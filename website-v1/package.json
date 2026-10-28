@@ -19,7 +19,8 @@
   },
   "scripts": {
     "build": "python3 scripts/build-release.py",
-    "test:mail": "node scripts/test-application-notification.mjs",
+    "test:mail": "node scripts/test-application-notification.mjs && node scripts/test-application-mail-preflight.mjs",
+    "verify:mail": "node scripts/verify-application-email.mjs",
     "test:closeout": "node scripts/test-closeout.cjs",
     "package:static": "python3 scripts/package-static-routing.py"
   },
