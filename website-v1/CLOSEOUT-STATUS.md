@@ -59,3 +59,7 @@ Only sender and SMTP username were present at the last configuration check. Host
 Known notices and existing source links remain available. Device speech voices, YouTube restrictions, native printing/sharing and payment-provider authentication remain controlled by those providers/devices.
 
 A dealer directory, authenticated partner portal, staff editor and full LMS were not included in this guided-training release. No unverified commercial terms, approvals, enrollment or certifications have been added.
+
+## October 28 application email follow-up
+
+Rechecked Netlify: only sender and username are configured, both for production Functions. The four application forms are registered. Host, port and password remain missing. Offline notification and SMTP preflight tests pass; a new `verify:mail` command checks TLS/authentication without sending a message. The SMTP function remains excluded, and no live delivery has been certified. Public DNS currently publishes no observed MX, SPF or DMARC records for mtelkinc.com; the confirmed mail provider must supply its required settings before activation. Details: `reports/application-sender-setup.md`.

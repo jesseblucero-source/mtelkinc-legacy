@@ -28,6 +28,8 @@ University contains 11 existing verified lessons with model/species paths, embed
 
 The SMTP notification/receipt code is prepared under netlify but deliberately excluded by the configured empty-functions directory. Its tests do not send email. Enable it only after Functions-scoped host/port/password configuration, SMTP connection validation and a labeled end-to-end delivery check. Staff To/Cc is phillip@elkinc.com / jesse@elkinc.com; From is jesse@mtelkinc.com. Existing Netlify form notifications remain in place in the meantime. SMTP acceptance is not proof of inbox placement. A retried event can resend an already accepted message; there is no exactly-once guarantee.
 
+Run `npm run test:mail` for offline message and connection-check tests. After securely injecting the confirmed mail settings into a trusted environment, `npm run verify:mail` checks encrypted SMTP login without sending a message. It emits only status codes and missing variable names. Connection verification does not establish delivery; complete the labeled submission and inbox check before declaring notifications operational. See `reports/application-sender-setup.md`.
+
 The closeout report records remaining registrar, certificate, merchant and source-document requirements. Viewport/browser automation does not certify physical devices, native speech voices, provider sign-in behavior or payment settlement. See `CLOSEOUT-STATUS.md` for current evidence.
 
 ---
