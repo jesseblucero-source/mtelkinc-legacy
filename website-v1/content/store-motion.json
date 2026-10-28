@@ -1,0 +1,10 @@
+{
+  "reference": "https://horizonx.so/collections/galleries-carousels",
+  "implementation": "Original lightweight implementation inspired by gallery reveal and depth patterns; no HorizonX subscription asset imported.",
+  "locales": {
+    "en": {"pause":"Pause image motion", "resume":"Resume image motion", "reduced":"Image motion reduced by your device", "alt":"Bull elk standing in a meadow"},
+    "fr": {"pause":"Mettre les images en pause", "resume":"Animer les images", "reduced":"Animations réduites selon votre appareil", "alt":"Wapiti mâle dans une prairie"},
+    "es": {"pause":"Pausar movimiento de imágenes", "resume":"Activar movimiento de imágenes", "reduced":"Movimiento reducido según su dispositivo", "alt":"Wapití macho en una pradera"},
+    "de": {"pause":"Bildanimation pausieren", "resume":"Bildanimation fortsetzen", "reduced":"Bildanimation gemäß Geräteeinstellung reduziert", "alt":"Wapitihirsch auf einer Wiese"}
+  }
+}

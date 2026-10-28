@@ -1,0 +1,64 @@
+{
+  "canonical_origin": "https://www.mtelkinc.com",
+  "dns_target": "mtelkinc-educationhub.netlify.app",
+  "languages": [
+    "fr",
+    "es",
+    "de"
+  ],
+  "shortcuts": [
+    {
+      "host": "canada.mtelkinc.com",
+      "path": "/canada/",
+      "label": "Canada"
+    },
+    {
+      "host": "usadealers.mtelkinc.com",
+      "path": "/dealers/us/",
+      "label": "U.S. dealers"
+    },
+    {
+      "host": "application.mtelkinc.com",
+      "path": "/dealer-application/",
+      "label": "Dealer or distributor application"
+    },
+    {
+      "host": "university.mtelkinc.com",
+      "path": "/university/",
+      "label": "MT E.L.K., INC. UNIVERSITY"
+    }
+  ],
+  "domain_forwards": [
+    {
+      "domain": "mtelkincusa.com",
+      "hosts": [
+        "mtelkincusa.com",
+        "www.mtelkincusa.com"
+      ],
+      "path": "/dealers/us/",
+      "label": "U.S. dealers",
+      "hosting": "existing-usa-site",
+      "site_id": "c60156fd-7e60-4eed-91d3-f251ab8ba666"
+    },
+    {
+      "domain": "mtelkincuniversity.com",
+      "hosts": [
+        "mtelkincuniversity.com",
+        "www.mtelkincuniversity.com"
+      ],
+      "path": "/university/",
+      "label": "MT E.L.K., INC. UNIVERSITY",
+      "hosting": "main-site"
+    },
+    {
+      "domain": "mtelkinc.shop",
+      "hosts": [
+        "mtelkinc.shop",
+        "www.mtelkinc.shop"
+      ],
+      "path": "/shop/",
+      "label": "Store",
+      "hosting": "main-site"
+    }
+  ]
+}

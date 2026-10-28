@@ -1,0 +1,9 @@
+export function initPage(){
+(()=>{const form=document.querySelector('#model-picker'),select=document.querySelector('#support-model'),cards=[...document.querySelectorAll('[data-model]')],status=document.querySelector('#model-status'),email=document.querySelector('#support-email');form.hidden=false;
+ function draw(value,unknown=false){const selected=cards.find(c=>c.dataset.model===value);select.value=selected?value:'all';cards.forEach(c=>c.hidden=Boolean(selected)&&c!==selected);status.textContent=unknown?'That call model is not in this guide. All 10 models are shown; contact the office if you need help identifying yours.':selected?`Resources for ${selected.querySelector('h3').textContent}.`:'10 call models available';const name=selected?.querySelector('h3').textContent;email.href='mailto:office@elkinc.com?subject='+encodeURIComponent(name?`Support question: ${name}`:'Call support question')+'&body='+encodeURIComponent(`MT E.L.K., INC. support question\n\nCall model: ${name||'Please help identify my call'}\nWhat I am trying to do: \nLesson I have been following: \nMy question: `)}
+ function fromUrl(){const value=new URL(location.href).searchParams.get('call')||'all';draw(value,value!=='all'&&!cards.some(c=>c.dataset.model===value))}
+ function update(value){const url=new URL(location.href);if(value==='all')url.searchParams.delete('call');else url.searchParams.set('call',value);history.replaceState(null,'',url);draw(value)}
+ form.addEventListener('submit',e=>{e.preventDefault();update(select.value)});select.addEventListener('change',()=>update(select.value));form.addEventListener('reset',()=>queueMicrotask(()=>update('all')));window.addEventListener('popstate',fromUrl);fromUrl();})();
+
+}
+if(!window.MTPageRouter?.booting){if(window.MTPageRouter)window.MTPageRouter.run(initPage);else initPage();}

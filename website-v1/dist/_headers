@@ -1,0 +1,29 @@
+/*
+  Referrer-Policy: strict-origin-when-cross-origin
+  Cache-Control: no-cache
+/assets/*
+  Cache-Control: public, max-age=3600
+
+/vendor/three/three-hero-r180-da00bccb.min.js
+  Cache-Control: public, max-age=31536000, immutable
+
+/assets/page-styles-*
+  Cache-Control: public, max-age=31536000, immutable
+
+/assets/roboto-400-optimized-e5b3151ae216.woff2
+  Cache-Control: public, max-age=31536000, immutable
+
+/assets/robotoslab-600-optimized-fb772000930a.woff2
+  Cache-Control: public, max-age=31536000, immutable
+
+/assets/roboto-400-optimized-007c12f8b9f6.woff2
+  Cache-Control: public, max-age=31536000, immutable
+
+/assets/robotoslab-600-optimized-d8f81922d6e2.woff2
+  Cache-Control: public, max-age=31536000, immutable
+
+/vendor/pdfjs-6.4.299/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/vendor/dealer-pdf-abc73e6e67db/*
+  Cache-Control: public, max-age=31536000, immutable

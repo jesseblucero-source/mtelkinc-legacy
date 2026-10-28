@@ -1,0 +1,651 @@
+[
+  {
+    "id": "payment-policy",
+    "title": "Shipping & Payment Policy",
+    "source_url": "https://elkinc.com/payment-policy/",
+    "captured": "2026-10-14",
+    "source_sha256": "35a91db68ba54d0a5c744ed4f3558b04aa410031646e2aa2ee241092408ec9fd",
+    "source_last_updated": "2026",
+    "download": "/records/policies/payment-policy.txt",
+    "blocks": [
+      {
+        "tag": "p",
+        "html": "<p><strong>MT Elk Inc.</strong></p>",
+        "text": "MT Elk Inc."
+      },
+      {
+        "tag": "p",
+        "html": "<p>Manufacturer of Elk Calls | Governed by the Laws of the State of Montana</p>",
+        "text": "Manufacturer of Elk Calls | Governed by the Laws of the State of Montana"
+      },
+      {
+        "tag": "p",
+        "html": "<p><strong>PLAIN ENGLISH SUMMARY — What You Need to Know</strong></p>",
+        "text": "PLAIN ENGLISH SUMMARY — What You Need to Know"
+      },
+      {
+        "tag": "p",
+        "html": "<p>Here’s the short version before you dig into the details:</p>",
+        "text": "Here’s the short version before you dig into the details:"
+      },
+      {
+        "tag": "p",
+        "html": "<p>📦  <strong>Fast shipping:</strong>  Most orders ship within 24 hours via FedEx. You’ll get a tracking email when your order leaves our facility.</p>",
+        "text": "📦  Fast shipping:  Most orders ship within 24 hours via FedEx. You’ll get a tracking email when your order leaves our facility."
+      },
+      {
+        "tag": "p",
+        "html": "<p>💳  <strong>When we charge you:</strong>  Your payment is authorized at checkout and fully captured when your order ships. We don’t charge you before your order is confirmed and processed.</p>",
+        "text": "💳  When we charge you:  Your payment is authorized at checkout and fully captured when your order ships. We don’t charge you before your order is confirmed and processed."
+      },
+      {
+        "tag": "p",
+        "html": "<p>🔒  <strong>Fraud protection:</strong>  All orders go through automated fraud screening. We may hold or cancel orders that appear suspicious and will contact you if we need to verify your identity.</p>",
+        "text": "🔒  Fraud protection:  All orders go through automated fraud screening. We may hold or cancel orders that appear suspicious and will contact you if we need to verify your identity."
+      },
+      {
+        "tag": "p",
+        "html": "<p>🎄  <strong>Holiday orders:</strong>  Order by December 15th for guaranteed Christmas delivery.</p>",
+        "text": "🎄  Holiday orders:  Order by December 15th for guaranteed Christmas delivery."
+      },
+      {
+        "tag": "p",
+        "html": "<p>🇨🇦  <strong>Canada shipping:</strong>  We ship to Canada. You are responsible for any customs duties or import fees assessed at the border.</p>",
+        "text": "🇨🇦  Canada shipping:  We ship to Canada. You are responsible for any customs duties or import fees assessed at the border."
+      },
+      {
+        "tag": "p",
+        "html": "<p>💰  <strong>Large orders ($1,000+):</strong>  Orders of $1,000 or more require additional verification and take 3–5 business days to process due to federal banking compliance requirements. Prepaid cards are not accepted for large orders.</p>",
+        "text": "💰  Large orders ($1,000+):  Orders of $1,000 or more require additional verification and take 3–5 business days to process due to federal banking compliance requirements. Prepaid cards are not accepted for large orders."
+      },
+      {
+        "tag": "p",
+        "html": "<p>⚠  <strong>Chargebacks &amp; disputes:</strong>  If you believe there is an error on your order, contact us first. Filing a chargeback without contacting us may result in your account being flagged or banned.</p>",
+        "text": "⚠  Chargebacks & disputes:  If you believe there is an error on your order, contact us first. Filing a chargeback without contacting us may result in your account being flagged or banned."
+      },
+      {
+        "tag": "p",
+        "html": "<p>Full policy details are below.</p>",
+        "text": "Full policy details are below."
+      },
+      {
+        "tag": "h2",
+        "html": "<h2>SECTION 1 – ORDER PROCESSING &amp; SHIPPING</h2>",
+        "text": "SECTION 1 – ORDER PROCESSING & SHIPPING"
+      },
+      {
+        "tag": "p",
+        "html": "<p>We work hard to get your gear in your hands fast — because timing matters when the season’s on.</p>",
+        "text": "We work hard to get your gear in your hands fast — because timing matters when the season’s on."
+      },
+      {
+        "tag": "ul",
+        "html": "<ul><li>Most domestic orders ship via FedEx.</li><li>Orders are processed within 24 hours of purchase, excluding weekends and holidays.</li><li>Orders placed on weekends or holidays will be processed the next business day.</li><li>You will receive a shipping confirmation email with tracking once your order leaves our facility.</li><li>MT Elk Inc. reserves the right to select the most appropriate carrier for your shipment based on destination and order size.</li></ul>",
+        "text": "Most domestic orders ship via FedEx.Orders are processed within 24 hours of purchase, excluding weekends and holidays.Orders placed on weekends or holidays will be processed the next business day.You will receive a shipping confirmation email with tracking once your order leaves our facility.MT Elk Inc. reserves the right to select the most appropriate carrier for your shipment based on destination and order size."
+      },
+      {
+        "tag": "p",
+        "html": "<p>MT Elk Inc.’s shipping obligations are fulfilled upon delivery of your order to the designated carrier. Risk of loss and title for all products pass to the buyer upon our delivery to the carrier. (Mont. Code Ann. § 30-2-319 — F.O.B. Terms and Risk of Loss)</p>",
+        "text": "MT Elk Inc.’s shipping obligations are fulfilled upon delivery of your order to the designated carrier. Risk of loss and title for all products pass to the buyer upon our delivery to the carrier. (Mont. Code Ann. § 30-2-319 — F.O.B. Terms and Risk of Loss)"
+      },
+      {
+        "tag": "h2",
+        "html": "<h2>SECTION 2 – HOLIDAY SHIPPING</h2>",
+        "text": "SECTION 2 – HOLIDAY SHIPPING"
+      },
+      {
+        "tag": "ul",
+        "html": "<ul><li>December 15th is the last day to order for guaranteed Christmas delivery.</li><li>Holiday delivery dates are not guaranteed beyond this cutoff due to carrier volume.</li><li>MT Elk Inc. is not responsible for carrier delays occurring after your order has been handed to the shipping carrier, including delays due to weather, high volume, or other force majeure events.</li></ul>",
+        "text": "December 15th is the last day to order for guaranteed Christmas delivery.Holiday delivery dates are not guaranteed beyond this cutoff due to carrier volume.MT Elk Inc. is not responsible for carrier delays occurring after your order has been handed to the shipping carrier, including delays due to weather, high volume, or other force majeure events."
+      },
+      {
+        "tag": "p",
+        "html": "<p>Carrier delays occurring after MT Elk Inc. has fulfilled its shipping obligation do not constitute a breach of contract by MT Elk Inc. and do not entitle the buyer to a refund of shipping charges. (Mont. Code Ann. § 28-2-1601 — Force Majeure and Impossibility of Performance)</p>",
+        "text": "Carrier delays occurring after MT Elk Inc. has fulfilled its shipping obligation do not constitute a breach of contract by MT Elk Inc. and do not entitle the buyer to a refund of shipping charges. (Mont. Code Ann. § 28-2-1601 — Force Majeure and Impossibility of Performance)"
+      },
+      {
+        "tag": "h2",
+        "html": "<h2>SECTION 3 – SHIPPING RATES &amp; DESTINATIONS</h2>",
+        "text": "SECTION 3 – SHIPPING RATES & DESTINATIONS"
+      },
+      {
+        "tag": "ul",
+        "html": "<ul><li>Shipping rates are calculated at checkout based on destination, weight, and carrier rates.</li><li>We currently ship within the United States and to Canada.</li><li>International customers (Canada) are solely responsible for all customs duties, import taxes, brokerage fees, or any other charges assessed by border authorities after purchase. These charges are not included in the purchase price and are not refundable by MT Elk Inc.</li><li>MT Elk Inc. is not responsible for delays caused by customs processing.</li></ul>",
+        "text": "Shipping rates are calculated at checkout based on destination, weight, and carrier rates.We currently ship within the United States and to Canada.International customers (Canada) are solely responsible for all customs duties, import taxes, brokerage fees, or any other charges assessed by border authorities after purchase. These charges are not included in the purchase price and are not refundable by MT Elk Inc.MT Elk Inc. is not responsible for delays caused by customs processing."
+      },
+      {
+        "tag": "p",
+        "html": "<p>Canadian customers acknowledge that their purchase is subject to Canadian customs and import regulations. MT Elk Inc.’s responsibility ends upon delivery to the carrier at the U.S. point of origin. (Mont. Code Ann. § 30-2-319 — Risk of Loss; 19 U.S.C. § 1484 — U.S. Customs Entry Requirements)</p>",
+        "text": "Canadian customers acknowledge that their purchase is subject to Canadian customs and import regulations. MT Elk Inc.’s responsibility ends upon delivery to the carrier at the U.S. point of origin. (Mont. Code Ann. § 30-2-319 — Risk of Loss; 19 U.S.C. § 1484 — U.S. Customs Entry Requirements)"
+      },
+      {
+        "tag": "h2",
+        "html": "<h2>SECTION 4 – TRACKING YOUR ORDER</h2>",
+        "text": "SECTION 4 – TRACKING YOUR ORDER"
+      },
+      {
+        "tag": "ul",
+        "html": "<ul><li>Once shipped, you will receive an email containing your FedEx tracking number.</li><li>Please allow up to 48 hours for tracking information to update in the carrier’s system.</li><li>MT Elk Inc. is not responsible for inaccuracies in carrier tracking systems.</li></ul>",
+        "text": "Once shipped, you will receive an email containing your FedEx tracking number.Please allow up to 48 hours for tracking information to update in the carrier’s system.MT Elk Inc. is not responsible for inaccuracies in carrier tracking systems."
+      },
+      {
+        "tag": "p",
+        "html": "<p>If your tracking information has not updated within 72 hours of your shipping confirmation, please contact us so we can investigate with the carrier on your behalf.</p>",
+        "text": "If your tracking information has not updated within 72 hours of your shipping confirmation, please contact us so we can investigate with the carrier on your behalf."
+      },
+      {
+        "tag": "h2",
+        "html": "<h2>SECTION 5 – DELAYED OR MISSING ORDERS</h2>",
+        "text": "SECTION 5 – DELAYED OR MISSING ORDERS"
+      },
+      {
+        "tag": "p",
+        "html": "<p>If your order has not arrived within 10 days of receiving your shipping confirmation email, please contact us with the following:</p>",
+        "text": "If your order has not arrived within 10 days of receiving your shipping confirmation email, please contact us with the following:"
+      },
+      {
+        "tag": "ul",
+        "html": "<ul><li>Your full name</li><li>Your order number</li><li>The shipping address on your order</li></ul>",
+        "text": "Your full nameYour order numberThe shipping address on your order"
+      },
+      {
+        "tag": "p",
+        "html": "<p>We will investigate with the carrier and work to resolve the issue as quickly as possible.</p>",
+        "text": "We will investigate with the carrier and work to resolve the issue as quickly as possible."
+      },
+      {
+        "tag": "p",
+        "html": "<p>In the event of a confirmed lost shipment, MT Elk Inc.’s liability is limited to the replacement of the lost items or a full refund of the purchase price, at MT Elk Inc.’s sole discretion. MT Elk Inc. is not liable for consequential damages arising from shipping delays or lost shipments. (Mont. Code Ann. § 27-1-317 — Limitation of Consequential Damages)</p>",
+        "text": "In the event of a confirmed lost shipment, MT Elk Inc.’s liability is limited to the replacement of the lost items or a full refund of the purchase price, at MT Elk Inc.’s sole discretion. MT Elk Inc. is not liable for consequential damages arising from shipping delays or lost shipments. (Mont. Code Ann. § 27-1-317 — Limitation of Consequential Damages)"
+      },
+      {
+        "tag": "h2",
+        "html": "<h2>SECTION 6 – PAYMENT PROCESSING &amp; FUND CLEARANCE</h2>",
+        "text": "SECTION 6 – PAYMENT PROCESSING & FUND CLEARANCE"
+      },
+      {
+        "tag": "p",
+        "html": "<p>This section explains how and when your payment is processed and funds are captured.</p>",
+        "text": "This section explains how and when your payment is processed and funds are captured."
+      },
+      {
+        "tag": "p",
+        "html": "<p><strong>6.1  Authorization and Capture</strong></p>",
+        "text": "6.1  Authorization and Capture"
+      },
+      {
+        "tag": "p",
+        "html": "<p>When you place an order, your payment method is authorized at the time of checkout. This authorization is a temporary hold on your funds and does not constitute a completed charge. Full payment capture occurs when your order is confirmed and fulfilled for shipment. If your order is cancelled before fulfillment, any authorization hold will be released according to your financial institution’s standard processing times (typically 3–7 business days). (Mont. Code Ann. § 30-3-414 — Obligation of Drawer; Mont. Code Ann. § 30-18-101 — Electronic Transactions)</p>",
+        "text": "When you place an order, your payment method is authorized at the time of checkout. This authorization is a temporary hold on your funds and does not constitute a completed charge. Full payment capture occurs when your order is confirmed and fulfilled for shipment. If your order is cancelled before fulfillment, any authorization hold will be released according to your financial institution’s standard processing times (typically 3–7 business days). (Mont. Code Ann. § 30-3-414 — Obligation of Drawer; Mont. Code Ann. § 30-18-101 — Electronic Transactions)"
+      },
+      {
+        "tag": "p",
+        "html": "<p><strong>6.2  Accepted Payment Methods</strong></p>",
+        "text": "6.2  Accepted Payment Methods"
+      },
+      {
+        "tag": "p",
+        "html": "<p>MT Elk Inc. accepts the following payment methods through our Shopify-hosted checkout:</p>",
+        "text": "MT Elk Inc. accepts the following payment methods through our Shopify-hosted checkout:"
+      },
+      {
+        "tag": "ul",
+        "html": "<ul><li>Major credit and debit cards (Visa, Mastercard, American Express, Discover)</li><li>Shop Pay and Shopify Payments</li><li>PayPal (where available)</li><li>Apple Pay and Google Pay (where available)</li></ul>",
+        "text": "Major credit and debit cards (Visa, Mastercard, American Express, Discover)Shop Pay and Shopify PaymentsPayPal (where available)Apple Pay and Google Pay (where available)"
+      },
+      {
+        "tag": "p",
+        "html": "<p>All payment transactions are encrypted and processed through Shopify’s PCI-DSS compliant payment infrastructure. MT Elk Inc. does not store full card numbers on our servers.</p>",
+        "text": "All payment transactions are encrypted and processed through Shopify’s PCI-DSS compliant payment infrastructure. MT Elk Inc. does not store full card numbers on our servers."
+      },
+      {
+        "tag": "p",
+        "html": "<p><strong>6.3  Currency</strong></p>",
+        "text": "6.3  Currency"
+      },
+      {
+        "tag": "p",
+        "html": "<p>All prices and transactions are processed in U.S. Dollars (USD). International customers, including Canadian buyers, are responsible for any currency conversion fees charged by their financial institution.</p>",
+        "text": "All prices and transactions are processed in U.S. Dollars (USD). International customers, including Canadian buyers, are responsible for any currency conversion fees charged by their financial institution."
+      },
+      {
+        "tag": "p",
+        "html": "<p><strong>6.4  Payment Clearance Before Shipment</strong></p>",
+        "text": "6.4  Payment Clearance Before Shipment"
+      },
+      {
+        "tag": "p",
+        "html": "<p>MT Elk Inc. reserves the right to hold shipment of any order until payment has fully cleared and been confirmed by our payment processor. Orders flagged during payment processing may be subject to additional verification before fulfillment. MT Elk Inc. shall not be liable for shipping delays caused by payment verification holds. (Mont. Code Ann. § 30-3-502 — Dishonor of Instruments; Mont. Code Ann. § 30-4-214 — Return of Deposited Items)</p>",
+        "text": "MT Elk Inc. reserves the right to hold shipment of any order until payment has fully cleared and been confirmed by our payment processor. Orders flagged during payment processing may be subject to additional verification before fulfillment. MT Elk Inc. shall not be liable for shipping delays caused by payment verification holds. (Mont. Code Ann. § 30-3-502 — Dishonor of Instruments; Mont. Code Ann. § 30-4-214 — Return of Deposited Items)"
+      },
+      {
+        "tag": "p",
+        "html": "<p><strong>6.5  Failed or Declined Payments</strong></p>",
+        "text": "6.5  Failed or Declined Payments"
+      },
+      {
+        "tag": "p",
+        "html": "<p>If your payment is declined or fails to process, your order will not be fulfilled. MT Elk Inc. will notify you via email. You may resubmit your order with a valid payment method. MT Elk Inc. is not responsible for any fees or penalties imposed by your financial institution resulting from a declined transaction.</p>",
+        "text": "If your payment is declined or fails to process, your order will not be fulfilled. MT Elk Inc. will notify you via email. You may resubmit your order with a valid payment method. MT Elk Inc. is not responsible for any fees or penalties imposed by your financial institution resulting from a declined transaction."
+      },
+      {
+        "tag": "h2",
+        "html": "<h2>SECTION 7 – FRAUD PROTECTION &amp; ORDER VERIFICATION</h2>",
+        "text": "SECTION 7 – FRAUD PROTECTION & ORDER VERIFICATION"
+      },
+      {
+        "tag": "p",
+        "html": "<p>MT Elk Inc. takes fraud seriously to protect both our customers and our business.</p>",
+        "text": "MT Elk Inc. takes fraud seriously to protect both our customers and our business."
+      },
+      {
+        "tag": "p",
+        "html": "<p><strong>FRAUD NOTICE:</strong>  MT Elk Inc. employs automated and manual fraud detection on all orders. Orders that trigger fraud indicators may be cancelled, held for verification, or reported to law enforcement. Attempting to use fraudulent payment information is a criminal offense under Montana and federal law.</p>",
+        "text": "FRAUD NOTICE:  MT Elk Inc. employs automated and manual fraud detection on all orders. Orders that trigger fraud indicators may be cancelled, held for verification, or reported to law enforcement. Attempting to use fraudulent payment information is a criminal offense under Montana and federal law."
+      },
+      {
+        "tag": "p",
+        "html": "<p><strong>7.1  Automated Fraud Screening</strong></p>",
+        "text": "7.1  Automated Fraud Screening"
+      },
+      {
+        "tag": "p",
+        "html": "<p>All orders are subject to automated fraud screening through our payment processor and order management systems. Fraud screening evaluates factors including, but not limited to: billing and shipping address mismatch, unusual order patterns, high-risk IP addresses, and velocity checks (multiple orders in a short time period). MT Elk Inc. reserves the right to cancel any order that fails our fraud screening criteria without prior notice. (Mont. Code Ann. § 30-14-1703 — Data Security and Fraud Prevention)</p>",
+        "text": "All orders are subject to automated fraud screening through our payment processor and order management systems. Fraud screening evaluates factors including, but not limited to: billing and shipping address mismatch, unusual order patterns, high-risk IP addresses, and velocity checks (multiple orders in a short time period). MT Elk Inc. reserves the right to cancel any order that fails our fraud screening criteria without prior notice. (Mont. Code Ann. § 30-14-1703 — Data Security and Fraud Prevention)"
+      },
+      {
+        "tag": "p",
+        "html": "<p><strong>7.2  Order Verification Holds</strong></p>",
+        "text": "7.2  Order Verification Holds"
+      },
+      {
+        "tag": "p",
+        "html": "<p>If your order is flagged for manual review, MT Elk Inc. may:</p>",
+        "text": "If your order is flagged for manual review, MT Elk Inc. may:"
+      },
+      {
+        "tag": "ul",
+        "html": "<ul><li>Contact you via the email address or phone number on file to verify your identity and order details.</li><li>Request additional documentation, such as a copy of a government-issued ID or the card used for purchase.</li><li>Place your order on hold for up to 3 business days pending verification.</li><li>Cancel the order if verification cannot be completed within the hold period.</li></ul>",
+        "text": "Contact you via the email address or phone number on file to verify your identity and order details.Request additional documentation, such as a copy of a government-issued ID or the card used for purchase.Place your order on hold for up to 3 business days pending verification.Cancel the order if verification cannot be completed within the hold period."
+      },
+      {
+        "tag": "p",
+        "html": "<p>MT Elk Inc. will make reasonable efforts to contact you before cancelling a held order. Cancelled orders due to failed verification will be refunded in full.</p>",
+        "text": "MT Elk Inc. will make reasonable efforts to contact you before cancelling a held order. Cancelled orders due to failed verification will be refunded in full."
+      },
+      {
+        "tag": "p",
+        "html": "<p><strong>7.3  Address Verification</strong></p>",
+        "text": "7.3  Address Verification"
+      },
+      {
+        "tag": "p",
+        "html": "<p>MT Elk Inc. uses Address Verification Service (AVS) checks on all credit and debit card transactions. Orders where the billing address does not match the address on file with the card issuer may be automatically declined or held for review. MT Elk Inc. is not liable for order delays resulting from AVS mismatches. (15 U.S.C. § 1693 et seq. — Electronic Fund Transfer Act)</p>",
+        "text": "MT Elk Inc. uses Address Verification Service (AVS) checks on all credit and debit card transactions. Orders where the billing address does not match the address on file with the card issuer may be automatically declined or held for review. MT Elk Inc. is not liable for order delays resulting from AVS mismatches. (15 U.S.C. § 1693 et seq. — Electronic Fund Transfer Act)"
+      },
+      {
+        "tag": "p",
+        "html": "<p><strong>7.4  High-Risk Order Indicators</strong></p>",
+        "text": "7.4  High-Risk Order Indicators"
+      },
+      {
+        "tag": "p",
+        "html": "<p>MT Elk Inc. reserves the right to flag and review orders that exhibit the following indicators, including but not limited to:</p>",
+        "text": "MT Elk Inc. reserves the right to flag and review orders that exhibit the following indicators, including but not limited to:"
+      },
+      {
+        "tag": "ul",
+        "html": "<ul><li>Shipping address significantly different from billing address with no explanation.</li><li>Multiple orders placed in a short period to the same or different addresses.</li><li>Orders placed using prepaid or gift cards for high-value purchases.</li><li>Orders requesting expedited shipping to freight forwarders or reshipping services.</li><li>Orders placed from IP addresses associated with known fraud regions or using VPN/proxy services.</li></ul>",
+        "text": "Shipping address significantly different from billing address with no explanation.Multiple orders placed in a short period to the same or different addresses.Orders placed using prepaid or gift cards for high-value purchases.Orders requesting expedited shipping to freight forwarders or reshipping services.Orders placed from IP addresses associated with known fraud regions or using VPN/proxy services."
+      },
+      {
+        "tag": "p",
+        "html": "<p><strong>7.5  Prohibited Transactions &amp; Fraudulent Payment</strong></p>",
+        "text": "7.5  Prohibited Transactions & Fraudulent Payment"
+      },
+      {
+        "tag": "p",
+        "html": "<p>Use of stolen, fraudulent, or unauthorized payment instruments to purchase from MT Elk Inc. is strictly prohibited and constitutes a criminal offense. MT Elk Inc. will cooperate fully with law enforcement investigations involving fraudulent transactions and will pursue all available civil remedies against fraudulent purchasers, including recovery of the value of goods shipped, shipping costs, investigation costs, and attorneys’ fees. (Mont. Code Ann. § 45-6-317 — Fraudulent Use of a Financial Transaction Card; Mont. Code Ann. § 45-6-301 — Theft)</p>",
+        "text": "Use of stolen, fraudulent, or unauthorized payment instruments to purchase from MT Elk Inc. is strictly prohibited and constitutes a criminal offense. MT Elk Inc. will cooperate fully with law enforcement investigations involving fraudulent transactions and will pursue all available civil remedies against fraudulent purchasers, including recovery of the value of goods shipped, shipping costs, investigation costs, and attorneys’ fees. (Mont. Code Ann. § 45-6-317 — Fraudulent Use of a Financial Transaction Card; Mont. Code Ann. § 45-6-301 — Theft)"
+      },
+      {
+        "tag": "p",
+        "html": "<p>Federal law also prohibits the use of stolen or fraudulent payment instruments in interstate commerce. MT Elk Inc. will report confirmed fraud to federal authorities where appropriate. (18 U.S.C. § 1029 — Fraud and Related Activity in Connection with Access Devices; 18 U.S.C. § 1343 — Wire Fraud)</p>",
+        "text": "Federal law also prohibits the use of stolen or fraudulent payment instruments in interstate commerce. MT Elk Inc. will report confirmed fraud to federal authorities where appropriate. (18 U.S.C. § 1029 — Fraud and Related Activity in Connection with Access Devices; 18 U.S.C. § 1343 — Wire Fraud)"
+      },
+      {
+        "tag": "p",
+        "html": "<p><strong>7.6  Chargebacks &amp; Payment Disputes</strong></p>",
+        "text": "7.6  Chargebacks & Payment Disputes"
+      },
+      {
+        "tag": "p",
+        "html": "<p>If you believe there is an unauthorized charge or an error with your order, you must contact MT Elk Inc. directly before initiating a chargeback with your financial institution. MT Elk Inc. will make every effort to resolve legitimate billing disputes within 5 business days of receiving your complaint. (Mont. Code Ann. § 30-14-103 — Consumer Protection; 15 U.S.C. § 1666 — Billing Error Resolution)</p>",
+        "text": "If you believe there is an unauthorized charge or an error with your order, you must contact MT Elk Inc. directly before initiating a chargeback with your financial institution. MT Elk Inc. will make every effort to resolve legitimate billing disputes within 5 business days of receiving your complaint. (Mont. Code Ann. § 30-14-103 — Consumer Protection; 15 U.S.C. § 1666 — Billing Error Resolution)"
+      },
+      {
+        "tag": "p",
+        "html": "<p><strong>CHARGEBACK POLICY:</strong>  Filing a chargeback for a valid transaction without first contacting MT Elk Inc. constitutes an abuse of the chargeback process and may be considered fraudulent misrepresentation to your financial institution. MT Elk Inc. will contest all unjustified chargebacks and provide full documentation to the issuing bank. Customers who file unjustified chargebacks may have their accounts permanently banned and may be subject to civil action for recovery of the disputed amount plus costs.</p>",
+        "text": "CHARGEBACK POLICY:  Filing a chargeback for a valid transaction without first contacting MT Elk Inc. constitutes an abuse of the chargeback process and may be considered fraudulent misrepresentation to your financial institution. MT Elk Inc. will contest all unjustified chargebacks and provide full documentation to the issuing bank. Customers who file unjustified chargebacks may have their accounts permanently banned and may be subject to civil action for recovery of the disputed amount plus costs."
+      },
+      {
+        "tag": "p",
+        "html": "<p>To dispute a charge, contact us through our Contact Us page with your order number and a description of the issue before filing a chargeback.</p>",
+        "text": "To dispute a charge, contact us through our Contact Us page with your order number and a description of the issue before filing a chargeback."
+      },
+      {
+        "tag": "p",
+        "html": "<p><strong>7.7  Refund Processing Timeline</strong></p>",
+        "text": "7.7  Refund Processing Timeline"
+      },
+      {
+        "tag": "p",
+        "html": "<p>Approved refunds are processed within 5–10 business days of MT Elk Inc.’s approval. Refunds are issued to the original payment method only. MT Elk Inc. is not responsible for delays in refund posting caused by your financial institution’s processing timelines. Refunds issued to credit or debit cards typically take 3–7 additional business days to appear on your statement after MT Elk Inc. initiates the refund. (Mont. Code Ann. § 30-14-103 — Consumer Protection; Mont. Code Ann. § 30-2-711 — Buyer’s Remedies on Breach)</p>",
+        "text": "Approved refunds are processed within 5–10 business days of MT Elk Inc.’s approval. Refunds are issued to the original payment method only. MT Elk Inc. is not responsible for delays in refund posting caused by your financial institution’s processing timelines. Refunds issued to credit or debit cards typically take 3–7 additional business days to appear on your statement after MT Elk Inc. initiates the refund. (Mont. Code Ann. § 30-14-103 — Consumer Protection; Mont. Code Ann. § 30-2-711 — Buyer’s Remedies on Breach)"
+      },
+      {
+        "tag": "p",
+        "html": "<p><strong>7.8  Sales Tax</strong></p>",
+        "text": "7.8  Sales Tax"
+      },
+      {
+        "tag": "p",
+        "html": "<p>MT Elk Inc. collects and remits sales tax in jurisdictions where required by law, including Montana and any states where MT Elk Inc. has established sales tax nexus. Montana does not impose a general sales tax; however, Montana-based purchases may be subject to applicable local taxes. Tax amounts will be calculated and displayed at checkout. (Mont. Code Ann. § 15-68-101 et seq. — Montana Lodging Facility Use Tax; applicable state nexus laws)</p>",
+        "text": "MT Elk Inc. collects and remits sales tax in jurisdictions where required by law, including Montana and any states where MT Elk Inc. has established sales tax nexus. Montana does not impose a general sales tax; however, Montana-based purchases may be subject to applicable local taxes. Tax amounts will be calculated and displayed at checkout. (Mont. Code Ann. § 15-68-101 et seq. — Montana Lodging Facility Use Tax; applicable state nexus laws)"
+      },
+      {
+        "tag": "h2",
+        "html": "<h2>SECTION 8 – LARGE ORDER PROCESSING ($1,000 OR MORE)</h2>",
+        "text": "SECTION 8 – LARGE ORDER PROCESSING ($1,000 OR MORE)"
+      },
+      {
+        "tag": "p",
+        "html": "<p>This section applies to any single transaction or combination of transactions totaling $1,000 or more.</p>",
+        "text": "This section applies to any single transaction or combination of transactions totaling $1,000 or more."
+      },
+      {
+        "tag": "p",
+        "html": "<p><strong>NOTICE FOR LARGE ORDERS:</strong>  Orders of $1,000 or more are subject to additional payment verification, processing holds, and regulatory compliance procedures under federal banking and anti-money laundering laws. Fulfillment of large orders may take longer than our standard 24-hour processing window. By placing a large order, you consent to the verification procedures described in this section.</p>",
+        "text": "NOTICE FOR LARGE ORDERS:  Orders of $1,000 or more are subject to additional payment verification, processing holds, and regulatory compliance procedures under federal banking and anti-money laundering laws. Fulfillment of large orders may take longer than our standard 24-hour processing window. By placing a large order, you consent to the verification procedures described in this section."
+      },
+      {
+        "tag": "p",
+        "html": "<p><strong>8.1  Extended Processing Time</strong></p>",
+        "text": "8.1  Extended Processing Time"
+      },
+      {
+        "tag": "p",
+        "html": "<p>Orders totaling $1,000 or more are subject to an extended processing hold of up to 3–5 business days to allow for payment clearance, identity verification, and banking compliance review. MT Elk Inc. will not ship large orders until payment has fully cleared and all verification requirements have been satisfied. MT Elk Inc. is not liable for fulfillment delays caused by this mandatory review process. (Mont. Code Ann. § 30-3-502 — Dishonor and Clearance of Instruments; Mont. Code Ann. § 30-4-214 — Settlement of Items)</p>",
+        "text": "Orders totaling $1,000 or more are subject to an extended processing hold of up to 3–5 business days to allow for payment clearance, identity verification, and banking compliance review. MT Elk Inc. will not ship large orders until payment has fully cleared and all verification requirements have been satisfied. MT Elk Inc. is not liable for fulfillment delays caused by this mandatory review process. (Mont. Code Ann. § 30-3-502 — Dishonor and Clearance of Instruments; Mont. Code Ann. § 30-4-214 — Settlement of Items)"
+      },
+      {
+        "tag": "p",
+        "html": "<p><strong>8.2  Identity &amp; Payment Verification for Large Orders</strong></p>",
+        "text": "8.2  Identity & Payment Verification for Large Orders"
+      },
+      {
+        "tag": "p",
+        "html": "<p>For orders of $1,000 or more, MT Elk Inc. reserves the right to require any or all of the following before processing and shipping your order:</p>",
+        "text": "For orders of $1,000 or more, MT Elk Inc. reserves the right to require any or all of the following before processing and shipping your order:"
+      },
+      {
+        "tag": "ul",
+        "html": "<ul><li>Verification of the full billing name and address associated with the payment method used.</li><li>Confirmation of the email address and phone number on the order.</li><li>A copy of a government-issued photo ID matching the billing name on the order.</li><li>Written confirmation of the intended use or destination of a bulk product order.</li><li>A signed authorization form for large credit or debit card transactions.</li></ul>",
+        "text": "Verification of the full billing name and address associated with the payment method used.Confirmation of the email address and phone number on the order.A copy of a government-issued photo ID matching the billing name on the order.Written confirmation of the intended use or destination of a bulk product order.A signed authorization form for large credit or debit card transactions."
+      },
+      {
+        "tag": "p",
+        "html": "<p>Failure to provide requested verification within 3 business days of our request may result in cancellation of the order and a full refund to the original payment method.</p>",
+        "text": "Failure to provide requested verification within 3 business days of our request may result in cancellation of the order and a full refund to the original payment method."
+      },
+      {
+        "tag": "p",
+        "html": "<p><strong>8.3  Bank Secrecy Act &amp; Anti-Money Laundering Compliance</strong></p>",
+        "text": "8.3  Bank Secrecy Act & Anti-Money Laundering Compliance"
+      },
+      {
+        "tag": "p",
+        "html": "<p>MT Elk Inc. and its payment processors are subject to federal financial regulations designed to detect and prevent money laundering, structuring, and other financial crimes. Transactions of $1,000 or more may be subject to enhanced due diligence by our payment processor and banking partners under the Bank Secrecy Act. MT Elk Inc. cooperates fully with all such compliance requirements and may be required to collect additional information about the customer and the nature of the transaction. (31 U.S.C. § 5311 et seq. — Bank Secrecy Act; 31 C.F.R. § 1010 — Financial Crimes Enforcement Network (FinCEN) Regulations)</p>",
+        "text": "MT Elk Inc. and its payment processors are subject to federal financial regulations designed to detect and prevent money laundering, structuring, and other financial crimes. Transactions of $1,000 or more may be subject to enhanced due diligence by our payment processor and banking partners under the Bank Secrecy Act. MT Elk Inc. cooperates fully with all such compliance requirements and may be required to collect additional information about the customer and the nature of the transaction. (31 U.S.C. § 5311 et seq. — Bank Secrecy Act; 31 C.F.R. § 1010 — Financial Crimes Enforcement Network (FinCEN) Regulations)"
+      },
+      {
+        "tag": "p",
+        "html": "<p>MT Elk Inc. is required by federal law to report suspicious financial activity to the Financial Crimes Enforcement Network (FinCEN) where applicable. Customers should be aware that certain large or unusual transactions may trigger mandatory reporting obligations entirely independent of MT Elk Inc.’s own fraud screening. (31 U.S.C. § 5318 — Compliance, Due Diligence, and Reporting Requirements; 31 U.S.C. § 5313 — Reports on Domestic Coins and Currency Transactions)</p>",
+        "text": "MT Elk Inc. is required by federal law to report suspicious financial activity to the Financial Crimes Enforcement Network (FinCEN) where applicable. Customers should be aware that certain large or unusual transactions may trigger mandatory reporting obligations entirely independent of MT Elk Inc.’s own fraud screening. (31 U.S.C. § 5318 — Compliance, Due Diligence, and Reporting Requirements; 31 U.S.C. § 5313 — Reports on Domestic Coins and Currency Transactions)"
+      },
+      {
+        "tag": "p",
+        "html": "<p><strong>8.4  Structuring Prohibition</strong></p>",
+        "text": "8.4  Structuring Prohibition"
+      },
+      {
+        "tag": "p",
+        "html": "<p><strong>STRUCTURING WARNING:</strong>  It is a federal crime to deliberately break up a transaction into smaller amounts to avoid reporting thresholds or MT Elk Inc.’s large-order verification requirements. This practice, known as “structuring,” is prohibited under federal law regardless of whether the underlying funds are from a legitimate source. MT Elk Inc. monitors for structuring patterns across multiple orders and will report suspected structuring activity to federal authorities.</p>",
+        "text": "STRUCTURING WARNING:  It is a federal crime to deliberately break up a transaction into smaller amounts to avoid reporting thresholds or MT Elk Inc.’s large-order verification requirements. This practice, known as “structuring,” is prohibited under federal law regardless of whether the underlying funds are from a legitimate source. MT Elk Inc. monitors for structuring patterns across multiple orders and will report suspected structuring activity to federal authorities."
+      },
+      {
+        "tag": "p",
+        "html": "<p>Any person who structures or assists in structuring financial transactions to evade reporting requirements is subject to criminal prosecution and civil penalties under federal law. (31 U.S.C. § 5324 — Structuring Transactions to Evade Reporting Requirement)</p>",
+        "text": "Any person who structures or assists in structuring financial transactions to evade reporting requirements is subject to criminal prosecution and civil penalties under federal law. (31 U.S.C. § 5324 — Structuring Transactions to Evade Reporting Requirement)"
+      },
+      {
+        "tag": "p",
+        "html": "<p><strong>8.5  Bulk &amp; Wholesale Orders</strong></p>",
+        "text": "8.5  Bulk & Wholesale Orders"
+      },
+      {
+        "tag": "p",
+        "html": "<p>Businesses or individuals placing bulk orders of MT Elk Inc. products totaling $1,000 or more for resale or distribution purposes must contact MT Elk Inc. directly prior to placing the order to establish a wholesale account. Bulk orders placed through the standard checkout without prior approval may be cancelled at MT Elk Inc.’s discretion.</p>",
+        "text": "Businesses or individuals placing bulk orders of MT Elk Inc. products totaling $1,000 or more for resale or distribution purposes must contact MT Elk Inc. directly prior to placing the order to establish a wholesale account. Bulk orders placed through the standard checkout without prior approval may be cancelled at MT Elk Inc.’s discretion."
+      },
+      {
+        "tag": "p",
+        "html": "<p>Wholesale buyers may be required to provide a valid Montana or state resale certificate, business license, or other documentation before MT Elk Inc. will process a bulk order. (Mont. Code Ann. § 15-68-201 — Sales Tax Exemption for Resale; Mont. Code Ann. § 30-11-101 — Wholesale Transactions)</p>",
+        "text": "Wholesale buyers may be required to provide a valid Montana or state resale certificate, business license, or other documentation before MT Elk Inc. will process a bulk order. (Mont. Code Ann. § 15-68-201 — Sales Tax Exemption for Resale; Mont. Code Ann. § 30-11-101 — Wholesale Transactions)"
+      },
+      {
+        "tag": "p",
+        "html": "<p><strong>8.6  Payment Methods for Large Orders</strong></p>",
+        "text": "8.6  Payment Methods for Large Orders"
+      },
+      {
+        "tag": "p",
+        "html": "<p>For orders of $1,000 or more, MT Elk Inc. reserves the right to restrict accepted payment methods. The following additional conditions apply to large orders:</p>",
+        "text": "For orders of $1,000 or more, MT Elk Inc. reserves the right to restrict accepted payment methods. The following additional conditions apply to large orders:"
+      },
+      {
+        "tag": "ul",
+        "html": "<ul><li>Prepaid cards, gift cards, and third-party stored-value instruments are not accepted for orders of $1,000 or more.</li><li>Wire transfers or ACH payments may be required for orders exceeding $5,000. Contact us directly to arrange wire transfer payment.</li><li>MT Elk Inc. may require a 3–5 business day ACH clearance hold before shipment of wire-funded orders.</li><li>Payment via multiple separate cards for a single large order requires prior written approval from MT Elk Inc.</li></ul>",
+        "text": "Prepaid cards, gift cards, and third-party stored-value instruments are not accepted for orders of $1,000 or more.Wire transfers or ACH payments may be required for orders exceeding $5,000. Contact us directly to arrange wire transfer payment.MT Elk Inc. may require a 3–5 business day ACH clearance hold before shipment of wire-funded orders.Payment via multiple separate cards for a single large order requires prior written approval from MT Elk Inc."
+      },
+      {
+        "tag": "p",
+        "html": "<p>These restrictions are imposed to comply with our payment processor’s merchant agreements and applicable federal financial regulations governing large commercial transactions. (15 U.S.C. § 1693 et seq. — Electronic Fund Transfer Act; 12 C.F.R. § 205 — Regulation E)</p>",
+        "text": "These restrictions are imposed to comply with our payment processor’s merchant agreements and applicable federal financial regulations governing large commercial transactions. (15 U.S.C. § 1693 et seq. — Electronic Fund Transfer Act; 12 C.F.R. § 205 — Regulation E)"
+      },
+      {
+        "tag": "p",
+        "html": "<p><strong>8.7  Right to Refuse or Cancel Large Orders</strong></p>",
+        "text": "8.7  Right to Refuse or Cancel Large Orders"
+      },
+      {
+        "tag": "p",
+        "html": "<p>MT Elk Inc. reserves the right to refuse, cancel, or refund any large order at its sole discretion, including where: (a) verification requirements cannot be met; (b) the transaction is flagged by our payment processor or banking partner; (c) the order exhibits indicators of fraud, structuring, or money laundering; or (d) fulfillment of the order would place MT Elk Inc. in violation of applicable banking or financial regulations. Cancelled large orders will be refunded in full to the original payment method within 5–10 business days. (Mont. Code Ann. § 30-14-103 — Consumer Protection; 31 U.S.C. § 5318 — Financial Compliance)</p>",
+        "text": "MT Elk Inc. reserves the right to refuse, cancel, or refund any large order at its sole discretion, including where: (a) verification requirements cannot be met; (b) the transaction is flagged by our payment processor or banking partner; (c) the order exhibits indicators of fraud, structuring, or money laundering; or (d) fulfillment of the order would place MT Elk Inc. in violation of applicable banking or financial regulations. Cancelled large orders will be refunded in full to the original payment method within 5–10 business days. (Mont. Code Ann. § 30-14-103 — Consumer Protection; 31 U.S.C. § 5318 — Financial Compliance)"
+      },
+      {
+        "tag": "h2",
+        "html": "<h2>SECTION 9 – QUESTIONS &amp; CONTACT</h2>",
+        "text": "SECTION 9 – QUESTIONS & CONTACT"
+      },
+      {
+        "tag": "p",
+        "html": "<p>If you have any questions about shipping, payment processing, or this policy, don’t hesitate to reach out — we’re here to help.</p>",
+        "text": "If you have any questions about shipping, payment processing, or this policy, don’t hesitate to reach out — we’re here to help."
+      },
+      {
+        "tag": "p",
+        "html": "<p>Contact us through our Contact Us page and include your order number for fastest service.</p>",
+        "text": "Contact us through our Contact Us page and include your order number for fastest service."
+      },
+      {
+        "tag": "p",
+        "html": "<p>MT Elk Inc. is a Montana-registered business entity committed to fair dealing and customer service.</p>",
+        "text": "MT Elk Inc. is a Montana-registered business entity committed to fair dealing and customer service."
+      },
+      {
+        "tag": "p",
+        "html": "<p>Last Updated: 2026 | MT Elk Inc. | Montana Elk Call Manufacturer</p>",
+        "text": "Last Updated: 2026 | MT Elk Inc. | Montana Elk Call Manufacturer"
+      }
+    ],
+    "source_title": "Shipping & Payment Policy"
+  },
+  {
+    "id": "shipping-returns",
+    "title": "Shipping & Returns",
+    "source_url": "https://elkinc.com/shipping-returns/",
+    "captured": "2026-10-14",
+    "source_sha256": "d5603bc45783255cbf0fe96c61cfd55fb22f9909e58a5447d017017525b95220",
+    "source_last_updated": null,
+    "download": "/records/policies/shipping-returns.txt",
+    "blocks": [
+      {
+        "tag": "p",
+        "html": "<p><strong>At MT Elk Inc., we take pride in producing high-quality hunting calls and gear. If there is an issue with your order, we will work with you to resolve it quickly.</strong></p>",
+        "text": "At MT Elk Inc., we take pride in producing high-quality hunting calls and gear. If there is an issue with your order, we will work with you to resolve it quickly."
+      },
+      {
+        "tag": "h2",
+        "html": "<h2><strong>7-Day Inspection Period</strong></h2>",
+        "text": "7-Day Inspection Period"
+      },
+      {
+        "tag": "p",
+        "html": "<p><strong>All purchases are subject to a 7-day inspection period beginning on the date the item is delivered.</strong></p>",
+        "text": "All purchases are subject to a 7-day inspection period beginning on the date the item is delivered."
+      },
+      {
+        "tag": "p",
+        "html": "<p><strong>If there is an issue with your order, you must contact us within 7 days of receipt to request a return authorization.</strong></p>",
+        "text": "If there is an issue with your order, you must contact us within 7 days of receipt to request a return authorization."
+      },
+      {
+        "tag": "p",
+        "html": "<p><strong>Returns will not be accepted after 7 days from delivery.</strong></p>",
+        "text": "Returns will not be accepted after 7 days from delivery."
+      },
+      {
+        "tag": "p",
+        "html": "<p><strong>This policy applies to both factory-direct purchases and authorized dealer sales.</strong></p>",
+        "text": "This policy applies to both factory-direct purchases and authorized dealer sales."
+      },
+      {
+        "tag": "h2",
+        "html": "<h2><strong>Return Eligibility</strong></h2>",
+        "text": "Return Eligibility"
+      },
+      {
+        "tag": "p",
+        "html": "<p><strong>To qualify for a return:</strong></p>",
+        "text": "To qualify for a return:"
+      },
+      {
+        "tag": "ul",
+        "html": "<ul><li><strong>The item must be unused</strong></li><li><strong>The item must be in original packaging</strong></li><li><strong>The item must be in resalable condition</strong></li><li><strong>Proof of purchase is required</strong></li></ul>",
+        "text": "The item must be unusedThe item must be in original packagingThe item must be in resalable conditionProof of purchase is required"
+      },
+      {
+        "tag": "p",
+        "html": "<p><strong>Returns sent without prior authorization will not be accepted.</strong></p>",
+        "text": "Returns sent without prior authorization will not be accepted."
+      },
+      {
+        "tag": "h2",
+        "html": "<h2><strong>Restocking Fee</strong></h2>",
+        "text": "Restocking Fee"
+      },
+      {
+        "tag": "p",
+        "html": "<p><strong>Approved returns are subject to a 15% restocking fee.</strong></p>",
+        "text": "Approved returns are subject to a 15% restocking fee."
+      },
+      {
+        "tag": "h2",
+        "html": "<h2><strong>Return Shipping</strong></h2>",
+        "text": "Return Shipping"
+      },
+      {
+        "tag": "p",
+        "html": "<p><strong>Customers are responsible for all return shipping costs.</strong></p>",
+        "text": "Customers are responsible for all return shipping costs."
+      },
+      {
+        "tag": "p",
+        "html": "<p><strong>Original shipping charges are non-refundable.</strong></p>",
+        "text": "Original shipping charges are non-refundable."
+      },
+      {
+        "tag": "h2",
+        "html": "<h2><strong>Damaged or Incorrect Items</strong></h2>",
+        "text": "Damaged or Incorrect Items"
+      },
+      {
+        "tag": "p",
+        "html": "<p><strong>Please inspect your order upon delivery.</strong></p>",
+        "text": "Please inspect your order upon delivery."
+      },
+      {
+        "tag": "p",
+        "html": "<p><strong>If your item arrives damaged, defective, or incorrect, contact us immediately so we can evaluate the issue and make it right.</strong></p>",
+        "text": "If your item arrives damaged, defective, or incorrect, contact us immediately so we can evaluate the issue and make it right."
+      },
+      {
+        "tag": "h2",
+        "html": "<h2><strong>Non-Returnable Items</strong></h2>",
+        "text": "Non-Returnable Items"
+      },
+      {
+        "tag": "p",
+        "html": "<p><strong>The following items are not eligible for return:</strong></p>",
+        "text": "The following items are not eligible for return:"
+      },
+      {
+        "tag": "ul",
+        "html": "<ul><li><strong>Products damaged through misuse, negligence, or improper handling</strong></li><li><strong>Used hunting calls</strong></li><li><strong>Sale or clearance items</strong></li><li><strong>Gift cards</strong></li></ul>",
+        "text": "Products damaged through misuse, negligence, or improper handlingUsed hunting callsSale or clearance itemsGift cards"
+      },
+      {
+        "tag": "h2",
+        "html": "<h2><strong>Exchanges</strong></h2>",
+        "text": "Exchanges"
+      },
+      {
+        "tag": "p",
+        "html": "<p><strong>If you need a different product, the fastest option is to return the original item (if approved) and place a new order.</strong></p>",
+        "text": "If you need a different product, the fastest option is to return the original item (if approved) and place a new order."
+      },
+      {
+        "tag": "h2",
+        "html": "<h2><strong>Refunds</strong></h2>",
+        "text": "Refunds"
+      },
+      {
+        "tag": "p",
+        "html": "<p><strong>Once your return is received and inspected, we will notify you if the refund is approved.</strong></p>",
+        "text": "Once your return is received and inspected, we will notify you if the refund is approved."
+      },
+      {
+        "tag": "p",
+        "html": "<p><strong>If approved, refunds will be issued to the original payment method, minus any applicable restocking fees and return shipping costs.</strong></p>",
+        "text": "If approved, refunds will be issued to the original payment method, minus any applicable restocking fees and return shipping costs."
+      },
+      {
+        "tag": "p",
+        "html": "<p><strong>Please allow time for your bank or credit card provider to process the refund.</strong></p>",
+        "text": "Please allow time for your bank or credit card provider to process the refund."
+      }
+    ],
+    "source_title": "MT Elk Inc. Return Policy"
+  }
+]

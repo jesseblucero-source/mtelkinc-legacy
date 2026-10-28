@@ -1,0 +1,303 @@
+{
+  "expanded": "2026-10-15",
+  "program_ids": [
+    "guides-outfitters",
+    "military-first-responders",
+    "outdoor-industry-pros"
+  ],
+  "sources": {
+    "brand": "https://elkinc.com/",
+    "program": "https://www.guidefitter.com/insiders/Guidefitter",
+    "verification": "https://guidefitter.zendesk.com/hc/en-us/articles/18987394982167-How-Do-I-Get-Verified"
+  },
+  "locales": {
+    "en": {
+      "title": "Guidefitter programs",
+      "heading": "For people who work in the field.",
+      "intro": "Find MT E.L.K., INC. on Guidefitter. Explore the three routes below, then continue to your Guidefitter account.",
+      "choose": "Choose your path",
+      "lead": "Start with the route that fits your work or service.",
+      "descriptions": [
+        "Guides and outfitters: explore the program information on Guidefitter.",
+        "Military and first responders: continue to Guidefitter for current program information.",
+        "Outdoor industry professionals: explore your Guidefitter program route."
+      ],
+      "continue": "Continue to Guidefitter",
+      "external": "Opens Guidefitter in a new tab",
+      "how": "Your next steps",
+      "steps": [
+        [
+          "Open Guidefitter",
+          "Use the program link for MT E.L.K., INC."
+        ],
+        [
+          "Sign in or create an account",
+          "Follow Guidefitter’s current verification instructions."
+        ],
+        [
+          "Review your access",
+          "Eligibility and brand-program access depend on verification and program requirements."
+        ]
+      ],
+      "verify": "Read Guidefitter’s verification guidance",
+      "learn": "Take the knowledge into the field.",
+      "learnintro": "Explore calling lessons and model-specific care while you browse.",
+      "resources": [
+        [
+          "Calling education",
+          "Watch the demonstrations in our embedded players."
+        ],
+        [
+          "Call care",
+          "Find band and reed replacement lessons by model."
+        ],
+        [
+          "Shop directly",
+          "Browse the live catalog and use our on-site checkout."
+        ]
+      ],
+      "faqs": "A few useful answers",
+      "questions": [
+        [
+          "Do I apply on this website?",
+          "Account access and verification continue on Guidefitter. We do not collect verification documents here."
+        ],
+        [
+          "Where can I see current program details?",
+          "Review Guidefitter for current requirements, pricing and availability. Program access is not guaranteed."
+        ],
+        [
+          "Can I use the regular store?",
+          "Yes. Our public store is available for direct shopping, with product options and checkout on this website."
+        ],
+        [
+          "Who can help with a call?",
+          "Contact MT E.L.K., INC. for call-model questions, care resources, or an order placed on this website."
+        ]
+      ],
+      "support": "Contact MT E.L.K., INC.",
+      "sources": "Program information sources",
+      "sourcebrand": "Original program links on elkinc.com",
+      "sourceguide": "Guidefitter program information",
+      "overview": "Explore the programs",
+      "storelink": "Professional programs on Guidefitter",
+      "imagealt": "Elk in an outdoor landscape"
+    },
+    "fr": {
+      "title": "Programmes Guidefitter",
+      "heading": "Pour ceux qui travaillent sur le terrain.",
+      "intro": "Retrouvez MT E.L.K., INC. sur Guidefitter. Explorez les trois parcours ci-dessous, puis accédez à votre compte Guidefitter.",
+      "choose": "Choisissez votre parcours",
+      "lead": "Commencez par le parcours correspondant à votre activité ou à votre service.",
+      "descriptions": [
+        "Guides et pourvoyeurs : consultez les informations du programme sur Guidefitter.",
+        "Militaires et premiers intervenants : consultez les informations actuelles sur Guidefitter.",
+        "Professionnels du plein air : explorez votre parcours Guidefitter."
+      ],
+      "continue": "Continuer sur Guidefitter",
+      "external": "Ouvre Guidefitter dans un nouvel onglet",
+      "how": "Les prochaines étapes",
+      "steps": [
+        [
+          "Ouvrez Guidefitter",
+          "Utilisez le lien du programme de MT E.L.K., INC."
+        ],
+        [
+          "Connectez-vous ou créez un compte",
+          "Suivez les instructions de vérification actuelles de Guidefitter."
+        ],
+        [
+          "Consultez votre accès",
+          "L’admissibilité et l’accès aux programmes dépendent de la vérification et des conditions des programmes."
+        ]
+      ],
+      "verify": "Consulter les instructions de vérification de Guidefitter",
+      "learn": "Emportez vos connaissances sur le terrain.",
+      "learnintro": "Explorez les leçons et l’entretien par modèle pendant votre visite.",
+      "resources": [
+        [
+          "Formation aux appeaux",
+          "Regardez les démonstrations dans nos lecteurs intégrés."
+        ],
+        [
+          "Entretien des appeaux",
+          "Trouvez les leçons de remplacement des élastiques et des anches par modèle."
+        ],
+        [
+          "Acheter directement",
+          "Consultez le catalogue et passez commande sur ce site."
+        ]
+      ],
+      "faqs": "Quelques réponses utiles",
+      "questions": [
+        [
+          "Faut-il faire une demande sur ce site ?",
+          "L’accès au compte et la vérification se poursuivent sur Guidefitter. Nous ne recueillons pas de justificatifs ici."
+        ],
+        [
+          "Où consulter les informations actuelles ?",
+          "Consultez Guidefitter pour les conditions, les prix et la disponibilité. L’accès aux programmes n’est pas garanti."
+        ],
+        [
+          "Puis-je utiliser la boutique habituelle ?",
+          "Oui. Notre boutique publique permet de choisir vos produits et de passer commande sur ce site."
+        ],
+        [
+          "Qui peut m’aider avec un appeau ?",
+          "Contactez MT E.L.K., INC. pour toute question sur un modèle, son entretien ou une commande passée sur ce site."
+        ]
+      ],
+      "support": "Contacter MT E.L.K., INC.",
+      "sources": "Sources des informations",
+      "sourcebrand": "Liens des programmes sur elkinc.com",
+      "sourceguide": "Informations des programmes Guidefitter",
+      "overview": "Explorer les programmes",
+      "storelink": "Programmes professionnels sur Guidefitter",
+      "imagealt": "Wapiti dans un paysage naturel"
+    },
+    "es": {
+      "title": "Programas Guidefitter",
+      "heading": "Para quienes trabajan al aire libre.",
+      "intro": "Encuentre MT E.L.K., INC. en Guidefitter. Explore las tres opciones y continúe a su cuenta de Guidefitter.",
+      "choose": "Elija su opción",
+      "lead": "Comience con la opción que corresponda a su trabajo o servicio.",
+      "descriptions": [
+        "Guías y organizadores de caza: consulte la información del programa en Guidefitter.",
+        "Militares y personal de emergencias: consulte la información actual en Guidefitter.",
+        "Profesionales del sector de actividades al aire libre: explore su opción en Guidefitter."
+      ],
+      "continue": "Continuar a Guidefitter",
+      "external": "Abre Guidefitter en una nueva pestaña",
+      "how": "Los siguientes pasos",
+      "steps": [
+        [
+          "Abra Guidefitter",
+          "Use el enlace del programa de MT E.L.K., INC."
+        ],
+        [
+          "Inicie sesión o cree una cuenta",
+          "Siga las instrucciones actuales de verificación de Guidefitter."
+        ],
+        [
+          "Revise su acceso",
+          "La elegibilidad y el acceso a los programas dependen de la verificación y de sus requisitos."
+        ]
+      ],
+      "verify": "Leer la guía de verificación de Guidefitter",
+      "learn": "Lleve sus conocimientos al campo.",
+      "learnintro": "Explore las lecciones y el cuidado por modelo durante su visita.",
+      "resources": [
+        [
+          "Formación sobre reclamos",
+          "Vea las demostraciones en nuestros reproductores integrados."
+        ],
+        [
+          "Cuidado de los reclamos",
+          "Encuentre lecciones de cambio de bandas y lengüetas por modelo."
+        ],
+        [
+          "Comprar directamente",
+          "Consulte el catálogo y complete su compra en este sitio."
+        ]
+      ],
+      "faqs": "Respuestas útiles",
+      "questions": [
+        [
+          "¿Se solicita acceso en este sitio?",
+          "El acceso a la cuenta y la verificación continúan en Guidefitter. No recogemos documentos de verificación aquí."
+        ],
+        [
+          "¿Dónde encuentro la información actual?",
+          "Consulte los requisitos, precios y disponibilidad en Guidefitter. El acceso a los programas no está garantizado."
+        ],
+        [
+          "¿Puedo usar la tienda habitual?",
+          "Sí. Nuestra tienda pública permite elegir productos y completar la compra en este sitio."
+        ],
+        [
+          "¿Quién puede ayudarme con un reclamo?",
+          "Contacte con MT E.L.K., INC. para preguntas sobre modelos, cuidados o pedidos realizados en este sitio."
+        ]
+      ],
+      "support": "Contactar con MT E.L.K., INC.",
+      "sources": "Fuentes de información",
+      "sourcebrand": "Enlaces de programas en elkinc.com",
+      "sourceguide": "Información de los programas Guidefitter",
+      "overview": "Explorar los programas",
+      "storelink": "Programas profesionales en Guidefitter",
+      "imagealt": "Wapití en un paisaje natural"
+    },
+    "de": {
+      "title": "Guidefitter-Programme",
+      "heading": "Für Menschen, die draußen arbeiten.",
+      "intro": "Finden Sie MT E.L.K., INC. auf Guidefitter. Entdecken Sie die drei Wege und wechseln Sie dann zu Ihrem Guidefitter-Konto.",
+      "choose": "Wählen Sie Ihren Weg",
+      "lead": "Beginnen Sie mit dem Weg, der zu Ihrer Tätigkeit oder Ihrem Dienst passt.",
+      "descriptions": [
+        "Jagd- und Outdoor-Guides: Entdecken Sie die Programminformationen auf Guidefitter.",
+        "Militär und Einsatzkräfte: Aktuelle Programminformationen finden Sie auf Guidefitter.",
+        "Fachleute der Outdoor-Branche: Entdecken Sie Ihren Weg auf Guidefitter."
+      ],
+      "continue": "Weiter zu Guidefitter",
+      "external": "Öffnet Guidefitter in einem neuen Tab",
+      "how": "Ihre nächsten Schritte",
+      "steps": [
+        [
+          "Guidefitter öffnen",
+          "Nutzen Sie den Programmlink von MT E.L.K., INC."
+        ],
+        [
+          "Anmelden oder Konto erstellen",
+          "Folgen Sie den aktuellen Verifizierungshinweisen von Guidefitter."
+        ],
+        [
+          "Zugang prüfen",
+          "Berechtigung und Zugang hängen von der Verifizierung und den Programmbedingungen ab."
+        ]
+      ],
+      "verify": "Verifizierungshinweise von Guidefitter lesen",
+      "learn": "Wissen mit ins Revier nehmen.",
+      "learnintro": "Entdecken Sie Lektionen und modellspezifische Pflegehinweise.",
+      "resources": [
+        [
+          "Wildlocker-Lektionen",
+          "Sehen Sie Demonstrationen in unseren eingebetteten Playern."
+        ],
+        [
+          "Wildlocker pflegen",
+          "Finden Sie Lektionen zum Band- und Rufzungenwechsel für Ihr Modell."
+        ],
+        [
+          "Direkt einkaufen",
+          "Durchsuchen Sie das Sortiment und bestellen Sie auf dieser Website."
+        ]
+      ],
+      "faqs": "Hilfreiche Antworten",
+      "questions": [
+        [
+          "Bewerbe ich mich auf dieser Website?",
+          "Kontozugang und Verifizierung erfolgen auf Guidefitter. Wir erfassen hier keine Verifizierungsdokumente."
+        ],
+        [
+          "Wo finde ich aktuelle Programmdetails?",
+          "Bedingungen, Preise und Verfügbarkeit finden Sie auf Guidefitter. Der Programmzugang ist nicht garantiert."
+        ],
+        [
+          "Kann ich den regulären Shop nutzen?",
+          "Ja. Im öffentlichen Shop können Sie Produkte auswählen und auf dieser Website bestellen."
+        ],
+        [
+          "Wer hilft bei Fragen zu einem Wildlocker?",
+          "Kontaktieren Sie MT E.L.K., INC. bei Fragen zu Modellen, Pflege oder einer Bestellung auf dieser Website."
+        ]
+      ],
+      "support": "MT E.L.K., INC. kontaktieren",
+      "sources": "Informationsquellen",
+      "sourcebrand": "Programmlinks auf elkinc.com",
+      "sourceguide": "Guidefitter-Programminformationen",
+      "overview": "Programme entdecken",
+      "storelink": "Professionelle Programme auf Guidefitter",
+      "imagealt": "Wapiti in einer Naturlandschaft"
+    }
+  }
+}

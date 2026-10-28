@@ -1,0 +1,15 @@
+{
+  "company": "MT E.L.K., INC.",
+  "revision": "2026-10-20",
+  "references": [
+    {"url": "https://horizonx.so/tools/glass-radio", "use": "Public visual reference: translucent surfaces and inset glass edges."},
+    {"url": "https://horizonx.so/explore/orbit", "use": "Public visual reference: audio widgets, waveform displays and glass cards."}
+  ],
+  "implementation": "Original lightweight CSS and Canvas implementation. No membership-only HorizonX source or asset is bundled.",
+  "tracks": [
+    {"id": "cowtalk-song", "title": "Cowtalk Song", "file": "/assets/music/cowtalk-song.mp3"},
+    {"id": "stop-em-in-their-tracks", "title": "Stop ’Em in Their Tracks", "file": "/assets/music/stop-em-in-their-tracks.mp3"}
+  ],
+  "sharing": {"canonical_origin": "https://www.mtelkinc.com", "query": "soundtrack", "autoplay": false, "channels": ["native", "copy", "whatsapp", "facebook", "email"]},
+  "visuals": {"maximum_fps": 24, "maximum_device_pixel_ratio": 1.25, "reduced_motion": "static spectrum", "glass_fallback": "solid readable surface"}
+}

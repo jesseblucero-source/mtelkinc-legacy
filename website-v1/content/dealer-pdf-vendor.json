@@ -1,0 +1,12 @@
+{
+  "libraries": {
+    "pdf-lib": "1.17.1",
+    "@pdf-lib/fontkit": "1.1.1"
+  },
+  "directory": "/vendor/dealer-pdf-abc73e6e67db",
+  "engine_bytes": 1370962,
+  "engine_sha256": "abc73e6e67dbf03880558edf1722a6f43bd7fb987d0ced760d18e84fbd941c5e",
+  "font": "/assets/roboto-application-pdf-8c6f2880cb24.ttf",
+  "font_source": "/assets/roboto-400.woff2 (preserved; derived TrueType file for PDF embedding)",
+  "loading": "Only after an applicant requests a PDF. All answers remain in browser memory; no PDF service receives them."
+}

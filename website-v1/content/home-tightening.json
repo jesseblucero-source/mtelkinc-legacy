@@ -1,0 +1,58 @@
+{
+  "en": {
+    "hero": "MT E.L.K., INC. makes game calls. Learn to use them. Explore the story behind them.",
+    "paths": "Learn a call, care for it, or explore its history.",
+    "story": "Explore MT E.L.K., INC. through three preserved records, then meet the people behind the story.",
+    "people": "Meet the people in the dated records and company history.",
+    "bios": [
+      "Cow Talk inventor and teacher, documented in the 1986 newspaper feature and 1998 company sheet.",
+      "Named in the 1986 company-formation account and the 1998 video collaborations.",
+      "Author of the 1986 newspaper feature and Laubach’s co-author in the company record.",
+      "Identified in the company history as the owner continuing its education and preservation work."
+    ],
+    "storetitle": "Find your next call.",
+    "storeintro": "Calls, bands, reeds, books, DVDs, and blinds—all in one store."
+  },
+  "fr": {
+    "hero": "MT E.L.K., INC. fabrique des appeaux de chasse. Apprenez à les utiliser. Découvrez leur histoire.",
+    "paths": "Apprenez à utiliser un appeau, entretenez-le ou découvrez son histoire.",
+    "story": "Découvrez MT E.L.K., INC. à travers trois documents préservés, puis les personnes derrière cette histoire.",
+    "people": "Rencontrez les personnes citées dans les documents datés et l’histoire de la société.",
+    "bios": [
+      "Inventeur de Cow Talk et formateur, présenté dans le reportage de 1986 et la fiche de la société de 1998.",
+      "Cité dans le récit de création de 1986 et les collaborations vidéo documentées en 1998.",
+      "Auteur du reportage de 1986 et coauteur de Laubach selon les archives de la société.",
+      "Présenté dans l’histoire de la société comme le propriétaire poursuivant la formation et la préservation du patrimoine."
+    ],
+    "storetitle": "Trouvez votre prochain appeau.",
+    "storeintro": "Appeaux, élastiques, anches, livres, DVD et affûts dans une même boutique."
+  },
+  "es": {
+    "hero": "MT E.L.K., INC. fabrica reclamos de caza. Aprenda a utilizarlos. Descubra su historia.",
+    "paths": "Aprenda a usar un reclamo, cuídelo o explore su historia.",
+    "story": "Explore MT E.L.K., INC. a través de tres documentos conservados y conozca a las personas detrás de la historia.",
+    "people": "Conozca a las personas citadas en los documentos fechados y la historia de la empresa.",
+    "bios": [
+      "Inventor de Cow Talk y educador, documentado en el reportaje de 1986 y la ficha de la empresa de 1998.",
+      "Nombrado en el relato de formación de 1986 y en las colaboraciones de vídeo de 1998.",
+      "Autor del reportaje de 1986 y coautor de Laubach según el documento de la empresa.",
+      "Identificado en la historia de la empresa como el propietario que continúa su labor educativa y de conservación."
+    ],
+    "storetitle": "Encuentre su próximo reclamo.",
+    "storeintro": "Reclamos, bandas, lengüetas, libros, DVD y puestos de caza en una sola tienda."
+  },
+  "de": {
+    "hero": "MT E.L.K., INC. stellt Wildlocker her. Lernen Sie deren Anwendung. Entdecken Sie ihre Geschichte.",
+    "paths": "Einen Wildlocker kennenlernen, pflegen oder seine Geschichte entdecken.",
+    "story": "Entdecken Sie MT E.L.K., INC. anhand von drei erhaltenen Dokumenten und lernen Sie die Menschen dahinter kennen.",
+    "people": "Lernen Sie die Menschen aus datierten Dokumenten und der Unternehmensgeschichte kennen.",
+    "bios": [
+      "Erfinder von Cow Talk und Lehrer, dokumentiert im Zeitungsbericht von 1986 und im Unternehmensblatt von 1998.",
+      "Genannt im Gründungsbericht von 1986 und bei den Videoprojekten von 1998.",
+      "Autor des Zeitungsberichts von 1986 und laut Unternehmensdokument Laubachs Mitautor.",
+      "In der Unternehmensgeschichte als Eigentümer genannt, der Bildung und historische Bewahrung fortführt."
+    ],
+    "storetitle": "Den nächsten Wildlocker finden.",
+    "storeintro": "Wildlocker, Bänder, Rufzungen, Bücher, DVDs und Jagdschirme in einem Shop."
+  }
+}

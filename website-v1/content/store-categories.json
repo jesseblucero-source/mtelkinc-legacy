@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "elk",
+    "id": 181835776,
+    "name": "ELK",
+    "source": "https://elkinc.com/products/"
+  },
+  {
+    "slug": "mule-deer",
+    "id": 181842280,
+    "name": "MULE DEER",
+    "source": "https://elkinc.com/products/"
+  },
+  {
+    "slug": "whitetail",
+    "id": 181842263,
+    "name": "WHITETAIL",
+    "source": "https://elkinc.com/products/"
+  },
+  {
+    "slug": "antelope",
+    "id": 181835784,
+    "name": "ANTELOPE",
+    "source": "https://elkinc.com/products/"
+  },
+  {
+    "slug": "predator",
+    "id": 181835771,
+    "name": "PREDATOR",
+    "source": "https://elkinc.com/products/"
+  },
+  {
+    "slug": "bands-reeds",
+    "id": 181835782,
+    "name": "BANDS / REEDS",
+    "source": "https://elkinc.com/products/"
+  },
+  {
+    "slug": "dvds",
+    "id": 181842033,
+    "name": "DVDS",
+    "source": "https://elkinc.com/products/"
+  },
+  {
+    "slug": "calls",
+    "id": 181842027,
+    "name": "CALLS",
+    "source": "https://elkinc.com/products/"
+  },
+  {
+    "slug": "blinds",
+    "id": 181842279,
+    "name": "BLINDS",
+    "source": "https://elkinc.com/products/"
+  },
+  {
+    "slug": "books",
+    "id": 181842285,
+    "name": "BOOKS",
+    "source": "https://elkinc.com/products/"
+  }
+]

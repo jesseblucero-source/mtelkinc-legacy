@@ -1,0 +1,43 @@
+{
+  "program": {
+    "id": "xDmsNIqIVdg",
+    "title": "MT E.L.K., INC. Dealer Program Presentation",
+    "source_title": "MT ELK INC Dealer Program Presentation",
+    "source_watch": "https://www.youtube.com/watch?v=xDmsNIqIVdg",
+    "source_embed": "https://www.youtube.com/embed/xDmsNIqIVdg",
+    "source_guide": "https://heyzine.com/flip-book/a3013d036c.html",
+    "source_page": 1,
+    "author_channel": "https://www.youtube.com/@ELKinc1",
+    "checked_on": "2026-10-20",
+    "verification": "Embedded in page 1 of the preserved dealer guide; YouTube oEmbed confirms presentation title and official channel. Description uses this source context rather than claiming transcript coverage."
+  },
+  "training": [
+    {
+      "id": "r4Ir9kGEgBY",
+      "slug": "deer-talk-demonstration",
+      "title": "Deer Talk Calling Demonstration",
+      "description": "A MT E.L.K., INC. demonstration featuring Deer Talk, the Deer Stopper Call, and calling whitetail deer. Watch the technique, listen to the sound, and return to the lesson as you practice.",
+      "source": "https://www.youtube.com/watch?v=r4Ir9kGEgBY",
+      "source_watch": "https://www.youtube.com/watch?v=r4Ir9kGEgBY",
+      "description_kind": "resource overview; not a transcript or step-by-step instruction"
+    },
+    {
+      "id": "mYew9VFY5fM",
+      "slug": "cow-talk-call-band-replacement",
+      "title": "Cow Talk Call — Band Replacement",
+      "description": "Watch the MT E.L.K., INC. band replacement demonstration for the Cow Talk Call. Match the model shown to your call before following the video.",
+      "source": "https://elkinc.com/banding-instructions/",
+      "source_watch": "https://www.youtube.com/watch?v=mYew9VFY5fM",
+      "description_kind": "resource overview; not a transcript or step-by-step instruction"
+    },
+    {
+      "id": "SImGsZQD7mc",
+      "slug": "yote-buster-reed-replacement",
+      "title": "Yote Buster — Reed Replacement",
+      "description": "Watch the MT E.L.K., INC. reed replacement demonstration for the Yote Buster. Match the model shown to your call before following the video.",
+      "source": "https://elkinc.com/banding-instructions/",
+      "source_watch": "https://www.youtube.com/watch?v=SImGsZQD7mc",
+      "description_kind": "resource overview; not a transcript or step-by-step instruction"
+    }
+  ]
+}

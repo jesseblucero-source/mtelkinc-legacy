@@ -1,0 +1,106 @@
+{
+  "origin": "https://www.mtelkinc.com",
+  "routes": [
+    {
+      "path": "/dealer-guides/customer-support/",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "path": "/dealer-guides/distributor-network/",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "path": "/dealers/us/",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "path": "/canada/",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "path": "/international/",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "path": "/fr/dealer-guides/customer-support/",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "path": "/fr/dealer-guides/distributor-network/",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "path": "/fr/dealers/us/",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "path": "/fr/canada/",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "path": "/fr/international/",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "path": "/es/dealer-guides/customer-support/",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "path": "/es/dealer-guides/distributor-network/",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "path": "/es/dealers/us/",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "path": "/es/canada/",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "path": "/es/international/",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "path": "/de/dealer-guides/customer-support/",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "path": "/de/dealer-guides/distributor-network/",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "path": "/de/dealers/us/",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "path": "/de/canada/",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "path": "/de/international/",
+      "status": 200,
+      "verified": true
+    }
+  ],
+  "pdfHashesVerified": true
+}

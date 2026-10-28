@@ -1,0 +1,42 @@
+[
+  {
+    "confidence" : 1,
+    "h" : 0.19619993165481919,
+    "text" : "THE \"COW TALK\" CALL WAS THE FIRST COW EUR CALL",
+    "w" : 0.75496247526887172,
+    "x" : 0.078648061353342139,
+    "y" : 0.10827395884128976
+  },
+  {
+    "confidence" : 1,
+    "h" : 0.084615379156068204,
+    "text" : "INUENTED IN THE U.S.",
+    "w" : 0.30818964970576301,
+    "x" : 0.040948281163641451,
+    "y" : 0.36923077189632481
+  },
+  {
+    "confidence" : 1,
+    "h" : 0.19024237699286883,
+    "text" : "WAS INSTRUMENTAL IN DESIGNING THE \"POWER BUGLE\"",
+    "w" : 0.78983772575081157,
+    "x" : 0.085692287556383473,
+    "y" : 0.50682858643380457
+  },
+  {
+    "confidence" : 1,
+    "h" : 0.12662824586380361,
+    "text" : "ELK CALL WHICH HAS LUON WORLD ELK BUGLING CHAMPIONSHIAS",
+    "w" : 0.85607593090503242,
+    "x" : 0.040695694637450777,
+    "y" : 0.72048468243304176
+  },
+  {
+    "confidence" : 1,
+    "h" : 0.11538461197254279,
+    "text" : "IN SEUERAL DIVISIONS - MENS, LADIES $ YOUTH.",
+    "w" : 0.61637929941152592,
+    "x" : 0.038793116619667861,
+    "y" : 0.86923077045603636
+  }
+]

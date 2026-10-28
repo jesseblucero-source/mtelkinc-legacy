@@ -1,0 +1,16 @@
+# -*- coding: utf-8 -*-
+from pathlib import Path
+import json,re
+p=Path('content/translations/de.json');m=json.loads(p.read_text())
+for source,value in list(m.items()):
+ if not re.search(r'phone call|telephone call|call the office|call our team|call us|^Call MT|^Call \(?406',source,re.I):
+  for a,b in [('Anrufer','Lockjäger'),('Anrufpräsentationen','Lockrufpräsentationen'),('Anrufressourcen','Ressourcen zu Wildlockern'),('Anrufen','Wildlockern'),('Anrufs','Wildlockers'),('Anrufe','Wildlocker'),('Anruf','Wildlocker'),('Aufrufvideos','Lockrufvideos'),('Aufrufen','Lockrufen'),('Aufrufs','Lockrufs'),('Aufrufe','Lockrufe'),('Aufruf','Lockruf'),('Call-Demonstrationen','Lockruf-Vorführungen')]:value=value.replace(a,b)
+  value=value.replace('Wapiti-Wildlocker','Wapiti-Lockrufe')
+ m[source]=value
+m.update({
+'Find your call.':'Finden Sie Ihren Wildlocker.','Choose your next lesson.':'Wählen Sie Ihre nächste Lektion.','Care for your call':'Pflege für Ihren Wildlocker','All Calls':'Alle Wildlocker','A call.':'Ein Wildlocker.','A QUESTION ABOUT YOUR CALL?':'EINE FRAGE ZU IHREM WILDLOCKER?','Calls, books, and films tell a shared story.':'Wildlocker, Bücher und Filme erzählen eine gemeinsame Geschichte.','Find Your Lesson':'Ihre Lektion finden','Find Your Lesson ↓':'Ihre Lektion finden ↓','All Resources for This Call →':'Alle Ressourcen zu diesem Wildlocker →','Music keeps playing as you browse the website. Pause or stop it anytime. Opening a video pauses music until you choose Play again.':'Die Musik spielt weiter, während Sie die Website erkunden. Sie können sie jederzeit pausieren oder stoppen. Beim Öffnen eines Videos pausiert die Musik, bis Sie erneut „Abspielen“ wählen.','Music keeps playing as you browse the website.':'Die Musik spielt weiter, während Sie die Website erkunden.','Optional music':'Optionale Musik','Learn the call.':'Den Lockruf lernen.','Live the story.':'Geschichte erleben.','MT E.L.K., INC. manufactures game calls. Explore our company history, calling education, videos, and call-care resources.':'MT E.L.K., INC. stellt Wildlocker her. Entdecken Sie unsere Unternehmensgeschichte, Schulungen, Videos und Informationen zur Lockerpflege.','View demonstrations':'Vorführungen ansehen','Find band lessons':'Lektionen zum Bandwechsel','Find reed lessons':'Lektionen zur Rufzunge','Not sure which call you have?':'Sie wissen nicht, welchen Wildlocker Sie besitzen?','Find model-specific support':'Hilfe für Ihr Modell finden','Browse the verified calling demonstration in the learning hub.':'Sehen Sie sich die verifizierte Lockruf-Vorführung im Lernbereich an.','Find band-replacement videos by species and call model.':'Finden Sie Videos zum Bandwechsel nach Tierart und Lockermodell.','Open the verified Yote Buster reed-replacement lesson.':'Öffnen Sie die verifizierte Lektion zum Wechsel der Rufzunge beim Yote Buster.'})
+m.update(json.loads(Path('content/translations/de-reviewed.json').read_text()))
+assert not any('ZXQ' in v for v in m.values())
+for source,value in m.items():
+ if 'MT E.L.K., INC.' in source:assert 'MT E.L.K., INC.' in value,source
+p.write_text(json.dumps(m,ensure_ascii=False,indent=2)+'\n');print('Reviewed German headings, navigation, music and call terminology.')

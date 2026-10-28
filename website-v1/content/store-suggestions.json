@@ -1,0 +1,97 @@
+{
+  "basis": "Editorial suggestions from verified public catalog names, category membership and product descriptions. No purchase-history or popularity claims.",
+  "source": "https://elkinc.com/products/",
+  "pairings": {
+    "751639142": [
+      751638704,
+      751638674,
+      751638466,
+      751638445
+    ],
+    "751638443": [
+      751639143,
+      751638461,
+      751638450,
+      751638445
+    ],
+    "751638467": [
+      751639150,
+      751638691,
+      751638445
+    ],
+    "751639147": [
+      751638693,
+      751639164,
+      751638707
+    ],
+    "751638709": [
+      751638446,
+      751639164
+    ],
+    "751638462": [
+      751638439,
+      751638440,
+      751638711
+    ],
+    "751638698": [
+      751638439,
+      751638711
+    ]
+  },
+  "package_alternatives": {
+    "751639142": 751638675,
+    "751638443": 751639125,
+    "751638467": 751639144,
+    "751638709": 751638696,
+    "751638462": 751639135
+  },
+  "default_products": [
+    751638675,
+    751639135,
+    751638466,
+    751638445
+  ],
+  "accessories": [
+    751638445,
+    751638444,
+    751639161
+  ],
+  "excluded_products": [
+    751639136
+  ],
+  "excluded_reason": "GREEN BANDS product explicitly directs customers to black bands; do not promote the superseded item.",
+  "compatibility": "Only the four named Cow Talk, Deer Talk, Antelope Talk and Yote Buster replacements are mapped directly to their matching calls. Power-band colors are not inferred to fit a model.",
+  "package_contents": {
+    "751638675": [
+      751639142,
+      751638688,
+      751638704,
+      751638445
+    ],
+    "751639125": [
+      751638443,
+      751638461,
+      751639143,
+      751638445
+    ],
+    "751639144": [
+      751638467,
+      751638691,
+      751639150,
+      751638445
+    ],
+    "751638696": [
+      751638709,
+      751639158
+    ],
+    "751639135": [
+      751638462,
+      751638444,
+      751638697,
+      751638699,
+      751639145,
+      751638688
+    ]
+  },
+  "package_accessory_policy": "Do not suggest additional general accessories when a package is the context. This conservatively avoids overlaps without inferring that a separately sold cover is the exact packaged SKU."
+}
