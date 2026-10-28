@@ -1,0 +1,26 @@
+[
+  {
+    "width": 390,
+    "onSiteCart": true,
+    "emailField": true,
+    "overflow": false,
+    "publicProcessorIndicators": [
+      "authorizeNetCC",
+      "authorizeNetCC (public storefront response)",
+      "stripe (public storefront response)"
+    ],
+    "paymentAuthorization": "not attempted; requires merchant sandbox/authenticated settings"
+  },
+  {
+    "width": 1440,
+    "onSiteCart": true,
+    "emailField": true,
+    "overflow": false,
+    "publicProcessorIndicators": [
+      "authorizeNetCC",
+      "authorizeNetCC (public storefront response)",
+      "stripe (public storefront response)"
+    ],
+    "paymentAuthorization": "not attempted; requires merchant sandbox/authenticated settings"
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "deer-talk-demonstration",
+    "name": "Deer Talk",
+    "title": "Deer Talk Calling Demonstration",
+    "species": "deer",
+    "topic": "calling-demonstration",
+    "video": "r4Ir9kGEgBY",
+    "description": "A MT E.L.K., INC. demonstration featuring Deer Talk, the Deer Stopper Call, and calling whitetail deer. Watch the technique, listen to the sound, and return to the lesson as you practice.",
+    "source": "https://www.youtube.com/watch?v=r4Ir9kGEgBY",
+    "call_id": "deer-talk-call",
+    "record_ids": [
+      "founder-record"
+    ],
+    "description_kind": "resource overview; not a transcript or step-by-step instruction"
+  },
+  {
+    "slug": "antelope-talk-call-band-replacement",
+    "name": "Antelope Talk Call",
+    "title": "Antelope Talk Call — Band Replacement",
+    "species": "antelope",
+    "topic": "band-replacement",
+    "video": "8jP-Fl_JmU4",
+    "description": "Watch the MT E.L.K., INC. band replacement demonstration for the Antelope Talk Call. Match the model shown to your call before following the video.",
+    "source": "https://elkinc.com/banding-instructions/",
+    "call_id": "antelope-talk-call",
+    "record_ids": [
+      "founder-record"
+    ],
+    "description_kind": "resource overview; not a transcript or step-by-step instruction"
+  },
+  {
+    "slug": "power-howler-band-replacement",
+    "name": "Power Howler",
+    "title": "Power Howler — Band Replacement",
+    "species": "predators",
+    "topic": "band-replacement",
+    "video": "4QB6BIsOB8s",
+    "description": "Watch the MT E.L.K., INC. band replacement demonstration for the Power Howler. Match the model shown to your call before following the video.",
+    "source": "https://elkinc.com/banding-instructions/",
+    "call_id": "power-howler",
+    "record_ids": [],
+    "description_kind": "resource overview; not a transcript or step-by-step instruction"
+  },
+  {
+    "slug": "yote-buster-reed-replacement",
+    "name": "Yote Buster",
+    "title": "Yote Buster — Reed Replacement",
+    "species": "predators",
+    "topic": "reed-replacement",
+    "video": "SImGsZQD7mc",
+    "description": "Watch the MT E.L.K., INC. reed replacement demonstration for the Yote Buster. Match the model shown to your call before following the video.",
+    "source": "https://elkinc.com/banding-instructions/",
+    "call_id": "yote-buster",
+    "record_ids": [],
+    "description_kind": "resource overview; not a transcript or step-by-step instruction"
+  },
+  {
+    "slug": "yote-howler-band-replacement",
+    "name": "Yote Howler",
+    "title": "Yote Howler — Band Replacement",
+    "species": "predators",
+    "topic": "band-replacement",
+    "video": "KmxBIA9FXis",
+    "description": "Watch the MT E.L.K., INC. band replacement demonstration for the Yote Howler. Match the model shown to your call before following the video.",
+    "source": "https://elkinc.com/banding-instructions/",
+    "call_id": "yote-howler",
+    "record_ids": [],
+    "description_kind": "resource overview; not a transcript or step-by-step instruction"
+  },
+  {
+    "slug": "deer-talk-call-band-replacement",
+    "name": "Deer Talk Call",
+    "title": "Deer Talk Call — Band Replacement",
+    "species": "deer",
+    "topic": "band-replacement",
+    "video": "ZT5WjIglXZU",
+    "description": "Watch the MT E.L.K., INC. band replacement demonstration for the Deer Talk Call. Match the model shown to your call before following the video.",
+    "source": "https://elkinc.com/banding-instructions/",
+    "call_id": "deer-talk-call",
+    "record_ids": [
+      "founder-record"
+    ],
+    "description_kind": "resource overview; not a transcript or step-by-step instruction"
+  },
+  {
+    "slug": "cow-talk-call-band-replacement",
+    "name": "Cow Talk Call",
+    "title": "Cow Talk Call — Band Replacement",
+    "species": "elk",
+    "topic": "band-replacement",
+    "video": "mYew9VFY5fM",
+    "description": "Watch the MT E.L.K., INC. band replacement demonstration for the Cow Talk Call. Match the model shown to your call before following the video.",
+    "source": "https://elkinc.com/banding-instructions/",
+    "call_id": "cow-talk-call",
+    "record_ids": [
+      "cow-call-draws-elk",
+      "talk-to-the-elk",
+      "founder-record"
+    ],
+    "description_kind": "resource overview; not a transcript or step-by-step instruction"
+  },
+  {
+    "slug": "deluxe-cow-talk-call-band-replacement",
+    "name": "Deluxe Cow Talk Call",
+    "title": "Deluxe Cow Talk Call — Band Replacement",
+    "species": "elk",
+    "topic": "band-replacement",
+    "video": "ALnNk-g9Uws",
+    "description": "Watch the MT E.L.K., INC. band replacement demonstration for the Deluxe Cow Talk Call. Match the model shown to your call before following the video.",
+    "source": "https://elkinc.com/banding-instructions/",
+    "call_id": "deluxe-cow-talk-call",
+    "record_ids": [],
+    "description_kind": "resource overview; not a transcript or step-by-step instruction"
+  },
+  {
+    "slug": "power-bugle-band-replacement",
+    "name": "Power Bugle",
+    "title": "Power Bugle — Band Replacement",
+    "species": "elk",
+    "topic": "band-replacement",
+    "video": "x_EiSpAtrCk",
+    "description": "Watch the MT E.L.K., INC. band replacement demonstration for the Power Bugle. Match the model shown to your call before following the video.",
+    "source": "https://elkinc.com/banding-instructions/",
+    "call_id": "power-bugle",
+    "record_ids": [
+      "founder-record"
+    ],
+    "description_kind": "resource overview; not a transcript or step-by-step instruction"
+  },
+  {
+    "slug": "royal-bugle-band-replacement",
+    "name": "Royal Bugle",
+    "title": "Royal Bugle — Band Replacement",
+    "species": "elk",
+    "topic": "band-replacement",
+    "video": "ScBQx4LlENs",
+    "description": "Watch the MT E.L.K., INC. band replacement demonstration for the Royal Bugle. Match the model shown to your call before following the video.",
+    "source": "https://elkinc.com/banding-instructions/",
+    "call_id": "royal-bugle",
+    "record_ids": [],
+    "description_kind": "resource overview; not a transcript or step-by-step instruction"
+  },
+  {
+    "slug": "the-wolf-howler-band-replacement",
+    "name": "The Wolf Howler",
+    "title": "The Wolf Howler — Band Replacement",
+    "species": "predators",
+    "topic": "band-replacement",
+    "video": "j9iU3A570gI",
+    "description": "Watch the MT E.L.K., INC. band replacement demonstration for The Wolf Howler. Match the model shown to your call before following the video.",
+    "source": "https://elkinc.com/banding-instructions/",
+    "call_id": "the-wolf-howler",
+    "record_ids": [],
+    "description_kind": "resource overview; not a transcript or step-by-step instruction"
+  }
+]

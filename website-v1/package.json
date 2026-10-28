@@ -1,8 +1,8 @@
 {
   "name": "mtelkinc-final-website",
   "private": true,
-  "version": "1.0.0",
-  "description": "Client-side application PDF export for MT E.L.K., INC.",
+  "version": "1.1.0",
+  "description": "MT E.L.K., INC. website and guided training",
   "engines": {
     "node": ">=22"
   },
@@ -13,6 +13,15 @@
     "pdf-lib": "^1.17.1"
   },
   "devDependencies": {
-    "esbuild": "^0.28.2"
-  }
+    "@axe-core/playwright": "^4.14.0",
+    "esbuild": "^0.28.2",
+    "playwright": "^1.64.1"
+  },
+  "scripts": {
+    "build": "python3 scripts/build-release.py",
+    "test:mail": "node scripts/test-application-notification.mjs",
+    "test:closeout": "node scripts/test-closeout.cjs",
+    "package:static": "python3 scripts/package-static-routing.py"
+  },
+  "packageManager": "pnpm@11.25.0"
 }

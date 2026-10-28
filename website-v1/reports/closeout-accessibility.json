@@ -1,0 +1,37 @@
+{
+  "automatedOnly": true,
+  "accessibility": [
+    {
+      "route": "/university/",
+      "violations": []
+    },
+    {
+      "route": "/fr/university/",
+      "violations": []
+    },
+    {
+      "route": "/es/university/",
+      "violations": []
+    },
+    {
+      "route": "/de/university/",
+      "violations": []
+    },
+    {
+      "route": "/",
+      "violations": []
+    },
+    {
+      "route": "/education/",
+      "violations": []
+    },
+    {
+      "route": "/dealer-application/",
+      "violations": []
+    },
+    {
+      "route": "/legacy/",
+      "violations": []
+    }
+  ]
+}

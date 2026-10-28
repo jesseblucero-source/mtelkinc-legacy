@@ -1,5 +1,5 @@
 // Local integration checks mock YouTube's response; they do not assert actual video playback.
-const {chromium}=require(process.env.MT_PLAYWRIGHT_MODULE || 'playwright');
+const {chromium}=require(process.env.MT_PLAYWRIGHT_MODULE||'playwright');
 const assert=require('assert');
 (async()=>{const browser=await chromium.launch();const base=process.argv[2]||'http://127.0.0.1:8772';try{
 for(const [route,selector,width] of [
@@ -13,7 +13,8 @@ for(const [route,selector,width] of [
  await p.goto(base+route,{waitUntil:'domcontentloaded'});
  if(route==='/shop/'){
   await p.waitForFunction(()=>window.Ecwid&&!document.querySelector('[data-store-action=all]').disabled,null,{timeout:60000});
-  await p.evaluate(()=>{const a=document.createElement('a');a.href='https://www.youtube.com/watch?v=UkZx7Ld_SZg';a.textContent='Test product video';document.querySelector('#my-store-117609763').append(a)});
+  await p.waitForTimeout(2000); // Let Ecwid finish its initial catalog replacement before injecting the synthetic fixture.
+  await p.evaluate(()=>{const a=document.createElement('a');a.href='https://www.youtube.com/watch?v=UkZx7Ld_SZg';a.id='store-video-test';a.textContent='Test product video';document.querySelector('#my-store-117609763').append(a)});
  }
  const button=p.locator(selector+':visible').first();await button.waitFor();await button.click();
  const frame=p.locator('iframe[src*="youtube-nocookie.com/embed/"]');await frame.waitFor();await p.waitForFunction(()=>document.querySelector('iframe[src*="youtube-nocookie.com/embed/"]')?.contentWindow);

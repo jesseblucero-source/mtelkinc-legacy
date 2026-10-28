@@ -1,4 +1,4 @@
-const {chromium}=require(process.env.MT_PLAYWRIGHT_MODULE || 'playwright');
+const {chromium}=require(process.env.MT_PLAYWRIGHT_MODULE||'playwright');
 const assert=require('assert');
 (async()=>{const base=process.argv[2]||'http://127.0.0.1:8772',browser=await chromium.launch();try{
 for(const pre of ['','/fr','/es','/de']){

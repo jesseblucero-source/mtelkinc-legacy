@@ -1,4 +1,4 @@
-const pw=require(process.env.MT_PLAYWRIGHT_MODULE || 'playwright');
+const pw=require(process.env.MT_PLAYWRIGHT_MODULE||'playwright');
 const engine=process.env.MT_BROWSER||'chromium',chromium=pw[engine];
 const assert=require('assert');
 (async()=>{const b=await chromium.launch(engine==='firefox'?{executablePath:'/private/tmp/mtelk-browser-tests/firefox-1538/firefox/Nightly.app/Contents/MacOS/firefox'}:{});const base=process.argv[2]||'http://127.0.0.1:8772';try{

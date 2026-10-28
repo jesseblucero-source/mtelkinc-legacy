@@ -1,8 +1,8 @@
 # MT E.L.K., INC.
 
-## Published website - V1
+## Published website — V1 baseline and 1.1.0
 
-The **V1 / 1.0.0** production baseline is archived in [website-v1](website-v1/README.md). It includes the static website, structured source records, maintenance scripts, release notes and a SHA-256 manifest. See [V1 release notes](website-v1/V1-RELEASE-NOTES.md).
+The **V1 / 1.0.0** production baseline is preserved at Git tag `v1.0.0`. [website-v1](website-v1/README.md) now contains the compatible 1.1.0 expansion, including guided University training and release checks. It includes the static website, structured source records, maintenance scripts, release notes and a SHA-256 manifest. See [V1 release notes](website-v1/V1-RELEASE-NOTES.md).
 
 The existing Vinext application below is preserved. The V1 static snapshot has its own deployment configuration and does not change this root application's build or the live Netlify connection.
 

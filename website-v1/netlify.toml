@@ -1,4 +1,6 @@
 [build]
   publish = "dist"
+
+# Company-sender SMTP is staged separately until its connection is verified.
 [functions]
   directory = "empty-functions"
