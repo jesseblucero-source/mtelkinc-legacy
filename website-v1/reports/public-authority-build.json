@@ -1,0 +1,16 @@
+{
+  "generated_catalog_pages": 101,
+  "published_product_records": 57,
+  "categories": 10,
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "catalog_verified": "2026-11-19",
+  "static_offer_count": 0,
+  "private_data_exported": false,
+  "merchant_changes": false,
+  "source_sha256": "16803e20ecea3f2cdb7077300f3535626b916bedf241d8ec98bafa3e1a93591d"
+}

@@ -1,4 +1,7 @@
-# MT E.L.K., INC. — 1.1.1
+# MT E.L.K., INC. — 1.2.0
+
+
+The 1.2.0 extension generates 57 stable product guides and 44 localized catalog/category pages from the existing public Ecwid catalog, plus llms.txt, llms-full.txt, a public product knowledge graph, canonical schema, sitemap and crawler policy. Live prices, stock, options, cart and checkout remain in Ecwid. Catalog facts were refreshed November 19, 2026; refresh through the read-only importer and review changes before publishing. See docs/release-1.2.0.md for the public engineering release record. Executive/business acceptance handoffs remain local.
 
 The tagged `v1.0.0` remains the immutable V1 baseline. The active static release retains guided University training in English, French, Spanish and German, production-domain canonical metadata, consolidated CSS delivery, and repeatable release checks. The V1 pull request is merged.
 
@@ -17,6 +20,8 @@ python3 -m http.server 8772 --bind 127.0.0.1 --directory dist
 # In another terminal, after installing Playwright browsers:
 pnpm exec playwright install chromium webkit
 pnpm test:closeout
+node scripts/test-public-authority.cjs http://127.0.0.1:8772
+node scripts/test-catalog-store-flow.cjs http://127.0.0.1:8772
 pnpm package:static
 ```
 
@@ -27,6 +32,8 @@ This is a deterministic incremental build on the retained static website; it is 
 University contains 11 existing verified lessons with model/species paths, embedded playback, explicit reviewed checkboxes, a reset confirmation and a downloadable personal plan. Progress is saved in this browser only. No learner accounts, exams or certificates are claimed. Video audio remains in its original language; original documents and English business PDFs are labeled accordingly.
 
 The SMTP notification/receipt code is prepared under netlify but deliberately excluded by the configured empty-functions directory. Its tests do not send email. Enable it only after Functions-scoped host/port/password configuration, SMTP connection validation and a labeled end-to-end delivery check. Staff To/Cc is phillip@elkinc.com / jesse@elkinc.com; From is jesse@mtelkinc.com. Existing Netlify form notifications remain in place in the meantime. SMTP acceptance is not proof of inbox placement. A retried event can resend an already accepted message; there is no exactly-once guarantee.
+
+Run `npm run test:mail` for offline message and connection-check tests. After securely injecting the confirmed mail settings into a trusted environment, `npm run verify:mail` checks encrypted SMTP login without sending a message. It emits only status codes and missing variable names. Connection verification does not establish delivery; complete the labeled submission and inbox check before declaring notifications operational. See `reports/application-sender-setup.md`.
 
 The closeout report records remaining registrar, certificate, merchant and source-document requirements. Viewport/browser automation does not certify physical devices, native speech voices, provider sign-in behavior or payment settlement. See `CLOSEOUT-STATUS.md` for current evidence.
 

@@ -1,0 +1,8 @@
+
+export function initPage(){
+ const form=document.querySelector('[data-catalog-filters]');if(!form||form.dataset.bound)return;form.dataset.bound='true';
+ const cards=[...document.querySelectorAll('[data-catalog-product]')],status=document.querySelector('[data-catalog-status]'),empty=document.querySelector('[data-catalog-empty]');
+ const render=()=>{const params=new URLSearchParams(location.search),q=(params.get('q')||'').trim().slice(0,100),category=params.get('category')??form.dataset.baseCategory??'';form.elements.q.value=q;if([...form.elements.category.options].some(o=>o.value===category))form.elements.category.value=category;else form.elements.category.value='';let count=0;for(const card of cards){const show=(!q||card.dataset.name.includes(q.toLocaleLowerCase()))&&(!form.elements.category.value||card.dataset.categories.split(' ').includes(form.elements.category.value));card.hidden=!show;if(show)count++;}status.textContent=count+' '+form.dataset.count;empty.hidden=count!==0;};
+ form.addEventListener('submit',event=>{event.preventDefault();const url=new URL(location.href),q=form.elements.q.value.trim().slice(0,100),category=form.elements.category.value;url.searchParams.delete('q');url.searchParams.delete('category');if(q)url.searchParams.set('q',q);if(category||form.dataset.baseCategory)url.searchParams.set('category',category);history.pushState(history.state,'',url);render();});window.addEventListener('popstate',render);render();
+}
+if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',()=>window.MTPageRouter?MTPageRouter.run(initPage):initPage(),{once:true});else window.MTPageRouter?MTPageRouter.run(initPage):initPage();

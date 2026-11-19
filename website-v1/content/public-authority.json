@@ -1,0 +1,26 @@
+{
+  "organization": "MT E.L.K., INC.",
+  "origin": "https://www.mtelkinc.com",
+  "source": "Existing public Ecwid catalog and published website records",
+  "catalog_max_age_days_at_publish": 7,
+  "call_models": {
+    "751638698": "royal-bugle",
+    "751638462": "power-bugle",
+    "751638709": "power-howler",
+    "751638467": "antelope-talk-call",
+    "751638443": "deer-talk-call",
+    "751639142": "cow-talk-call",
+    "751639129": "the-wolf-howler",
+    "751639147": "yote-buster"
+  },
+  "verified_replacements": {
+    "751639142": [751638704],
+    "751638443": [751639143],
+    "751638467": [751639150],
+    "751639147": [751638693]
+  },
+  "superseded": {"751639136": 751639145},
+  "policy_mode": "Link to current disclosures; do not synthesize carrier, return, wholesale or international terms while owner reconciliation is pending.",
+  "offers_mode": "Prices, options and stock remain live in Ecwid. No static Offer, invented GTIN, review or rating.",
+  "training_crawlers": ["GPTBot", "ClaudeBot", "Google-Extended", "CCBot"]
+}

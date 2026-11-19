@@ -1,35 +1,37 @@
 {
   "release": {
     "name": "MT E.L.K., INC.",
-    "version": "1.1.1",
-    "label": "V1 compatible performance patch",
-    "release_date": "2026-10-27",
+    "version": "1.2.0",
+    "label": "Product authority and AI discovery",
+    "release_date": "2026-11-19",
     "production_url": "https://www.mtelkinc.com",
-    "production_deploy_id": "6ae187b9980cfaced05011e9",
     "github_repository": "jesseblucero-source/mtelkinc-legacy",
     "snapshot_directory": "website-v1",
-    "publication_scope": "Public static website with responsive homepage hero delivery; SMTP functions remain excluded.",
+    "publication_scope": "Public static catalog, AI discovery and SEO metadata. Merchant settings and SMTP functions unchanged.",
     "operational_caveat": "V1 records the published baseline; it does not certify payment settlement, company-sender email delivery or every additional domain.",
-    "dist_file_count": 975,
-    "dist_manifest_sha256": "7ab00dfb7928ae9187ef23930c5a7126a8e76d88ca593bcaed7e14160424694b",
+    "dist_file_count": 1083,
+    "dist_manifest_sha256": "79878c1ceff92e05b5e25d16e310654c0e9a5b2e9ccc2caad05a5f4be60b3c27",
     "baseline_tag": "v1.0.0",
-    "baseline_commit": "317a1e22d740dbd4852ae76cc7705cc382ecec70"
+    "baseline_commit": "317a1e22d740dbd4852ae76cc7705cc382ecec70",
+    "publication_status": "published and HTTP/store-entry verified",
+    "previous_production_deploy_id": "6ae187b9980cfaced05011e9",
+    "production_deploy_id": "6aff7dd741c20a244ee2ba36"
   },
   "files": [
     {
       "path": "_headers",
-      "bytes": 1332,
-      "sha256": "a2da708b532b60d849331dac0151cae52ebf918993f3af3024fe519fcb0bb8d2"
+      "bytes": 1707,
+      "sha256": "74df2301046e07ffe451f36db336ac592d749566070d534a78999f84dd047803"
     },
     {
       "path": "_redirects",
       "bytes": 59425,
-      "sha256": "c341da8b4d89ae3be4eb69f66e0be2956f881ce71891bbfcc18d07d39c473ccf"
+      "sha256": "a11a3e32348a5e7797eba49b85d9463598efd509207e2ae78ae2d92b7b5fb31f"
     },
     {
       "path": "about/index.html",
-      "bytes": 22047,
-      "sha256": "e02bcd2816c7f849cbebbc3c6b31d91eb5d0f61238dcbd7b13fa382ff8f6ecc9"
+      "bytes": 23058,
+      "sha256": "59c5f4ab86141659dd153c00ba1d12b971222f6a6f87ec21d8d81c919ae50b06"
     },
     {
       "path": "about-expanded.css",
@@ -48,78 +50,78 @@
     },
     {
       "path": "archive/big-bull-elk-cow-talk/index.html",
-      "bytes": 16442,
-      "sha256": "a3ec5ede9e569b64e400cc461d6f032f049b2ed9e18ff339ddf68bc61bd1f564"
+      "bytes": 17501,
+      "sha256": "295f04be662ad2fc3297c7afa12d4e5c561444f130c3fa78b3b4845b41d0f347"
     },
     {
       "path": "archive/cow-call-draws-elk/index.html",
-      "bytes": 24179,
-      "sha256": "2a2149d7572df863bd65b4a381b538c8828c4266e8076242bb580c45b815680c"
+      "bytes": 25232,
+      "sha256": "aa7fe972d3e35c22c96e43865ec77bd3118768332b555490e8343c8dc24121b6"
     },
     {
       "path": "archive/cow-talk-for-elk/index.html",
-      "bytes": 27050,
-      "sha256": "7b8aae24fd2ca36954cc89b5f8969e4c9c8e4aa935950c709d5aec677617baa3"
+      "bytes": 28099,
+      "sha256": "c2e5cb24ad4b3cdd7dbfd83ff69cb5ebd36519a6d607fe3edc96ca4eca472e5d"
     },
     {
       "path": "archive/cow-talk-radio/index.html",
-      "bytes": 17169,
-      "sha256": "9c8319ef62de104381a0c69c02a34166a7037b92ce2bc91d60ecafeb1e6a6800"
+      "bytes": 18214,
+      "sha256": "c9e630bdfc12cd46c3220e4bc97c4fcdd207fc9322135e8d6e9d08540dc3d09f"
     },
     {
       "path": "archive/elk-talk-review/index.html",
-      "bytes": 19802,
-      "sha256": "4b8a1f2a5f5faf42b3fdc6ef22114fefba283d523d174c3b9dc02e68e233f879"
+      "bytes": 20849,
+      "sha256": "17bb33519dc6229a7cc0676d9d078df2a66b837800a17c05fc2ea6efb5fa6422"
     },
     {
       "path": "archive/founder-record/index.html",
-      "bytes": 18985,
-      "sha256": "a71ab852969153bb9ee8c37aa3f10c4b0f8f9d66d0b9c1fe367537811be7ec96"
+      "bytes": 20030,
+      "sha256": "aa44e3cc3b871a6c4b2ae41e1f5c1411052da35fa7d77965086c6db75bee90f2"
     },
     {
       "path": "archive/index.html",
-      "bytes": 35361,
-      "sha256": "5fde33e4016377f5dcb1e36e60b0ddc8485a6d9ef224f8de0095b89aed297a1a"
+      "bytes": 36376,
+      "sha256": "89d63ab189b5f5f84ef2f2baa2cacaddce71d088c1be30e75791d9ac13886afa"
     },
     {
       "path": "archive/more-exposition/index.html",
-      "bytes": 18792,
-      "sha256": "93fd8cf09b7af1f5913299bc29409ef31b36bce4b6e938508e871809c1ffa4ab"
+      "bytes": 19839,
+      "sha256": "610f6c405089d72199c1184a68765973cf4b40e290fe214142700eecba7f9967"
     },
     {
       "path": "archive/more-show/index.html",
-      "bytes": 759,
-      "sha256": "68393627d5bb8b0888f4d449e5c3e90eaba7d8da32f6a5b79d538ededc4854a8"
+      "bytes": 1659,
+      "sha256": "65edbfae5087c26afa3d25944d77f3c4157aab2fe084327a80c9af748632a241"
     },
     {
       "path": "archive/newest-secret/index.html",
-      "bytes": 17372,
-      "sha256": "a0df03cd3bb2975cbec4d1a612be228b08d34c204ece8799f1b1ded0e02315a2"
+      "bytes": 18415,
+      "sha256": "ae81b43b9b7e73bc146fb6f278dc3486813b1451b12ff616386638bf2d9f0ceb"
     },
     {
       "path": "archive/prime-time/index.html",
-      "bytes": 17447,
-      "sha256": "d94eea2a7dfdc16451b38cb149f4584cfc48163c796fd0245723df2b680af715"
+      "bytes": 18484,
+      "sha256": "799eac6ae36967169e0771fbf5a9593c8541ed086300f81cbffb4150ccbb5c65"
     },
     {
       "path": "archive/retail-correspondence/index.html",
-      "bytes": 17607,
-      "sha256": "aed6931e521cedc28f868834eb265e263a476d5db4ebd9fa7a861940c8b17758"
+      "bytes": 18666,
+      "sha256": "13083f680354e1dfeed0b5c09509a8719f6c41ac9acc9e047712b587fb5f11bf"
     },
     {
       "path": "archive/sports-afield/index.html",
-      "bytes": 17722,
-      "sha256": "d87c4b1cfc04a88fde3a99b0f603233581db883f882ffa5e40cd028b7eb85cf3"
+      "bytes": 18765,
+      "sha256": "8eac454dc11d0a99767f2a719e0411a47273708a81b28a50953ffdc1ccfa19fc"
     },
     {
       "path": "archive/take-a-bull/index.html",
-      "bytes": 26678,
-      "sha256": "a0748e063ea27e63910f6bb4194ace0e6154c3868ed6f84a1e46c9bf561aa5f2"
+      "bytes": 27717,
+      "sha256": "d060110a4e693dbba064d4bea2916f67b6cb0d54fe1237bc66a2426394addede"
     },
     {
       "path": "archive/talk-to-the-elk/index.html",
-      "bytes": 763,
-      "sha256": "67e8b5f68f908c7933735cae2f468cbe763103a9e25682f472f2a14ccbe54ba4"
+      "bytes": 1680,
+      "sha256": "c6f64095ed521bcd5c78e192520bbaf052990d0cf5f297291edeb68c73d0a55f"
     },
     {
       "path": "archive-phone.css",
@@ -537,11 +539,6 @@
       "sha256": "1e17dbee848ba9c4e85f98b8b32b2bcb407ba60c6572fad30a97c5fe953829df"
     },
     {
-      "path": "assets/page-styles-2078a44bfa0d.css",
-      "bytes": 98345,
-      "sha256": "2078a44bfa0d5dadf8ab62b36a7c0778f6620f65e7e5894e4c67f9726c626aa2"
-    },
-    {
       "path": "assets/page-styles-3379fa1622f5.css",
       "bytes": 50391,
       "sha256": "3379fa1622f5220e001ba036c8b84cf802686ad8d266a540c6e23dc0cc0df20f"
@@ -662,9 +659,24 @@
       "sha256": "c90e13b5134a347bc25ab376870a92d39f0197487b427a6f3478c07d9d7219ba"
     },
     {
+      "path": "assets/page-styles-c9eacf9c4165.css",
+      "bytes": 99936,
+      "sha256": "c9eacf9c4165e711aa5de26c3dd208d43dc8a512a8e53d8f7d314116975c41c5"
+    },
+    {
+      "path": "assets/page-styles-d00435be50ac.css",
+      "bytes": 99602,
+      "sha256": "d00435be50ac7f8c1e9a1449b5cd0763bba1e7a38f7c678b16fc98ce6d41ffda"
+    },
+    {
       "path": "assets/page-styles-d547231674e0.css",
       "bytes": 80135,
       "sha256": "d547231674e0eed790ed19e29f1b82ef6bda6c8a41a45df6943975c70f4e27a6"
+    },
+    {
+      "path": "assets/page-styles-d8e80c72dfb2.css",
+      "bytes": 101280,
+      "sha256": "d8e80c72dfb24d5341f4142908158d8e72dbf82ded76d2cb6216feddd52c0824"
     },
     {
       "path": "assets/page-styles-e086ee351596.css",
@@ -680,11 +692,6 @@
       "path": "assets/page-styles-ed278eb77bc4.css",
       "bytes": 62336,
       "sha256": "ed278eb77bc4fb04e1ae47a493a026d618be5e175a0b26facbf55650a9d135b8"
-    },
-    {
-      "path": "assets/page-styles-f65c9da828e8.css",
-      "bytes": 97001,
-      "sha256": "f65c9da828e853465b9f6295540706b5d6a2012e95ac5a7ea6451a243609fead"
     },
     {
       "path": "assets/prime-time-480-f45e2e0e.webp",
@@ -853,78 +860,78 @@
     },
     {
       "path": "banding/index.html",
-      "bytes": 14470,
-      "sha256": "440df849f23886f7fe56b7c9e2211c350d0894c6b4b567e7e0c4d3923d82b704"
+      "bytes": 15485,
+      "sha256": "fe1220a6a2e557da9583dc52eb836f75e87a95da450ee85055fe38c02d310494"
     },
     {
       "path": "build-info.json",
-      "bytes": 201,
-      "sha256": "432ca430a47d93e93c8f4cfd8ec9723e0b5341fef2b100f7de2482005798e032"
+      "bytes": 192,
+      "sha256": "7cc798981291e2291cad8ad4064c212e6d10389711a4622d1839128d6562d4ee"
     },
     {
       "path": "calls/antelope-talk-call/index.html",
-      "bytes": 9193,
-      "sha256": "6ef76512ce2af5de2175b35da119498babbf2c8d1b035752b36cbf0d2ad03434"
+      "bytes": 10242,
+      "sha256": "c73bf2c81e232deffd7492d0159f80e6f45c2a8e0a1adb6bcc4e28f76dbd5019"
     },
     {
       "path": "calls/cow-talk-call/index.html",
-      "bytes": 9038,
-      "sha256": "ec9c5abb6f395cb3281265b0e29215bd133138423e4669ebabc1ee60fef45fbb"
+      "bytes": 10077,
+      "sha256": "31f76ff54f23e106c6c6f93c7af311df7bd5a21e9c332fc1bf3045b49627ec03"
     },
     {
       "path": "calls/deer-talk-call/index.html",
-      "bytes": 10145,
-      "sha256": "800da14bbe8b2b414c73412733514d4fa111000c02387fc52bc491fdad1a8cd6"
+      "bytes": 11186,
+      "sha256": "a649b93d3860fcebbf29478e1759b781238ec25f66e99a2cdb504cb9de5c7a2c"
     },
     {
       "path": "calls/deluxe-cow-talk-call/index.html",
-      "bytes": 8680,
-      "sha256": "eb7b1ada5fd53b87cb63c7ab2785ecc07a3d506106d93eb1ad325aab32fbc6f1"
+      "bytes": 9733,
+      "sha256": "369bce397bb2fee81ae47bda417b7764e26a4fec1672c84c1606aa57f00187c7"
     },
     {
       "path": "calls/power-bugle/index.html",
-      "bytes": 8987,
-      "sha256": "0930bc83dce95ac0b0b0c5124b5b0ae461cb14f4fb1963dee73d43626e1cc4bd"
+      "bytes": 10022,
+      "sha256": "123142cb7407428c9e313e44f525383d6b01c4b33fa2afa719c9fcfad41e949c"
     },
     {
       "path": "calls/power-howler/index.html",
-      "bytes": 8477,
-      "sha256": "07c3ffab62869299e135f284bffc7e63e840b26450d7a58beddf8134179c8b4a"
+      "bytes": 9514,
+      "sha256": "37759199bc9efc7d4adcc58fdc15fc319a5067b5e098f0a2a2e324ef8ab62f2a"
     },
     {
       "path": "calls/royal-bugle/index.html",
-      "bytes": 8431,
-      "sha256": "92a46093f5c15bb2b99bf47406f91aa1e0b9471f542c99a1be3d707a766b6f38"
+      "bytes": 9466,
+      "sha256": "65d485a075c4638b534c3ea17c57db06fb1988e5342a11aae1d6425db83736b5"
     },
     {
       "path": "calls/the-wolf-howler/index.html",
-      "bytes": 8559,
-      "sha256": "690398eb204c59618e33622667a50ea6e1cda4a2e8d2dcbae601e210a93d64e6"
+      "bytes": 9602,
+      "sha256": "1eda4c704e9ac81626d6adc74220a68ef024253c0afb736d306da439b9788a31"
     },
     {
       "path": "calls/yote-buster/index.html",
-      "bytes": 8438,
-      "sha256": "e36944bc35b6a1458d2ae214ed883cad902c63398fdb88f1afb7d906100a29c4"
+      "bytes": 9473,
+      "sha256": "78fc5a35740596fbdf07a95d923d05c81e1d308cf6b0cafbb7adb060a8b65047"
     },
     {
       "path": "calls/yote-howler/index.html",
-      "bytes": 8449,
-      "sha256": "5c4aa85755802507092b996311e2a1de44a90acf4d462826d6ebf6f5220a2a32"
+      "bytes": 9484,
+      "sha256": "d7240b88a709cd97b690eb85c3afb022484c6140469ff254b4d3618d5b0161e4"
     },
     {
       "path": "canada/education/index.html",
-      "bytes": 17059,
-      "sha256": "5052f25d1d2d1404edd0a2d61a2706a6c23b640cdf2eda2c4ecb79542ead6c0f"
+      "bytes": 18092,
+      "sha256": "de05f9d736ccf20a81a4e6682241b6625109e6466516be1a6e93dbf05cd6f7e9"
     },
     {
       "path": "canada/index.html",
-      "bytes": 22609,
-      "sha256": "052acdcdb5457dfea8a87d53b8b08b3e11e5a158badbd24ed1759d4d63b99376"
+      "bytes": 23553,
+      "sha256": "133880e4b4dd505caef67b7044da124638752507ffd86f3ac13c1dfaf494f46a"
     },
     {
       "path": "canada/presentation/index.html",
-      "bytes": 13704,
-      "sha256": "875a826b07d1d8f9734e87ba6f8610fed79601679cfc3c28fb33a4f6335800c0"
+      "bytes": 14741,
+      "sha256": "bd3c096c804e761fef7f0023201901bb27a7b4c1bf2cc470d83102c0717e0930"
     },
     {
       "path": "canada/reference/dealer-program-original.pptx",
@@ -947,6 +954,361 @@
       "sha256": "d78ceabe1abb44077605ff196f785e5bf8d3c1efde7b663b1b9d65c4e7f0d129"
     },
     {
+      "path": "catalog/categories/antelope/index.html",
+      "bytes": 47617,
+      "sha256": "f8e80db07895d06968d14c0030c9678e9148d38168592d652c78d0b7a07cd105"
+    },
+    {
+      "path": "catalog/categories/bands-reeds/index.html",
+      "bytes": 48041,
+      "sha256": "3a8f1f4be2e48b1e86c628c4460cb6c825c812283c72d80810e57c9dfe75a8cc"
+    },
+    {
+      "path": "catalog/categories/blinds/index.html",
+      "bytes": 47091,
+      "sha256": "6ab5f4c962350911db443ba56bf42db595939cd024411b5b4aec2f8f752d9723"
+    },
+    {
+      "path": "catalog/categories/books/index.html",
+      "bytes": 47644,
+      "sha256": "ee3b7eb78e3e69a55fae6623ca19e3895ad8ad06a7f8dd343fc757a1e5de925b"
+    },
+    {
+      "path": "catalog/categories/calls/index.html",
+      "bytes": 50399,
+      "sha256": "61a44a558598b84b9f37f00fdbba31300c1d87c91616a83509dbe1c4874a1903"
+    },
+    {
+      "path": "catalog/categories/dvds/index.html",
+      "bytes": 50007,
+      "sha256": "16035273acb323638d64eff4f71ff11ac73a1954711dce59a4b90aab93bb1823"
+    },
+    {
+      "path": "catalog/categories/elk/index.html",
+      "bytes": 49599,
+      "sha256": "02d44fb29318e44952e096cdb8f05ec86b6902f388eeb830c3c4891c8e241472"
+    },
+    {
+      "path": "catalog/categories/mule-deer/index.html",
+      "bytes": 48115,
+      "sha256": "144f8f0393294dd9c3e9f16f02cd1023bb2197f0a5f2cbaed0bf223971699e06"
+    },
+    {
+      "path": "catalog/categories/predator/index.html",
+      "bytes": 49260,
+      "sha256": "a6780060c1d300b1e4a3618ad78a3dd284c2e3047a4f291e7a9526ecf624cc94"
+    },
+    {
+      "path": "catalog/categories/whitetail/index.html",
+      "bytes": 48497,
+      "sha256": "fb934a65d6ba65c34c8de1af14498dd13f47dd2530eff836047f8c6405c7418f"
+    },
+    {
+      "path": "catalog/index.html",
+      "bytes": 53748,
+      "sha256": "e4007a8eb7a36ef268d5d31aabd43500af29a9c68f1cafd3038ed8ce75d00fe8"
+    },
+    {
+      "path": "catalog/products/751638439/index.html",
+      "bytes": 10951,
+      "sha256": "947ef68981ce5f601950034707a80752d22cc4b48dd99e407efb67d1a8d95a92"
+    },
+    {
+      "path": "catalog/products/751638440/index.html",
+      "bytes": 9804,
+      "sha256": "9327fa8809da5dc59cd9421af9530480faef2fa5df16caee701fea444f1a2c88"
+    },
+    {
+      "path": "catalog/products/751638443/index.html",
+      "bytes": 11419,
+      "sha256": "ec1267983549f78aeb97c6005767e3e87e3cb9089c300b3e37e11132d81ef34f"
+    },
+    {
+      "path": "catalog/products/751638444/index.html",
+      "bytes": 9669,
+      "sha256": "accb2e55a94349558822a8399e426aa70499b1305bacd802e88d261b9fb8a410"
+    },
+    {
+      "path": "catalog/products/751638445/index.html",
+      "bytes": 9340,
+      "sha256": "c5d3aebb886d978fc64a74d82e96e437eb1e79d0baf0bdb14660b947223dc861"
+    },
+    {
+      "path": "catalog/products/751638446/index.html",
+      "bytes": 9933,
+      "sha256": "a31198ac4cbd93730475b1098fb6ccda2a456faae67ffaea62188643bb24f506"
+    },
+    {
+      "path": "catalog/products/751638447/index.html",
+      "bytes": 9602,
+      "sha256": "1f35e24849ab1d4a240d194d8714685e59698249d4177d7eea1c34537c117261"
+    },
+    {
+      "path": "catalog/products/751638448/index.html",
+      "bytes": 10317,
+      "sha256": "d7b9347ff39dd6da8502eec08bfb78253461bb7836b8eeccb2294c97439d36c0"
+    },
+    {
+      "path": "catalog/products/751638449/index.html",
+      "bytes": 10725,
+      "sha256": "dac143ec1c2c3edb8ba1dc7a9d5011ff445600af79e764c21b08f7508d1b7985"
+    },
+    {
+      "path": "catalog/products/751638450/index.html",
+      "bytes": 10287,
+      "sha256": "b48772f19a46bc21a750e2bb29c6cb4a2a5299f50e321bf87dd428e3918e6560"
+    },
+    {
+      "path": "catalog/products/751638454/index.html",
+      "bytes": 10471,
+      "sha256": "88cfb8636df32d6fa88c888068c3fc0b1c1bea47dd6669af9ea594f64a8169da"
+    },
+    {
+      "path": "catalog/products/751638456/index.html",
+      "bytes": 10933,
+      "sha256": "6a87a63469636c168e3c7ce8316c9a0c99acbfcc6f42449d4b48404d5ff85252"
+    },
+    {
+      "path": "catalog/products/751638460/index.html",
+      "bytes": 9748,
+      "sha256": "07652cb61b4ce49849ff0cca7fb4f518bfdb2b1b70f792cbb2b7e15d3f6ac24e"
+    },
+    {
+      "path": "catalog/products/751638461/index.html",
+      "bytes": 11213,
+      "sha256": "a138c55a0d3d3e8e6cd2e3ed99885a0fabc232348d0dedd41cc207bd58e59c35"
+    },
+    {
+      "path": "catalog/products/751638462/index.html",
+      "bytes": 12053,
+      "sha256": "40d39f9deae6e68305ea8eff2a3ef63e2884b28cc97a57cea5a9a4314c23ece0"
+    },
+    {
+      "path": "catalog/products/751638466/index.html",
+      "bytes": 9713,
+      "sha256": "088d83365dcfded4feebb57a353b390af343a1c2d1b0502700d4595f93c2c5f8"
+    },
+    {
+      "path": "catalog/products/751638467/index.html",
+      "bytes": 11218,
+      "sha256": "a716e77b1108605ff7879ea623b755d03214d663e797f7d6ae97ba52139743d2"
+    },
+    {
+      "path": "catalog/products/751638468/index.html",
+      "bytes": 10360,
+      "sha256": "f05446d5e31b68696826cca7cf3b17d7192981c77e11b90674cd3ee1d262f309"
+    },
+    {
+      "path": "catalog/products/751638674/index.html",
+      "bytes": 9520,
+      "sha256": "d806ace06449b8e8da3d86381dee2fc92efa6406100a06f8a8656b2247d5fa77"
+    },
+    {
+      "path": "catalog/products/751638675/index.html",
+      "bytes": 9541,
+      "sha256": "1945d4d8139bc9e5ad694af4769d7148b953eaf4475ba73dc067b9ef4e60f073"
+    },
+    {
+      "path": "catalog/products/751638678/index.html",
+      "bytes": 10769,
+      "sha256": "7445cb4f8b119ab1c5b0b51b575a73458ead1414bf26261c14055d5e4950d419"
+    },
+    {
+      "path": "catalog/products/751638686/index.html",
+      "bytes": 10201,
+      "sha256": "469a1c564eee174d0951397291852c4fc4654769ad5f333c32fa8190e496196a"
+    },
+    {
+      "path": "catalog/products/751638687/index.html",
+      "bytes": 9711,
+      "sha256": "1aaee79a10faf561cb55a2685351788250d78fa47987674bd75fbd54c4706298"
+    },
+    {
+      "path": "catalog/products/751638688/index.html",
+      "bytes": 10148,
+      "sha256": "059618cd1e45cf775b5c27cdc64ddfbff3ee9f64379185257d16ae5cbb698086"
+    },
+    {
+      "path": "catalog/products/751638689/index.html",
+      "bytes": 10419,
+      "sha256": "24328c82cce449a5553eeebd0a57621f04e72936b1d1e7ab3306f1d24fc5e59a"
+    },
+    {
+      "path": "catalog/products/751638691/index.html",
+      "bytes": 9914,
+      "sha256": "e999b40df34b59bad4bcf7f013e4d11ccd3bb2b2fa3e7a1e10fde2960520ec36"
+    },
+    {
+      "path": "catalog/products/751638693/index.html",
+      "bytes": 9250,
+      "sha256": "6f0d65e318ab36b2c35014412553e4751f847063982ded43c8bb6a00b1da3af9"
+    },
+    {
+      "path": "catalog/products/751638696/index.html",
+      "bytes": 9536,
+      "sha256": "a419b78b985b19b538ad1869c14f07a126b67b0bd5f4141da3f52488c242f59a"
+    },
+    {
+      "path": "catalog/products/751638697/index.html",
+      "bytes": 9558,
+      "sha256": "2afd6685d9f745cd3959af886acbd786d212293d299d0012527919d2f882cfb3"
+    },
+    {
+      "path": "catalog/products/751638698/index.html",
+      "bytes": 15993,
+      "sha256": "cfa961e668815868331a320941a687b4ce507623fd013b4d80763e50270c00d6"
+    },
+    {
+      "path": "catalog/products/751638699/index.html",
+      "bytes": 9618,
+      "sha256": "b9468f0a98a5e873948fd9d61c0291e11573a5278d0332412ec69d1a6feec8d2"
+    },
+    {
+      "path": "catalog/products/751638700/index.html",
+      "bytes": 9775,
+      "sha256": "242724b7003b8a665d3453b316c000aa9f1b07cf3c324d00e7440771fe8b3226"
+    },
+    {
+      "path": "catalog/products/751638704/index.html",
+      "bytes": 9277,
+      "sha256": "81341f97690aaaf871db16c00d74274c65958cdd3f3ce215a64c4b2a19e6ddf8"
+    },
+    {
+      "path": "catalog/products/751638706/index.html",
+      "bytes": 10239,
+      "sha256": "ccdb79162547b22c0c76cb90704d88eff5740c77d8289ddc84a73570dfc483c4"
+    },
+    {
+      "path": "catalog/products/751638707/index.html",
+      "bytes": 9989,
+      "sha256": "97685434b1a9f17a26998b5735c556b1c90cb98994205a0c37778171042911fe"
+    },
+    {
+      "path": "catalog/products/751638709/index.html",
+      "bytes": 10494,
+      "sha256": "eb1df68960069c76d8acc5f8f9abbf8e5f1c82e963f5ec925d69cede3ef9f84d"
+    },
+    {
+      "path": "catalog/products/751638711/index.html",
+      "bytes": 9949,
+      "sha256": "e9c66481a1073630d2dd5f69368f96628ca4202105a442baf9fe4450c1144378"
+    },
+    {
+      "path": "catalog/products/751638712/index.html",
+      "bytes": 10991,
+      "sha256": "7371d12d37337970f82caee9c51077436260bf33698fad3171fdf115717378ec"
+    },
+    {
+      "path": "catalog/products/751639125/index.html",
+      "bytes": 9539,
+      "sha256": "625cc54e79fcb9bde224b5e4b4402f17a05ba4adb9e3d7e28811e35ad8ea0ca4"
+    },
+    {
+      "path": "catalog/products/751639126/index.html",
+      "bytes": 10275,
+      "sha256": "4f332bc5106d94a432d82175e098caef26dafbd8a84b45b87dfb8f151b386edb"
+    },
+    {
+      "path": "catalog/products/751639129/index.html",
+      "bytes": 9970,
+      "sha256": "f3aec90818db5b4bb811696e9d6ae3520c549f2208d54487db4e2e2226d42869"
+    },
+    {
+      "path": "catalog/products/751639131/index.html",
+      "bytes": 10159,
+      "sha256": "fa1ab77398fcb050838aa9a3de04dd2463e834450344a34d6900a2950fec7c7a"
+    },
+    {
+      "path": "catalog/products/751639132/index.html",
+      "bytes": 9971,
+      "sha256": "ae697458217bc8b26255c7779c43c606320ef828160d159b2bb822d408053bc3"
+    },
+    {
+      "path": "catalog/products/751639135/index.html",
+      "bytes": 11555,
+      "sha256": "449f073d45097c3f7ed43cee61a3b6be8ac023f0a2142692e8802b9f1ff779fd"
+    },
+    {
+      "path": "catalog/products/751639136/index.html",
+      "bytes": 10069,
+      "sha256": "7748343c4a18e16c4f3d56302270bd89d5a984c11e944c6209aba700ab6039c2"
+    },
+    {
+      "path": "catalog/products/751639137/index.html",
+      "bytes": 9438,
+      "sha256": "67d229d4b451e64cf758d222ebdcec751c22fa4bac6b96b7e4ae7df3a7503ce5"
+    },
+    {
+      "path": "catalog/products/751639142/index.html",
+      "bytes": 11984,
+      "sha256": "27b960cf398a84e3c11e6b78749a675f72d39b50f2272e22bce44da450af01f1"
+    },
+    {
+      "path": "catalog/products/751639143/index.html",
+      "bytes": 9307,
+      "sha256": "b8d1703d53480cdcd3934e69e805ef865ff1313983fe33fedf08fb6fb20f33d5"
+    },
+    {
+      "path": "catalog/products/751639144/index.html",
+      "bytes": 9669,
+      "sha256": "13019a13ac5723995cfeda69e018d4bc28d51e77dd3809d4fcd434d250d96e6b"
+    },
+    {
+      "path": "catalog/products/751639145/index.html",
+      "bytes": 9574,
+      "sha256": "55e8c46e50aa1f90a0e7e3252176454ab11d980110defba7d075f04d7de31a3e"
+    },
+    {
+      "path": "catalog/products/751639147/index.html",
+      "bytes": 10862,
+      "sha256": "286c3f26d93c246ef25724351738bf7db096ef980342cfee9ba2b8683e40c65c"
+    },
+    {
+      "path": "catalog/products/751639150/index.html",
+      "bytes": 9246,
+      "sha256": "0f25ccc06ad613ffa797cb9ea536ae8d424a725e87c9afa7c4a72ebeec6f1d16"
+    },
+    {
+      "path": "catalog/products/751639154/index.html",
+      "bytes": 10045,
+      "sha256": "c7ce8e31cef97d6895fa83a006cfc4ecba37588d73bce482e2dda70a97c81f39"
+    },
+    {
+      "path": "catalog/products/751639158/index.html",
+      "bytes": 10737,
+      "sha256": "30b8f126ecde9fae5f1de6cadd3dc060dfed18cfb0ec822e8597146f0a2abd17"
+    },
+    {
+      "path": "catalog/products/751639161/index.html",
+      "bytes": 9261,
+      "sha256": "3cd1b0ddb7e706b1064d575fd05d08b417e7255d953c1a13c6691cf0d8fd328e"
+    },
+    {
+      "path": "catalog/products/751639162/index.html",
+      "bytes": 10337,
+      "sha256": "0eb8e39233323544417349db30d8df8baaf90945ce320f6bf85b904fc4367263"
+    },
+    {
+      "path": "catalog/products/751639164/index.html",
+      "bytes": 10647,
+      "sha256": "6ae5abf494ad752a9f750c683bd9d34c8689aa971a88f6d5d464de5703057c72"
+    },
+    {
+      "path": "catalog/products.json",
+      "bytes": 103872,
+      "sha256": "f73e657c02b0c601ff6fe31d88a94dd4d93e322a3ecd037f652a49534864230c"
+    },
+    {
+      "path": "catalog.css",
+      "bytes": 2915,
+      "sha256": "f1bc3917526b002f1e2fcfe7c97dcafcdb3feb91f487f4a031829eaa6dadec7d"
+    },
+    {
+      "path": "catalog.js",
+      "bytes": 1678,
+      "sha256": "cb04cce36b99e511944531bcd8b68c57e62bab610e03511a001e2f7267b529e3"
+    },
+    {
       "path": "cinematic.css",
       "bytes": 4578,
       "sha256": "ff2094f75ed51302dc90ebbff450886a758abbcdfe24908b5145e9d63e4f27d7"
@@ -958,653 +1320,708 @@
     },
     {
       "path": "contact/index.html",
-      "bytes": 10371,
-      "sha256": "6e9c5034e1ec7dc8eac4fa5bb1e79b8c33570b7db719915141c10bb935b5fea8"
+      "bytes": 11386,
+      "sha256": "820a2c5fd546f9825d975f73efcc2605fed3cd439c4b432c888b385c8b331eb3"
     },
     {
       "path": "countries/argentina/index.html",
-      "bytes": 11612,
-      "sha256": "da8a89653b20caa1da5c5c6ab1a9c3a8a6056175bfd60f56610f1805ce1e3b71"
+      "bytes": 12651,
+      "sha256": "e05b0d76b5651a72bdcf62dcf42809790520607e4c553aa163f9adda30a1c0b8"
     },
     {
       "path": "countries/canada/index.html",
-      "bytes": 11663,
-      "sha256": "16cc29582d4e835bf3929173ac03aa7195e4317782cc265ca17f6a010781b133"
+      "bytes": 12696,
+      "sha256": "2ee5a80ea469984395ce80343107afb9765a0094e072669701601b37072a911f"
     },
     {
       "path": "countries/central-asia/index.html",
-      "bytes": 11752,
-      "sha256": "06a9b8abffbc5014bf87b499ddcea467ebb5a195790deecdce4abb186a55de3a"
+      "bytes": 12797,
+      "sha256": "ed9ac08c3fc2737ec4f0cb49fafdd89963fe4c280c673015edeaa0d01e295657"
     },
     {
       "path": "countries/germany/index.html",
-      "bytes": 11623,
-      "sha256": "67ab1f4f3cd70bdf151ca707b4d5e01ee1cd3858b1b0ff8eee7f3f6a8fc67050"
+      "bytes": 12658,
+      "sha256": "14eaba22cfe7eaea5731bf6786aa0ed923896aeb27b3549e631fedf95b56a2a9"
     },
     {
       "path": "countries/spain/index.html",
-      "bytes": 11542,
-      "sha256": "9e9670ded9260a2f264c5131a7421ce209a5584ebc60f54db44c6a749b9c2b44"
+      "bytes": 12573,
+      "sha256": "4652b141f5a2b2d5414cdd433179b08bcc90683001592571df1281b41c74e938"
     },
     {
       "path": "countries/united-states/index.html",
-      "bytes": 11791,
-      "sha256": "d35a74c824fb536dbc96364c019970357d812181bcde97091f93223d69a543d3"
+      "bytes": 12838,
+      "sha256": "8a8c7221ade5e782f61e035f7c3717b3d5fff61a0fba6fab7e37ce54db5c4dd0"
     },
     {
       "path": "de/about/index.html",
-      "bytes": 27662,
-      "sha256": "1a7139681465b231463e937aa537c19ff3aed8130f0dd8b106e28b8dc0e66536"
+      "bytes": 28686,
+      "sha256": "753d20cc95bb48fe8acb803957c7a37c227e6868d7042a13e1600c240e043e92"
     },
     {
       "path": "de/archive/big-bull-elk-cow-talk/index.html",
-      "bytes": 19371,
-      "sha256": "14bf0bf940e9d338f6f2b34fe0747969fe12457e24b6f6d3157d0339b12aac54"
+      "bytes": 20443,
+      "sha256": "21c58435e54b3ce4a72fe363a3145dbc858231373b3bc49d378cae40e98da73f"
     },
     {
       "path": "de/archive/cow-call-draws-elk/index.html",
-      "bytes": 27778,
-      "sha256": "c2e27cfd5fa0bb179a8dc755bd4186db1dbc80ba057f2b7a5dbb380b02b1926e"
+      "bytes": 28844,
+      "sha256": "e7c9e26a5d8565726c5ec22d4bef9d5d5ecbe2a630fef6cacbe04dcb377bcfdf"
     },
     {
       "path": "de/archive/cow-talk-for-elk/index.html",
-      "bytes": 31402,
-      "sha256": "0c8e8fc95ad654f53f64e83646297c34b852b52cbe7afdd7971d0b6727ef99f6"
+      "bytes": 32464,
+      "sha256": "63fb469b68d1e1e5b569bc9b80de23ac8e6481f7d9740bc049c1f2527836d5b6"
     },
     {
       "path": "de/archive/cow-talk-radio/index.html",
-      "bytes": 19899,
-      "sha256": "f01750bf8b4aade93984b33d70098eb8055beeff20fbbf157b3049b70e9ea2aa"
+      "bytes": 20957,
+      "sha256": "e858eda7005174385ebfc0bb43a2c1f1b0c757a023e2c23f0b2286ff0037c982"
     },
     {
       "path": "de/archive/elk-talk-review/index.html",
-      "bytes": 23306,
-      "sha256": "aae86c5a18fe3bc517ff98ffea155164c551c1945881e8e91ad2914497fbed1e"
+      "bytes": 24366,
+      "sha256": "d7620c2a2726e865f5375823a6c56540338e8616a438f95aa1ce82fc4c185fd5"
     },
     {
       "path": "de/archive/founder-record/index.html",
-      "bytes": 22144,
-      "sha256": "1a9a3191229662eebed4c3c64f9f0fa5d414f9f981382075b2ae3ca7c18b67ee"
+      "bytes": 23202,
+      "sha256": "64fb955a6dc1d8824798dfd3026ba2ebd7d0ec549e61dc9b8473dc0b310f9659"
     },
     {
       "path": "de/archive/index.html",
-      "bytes": 39556,
-      "sha256": "7d16041eec7b55bf34072ae6ab0dc6d856ab13485e8b66251c117b8b31aa0307"
+      "bytes": 40584,
+      "sha256": "3ef98179d1a2b22ad5eefcbbbc972cfdffbc9d917be55f8e2d82c40036385d6b"
     },
     {
       "path": "de/archive/more-exposition/index.html",
-      "bytes": 21615,
-      "sha256": "2b649afc293b4e70b1b24e7d2c1d53446ccd0890fd516e60d497fdba251937e2"
+      "bytes": 22675,
+      "sha256": "7de0c96a1a1fc05865d0a9c033dd4db36492e979c7029bb29dccda231e435c29"
     },
     {
       "path": "de/archive/more-show/index.html",
-      "bytes": 771,
-      "sha256": "ff752f28ef82e5ced7416110ed3d1c132aad8b5733eaa17e6b0521a944aa133a"
+      "bytes": 1677,
+      "sha256": "ce29267a1846ca1c5e3caf8b02a9dd2ee10f6796686003f1f6cb2810adf19c93"
     },
     {
       "path": "de/archive/newest-secret/index.html",
-      "bytes": 20254,
-      "sha256": "cdef09fc0dec7f4baccf9ef587997894200209bbb38cb8f948567fde6e884c7c"
+      "bytes": 21310,
+      "sha256": "768f4e3ea36af02324c142dfe30640abe1a0fd68e959c00066b59b9fb71d3dc3"
     },
     {
       "path": "de/archive/prime-time/index.html",
-      "bytes": 20349,
-      "sha256": "f1514faff3bf29969617d27ee218e5e98707505ab863ec7e4c717288d785d41e"
+      "bytes": 21399,
+      "sha256": "9c1dcc3a6d4ca3852f3a6d06fb8980ecf61273139cc9b32f07bb4e8b1f0a3eb0"
     },
     {
       "path": "de/archive/retail-correspondence/index.html",
-      "bytes": 20484,
-      "sha256": "8400ad6888ead29433f406915437a75a7931ea16585a001669725ce68b0b5c2c"
+      "bytes": 21556,
+      "sha256": "2689aea99ea457051b5bd15bfddc15d6b8cf22fa4b3cc799c5b2f5794ed7f414"
     },
     {
       "path": "de/archive/sports-afield/index.html",
-      "bytes": 20752,
-      "sha256": "6621e56d8636e02ed608d644229b47cce5be470e8a4b7e2806d2af758459bd62"
+      "bytes": 21808,
+      "sha256": "9f973d8b9a35c2a74192fcc8681506fc92819e6f2b33e0988d39cae2a417ecf1"
     },
     {
       "path": "de/archive/take-a-bull/index.html",
-      "bytes": 31169,
-      "sha256": "1bcdc1c4de0d5d37364ca4d8b8eff81b874d2311914bc58c3db6ff62b157ef6a"
+      "bytes": 32221,
+      "sha256": "f1642b49192f7d65c47f27c13502bfc7afe09cdbeb315b17d9539ddd6c66eff3"
     },
     {
       "path": "de/archive/talk-to-the-elk/index.html",
-      "bytes": 775,
-      "sha256": "48c44cadde2a97a9b0942548ee61ebc074f77bdb05076be70763d65368f93be0"
+      "bytes": 1698,
+      "sha256": "17e0465c90a2b1f6ffe450274a19b39e48f82d30c16314fe61b90a0e517af911"
     },
     {
       "path": "de/banding/index.html",
-      "bytes": 15177,
-      "sha256": "1dd122de353bfebbda4c1a10905a39aa2e556a6497dc50a024019b32d95a2e2e"
+      "bytes": 16205,
+      "sha256": "6471aaa9da0e7c4604f4ec7ef0a732fb9a039e6eb353954be65af5e371d5c4ac"
     },
     {
       "path": "de/calls/antelope-talk-call/index.html",
-      "bytes": 9771,
-      "sha256": "ab79ba8f29240d7a6bc4b6acd4e7a13dafde11857d95ca05d93b638ca67808df"
+      "bytes": 10833,
+      "sha256": "25e9738226bfe9b04d21cc74f46faa43dc9793934e758556c82db5ca6a800c17"
     },
     {
       "path": "de/calls/cow-talk-call/index.html",
-      "bytes": 9625,
-      "sha256": "cc746d3099e7103ccb0a0d9c6ea0cc690ffb62f323aba6630db054fe992b6fe0"
+      "bytes": 10677,
+      "sha256": "756f345cee459b07f2f6122c81e91d84337835630a541733ec3ff0af9763cb53"
     },
     {
       "path": "de/calls/deer-talk-call/index.html",
-      "bytes": 10794,
-      "sha256": "4b82e2d0c21b1484e379b6b8d6b24c0be17c0ae11a15487ce368916e8c7695e5"
+      "bytes": 11848,
+      "sha256": "83e52cbaefe8db22a944eec472d10dbf059a87ed417013830fe6d45ed478801c"
     },
     {
       "path": "de/calls/deluxe-cow-talk-call/index.html",
-      "bytes": 9222,
-      "sha256": "6393f4defb94ef7dfda75feec4245aab4038b2a7d244a130d557b5dcb9f36bac"
+      "bytes": 10288,
+      "sha256": "dac51234f24109b764d53511a60cf1ae15da8f875d637ab23a49db31fcff7c99"
     },
     {
       "path": "de/calls/power-bugle/index.html",
-      "bytes": 9572,
-      "sha256": "1c78eaddcf064658ca3808ca1f67aa23873eaff2041098b83d326e8b813d02e5"
+      "bytes": 10620,
+      "sha256": "583c9dbf6b8ba9d6b8f6f90764de58921e5491e1be8c4ebee24070b20b6479eb"
     },
     {
       "path": "de/calls/power-howler/index.html",
-      "bytes": 9002,
-      "sha256": "4186b4eefdbe5601583d683d10696321a0f4aa8ed43250647cb5c82b7aa04e08"
+      "bytes": 10052,
+      "sha256": "380048dd6f64fd70be3623183bd652880cfd1c496c1c8690c3b4f123af73f9eb"
     },
     {
       "path": "de/calls/royal-bugle/index.html",
-      "bytes": 8964,
-      "sha256": "aef92256701d8f74637fc274794cf9507c93c9545a297d74d04f6d9e32f0b06a"
+      "bytes": 10012,
+      "sha256": "28a95ae85a3f7035421b94e43394f4bfeeedcbc50b60b735e6873c9396981ef4"
     },
     {
       "path": "de/calls/the-wolf-howler/index.html",
-      "bytes": 9096,
-      "sha256": "a339ac5e9717ad87b50ceed0500fe8f9eee4a6c4d3dc28747b401da868ebb8d0"
+      "bytes": 10152,
+      "sha256": "4f8fba0dff6fa4726b0c84e2717384a67340c1ccb2516e1c9799ed26e31735c6"
     },
     {
       "path": "de/calls/yote-buster/index.html",
-      "bytes": 8998,
-      "sha256": "528a9249af92463f90336bf59c05a26eb8525180399179f8edc653c3ae2a5962"
+      "bytes": 10046,
+      "sha256": "c816a9d4f2e8645432c52dcabc9d0179650ea6c28971225de0185bb98c213857"
     },
     {
       "path": "de/calls/yote-howler/index.html",
-      "bytes": 8973,
-      "sha256": "da589eceea989f0233b8d98ce3714d98671b9f0491aa9b245766b41da25b9771"
+      "bytes": 10021,
+      "sha256": "14bec9622ea7111ed07cc0e0e3229a5419bc944eac1b36b193cd167243493be8"
     },
     {
       "path": "de/canada/education/index.html",
-      "bytes": 17880,
-      "sha256": "00d1c17aff76ac6bf2da3362713f08cf17815337edee1979f2c4e2265193dcbf"
+      "bytes": 18926,
+      "sha256": "e461d050cd730089bcce4cfdf603205be508f7bcd088ac660fdc218b1a20a3af"
     },
     {
       "path": "de/canada/index.html",
-      "bytes": 24606,
-      "sha256": "190b8e92b835324fe48bb857f63f3a0735d3a5547cbc04a4dd0ad9fa3fcba8ae"
+      "bytes": 25495,
+      "sha256": "9829b17f5b9b61107ddd61d35afca940192bf8c4099b2065268ba29dc2a9e2b1"
     },
     {
       "path": "de/canada/presentation/index.html",
-      "bytes": 14796,
-      "sha256": "8f6aa91793cb72e54911025e0016df53f3168b2c3a7c70db9093bef3d1deeb5a"
+      "bytes": 15831,
+      "sha256": "020ed207eadb1503c7f624ae8067bcc9b3d2ca2cd23d8916b4b4aa365d7aeb00"
+    },
+    {
+      "path": "de/catalog/categories/antelope/index.html",
+      "bytes": 48141,
+      "sha256": "72713be71947ba04ab750fbaea4439a8ac4cf36ea961e0cc7a829d6d8da28403"
+    },
+    {
+      "path": "de/catalog/categories/bands-reeds/index.html",
+      "bytes": 48577,
+      "sha256": "6b9bfdb89b23fb63816706b7d90cc914ea7ea00887d6bc19d69bab75e5f43cc4"
+    },
+    {
+      "path": "de/catalog/categories/blinds/index.html",
+      "bytes": 47619,
+      "sha256": "99cdf15c3f659d7d946eaf6abf665ece0977357527329e1b67507972372c4ca4"
+    },
+    {
+      "path": "de/catalog/categories/books/index.html",
+      "bytes": 48176,
+      "sha256": "b4f1910c0223c0468b6af8bb8fac8e0f6aadac17b3a3c96b1a3518414057cb6a"
+    },
+    {
+      "path": "de/catalog/categories/calls/index.html",
+      "bytes": 50943,
+      "sha256": "dba131c4a7f9107407daccfe5570b0dfb00de1539e76af7959fbf17248807086"
+    },
+    {
+      "path": "de/catalog/categories/dvds/index.html",
+      "bytes": 50531,
+      "sha256": "ec349942aef7871891377964f07dbb769adb16346c171b6d01be065540d28769"
+    },
+    {
+      "path": "de/catalog/categories/elk/index.html",
+      "bytes": 50135,
+      "sha256": "b24d70f0587e5c58ffc7d90a7af5cd1db950b59671a4422c1e071171793af954"
+    },
+    {
+      "path": "de/catalog/categories/mule-deer/index.html",
+      "bytes": 48659,
+      "sha256": "ecaa6dbf19f3af7ef78d7d7e07d12fbe41e8220808f3f23addd4666da3063b69"
+    },
+    {
+      "path": "de/catalog/categories/predator/index.html",
+      "bytes": 49784,
+      "sha256": "48cddab72aa1c1e47ce2ff1681f45fc2edc3bc6f460d7114832c11758eb636d5"
+    },
+    {
+      "path": "de/catalog/categories/whitetail/index.html",
+      "bytes": 49049,
+      "sha256": "472997adcc5e9f8553cde6c9f08fb42763a64d9e945d2e80b59d3006aa6bcfb2"
+    },
+    {
+      "path": "de/catalog/index.html",
+      "bytes": 54312,
+      "sha256": "8c14c07d829d8ffecc53ca0630d135ffb4c980ebd0b7683188db02c4a9411f6b"
     },
     {
       "path": "de/contact/index.html",
-      "bytes": 11204,
-      "sha256": "ec454d3dcca61bfacd04ebc3bdfce579ff2961429962c05ae70cb9af379a65ca"
+      "bytes": 12232,
+      "sha256": "3c05425db79726c1b5c91ec8cf9688f7f4cfac53c7e8acb4666d3ee028b8e30a"
     },
     {
       "path": "de/countries/argentina/index.html",
-      "bytes": 12500,
-      "sha256": "a3d81a181927c8e38fd0bf18e4376d55998f8a4de8210b4f79519b21d0b803c0"
+      "bytes": 13552,
+      "sha256": "52d512e61058ee822309339edc79ef4ce3e120df91f2618ae467f8723cb128bf"
     },
     {
       "path": "de/countries/canada/index.html",
-      "bytes": 12525,
-      "sha256": "aec030a50f8fa3bd4286fe20e48c54b268e9557d81a8fa97de1666aaaf7b2bb8"
+      "bytes": 13571,
+      "sha256": "f54168fd08cb0a4fd739926cc1afc8da09d15642e6baa92205f2500e0e96d630"
     },
     {
       "path": "de/countries/central-asia/index.html",
-      "bytes": 12474,
-      "sha256": "f7ecd7a1b2765e714d7e69f0e50460eaa0f7aa6436973640fcc868aaea09c6ac"
+      "bytes": 13532,
+      "sha256": "6689322e5af0a55505ebf49b3300fa723d95f8820b08b9bc6b6d5de29dbc2965"
     },
     {
       "path": "de/countries/germany/index.html",
-      "bytes": 12615,
-      "sha256": "17b1660827b2c26894e299243a3680dd1737c52cb88d81fbc270ade2ae4fbb64"
+      "bytes": 13663,
+      "sha256": "e6f41ee7a11c9e19a8806b641567ba18f4205e966cfc991399d90a88557d63fa"
     },
     {
       "path": "de/countries/spain/index.html",
-      "bytes": 12469,
-      "sha256": "d8c36bf0b143b5fdbf806210f947573a3c04a069cf51b102235e8b9d7786f1c5"
+      "bytes": 13513,
+      "sha256": "79edf5995eee74c71f74f0fc3557d8cb84df167f7346d1c4e82ec4785510e852"
     },
     {
       "path": "de/countries/united-states/index.html",
-      "bytes": 12635,
-      "sha256": "1b942539b77379939f92a14bbac6f5f52d2f14c2941b74e1b2dba94159ea92ef"
+      "bytes": 13695,
+      "sha256": "dfccf2daa9d2b75b5cadca14f0ec735e50829bc6a8417cec85f07895681eeb3b"
     },
     {
       "path": "de/dealer-application/index.html",
-      "bytes": 89780,
-      "sha256": "b89356832a7dc5d073c378843648c6ca7f01bc8216aa0330023ff6f50f9c6282"
+      "bytes": 90830,
+      "sha256": "2cbd2996e87660979a07b7d2581b36c70a9adb7a90d3006b5883c2587033f89d"
     },
     {
       "path": "de/dealer-application/received/index.html",
-      "bytes": 6959,
-      "sha256": "6cf1dae496d3ef3f698005ec2091029dd84023c53ecbfe6de629b57cd41159dc"
+      "bytes": 8027,
+      "sha256": "693e1f4e894e26d4792e1aa20c94908f8a56ee7bafd145fc780a1dcdcc4a75bd"
     },
     {
       "path": "de/dealer-guides/customer-support/index.html",
-      "bytes": 13422,
-      "sha256": "39ca101cb213e80f58ef26f3b1cbe48d0dda0bfcb261fe8f5078ab8ab0f229cf"
+      "bytes": 14496,
+      "sha256": "8c519f6237ae389a3be042d94960aade768822f43116ed53a3f66b42299bf74a"
     },
     {
       "path": "de/dealer-guides/distributor-network/index.html",
-      "bytes": 13567,
-      "sha256": "7bcb68751a213a38479534701376829284d38f8d4302a0ca2ebe35979e1884f2"
+      "bytes": 14647,
+      "sha256": "9232fff3434758447ef2b0e32ee389b9c6b4d46f197f4d5063c65d6ec0b46c6b"
     },
     {
       "path": "de/dealers/us/index.html",
-      "bytes": 29977,
-      "sha256": "a289054287a3834d48918d5a6557103c493003c0e704bc2152b34e4dcf7ede5a"
+      "bytes": 31011,
+      "sha256": "82dbadc1bd8603e36380c453e8e79c57246957356608f99a6014af86415ed8e2"
     },
     {
       "path": "de/disclosures/index.html",
-      "bytes": 28899,
-      "sha256": "9d3e7306c0881838bb903275e9b82ddc0854c68ca9fbf002d81219eda2b88344"
+      "bytes": 29935,
+      "sha256": "f123d77053c2757c57445737ebec917ffbaa875cd58aafb07fcfbcdf21487119"
     },
     {
       "path": "de/disclosures/payment-policy/index.html",
-      "bytes": 30235,
-      "sha256": "68a2316465e236a3f154d0c33e9b1da8bb8d2c3902f66e9fbbc48ade859f6a36"
+      "bytes": 31301,
+      "sha256": "2c730543b49222c26a8efa48e570d531585e9fed2917ec3c09f211472062fc55"
     },
     {
       "path": "de/disclosures/shipping-returns/index.html",
-      "bytes": 10852,
-      "sha256": "35daffbae6f0e730a766dffdedf42e108fa476640a2817dae7b2c738c597da55"
+      "bytes": 11922,
+      "sha256": "9856da640d5598e006506d9c33911c95557c9b3b30d82d9659e1d656faa341fc"
     },
     {
       "path": "de/education/deer-calling/index.html",
-      "bytes": 15944,
-      "sha256": "b9722eb434f89e26cbbc3ab7ed9cd05446554e4f38272ce83a3bc8af36237301"
+      "bytes": 17002,
+      "sha256": "20ecaa4842d84737560bf63cba4903d320080cdb643c9decdbf6c4486dc48a2c"
     },
     {
       "path": "de/education/index.html",
-      "bytes": 41887,
-      "sha256": "9cf96dc3954519163fd8912a65aaed4244356a31a592a8a28916db8e0ffd4ca2"
+      "bytes": 42919,
+      "sha256": "a9e90db4523ab275ae713a235de06b7e32c1d10cf32a94508a0e6a88fc276e9d"
     },
     {
       "path": "de/education/lessons/antelope-talk-call-band-replacement/index.html",
-      "bytes": 10175,
-      "sha256": "3cd1c1f5f2586c010208f89d1cdc1c77d87c7a73ba60b56b587487090e5eb738"
+      "bytes": 11295,
+      "sha256": "386e926360edb519e64e6546fe9d8e05d859a202be73d08d6b1a249fc4e1f440"
     },
     {
       "path": "de/education/lessons/cow-talk-call-band-replacement/index.html",
-      "bytes": 13331,
-      "sha256": "c409e7e6b1da59cc9b1638f6e73fe3d7d55f765b5e76072d22a57c8f2e0f644f"
+      "bytes": 14441,
+      "sha256": "fb0c93864fcd780d12d531df827ab8ed36427c71f9f3eb2245a6b45dc566206b"
     },
     {
       "path": "de/education/lessons/deer-talk-call-band-replacement/index.html",
-      "bytes": 10980,
-      "sha256": "994ca70f56ce3e89d432c7faf0480a009601cee3d05058a7eb462fa4f85fcb02"
+      "bytes": 12092,
+      "sha256": "ee0dd0cb1ca79de9bdf34c7fe390a4e0dfe940688d99192ed7a2911429654609"
     },
     {
       "path": "de/education/lessons/deer-talk-demonstration/index.html",
-      "bytes": 11412,
-      "sha256": "334773ec64ddff7320405e3ec42646a380f53d430d5ee0e5a9f6ba29e7afcb4e"
+      "bytes": 12508,
+      "sha256": "44efeba50af882680611c7051cd631ac07951e0ad9008bec08c30bf9b1a908e9"
     },
     {
       "path": "de/education/lessons/deluxe-cow-talk-call-band-replacement/index.html",
-      "bytes": 12001,
-      "sha256": "2bfdffe9aa43b2ac6f90cd6711b9e398e16f949b1f444f9a760af8b0415177cb"
+      "bytes": 13125,
+      "sha256": "c3d829889217a5a5bc304dabd9461d32efc8e35dfd9e8fe229d5985019ef58ce"
     },
     {
       "path": "de/education/lessons/power-bugle-band-replacement/index.html",
-      "bytes": 12498,
-      "sha256": "d222da82d6aad8f0374fc6bf5af400d0d2a5a8750e2eaa65628ae5e0cc1c66ab"
+      "bytes": 13604,
+      "sha256": "de1c1f48973c7e3648c059d8d9e97d3105393d785e999b1232ff46f0da408743"
     },
     {
       "path": "de/education/lessons/power-howler-band-replacement/index.html",
-      "bytes": 11917,
-      "sha256": "3ec1e86ea2fb25ad4ca6696123620e3352648161e7ea7cfbbe1a7c4c69d20d2a"
+      "bytes": 13025,
+      "sha256": "05b63cb8c24f022126739ff273feb2bbdabc0e329727fd13d972d39bb33fed89"
     },
     {
       "path": "de/education/lessons/royal-bugle-band-replacement/index.html",
-      "bytes": 11884,
-      "sha256": "f96155fef6af603bb2fc0a2054b3b7e18584aa9f0e95253e41348951642051f3"
+      "bytes": 12990,
+      "sha256": "8900d2ffb5c1da166dd3f7281c2755d79c49321a0ecb76ae3145f34d22567ded"
     },
     {
       "path": "de/education/lessons/the-wolf-howler-band-replacement/index.html",
-      "bytes": 11966,
-      "sha256": "66ed44616a29d984eb7190944dcb2860c0738f2759aa210bc3846d3e0bd34726"
+      "bytes": 13080,
+      "sha256": "7c979b787040095efb95a39ecebe8ae78c1c328f25588d4986312cc957f1d94d"
     },
     {
       "path": "de/education/lessons/yote-buster-reed-replacement/index.html",
-      "bytes": 11951,
-      "sha256": "6e206c29427dafadd0096a61e6287c625fd17c252bba3c45eaf55e7a6a3d13cc"
+      "bytes": 13057,
+      "sha256": "c5ab5765126bbe57687696ef22de602b098614f844790e42c00b407e7565e320"
     },
     {
       "path": "de/education/lessons/yote-howler-band-replacement/index.html",
-      "bytes": 11904,
-      "sha256": "ca0732922bdf4b61ce616e79a1a51cc18537701e6002d270c738fbd70fbaaa35"
+      "bytes": 13010,
+      "sha256": "11f23e8680aa53250655c6bd8150943a394b5bc1818bc6b58a937d74630fc272"
     },
     {
       "path": "de/field-guide/index.html",
-      "bytes": 8189,
-      "sha256": "06e9d89c8fc9cd17c8d21af2ab062c479bb1e704e0ee40218be40a1b0bb8ab00"
+      "bytes": 9225,
+      "sha256": "a41be39249bf5497b07c5ff0cc1efd5123c62c382dfe5fb14e8ed4ab0f6a2a1f"
     },
     {
       "path": "de/guidefitter/index.html",
-      "bytes": 11795,
-      "sha256": "09fa8eebced06d0fd434e100c400a236ea136f8f116e19df9411c4e54321fb4e"
+      "bytes": 12831,
+      "sha256": "9c13cfb9714c083d6d9266f364ee2a4a1fa7129ea97eacf636410fd19328af91"
     },
     {
       "path": "de/index.html",
-      "bytes": 56229,
-      "sha256": "fbd0bf31351e5fc18e60f10d468c59b052633b358ec149ad7774f165955786ba"
+      "bytes": 57241,
+      "sha256": "8dcfb063e497b3f04e5a2101495cae591a445be37f76ef70ce2e6b7ef437dcb9"
     },
     {
       "path": "de/international/index.html",
-      "bytes": 21549,
-      "sha256": "e80649ba61e7a023a9b34add37800e5991ac6c1f37313260e3435e8d6e702915"
+      "bytes": 22589,
+      "sha256": "236568868836dfeddecdf97507c3644c8fedbb5edb91119f85a5705f7f8a536e"
     },
     {
       "path": "de/legacy/index.html",
-      "bytes": 48488,
-      "sha256": "38aa30a2474b225ba00baa67a2359b31de94c33c75d276fc7a05846431f50de1"
+      "bytes": 49514,
+      "sha256": "d74933c74cacedce81e8680978456cad9991df2cde780832cd78354c4ef249d4"
     },
     {
       "path": "de/people/don-laubach/index.html",
-      "bytes": 9558,
-      "sha256": "deeb2a2cd8a215ca9dbcef1f9e7c69e7f023c8472fadba97d4aa7f6b9d3585ea"
+      "bytes": 10608,
+      "sha256": "1dcd9e82bc785052f4fc9bf53b611640f20fc4b5563ab4002681126e1eb402ae"
     },
     {
       "path": "de/people/gordon-eastman/index.html",
-      "bytes": 9254,
-      "sha256": "cba633fbe2ffc7450562d3e12e0e718592f15ba833a2614bf884b6879b80f5d9"
+      "bytes": 10310,
+      "sha256": "ae3b0db00595d6197efc6528ccc896f52680985324c0035770790f84588c0619"
     },
     {
       "path": "de/people/mark-henckel/index.html",
-      "bytes": 9144,
-      "sha256": "ae8961632242803b67db88f26e09c657d98aabd3c33526d7836527b2a85a423b"
+      "bytes": 10196,
+      "sha256": "a88a47f78b7aaf7ab5f93a874eace072e3307822bf22440b51cfc0d35af41967"
     },
     {
       "path": "de/people/t-phillip-bowers/index.html",
-      "bytes": 8382,
-      "sha256": "ef47a370ebe4896599a06b569a748093d2a9c325168fe69a793a3478cf62a1c8"
+      "bytes": 9442,
+      "sha256": "b83c01d9c443e7ff665ab5f389192ebf7567a4318a65d3acc243611b3bc96b2b"
     },
     {
       "path": "de/resource-index.json",
-      "bytes": 53466,
-      "sha256": "463d943473b94132f2d8c999fd34e63d6e03e548cacf3f6739db39d43b09b082"
+      "bytes": 56238,
+      "sha256": "692ad2f2d35c64684b8ef0f7ca9fc8b3cc8246eb4f97a1a450453c1a3859da5f"
     },
     {
       "path": "de/shop/index.html",
-      "bytes": 16124,
-      "sha256": "6081513c3766d5f9f895d9eaf1126b7bce20a2a27ad0bf6fab5e5b0ad01bd3a6"
+      "bytes": 17494,
+      "sha256": "4aa1e048abf1d9067381af64a299b5a3cf0d69c8440fe6eb7b26eef67c8a96f0"
     },
     {
       "path": "de/support/index.html",
-      "bytes": 16752,
-      "sha256": "97e9b3dbf0540c3c392b750c540c021d74f63b6bec3af0670cf6b01ece2337c3"
+      "bytes": 17780,
+      "sha256": "1b6e740d21502dcb1061d68130ccd0bd304798e6646fedab39430776f765e53a"
     },
     {
       "path": "de/university/index.html",
-      "bytes": 18516,
-      "sha256": "ed7058a1019a62b45f6dad7f1dcd4a8eea10bf189d7e67b9dff8a8a9c6edf698"
+      "bytes": 19550,
+      "sha256": "e7bf018f3ea405a625cd01375825ae8467a0ea5e8646851624ee7b2e7dbba27c"
     },
     {
       "path": "de/videos/index.html",
-      "bytes": 84525,
-      "sha256": "8ec5ad8e5ce19818bb7a07d2058dd512e3959ed3720e0bbdcf091a7c060612c2"
+      "bytes": 85551,
+      "sha256": "be92c6655c54734c4aa709811a47af059c0be787ebb90737f077ce0129788d15"
     },
     {
       "path": "de/videos/watch/-T-a9pnPF5E/index.html",
-      "bytes": 9836,
-      "sha256": "11190a68c9281ca94bbe9adfc1fc69444ddd3039c7dc80446d8b1e1e6b35f120"
+      "bytes": 10898,
+      "sha256": "45224887fbc9ff06a69059805685a55cb3987809a61e27207892e00aabec0ab8"
     },
     {
       "path": "de/videos/watch/0C4yCMsL0F4/index.html",
-      "bytes": 10231,
-      "sha256": "7e8256b13cb8f7c22de35cf82056dd04802124128f838295b57122bc77bb48c4"
+      "bytes": 11293,
+      "sha256": "070fc3470128bbae7ea6153ab5328326103292b528c8dc2ac33964620a294af6"
     },
     {
       "path": "de/videos/watch/0v-pRhhHNBQ/index.html",
-      "bytes": 9215,
-      "sha256": "e5f7280b48f83c4d84c2b977ebdce92ecd55e5ed9cc673eb67b72ec614556753"
+      "bytes": 10277,
+      "sha256": "339879207e0c2de054d0ac27ea6233a0cd3881d857cb85ce797a119651d38f40"
     },
     {
       "path": "de/videos/watch/4QB6BIsOB8s/index.html",
-      "bytes": 10536,
-      "sha256": "51def6875fc92b325997e506ee680b674b798d619cede43f8a81a813462f82c9"
+      "bytes": 11598,
+      "sha256": "1c191e227dc7f88c785a1d4e3ebf32da83faf95758ad2dfc0745743d70436aa0"
     },
     {
       "path": "de/videos/watch/5_9RK6RXEtM/index.html",
-      "bytes": 9848,
-      "sha256": "1a191904b911424f0774a97f08115f63e2ad9217788b1e72a1d30cbfb4f06ba2"
+      "bytes": 10910,
+      "sha256": "6d497197b90f35c1b6ba28ef184e6ee6fb3d27acfe5559049c1de675986688d0"
     },
     {
       "path": "de/videos/watch/8Ikymay92SY/index.html",
-      "bytes": 9947,
-      "sha256": "84288f93c190472f78a6fb142fca8f7fe2074ffb452fd7b87fb0d271dce60142"
+      "bytes": 11009,
+      "sha256": "0ac44dfd24e5b70a4d957606227a527dccbe720ecba7aa99b3bb4ccedc97bc2e"
     },
     {
       "path": "de/videos/watch/8jP-Fl_JmU4/index.html",
-      "bytes": 9396,
-      "sha256": "ba965bd12a9995c66c72e992df64a08efabbf0dfff8cb3f77baa1a858131b840"
+      "bytes": 10458,
+      "sha256": "b63f0d11f123c3b5840668c78afba58401195a2c69634b9226835b9137159026"
     },
     {
       "path": "de/videos/watch/97uiIgLbEI4/index.html",
-      "bytes": 10313,
-      "sha256": "0a22f956ac0fcc9b6bb92c78ed5231dbd2de7edeb073578f8f9993e743dd45b0"
+      "bytes": 11375,
+      "sha256": "2951d08d2b18d4371b5bb55c49f299de1e2e20aaeadd92d8ed94f283d74beca9"
     },
     {
       "path": "de/videos/watch/9EbA5JwxwfM/index.html",
-      "bytes": 9963,
-      "sha256": "6c60a937a3c9b7a9eb1b1e286d998c9163606cd93b3e0960f71e4869743b6d96"
+      "bytes": 11025,
+      "sha256": "cf34c3b11f6f6b7c054cb545ae341acc5953e357817472ff17f69073ea4bbe27"
     },
     {
       "path": "de/videos/watch/ALnNk-g9Uws/index.html",
-      "bytes": 10509,
-      "sha256": "0aec935841b769d185c6fa550e1ad60c034bd29c422faad17822de41ca94680f"
+      "bytes": 11571,
+      "sha256": "6d0f63eaaf5164c29d7134cf595d36d434b13e9f1d6404296c39a35b89aef7a7"
     },
     {
       "path": "de/videos/watch/BHOsbRugRXM/index.html",
-      "bytes": 9012,
-      "sha256": "6f6a852f6c7d2149407fccea92ab6182ff269e8e29f0adfb64163c5b5b0e0444"
+      "bytes": 10074,
+      "sha256": "ce42a6bed91c02461113af30ba5dd06cc767cbbaab52714c1aed066c25213787"
     },
     {
       "path": "de/videos/watch/BK198m9ZYlo/index.html",
-      "bytes": 9246,
-      "sha256": "7bcbc59eb4362847fe844be5c048a4cba6b60cb15e748caffc0ba3caae556c8d"
+      "bytes": 10308,
+      "sha256": "962f7f063f1806d5e0f989e15b608c27be19420168c126a8125842a639b62026"
     },
     {
       "path": "de/videos/watch/BO6xV_YC7pU/index.html",
-      "bytes": 9885,
-      "sha256": "cad26d851d2880697f5194e52145d30b224f7d3a839235b9f3a0d2ffbdf079e0"
+      "bytes": 10947,
+      "sha256": "3e27fa584a48534995bb9c11a7f08f0dd99b85a4a6ed4b564b0b854833dcaf3d"
     },
     {
       "path": "de/videos/watch/E7ckiC3qOwY/index.html",
-      "bytes": 9947,
-      "sha256": "5385a4abbb7f88b1c24fdce1c2c13874b66ac0a9ccc43c57365ae175677d23bc"
+      "bytes": 11009,
+      "sha256": "999081e991e50e4f0ee9e6ee5a22c960b1da57add02089bbdb54fa72349d8446"
     },
     {
       "path": "de/videos/watch/EjjHLgF8bFw/index.html",
-      "bytes": 9244,
-      "sha256": "37da368b88ff716f03b7136e02adb1a3bbb343b9031ba9e7a8c12d483d149083"
+      "bytes": 10306,
+      "sha256": "c997171a7c9f49085bfb033589f363e45a352a21ac39843dc809a576de2d514b"
     },
     {
       "path": "de/videos/watch/I6ZpW5udNZY/index.html",
-      "bytes": 9982,
-      "sha256": "3a7492b8009a9576a4fe1be5538be8a636473f4ac6e5bb893a4516820b58e2d1"
+      "bytes": 11044,
+      "sha256": "749bbe61c72a9441a28afb048f9589d58d6ffe41bc5a9a33beb08c188f325376"
     },
     {
       "path": "de/videos/watch/IwtIGCIWQl4/index.html",
-      "bytes": 9791,
-      "sha256": "ee0cee0312a60e0b20cc4ddb3972f00e2dd156d9e76b7b632f18eb2f14611734"
+      "bytes": 10853,
+      "sha256": "ca03e6c5c3ec61762855529ef9f098e974a5dbab503c87181c9e87b960a450bf"
     },
     {
       "path": "de/videos/watch/JQ0I1NSdYkw/index.html",
-      "bytes": 10399,
-      "sha256": "b1a87e1a238f78664c23153ad58d2cdd5c7adab3aa23b3a736a762f20d7d687f"
+      "bytes": 11461,
+      "sha256": "6ffb86bce3dd485c45e9c7e8a9af51e3a6f4cf4b2fd58e332479cc890730c6ae"
     },
     {
       "path": "de/videos/watch/KIv6WN00wao/index.html",
-      "bytes": 10163,
-      "sha256": "b5a71d82599ad1805d450b67fc87c0d4a8af29965a21ab310f5319fe441dcc9a"
+      "bytes": 11225,
+      "sha256": "9c2eafd3a45eb1d76feb17866416ae7b9dbfc64d71676f30c3b252d1b94689c1"
     },
     {
       "path": "de/videos/watch/KmxBIA9FXis/index.html",
-      "bytes": 10542,
-      "sha256": "81cdfb0be1fc25b43142c1290598ede8af886486b19c5079458917d4e6b447bb"
+      "bytes": 11604,
+      "sha256": "374f6895d1c32a53713dcb3b32051242435f1fb00f1daae9360aa9d9c45af21d"
     },
     {
       "path": "de/videos/watch/MpEBv9ne7Tg/index.html",
-      "bytes": 9796,
-      "sha256": "ad0dc349f339f5add99efc67c407e8c12aaffedb8660097f243386b8e37c9945"
+      "bytes": 10858,
+      "sha256": "39fcca78ca3b122754cb34edc69bad28fd6a758c65153dd0c0e2c2832891aee6"
     },
     {
       "path": "de/videos/watch/P4GooCAezkY/index.html",
-      "bytes": 10364,
-      "sha256": "2ee0a990d80e3759751ee0f4ff549e983d92878803cd85b8dcd9a9e391bad5fe"
+      "bytes": 11426,
+      "sha256": "5a299548d528f5579c29352336bee5bb0c5e05bc869f0dc1cc409eb37a2e407f"
     },
     {
       "path": "de/videos/watch/QyJN43ZVtHQ/index.html",
-      "bytes": 10608,
-      "sha256": "98ba68dc0321641744bb8493557a085f9e1a0214954cbb3833528b098fc03c56"
+      "bytes": 11670,
+      "sha256": "7cbb875ce52b25cc04b882e70dcfe5e1ff58a45274a934c57aca212aae1ea84c"
     },
     {
       "path": "de/videos/watch/R5mZSXHKaOo/index.html",
-      "bytes": 10105,
-      "sha256": "7f88890966e666011f9d2b6bc94e52b89de047a48dc34cbfd04873b52f220e95"
+      "bytes": 11167,
+      "sha256": "8b5fcf6cd4aab537e7f1d06e839f70d3a916e29e7f1ec833a10e65f07968f413"
     },
     {
       "path": "de/videos/watch/SImGsZQD7mc/index.html",
-      "bytes": 10573,
-      "sha256": "a6412e2c39a06780e5c1b469cb0d70b2931e714148f14ac5f10f034ed7c5f2e8"
+      "bytes": 11635,
+      "sha256": "599292621daa8535973956971d5791a4f512af8443f51a03a728d8cafef0bc00"
     },
     {
       "path": "de/videos/watch/ScBQx4LlENs/index.html",
-      "bytes": 10391,
-      "sha256": "86f974aadb8c3cc550f4f3086147eb8e70e3fcbfc3773e55b8f4a67e16b837dc"
+      "bytes": 11453,
+      "sha256": "9dc10f25e434c3ec82250cf5db0b0d3b5b152b203a036b79e0d394f2ab9ad25e"
     },
     {
       "path": "de/videos/watch/U0NsZ2Iw6hM/index.html",
-      "bytes": 9823,
-      "sha256": "cf55ea2a7802226783baa2cb71ea9b0b86131ea905f6c8100b91a1ab2a8e17d4"
+      "bytes": 10885,
+      "sha256": "ec67de261e928d8d1f1bd806866d32464e4783523bac2e7cd9b9d370909bb157"
     },
     {
       "path": "de/videos/watch/UkZx7Ld_SZg/index.html",
-      "bytes": 10245,
-      "sha256": "ce9cb55aab51dac0daeaaee98f36a0209cd9add0e2aca8f5c2b8fdefc7419c01"
+      "bytes": 11307,
+      "sha256": "488b231158d8b820cb569351d03245888553658352aca291b0b0a369fefd2a9f"
     },
     {
       "path": "de/videos/watch/Vr4thuxyDqw/index.html",
-      "bytes": 9818,
-      "sha256": "37a416809185164cf3e5f159154ddd047e7307561ffcc1d20c63c62ca19163c7"
+      "bytes": 10880,
+      "sha256": "d8741d18e4f392ecb69f3f91896941a3ae25faf1d5768b2c200f6cd8454ddc29"
     },
     {
       "path": "de/videos/watch/XsbzrXSDvxc/index.html",
-      "bytes": 9875,
-      "sha256": "776e73adfbbcee1c610ff4be0034e521b9ddc062074c523a55ec34ad52d2ef14"
+      "bytes": 10937,
+      "sha256": "1e063e2758bef89d1b18dd0f22076c4664379ff8f01346476faaa303c8584922"
     },
     {
       "path": "de/videos/watch/ZT5WjIglXZU/index.html",
-      "bytes": 9591,
-      "sha256": "157b6be87720f063fae9b2bba077bd5e35345b333c690ae7ee49b5782c6d1a2e"
+      "bytes": 10653,
+      "sha256": "f47e50fb4191ce17510965870e465b335f2721a67986e2f5a4e71d938555acfe"
     },
     {
       "path": "de/videos/watch/_x1uoR1J8Wc/index.html",
-      "bytes": 10002,
-      "sha256": "28d60862a1280d57bdafa959f3caf63b8bb339cad72f0167d4047c831a0179cc"
+      "bytes": 11064,
+      "sha256": "86dda26ed0ece1b09ae4a9d2fb807c1d3c75135b2d89b885b44af97ea47ad916"
     },
     {
       "path": "de/videos/watch/cFeDZSohjrQ/index.html",
-      "bytes": 10423,
-      "sha256": "5fa50540eb929901f07fc5c8a7a35c6cfc9ccfb7347eb4a9669f2cc47530a7a4"
+      "bytes": 11485,
+      "sha256": "3df11ebc97c526091609d37d14376cd6fed19e2691c5c842d3d10251e0e776d3"
     },
     {
       "path": "de/videos/watch/d1G3itdX03Y/index.html",
-      "bytes": 9714,
-      "sha256": "498490cc2214d02dc1a78b82b3396c1c1799b5ffeacb30501e6cb2364cbd832b"
+      "bytes": 10776,
+      "sha256": "218c5b0f1ce8a7a48e6ef473497871703b98362d92261f2cd2f686b9907f1827"
     },
     {
       "path": "de/videos/watch/dq-jYpXSgx4/index.html",
-      "bytes": 9895,
-      "sha256": "8ebd1a71a86910fbb5100e58afda17300517df59b7fa404e5f331a37c11cea81"
+      "bytes": 10957,
+      "sha256": "0959b98d71fa153bdf95f24fbf0a442d4ff6e6ac195928c68cd8eacc1e9ff3b8"
     },
     {
       "path": "de/videos/watch/h4BU8561Dfs/index.html",
-      "bytes": 10373,
-      "sha256": "5310221bc916348ddae12e35f87294051a8dd1bd6f26cc7d86bbbb9754eb5452"
+      "bytes": 11435,
+      "sha256": "2046600d10fd1f4042b5a20096b68eb005b161f40dd907023298a6edbc299dbc"
     },
     {
       "path": "de/videos/watch/j9iU3A570gI/index.html",
-      "bytes": 10539,
-      "sha256": "00b3dc94d45b6367ae621e98342661027082fe4d8c5030c98b29cc55ee611be2"
+      "bytes": 11601,
+      "sha256": "29b519f40b59dbd8b98be548fb3a61010011be89fede23bd3061fb773c0267eb"
     },
     {
       "path": "de/videos/watch/lExNCTk5AkA/index.html",
-      "bytes": 8849,
-      "sha256": "7acc2e121a899e3caeba847f8ec9e2db3204d90571d7badaeb5316a11a197fe7"
+      "bytes": 9911,
+      "sha256": "4594203cd8336e60761764f095abed9335bce2a6061391cbf582e72a90f6e2af"
     },
     {
       "path": "de/videos/watch/lbycfVnMbpk/index.html",
-      "bytes": 9796,
-      "sha256": "e35cf726b9e2877a018b263c65ecbdc3c4478a99dbb9a72dfb870326b9147d55"
+      "bytes": 10858,
+      "sha256": "9fbf057f0f80226c6fe65f990cdbc449246789cb269ec0db495164871a291618"
     },
     {
       "path": "de/videos/watch/mYew9VFY5fM/index.html",
-      "bytes": 10375,
-      "sha256": "f42d8c69b2b43aef08bde2257d67c125357dd7f094cd66b5a22b0d9043842572"
+      "bytes": 11437,
+      "sha256": "b0f87f3920a5225eccdb124e5bcd515224f600bad0d827548303f7ef57e5497b"
     },
     {
       "path": "de/videos/watch/miOheJ55ZWs/index.html",
-      "bytes": 10049,
-      "sha256": "509e3e64584ce4bab5f0d8febd9592aa588d5dfe55158034d41a3e1feedf10f0"
+      "bytes": 11111,
+      "sha256": "1a66bed0f2a96d8d51ef118a7d2303cf1b4e83c2a59d362597d5b11bbd28ad4e"
     },
     {
       "path": "de/videos/watch/n_jUaSY9hUU/index.html",
-      "bytes": 9936,
-      "sha256": "aad849c1a2dfa798b0e0218d73fbebd96a5fb4a767d02edc8fc8b7d8d2ba7876"
+      "bytes": 10998,
+      "sha256": "ff8e7252b0f63df5729e3963a7fdb174bf5ef74c97872ed30cf41b47dd5cddce"
     },
     {
       "path": "de/videos/watch/nmYx713ARdI/index.html",
-      "bytes": 9661,
-      "sha256": "fc08f4cd1e0ca8aa79bda3c350a6fed047252b5e389904b0d32e5b18f57ad7c6"
+      "bytes": 10723,
+      "sha256": "9f6abe6aef497f97a8d22e3c942f17b9e45040cbb5dfaac3382618ea6bdfd30b"
     },
     {
       "path": "de/videos/watch/qk16Pxzq3NE/index.html",
-      "bytes": 9137,
-      "sha256": "aa271b4a61b3a96b7d21f638f43fb14573629d11b5ca3d425913ee1da53ff8a6"
+      "bytes": 10199,
+      "sha256": "588193cc9cdb7b7636cab40ebb13b5b47220fdbd329b4d2b5ec80d7e63ea30d3"
     },
     {
       "path": "de/videos/watch/qwfLHGSpmtw/index.html",
-      "bytes": 10390,
-      "sha256": "d0515d78e4b68276edd786e71333c0c4ce34f3bfcb17fb1ad7c5e66595ecd896"
+      "bytes": 11452,
+      "sha256": "35020aed9b27e48d76e04deae6635e587d5ffbfa61cf4d4e43f815401f7b1bc3"
     },
     {
       "path": "de/videos/watch/r4Ir9kGEgBY/index.html",
-      "bytes": 10821,
-      "sha256": "703b8dbf30da23b7fdd0af3287b3f419244b6b21ec4baba80e6948c25b13a5ce"
+      "bytes": 11883,
+      "sha256": "87498e0029e62b779c02eeb0d107947057600bf4ec0ed58c3dce6fc3f23b711b"
     },
     {
       "path": "de/videos/watch/rvnK7GnBSwM/index.html",
-      "bytes": 10529,
-      "sha256": "b6bfe5f2d04255a31e597ba613d11031ce0add4cd0b80778ebb25190d8b3f220"
+      "bytes": 11591,
+      "sha256": "744858b295315bcff3480592bf499e5a677e6c3d6102dab0cac4f26d631eccd8"
     },
     {
       "path": "de/videos/watch/x_EiSpAtrCk/index.html",
-      "bytes": 10387,
-      "sha256": "397dfb94ddab4c5f0ec66105baf87ed794ab2b653788675151df407d5ca39fca"
+      "bytes": 11449,
+      "sha256": "493c16f044a9fa8555f78c8c553900df51cb9cbf27e2f13411fc70f00dbbae8b"
     },
     {
       "path": "de/videos/watch/zsuF0blJAYw/index.html",
-      "bytes": 10556,
-      "sha256": "521bd7326a854645986b2388d8739110634c175fcd843684d195e7202e0398ef"
+      "bytes": 11618,
+      "sha256": "59a7f23eb3646f4b075ce9bf77c6b77ef25f382d970c4e6d408717cfc004fcce"
     },
     {
       "path": "dealer-application/index.html",
-      "bytes": 87508,
-      "sha256": "4aad62d35630192c2ab1b106fbdc3942715cf4bfc398e57c1e50eb37ab7fa3d3"
+      "bytes": 88545,
+      "sha256": "44d8ad3180d056e401cbd755a7cb3b24d630f54bcc16d2137f1b96a958ed9242"
     },
     {
       "path": "dealer-application/received/index.html",
-      "bytes": 6605,
-      "sha256": "c91094c1acb46d1fe6fdbc2dfa6aeebd26a049d441f578f6797456e8b3f534c6"
+      "bytes": 7660,
+      "sha256": "f6963154fee9b24fe5b26ec1dc858a4529d3e5e03bda19b7405b08ebb8c58e98"
     },
     {
       "path": "dealer-application.css",
@@ -1623,13 +2040,13 @@
     },
     {
       "path": "dealer-guides/customer-support/index.html",
-      "bytes": 12481,
-      "sha256": "261dd764fb6c293caba4a2382dbb489268930f363370e0006bda2b95900782ca"
+      "bytes": 13542,
+      "sha256": "3497bd31d958251c01225adcabd70d90f9f84a996012c9c0a2fa4d0c3d787393"
     },
     {
       "path": "dealer-guides/distributor-network/index.html",
-      "bytes": 12610,
-      "sha256": "6b7bd897e2ad126e6ef0bf55c326a22671af1df4544d20c10ee72cf163655c5a"
+      "bytes": 13677,
+      "sha256": "da4ce5025d9060de3de01892a9d75372008c25c1084e0201a76fb738ddf60eb6"
     },
     {
       "path": "dealer-pdf.js",
@@ -1648,8 +2065,8 @@
     },
     {
       "path": "dealers/us/index.html",
-      "bytes": 28519,
-      "sha256": "f83c7840982740280b731557d5d24b469e4132763224609a8c559757668d93e8"
+      "bytes": 29540,
+      "sha256": "a7434cb55419b7622b25849c17c88da6cedd4d130fc44003ff005c08de6db49e"
     },
     {
       "path": "deer-path.css",
@@ -1663,18 +2080,18 @@
     },
     {
       "path": "disclosures/index.html",
-      "bytes": 28361,
-      "sha256": "7378282c65ad22d6192d62d947eb0efa388fbb478a19a9301d90a99f1bc1e866"
+      "bytes": 29384,
+      "sha256": "99c7d450371fe45d89c47e925501139f297ee709cfba72fed6ef99981ce45230"
     },
     {
       "path": "disclosures/payment-policy/index.html",
-      "bytes": 29681,
-      "sha256": "0f3f0799af870df15aea75d410577599c40fbf7eb54bc8474d454144fc3a1a20"
+      "bytes": 30734,
+      "sha256": "dd063175dcce5d9752dd74ba82de56d88dfdc1147f68e37b05760fa2b7cc8c11"
     },
     {
       "path": "disclosures/shipping-returns/index.html",
-      "bytes": 10385,
-      "sha256": "6729fd1729b5dfce5ce37118c3ca82c4135b3dcde927485ff60ebf9d8ed1d683"
+      "bytes": 11442,
+      "sha256": "86b5b38bdded09343633238c2c1bc81fe5f9df083fb70e82c179ec08637bf559"
     },
     {
       "path": "disclosures.css",
@@ -1743,68 +2160,68 @@
     },
     {
       "path": "education/deer-calling/index.html",
-      "bytes": 14754,
-      "sha256": "58281464ddb5331e130aee746e262ca7c921ed054e8beb7c8b736c23b9fc547d"
+      "bytes": 15799,
+      "sha256": "0ad9ec790797a0b3c0521cdcb757cccdaaef25c8efe421eed79da7d2d0c1db0d"
     },
     {
       "path": "education/index.html",
-      "bytes": 37834,
-      "sha256": "f80fad7f3506340ad6964e8dee61717d31222f66e7abfe6a982fc1a2678e70d1"
+      "bytes": 38853,
+      "sha256": "f0cc8adba449aeffa4db6f758330faf6e9a5934a3ab23268c3ca1be88fcf505b"
     },
     {
       "path": "education/lessons/antelope-talk-call-band-replacement/index.html",
-      "bytes": 9625,
-      "sha256": "ebd112805cce437054ecfcfc2742e4de042d64e1bcf6cfd486de87de566d2017"
+      "bytes": 10732,
+      "sha256": "7f55efaf4ec28e8b981133563617971858f2b9077379ed5fd8926e9e7082ed4a"
     },
     {
       "path": "education/lessons/cow-talk-call-band-replacement/index.html",
-      "bytes": 12580,
-      "sha256": "7b0d2f6ba7e6f50c2e4e390b6a7fd5e4bfefefc9d9f86fb871c2bd901043094d"
+      "bytes": 13677,
+      "sha256": "d74cb2ef55c00b1ba0dd0d17a0516c9cee0eef95f8d9e073d052dfa84c47b9e0"
     },
     {
       "path": "education/lessons/deer-talk-call-band-replacement/index.html",
-      "bytes": 10390,
-      "sha256": "b6624acb96b7b8e02ef7a0e198b45b6ae58eb9a430961534c1a5deeaa780c532"
+      "bytes": 11489,
+      "sha256": "9c6567f931836c4ab3d2408a983a31f1a3a389fc39feabbc551334f8a5c93591"
     },
     {
       "path": "education/lessons/deer-talk-demonstration/index.html",
-      "bytes": 10719,
-      "sha256": "c5434132a2e632e0ef872e3b27222849c8f73bae89c0293c325d845b995855c3"
+      "bytes": 11802,
+      "sha256": "ebe9c0fedb4245cc13ea49b3ff34b3edd01a77a55ee26a267098607cd05f2326"
     },
     {
       "path": "education/lessons/deluxe-cow-talk-call-band-replacement/index.html",
-      "bytes": 11356,
-      "sha256": "f854a70ecbeda6a0ce53abeaa996ca6a62621412e76fb0be3aaa2c98df2cea38"
+      "bytes": 12467,
+      "sha256": "1f8f98e778e7b39edb136d111876b3f7adcb18d4ec79e16448472dc26ae652a1"
     },
     {
       "path": "education/lessons/power-bugle-band-replacement/index.html",
-      "bytes": 11796,
-      "sha256": "29c1484d439f92586daae6b293c2c8203de551a56744b14af2a4c04d93d5c794"
+      "bytes": 12889,
+      "sha256": "8985ae19776b28a2131c9a0a2d726f2b854277786641b2ccc5d54bda83a929b5"
     },
     {
       "path": "education/lessons/power-howler-band-replacement/index.html",
-      "bytes": 11229,
-      "sha256": "d69215613722a975d9303b855d0bc187e2913d74a2c1ca0e48a6cd4c809b46e1"
+      "bytes": 12324,
+      "sha256": "09fc22ea93d30848756a896596079cad8a6fb4dc6031985c20d8905fca06a9c6"
     },
     {
       "path": "education/lessons/royal-bugle-band-replacement/index.html",
-      "bytes": 11230,
-      "sha256": "0b27cdaadca3ad1fea67c9164ed5f556ae88fb4d6a97667b0d8c3223148067ab"
+      "bytes": 12323,
+      "sha256": "26c19ae9154c83bec77c29112f1895ef88229a668d7c79453b6045b7b10918d8"
     },
     {
       "path": "education/lessons/the-wolf-howler-band-replacement/index.html",
-      "bytes": 11263,
-      "sha256": "909d4300c37f339aaaaf9698be424251aeaba97a7fb2abb5adf2a84a6c261c57"
+      "bytes": 12364,
+      "sha256": "d6d12c02d9a249188fe11400c7dd5d813ac8496ea2911403da25bf2e8b058ca3"
     },
     {
       "path": "education/lessons/yote-buster-reed-replacement/index.html",
-      "bytes": 11226,
-      "sha256": "723a190424618a4a7d7837c074ca7e9c8921573037763c0484880962f9ac25eb"
+      "bytes": 12319,
+      "sha256": "2044e1d54699bc97a5833b051cd955b15a98b4962c65666638b27abe66f0bd35"
     },
     {
       "path": "education/lessons/yote-howler-band-replacement/index.html",
-      "bytes": 11215,
-      "sha256": "b51e6ed633da0f18d712c0d3f03ccb057de2aa9c9c5281af7df909c5194dccf9"
+      "bytes": 12308,
+      "sha256": "4969ed0d8b47b5698ed8bf6c600ecac22e93df261bd9341be1d97c129eb2b208"
     },
     {
       "path": "education-expanded.css",
@@ -1818,613 +2235,668 @@
     },
     {
       "path": "es/about/index.html",
-      "bytes": 27390,
-      "sha256": "f29c6f3e59508ecd97bad0d35925660ea550c77df289e084c039519ca8d1e459"
+      "bytes": 28415,
+      "sha256": "a77d31d81cb7e262aac16eb09b72cc982951f8bb5a2c0d13b8a40eacee4f83e7"
     },
     {
       "path": "es/archive/big-bull-elk-cow-talk/index.html",
-      "bytes": 18944,
-      "sha256": "0787aab1011fe809599f54e871acb60674d73dc507b47a3bfa6256d367935fd3"
+      "bytes": 20017,
+      "sha256": "bf2822843789df7186dafe164a3ccbde0da23b3bb79ec64cc20aac8c065bfa07"
     },
     {
       "path": "es/archive/cow-call-draws-elk/index.html",
-      "bytes": 27119,
-      "sha256": "358a42a55be375e5943a252312a012d9159782937978c6a8b6f602ef813400a7"
+      "bytes": 28186,
+      "sha256": "620d0c78402ba1a2cb8d638a1f51422ef7d52cea1687d5fc49d602a96c72bc64"
     },
     {
       "path": "es/archive/cow-talk-for-elk/index.html",
-      "bytes": 31250,
-      "sha256": "8d5df872b23be4064e932d18ac49a81907363787b10a083bd31986437cafe43a"
+      "bytes": 32313,
+      "sha256": "dd2dc3ef4c0ecb92049c92cf9f4dcaf69dda8d589527ecdebf44d51bcf5b1bd8"
     },
     {
       "path": "es/archive/cow-talk-radio/index.html",
-      "bytes": 19794,
-      "sha256": "64445f3ffae765fd1291a55c0408013fb1caf337ab3a09912ead2d564111b31f"
+      "bytes": 20853,
+      "sha256": "3b13f1428cd29b567eb4e829452ded05a504e401839743516d0c4c9df0602047"
     },
     {
       "path": "es/archive/elk-talk-review/index.html",
-      "bytes": 23048,
-      "sha256": "2b8e2fad7642b7281975de44322ffd154a598d8954e642e7d95d287e58ed6639"
+      "bytes": 24109,
+      "sha256": "4269aa3a6784bb2affe282c538bdcaf95f528b43dc20ff07a630cc821ce5e1f7"
     },
     {
       "path": "es/archive/founder-record/index.html",
-      "bytes": 21892,
-      "sha256": "839a87935e5224f2a6f6e7b4432b088265f12d4f0d577baa8ac092de15012675"
+      "bytes": 22951,
+      "sha256": "283412df7a87c8cc47240e478ce16e15d3935fc8f27e41135614e2e09beed332"
     },
     {
       "path": "es/archive/index.html",
-      "bytes": 36968,
-      "sha256": "8a5a783efecb934a6038bd4ea33fa5e14f21822c17b2de3aec0084906f9674ae"
+      "bytes": 37997,
+      "sha256": "da1328a804d9a066ad5abe3b81b7043c224b5785116a6ceaa2f02533381e0fd7"
     },
     {
       "path": "es/archive/more-exposition/index.html",
-      "bytes": 21639,
-      "sha256": "a82977c0dff7eadfece3cda4f496043ae8724f16d6441590eb5ae092a76f51ec"
+      "bytes": 22700,
+      "sha256": "14790c757410dbf9cea0ffe2cb13ba5d2114b3da60d34b2215084aa17fd9e617"
     },
     {
       "path": "es/archive/more-show/index.html",
-      "bytes": 771,
-      "sha256": "543050c3cf4af9a63f05d2b1f8416b7e72f3ef5a7372dd2e2ef41befc274190a"
+      "bytes": 1677,
+      "sha256": "bc27812f30339bdb7f44f877cbf99e47862e9dd3c7ab315a596669886c6187ea"
     },
     {
       "path": "es/archive/newest-secret/index.html",
-      "bytes": 20038,
-      "sha256": "5c2ec46513af78a30614765fababbab8d3e2f394518151133aef5eee208363c4"
+      "bytes": 21095,
+      "sha256": "b42d6250154e5934f5dd172f40ccb6d6a6803c901c4e5a5d3daebc7db17ef5ab"
     },
     {
       "path": "es/archive/prime-time/index.html",
-      "bytes": 20121,
-      "sha256": "08f498a780801795da7e681f293b9de1a96ca8e3d203beba6449e3b957a0145e"
+      "bytes": 21172,
+      "sha256": "e6e75b32cad3264873c45897558b45e500acc5d557310f59f0754d57c18a8305"
     },
     {
       "path": "es/archive/retail-correspondence/index.html",
-      "bytes": 20347,
-      "sha256": "7d34a1d1a88a7677f1829b7d5bb060312a6239ca89cb813ebc6ac3ff341a4784"
+      "bytes": 21420,
+      "sha256": "fdf8462ec6b8d90cc8df2e458ef13646b834bf869118947e0f09e47e1cbb8b78"
     },
     {
       "path": "es/archive/sports-afield/index.html",
-      "bytes": 20483,
-      "sha256": "5ddce4c7e0ab8de698498b24d01be6c5541eebff63287165485cebe2ac1bd62d"
+      "bytes": 21540,
+      "sha256": "a7df26133d62b5f6b9d779434df77a8084db3b855b787bad21fee4ff05d39bdf"
     },
     {
       "path": "es/archive/take-a-bull/index.html",
-      "bytes": 30546,
-      "sha256": "2568f9fbc3a2cb7fb8b332f97dcf3acfabe4013bcf9388648ae3232d8a7a2f54"
+      "bytes": 31599,
+      "sha256": "c728f96bdd90a104bb763b66624e4a1973c7c77269bdd12eeaf9e294a6a456d8"
     },
     {
       "path": "es/archive/talk-to-the-elk/index.html",
-      "bytes": 775,
-      "sha256": "e186576c11784ed8431861d95f768150a1b2ddbd8f79faa2f661553b7d418312"
+      "bytes": 1698,
+      "sha256": "24bb84e58b4141918144c5f75728a085b5d671eae48da9ab76e0c24c5a703e43"
     },
     {
       "path": "es/banding/index.html",
-      "bytes": 15485,
-      "sha256": "1c71215d8828136295d91c4207bc25f95ed2e7378af5425558135def0e311d2f"
+      "bytes": 16514,
+      "sha256": "21441b563f750c0c173d53d050e9d5716812be43d2a39900fed28db6ec3a6a96"
     },
     {
       "path": "es/calls/antelope-talk-call/index.html",
-      "bytes": 9882,
-      "sha256": "2bcc2124b05736d347e8ba8c6a2fcdab575f1b83e7d65f8a9cdc32f836900a25"
+      "bytes": 10945,
+      "sha256": "fadba37f3944eefaf5daa638e6a26510d09319e93cbf1096577ac0d3bfada92a"
     },
     {
       "path": "es/calls/cow-talk-call/index.html",
-      "bytes": 9742,
-      "sha256": "0c38f4a6e301ec5baf2e331aba571d28e6b436562f703f11dd2597516435f679"
+      "bytes": 10795,
+      "sha256": "59b8eafb694dfaf16b52e25b0fbadf2b961ddf7649dd0a7d555f415ca695bd77"
     },
     {
       "path": "es/calls/deer-talk-call/index.html",
-      "bytes": 10878,
-      "sha256": "09d9ac1db581d59b50282ac50326b039a274c9fed0a802798135d5981952de0d"
+      "bytes": 11933,
+      "sha256": "98f9f12976cb60237c1aa32ae3ac520c3e6f3157ad1ec54bc33a0d25fde2b6ba"
     },
     {
       "path": "es/calls/deluxe-cow-talk-call/index.html",
-      "bytes": 9340,
-      "sha256": "c182d60f01647d3d518582495bf93e9240c2614e137d96c802c8d785f88306e2"
+      "bytes": 10407,
+      "sha256": "eb2e567d5a3b345128106a664728eb641020d479a1769c9afacb4b7f2b85bdc0"
     },
     {
       "path": "es/calls/power-bugle/index.html",
-      "bytes": 9691,
-      "sha256": "1fd7e734bd2267a0345a9adf9ae127b77db7cee5ca657d3ffce230f82385572d"
+      "bytes": 10740,
+      "sha256": "b106b97a4b031e5d7ca752fc790a14ab520f29e6f1f3b6b847275e3d084a02e5"
     },
     {
       "path": "es/calls/power-howler/index.html",
-      "bytes": 9130,
-      "sha256": "9bee4b4f2c84408bd8e8900a8644cb24470a318796c9c54a19a2927d720bdc7d"
+      "bytes": 10181,
+      "sha256": "e6b6540ff679cb5941dec162d5a37f5ca3c168c138e6de20b7b18d9783b3fdfd"
     },
     {
       "path": "es/calls/royal-bugle/index.html",
-      "bytes": 9091,
-      "sha256": "f8abcc40c15d9962b3051661348b70b94fb39a0f10a81941789d5d9a7f6e68ca"
+      "bytes": 10140,
+      "sha256": "8a2b1facd7ee8fd9a1ad6a99056d99105a0cf237db8ae471408984976733126d"
     },
     {
       "path": "es/calls/the-wolf-howler/index.html",
-      "bytes": 9213,
-      "sha256": "0a4d31ea1ced404af9bfb00300904fd182b8e173818ada50345bf7fe63358121"
+      "bytes": 10270,
+      "sha256": "28522cee86bc2cae574b5458a02bffc130181776542547c6bf280fe7cf0835fc"
     },
     {
       "path": "es/calls/yote-buster/index.html",
-      "bytes": 9073,
-      "sha256": "1af6bf80e2d6c328cd8236b6e8f455fdcf13e2545b3f40638ba575f94fe4b154"
+      "bytes": 10122,
+      "sha256": "bc97674307c464ea5b59c55dd2d54d892ecfa72ba4925959763de84bbba8cee4"
     },
     {
       "path": "es/calls/yote-howler/index.html",
-      "bytes": 9102,
-      "sha256": "056254dc557998d84b7e8d51c394f57e7cc08a608f14525ce63d72769e6a0c41"
+      "bytes": 10151,
+      "sha256": "e488fcf1f658139ae2afb9abb44792329b0f44e948e99e4a1bafe0b040ea6025"
     },
     {
       "path": "es/canada/education/index.html",
-      "bytes": 17727,
-      "sha256": "dabcf87acbee7c48b804631d2829a7e860c549aa764af102493c4a834027022b"
+      "bytes": 18774,
+      "sha256": "a9a8ab4369c2f352ad1819a74a8e35f3c9d2301a74ff7d4d33990dafd0235f74"
     },
     {
       "path": "es/canada/index.html",
-      "bytes": 24536,
-      "sha256": "7da072f60160c099007ec0c734996435a8c06fa274cbf20d417bcdd8264759e1"
+      "bytes": 25485,
+      "sha256": "6c7d7478a73b32cc96cac0ce4b4df32375d658e134ae840a815c269f74115583"
     },
     {
       "path": "es/canada/presentation/index.html",
-      "bytes": 14949,
-      "sha256": "1895ef10a10d797e13866cff25fc7d4d1fb03d8a5e8122c8f06416506905a037"
+      "bytes": 15990,
+      "sha256": "7c37e15a8d1bf8641fcaf825c278ed7f0e08ba457675fc585d6da0063bb8c0c7"
+    },
+    {
+      "path": "es/catalog/categories/antelope/index.html",
+      "bytes": 48563,
+      "sha256": "2d8d3d8ccd9b0f17531f4dccb20787e751ea7d6797170ea6c54343dcd12ec56b"
+    },
+    {
+      "path": "es/catalog/categories/bands-reeds/index.html",
+      "bytes": 48999,
+      "sha256": "af4bd7aab1105f4d68aa6741aabc2356288e9d1cba67355e12e5afebd70ec27b"
+    },
+    {
+      "path": "es/catalog/categories/blinds/index.html",
+      "bytes": 48049,
+      "sha256": "b139d0fa6dd5202547342773c8a71aae41a1b6469a51ce21397baaad9017c0de"
+    },
+    {
+      "path": "es/catalog/categories/books/index.html",
+      "bytes": 48590,
+      "sha256": "ec293d4f5becca5c9dbf17900354b36edc25baf505b393fd2474646379680229"
+    },
+    {
+      "path": "es/catalog/categories/calls/index.html",
+      "bytes": 51353,
+      "sha256": "2cdc9443afff98c1c53629179cec7cb8c5cb4681566431985d8ce345afca1974"
+    },
+    {
+      "path": "es/catalog/categories/dvds/index.html",
+      "bytes": 50945,
+      "sha256": "cbe40f41a0f33bb38bbc0b8e2b513819432516af41273e15eb0e58e14b23c3fd"
+    },
+    {
+      "path": "es/catalog/categories/elk/index.html",
+      "bytes": 50557,
+      "sha256": "5607c39534ffd7b83a031de1fcf73d944410cfd1ccc88dfffa4ee2e9ce5748f4"
+    },
+    {
+      "path": "es/catalog/categories/mule-deer/index.html",
+      "bytes": 49065,
+      "sha256": "1ab5fc5b25258c64d3c95e7c29bcf9e6972271358424d24f80668fa26d3176d9"
+    },
+    {
+      "path": "es/catalog/categories/predator/index.html",
+      "bytes": 50218,
+      "sha256": "0ceeefc583ab1a7595ceacf9e45c35c35d067872fe23e60f5708ee721346ffe3"
+    },
+    {
+      "path": "es/catalog/categories/whitetail/index.html",
+      "bytes": 49487,
+      "sha256": "75e112393faf492a7e0d58228c2f4d4899acbd76126c43a5aa3b226a44f61da9"
+    },
+    {
+      "path": "es/catalog/index.html",
+      "bytes": 54709,
+      "sha256": "15479e23c9cc2d1206664c52e7cb64fdc38106d65489ba1e778bb7f311e422b3"
     },
     {
       "path": "es/contact/index.html",
-      "bytes": 11213,
-      "sha256": "3859b580c7a23e2e64047ebe50e4db198fccc05190cb3775e677c3d9d7ac0031"
+      "bytes": 12242,
+      "sha256": "f0cf0828bab90eed710efc5399cb31f3cf5185b2a410463043439fc809c94404"
     },
     {
       "path": "es/countries/argentina/index.html",
-      "bytes": 12498,
-      "sha256": "71ed344477000175299b0a99e6ff240a715c76d7abf9539e46c0eae8cc3012b8"
+      "bytes": 13551,
+      "sha256": "fcc49dcf8a6f75d9962ffdfcf830a7415eb352378926982d2767b128b4a39436"
     },
     {
       "path": "es/countries/canada/index.html",
-      "bytes": 12702,
-      "sha256": "45e20569a3344970681d32ca885a883f1c50294ca9bef9ed07fff345673ee88d"
+      "bytes": 13749,
+      "sha256": "84abab42f512c886816390efed0dfd98c972c229282e3c1cf8191b36283f5525"
     },
     {
       "path": "es/countries/central-asia/index.html",
-      "bytes": 12573,
-      "sha256": "56985aabbcf96994cde3a11bcfb456dbe7b4427789a04974fcf712ad26df5ef6"
+      "bytes": 13632,
+      "sha256": "8f6209d74bcb3bd072acc064c6deb7590ca5c0755aa51ca9e53e9569e347d02e"
     },
     {
       "path": "es/countries/germany/index.html",
-      "bytes": 12532,
-      "sha256": "871e154121ca6438fd10722034877b68479dee510b6974848f52db439caf8dce"
+      "bytes": 13581,
+      "sha256": "5347ec1579bf30c3d7f77be8f734f4b70f1d4fc253afb2f8463ce0505066fc01"
     },
     {
       "path": "es/countries/spain/index.html",
-      "bytes": 12453,
-      "sha256": "7030a2bec0acf11782b5d4ee0cc379aa60e885a3607f4750cb73466b675a448b"
+      "bytes": 13498,
+      "sha256": "3445be5c25aba8a02afd79ad0e60899dbf0b7ec1300adc7256d2e1ba1ba5a8b5"
     },
     {
       "path": "es/countries/united-states/index.html",
-      "bytes": 12784,
-      "sha256": "c7d49f7353a192115b3f81f952e4132fe6451669c1eb87b3684a74e9da6aa999"
+      "bytes": 13845,
+      "sha256": "2e005edce7ea4ebd17131a394fcf55c1efa09ee5bd5641083b5f8e44b912b6ac"
     },
     {
       "path": "es/dealer-application/index.html",
-      "bytes": 88976,
-      "sha256": "2c400596c0518abdc3518dd18e5b9f121a6d500780841376fcdf73a7021a4145"
+      "bytes": 90027,
+      "sha256": "5f3175c6b7b978910487177ccdf900755a4293a032e0a744a85f0cfc572bd7c7"
     },
     {
       "path": "es/dealer-application/received/index.html",
-      "bytes": 6998,
-      "sha256": "f4b77a18d211f3d93123bbc67f8a12fe69b3782f05b5be21cff85fedf8c64c3e"
+      "bytes": 8067,
+      "sha256": "4348fdd6b420106730192e8857cede7ab7622bbb6c4bb199ad430a9efa72bff6"
     },
     {
       "path": "es/dealer-guides/customer-support/index.html",
-      "bytes": 13467,
-      "sha256": "1c449d64e0a9ee50260b17f121516f7cd129f4db84b27bfcb23caf56355ec206"
+      "bytes": 14542,
+      "sha256": "85cf41375d1b96c0489fed831d51485df59efad4fb03d7464aafed43895f5167"
     },
     {
       "path": "es/dealer-guides/distributor-network/index.html",
-      "bytes": 13417,
-      "sha256": "1eefbfa199a0991b40dec5628dae7495db0a9bfc7078a8d218d2933208401a7f"
+      "bytes": 14498,
+      "sha256": "f224028dcf54c404b39d2b59fecfeb9e00c0913ac0fe7cc6888ad485e056fa6b"
     },
     {
       "path": "es/dealers/us/index.html",
-      "bytes": 30265,
-      "sha256": "43b619292d0977e0ff3d5f7f8d60d74f37f94a6c23433e46eb29d16b8f4bdb4c"
+      "bytes": 31300,
+      "sha256": "425ba3dba7002eb619d0a7c16ca24a48eaf1ff877a5226db3f35f5cf8d356da0"
     },
     {
       "path": "es/disclosures/index.html",
-      "bytes": 28874,
-      "sha256": "e49b9e77f7e043c0847ee76e7f6014d9d15022a82c76aacd3c2d89768f4c55cc"
+      "bytes": 29911,
+      "sha256": "e3ca85916d4f41fec84a3ae32bde0679e62746b5163d7fe8cf19aab1c1416c73"
     },
     {
       "path": "es/disclosures/payment-policy/index.html",
-      "bytes": 30218,
-      "sha256": "f0024d81441c6bd3666c6c175ad9c4167e8533afaeba3fb3214116a5302935eb"
+      "bytes": 31285,
+      "sha256": "6b6d22704591c80b38d59c849b6db3ab4031836f81629275599e360be4243894"
     },
     {
       "path": "es/disclosures/shipping-returns/index.html",
-      "bytes": 10925,
-      "sha256": "4fc924de6c4261b20b7df22671cd3079ad434ed61f52b00bde605d1c598428c1"
+      "bytes": 11996,
+      "sha256": "8ddd4813f266ec15af81e319753a1934470718ea876e7ccf065885532d502b1c"
     },
     {
       "path": "es/education/deer-calling/index.html",
-      "bytes": 15920,
-      "sha256": "ad8a1f68d4be0d06bfb8d423d62965083de5df5dec7e0a699ca580a4c5292523"
+      "bytes": 16979,
+      "sha256": "6e0dad4a2ee37cfd4913a568522aa7d2dd0ce654517174c1de952bdfe618b085"
     },
     {
       "path": "es/education/index.html",
-      "bytes": 40003,
-      "sha256": "863c3dfdc56fe918bfae8fc78a324532e17324932949d3be00ada540be44ea0c"
+      "bytes": 41036,
+      "sha256": "e230dadd62f7f1c5a7faf9647fe60d1058bdd6fc210cfda0d39a035c8a8db941"
     },
     {
       "path": "es/education/lessons/antelope-talk-call-band-replacement/index.html",
-      "bytes": 10361,
-      "sha256": "3871bbd528308df282e13a1d81f9070806d5adb515dbd18d937a039affc2768a"
+      "bytes": 11482,
+      "sha256": "a87b7ca5fe16e26aba49e9f4e6f03593b5226d5d3bb8cae1afc21b2c5bb89e9e"
     },
     {
       "path": "es/education/lessons/cow-talk-call-band-replacement/index.html",
-      "bytes": 13613,
-      "sha256": "3b5c2a3f79d86d6d8e5ad8c04b485c17f5a6ec8708e42d775cabab2b10e4c5f7"
+      "bytes": 14724,
+      "sha256": "2bcc6bbcaf1c6e136996419e5e8aba2290ff42d99b43340c6765cfa04f094483"
     },
     {
       "path": "es/education/lessons/deer-talk-call-band-replacement/index.html",
-      "bytes": 11142,
-      "sha256": "ecf31674170e9243277bc3220504c638c23bd62e5cb881df365a9642cfec86dc"
+      "bytes": 12255,
+      "sha256": "3a8b092e201a17ec8c5fe4973dafd48a15387aacb47fae9a9ec632b9d087d2ff"
     },
     {
       "path": "es/education/lessons/deer-talk-demonstration/index.html",
-      "bytes": 11407,
-      "sha256": "33be084c498e75fb69cb16b3652bb1ea2472642c20cd6ab4b10801328bf6d1a1"
+      "bytes": 12504,
+      "sha256": "03e4a712a39669f87f84a4856ab9db5252dd8ec509b274ab229113e1613bdbf9"
     },
     {
       "path": "es/education/lessons/deluxe-cow-talk-call-band-replacement/index.html",
-      "bytes": 12276,
-      "sha256": "1df9c7bf411dcf95660ec1a785b07fef6cb0645da2562dab348ec2c470be2055"
+      "bytes": 13401,
+      "sha256": "6d191421cc06abf26e3d49c32895a3dfc190f14ad4483f08a9b59eed985185b6"
     },
     {
       "path": "es/education/lessons/power-bugle-band-replacement/index.html",
-      "bytes": 12762,
-      "sha256": "5c2124e6d0f6a325c1b337bf3a825d8473b802e6d3442c58c2d5555123eed0a2"
+      "bytes": 13869,
+      "sha256": "b20c50bb8607cb7b87412cd3524933f704eead3a992fa6f9ffd5c8b6ec74f6ac"
     },
     {
       "path": "es/education/lessons/power-howler-band-replacement/index.html",
-      "bytes": 12120,
-      "sha256": "7dfc44673706976e262e0dde4a44ce8f150768c0211bfecf1fa044356dcb6a65"
+      "bytes": 13229,
+      "sha256": "7d0f59578c2286b62c7a2dc2d6cc819172ec71aea4aec544398122283dec70e1"
     },
     {
       "path": "es/education/lessons/royal-bugle-band-replacement/index.html",
-      "bytes": 12150,
-      "sha256": "6dbef6877ec22ce325d138294673d1a406febbf870320ca80f478dffdc6eba41"
+      "bytes": 13257,
+      "sha256": "48cd08aba0dffb69861bebace914bd537a3c8adbc7e443004699e5913835aa16"
     },
     {
       "path": "es/education/lessons/the-wolf-howler-band-replacement/index.html",
-      "bytes": 12156,
-      "sha256": "d62d3581e4861d907f38789389736fa62e66dc4bf67d0b62a2ed5103bd3dfa9e"
+      "bytes": 13271,
+      "sha256": "4fd16d79e167e4dd1c1836e96db57a9565744d3433dab35fdcc555880b273c65"
     },
     {
       "path": "es/education/lessons/yote-buster-reed-replacement/index.html",
-      "bytes": 12093,
-      "sha256": "d3501a27fc58b6793eff190e0448e4da0c60f9ab101918edf4f36736cb914760"
+      "bytes": 13200,
+      "sha256": "29c4277165b4cd9d314d324b634ef580c492449c4ebedc560d3a20807e805665"
     },
     {
       "path": "es/education/lessons/yote-howler-band-replacement/index.html",
-      "bytes": 12106,
-      "sha256": "67b159c937c303f429aff6e276641c86f41574db0021e213dbaa4f47c35e8542"
+      "bytes": 13213,
+      "sha256": "4691821fc0191c0b31fb44edd25f7fd50088439117608b49c3448f53b3c79397"
     },
     {
       "path": "es/field-guide/index.html",
-      "bytes": 8196,
-      "sha256": "74d31d5e078b81c3db7f35319824359019022b451fdc74a6f97af23b251c53ed"
+      "bytes": 9233,
+      "sha256": "c9b8011ddc3703a3178d8bb261b29e5ef75d29767b1c4e7dd0f91b7768790e73"
     },
     {
       "path": "es/guidefitter/index.html",
-      "bytes": 11945,
-      "sha256": "14f2546f8b58b55ba11975588e5067237e789569a2c1f2cae90e5c8010e9e3a1"
+      "bytes": 12982,
+      "sha256": "5b007b41e7a73da04863709d38173dd3df035e4c79c163584693c2265d619f8b"
     },
     {
       "path": "es/index.html",
-      "bytes": 55410,
-      "sha256": "0721bd885b012d0108287f67506c826c87fd0c82fdf0f88f90e63ae734057703"
+      "bytes": 56423,
+      "sha256": "ca24025bab1c4ee6f6ffbd5ee16e4f3cd8ddf88f73482e5dbb7cbed4c76f6d58"
     },
     {
       "path": "es/international/index.html",
-      "bytes": 21803,
-      "sha256": "5c1eb018d13fb11873e5a3ccf4496c3645ac2134e7a1af096806f8d5233b80c8"
+      "bytes": 22844,
+      "sha256": "ab08e5c41777e3469cc2eda31b3bef72570b039903010801210b616d8565ed73"
     },
     {
       "path": "es/legacy/index.html",
-      "bytes": 47342,
-      "sha256": "2470fff7e7f2c8d199acdbfb0d027912e8727dc4bf0df027b99e37b945ecdc01"
+      "bytes": 48369,
+      "sha256": "1b36f879fec20e6a81c5c94ebcdce7d729f891db5d51117e5b27ebe62615d498"
     },
     {
       "path": "es/people/don-laubach/index.html",
-      "bytes": 9656,
-      "sha256": "0e4b118091ca38bbe88276a67b9872dce9af444c0287de33a499b72b4e4e5acc"
+      "bytes": 10707,
+      "sha256": "31dd87445de4822a4b9397415509b087127273dff744efd04d91b39059e94d5c"
     },
     {
       "path": "es/people/gordon-eastman/index.html",
-      "bytes": 9210,
-      "sha256": "4cd4b6b28a1ac5f3226e7914f28522f53b51176155064b818489afaccc23b9ad"
+      "bytes": 10267,
+      "sha256": "1558c486ae4e6fb194b99d4514e284ad700dd604f0103ac08d4509d7eebb5401"
     },
     {
       "path": "es/people/mark-henckel/index.html",
-      "bytes": 9162,
-      "sha256": "729a217e59c4f5c7f801a5c82bcc787eddcf3bdfa2c93d5d7742a6a13c92a002"
+      "bytes": 10215,
+      "sha256": "92e7ec16a82268361fc938ffe11eb89d36c7810c1ea182357894ec30731f0c9d"
     },
     {
       "path": "es/people/t-phillip-bowers/index.html",
-      "bytes": 8438,
-      "sha256": "1504a4c3fddf8fe8664b1939d3a8478ac54b90db177428e6b2852f5690db7e2e"
+      "bytes": 9499,
+      "sha256": "956a78fd9aa913ebfd4f75489f63d2f9920fe5731de8d836315457a9d4107bca"
     },
     {
       "path": "es/resource-index.json",
-      "bytes": 56145,
-      "sha256": "d332c3dc673fbadbcf9f329d8c772fd093397bd48daa19952404902c6d426d25"
+      "bytes": 58814,
+      "sha256": "55e1c10a80ca510473afb22382c67e1989eb11dcb3834d68df53904324e793cc"
     },
     {
       "path": "es/shop/index.html",
-      "bytes": 16117,
-      "sha256": "710129515527c221a3dcde71bfee8df186d610c751506881ca095984a716b418"
+      "bytes": 17479,
+      "sha256": "de619b36253557c479270eedbf52512448947400f1430b4181ef603fcbd5018f"
     },
     {
       "path": "es/support/index.html",
-      "bytes": 17452,
-      "sha256": "c38ee251b3b84ff79aee78b73cfb990cd9d3a5cfec7be7c3b175055e1eac7daa"
+      "bytes": 18481,
+      "sha256": "a0f9cbdfb8f1f5cb1f9237c44fb6691a0d97e18e28ab4d67cfe881deb02f8ab0"
     },
     {
       "path": "es/university/index.html",
-      "bytes": 19104,
-      "sha256": "2139c3339fcb40af46386bb7abbed614600391e0143133baab876d708bcae4cf"
+      "bytes": 20139,
+      "sha256": "d90ea8768aff525facfdfedb3e23fd9d50f10b177a477e3c0aead83ae64dbe8b"
     },
     {
       "path": "es/videos/index.html",
-      "bytes": 83075,
-      "sha256": "fb58125f4c878b54b34faf434f86989906f1f84e007658564ba24ee75d743243"
+      "bytes": 84102,
+      "sha256": "d932cf42aff1a348065c4c218dad814394f5f87d0eb666315083f47350fa8ce1"
     },
     {
       "path": "es/videos/watch/-T-a9pnPF5E/index.html",
-      "bytes": 9928,
-      "sha256": "0297277b84aa945a10025fe2d625eb34116688eb0fd70571a1c65b9bee0945cf"
+      "bytes": 10991,
+      "sha256": "3dd7c22d2ca820ff4d4179e621fc0f599c7d23dc0088f832188a42d11226f6d6"
     },
     {
       "path": "es/videos/watch/0C4yCMsL0F4/index.html",
-      "bytes": 10385,
-      "sha256": "0841c6cd54c53c8c8ef58e656bde2f42394840f7c12f2ea4d2e62d03b0250cc9"
+      "bytes": 11448,
+      "sha256": "4e109b8da9d09298ed0676bac9d3f76b79880a2a79a2daabbf674530bedca9c3"
     },
     {
       "path": "es/videos/watch/0v-pRhhHNBQ/index.html",
-      "bytes": 9287,
-      "sha256": "17ba050659285ffa6ca6bd5f58033e4e518657e21ac451cad4acdeebaabf7eb6"
+      "bytes": 10350,
+      "sha256": "381fa060d5241a9415ebaeb9f7c7b16a95ef8a4498fc324dc88580c9284495d3"
     },
     {
       "path": "es/videos/watch/4QB6BIsOB8s/index.html",
-      "bytes": 10636,
-      "sha256": "2033687473e1dfd52b7081f2f49590cf1564de7bb769f906380a4f6f063671fd"
+      "bytes": 11699,
+      "sha256": "c531ee18d7b0baf7feaf06de091845f625bfeb9af1ca9d99266742e6365a975a"
     },
     {
       "path": "es/videos/watch/5_9RK6RXEtM/index.html",
-      "bytes": 9980,
-      "sha256": "b0a60f6226ed0824d2fe7d51e543e4d11168005e7ef912213d8f9d55532ceefd"
+      "bytes": 11043,
+      "sha256": "18b7a4a9671430811cc6e7fd113544c57242002e47fa9f4a6d10e6c92c703530"
     },
     {
       "path": "es/videos/watch/8Ikymay92SY/index.html",
-      "bytes": 10053,
-      "sha256": "59e63db12953ca1a82a6cbf86d00d463e51794d026b97a37f1f75b0fd466c3b6"
+      "bytes": 11116,
+      "sha256": "17cffa2d8ef21c0f04dc3a2e0a534f6ce2a2bb02fa47294cce764ba7be7858ef"
     },
     {
       "path": "es/videos/watch/8jP-Fl_JmU4/index.html",
-      "bytes": 9493,
-      "sha256": "42ad816a065f461cef42c4cb712b55795e91f44a0f40fec546bed52a84be17cd"
+      "bytes": 10556,
+      "sha256": "c7a222a0884937841ad68183906fd8dce07d2385559154ba866348c121ce303c"
     },
     {
       "path": "es/videos/watch/97uiIgLbEI4/index.html",
-      "bytes": 10474,
-      "sha256": "f21844c710cdf155d04819126e2415db17f2b7cd27553b161cf5411a7f3c743b"
+      "bytes": 11537,
+      "sha256": "07857c2e265db3577e5b2eb2874b9daf304f971314bd2d1ae2b0156f2a908be6"
     },
     {
       "path": "es/videos/watch/9EbA5JwxwfM/index.html",
-      "bytes": 10074,
-      "sha256": "56e51ead4976d14cf0f7fbd54a2d27641d8767cfe3ed30e1138023d84be21ab9"
+      "bytes": 11137,
+      "sha256": "18327d90306e0a3b20398675d4b9cd91982909caee82ffa30e9cd28e96d5edef"
     },
     {
       "path": "es/videos/watch/ALnNk-g9Uws/index.html",
-      "bytes": 10598,
-      "sha256": "fa6422db0dc082276f930704f255db4561e43f291c8253a15aa357390dbded4f"
+      "bytes": 11661,
+      "sha256": "21c1658fbfcbfaffca6b408a12b1e6a30a6102974c7a9d8d1dbc2f3b5f671ea2"
     },
     {
       "path": "es/videos/watch/BHOsbRugRXM/index.html",
-      "bytes": 9106,
-      "sha256": "29982e0a1044d164aa01f5eca6735bb0ea9e2a23aa8bd110476649e0fa0d336b"
+      "bytes": 10169,
+      "sha256": "1776e6aa44d407465328ea004ec79eb67b966ae09d2415ce53de98f2463fb539"
     },
     {
       "path": "es/videos/watch/BK198m9ZYlo/index.html",
-      "bytes": 9371,
-      "sha256": "ff0d42d44e1328e462e1b6b9e1c222ab9c3416f7893a4532d2a38affe56ac087"
+      "bytes": 10434,
+      "sha256": "b327652d3856e5297cc4aa98608d9668a3ecf6473ae58db2da4319e4055c043d"
     },
     {
       "path": "es/videos/watch/BO6xV_YC7pU/index.html",
-      "bytes": 9951,
-      "sha256": "fca36853a864f408c47fe27a1e6c795c213d502e888a23c82973431e3a71094c"
+      "bytes": 11014,
+      "sha256": "ddc0d3815dd152756a1f2cf6fd252e75b265d5d1ee6df4fde3983fb16c2e52a0"
     },
     {
       "path": "es/videos/watch/E7ckiC3qOwY/index.html",
-      "bytes": 10053,
-      "sha256": "404d5876b5237e75b0f193143912ea78817468c92cfbd6f2f0c099be3c40c113"
+      "bytes": 11116,
+      "sha256": "52c20787e9607fb42496295f5441b3f850308504d0bca56566ec7f67bca0a8bb"
     },
     {
       "path": "es/videos/watch/EjjHLgF8bFw/index.html",
-      "bytes": 9403,
-      "sha256": "729c462338f0cdf639661830d7114d226bd063bae187ec0463e33ae1bea3ccee"
+      "bytes": 10466,
+      "sha256": "39ea56b8e86bb2cfd6666e332e1e7594177fc8d378f6efdd069eaf1586b050d7"
     },
     {
       "path": "es/videos/watch/I6ZpW5udNZY/index.html",
-      "bytes": 10012,
-      "sha256": "e45730db376d957b76e1a3541fe27569ca66d404cdf67762a2ce19172a1dca43"
+      "bytes": 11075,
+      "sha256": "d976de89960f6133d0e6e9f2ae6383b3212c9d209fffffe6dafaf12b3de92971"
     },
     {
       "path": "es/videos/watch/IwtIGCIWQl4/index.html",
-      "bytes": 9887,
-      "sha256": "1ab035bc4c776ac0f48ea9add16c5a49d3477e86ebe5a8e04b02d161a6d2d275"
+      "bytes": 10950,
+      "sha256": "a6b70d430ca89961fe485f7927840456e7abaa8e87f1d29c8763b52ffa0fc6dd"
     },
     {
       "path": "es/videos/watch/JQ0I1NSdYkw/index.html",
-      "bytes": 10488,
-      "sha256": "7e41b67a816eed7306cf60f9619385ab833a877c464e553fde8ccb35502940c2"
+      "bytes": 11551,
+      "sha256": "912bdb5684a937e100ba9ea5d68373b5e017a954052f434e9cf81e88d551c55c"
     },
     {
       "path": "es/videos/watch/KIv6WN00wao/index.html",
-      "bytes": 10235,
-      "sha256": "7f4d4fed0c340276f6d3ca91bb5644b807c2bb150cea57311f00c7b288c5acb1"
+      "bytes": 11298,
+      "sha256": "1a73f7b6237240e43d6040f2b9a8cc9fa8a550356901172cc2eff9abaaf4db99"
     },
     {
       "path": "es/videos/watch/KmxBIA9FXis/index.html",
-      "bytes": 10626,
-      "sha256": "0872e012433d55212e837b9e34040def03bf1684c6011855582b4fd20d6a6d03"
+      "bytes": 11689,
+      "sha256": "988afb3ea1a472d048407e5090698c962f5b3d9465cc889babb116facb47b872"
     },
     {
       "path": "es/videos/watch/MpEBv9ne7Tg/index.html",
-      "bytes": 9892,
-      "sha256": "6a0d810d4d3dbb5579edf81f440785c937e06b775fd66c729a6685d580da0462"
+      "bytes": 10955,
+      "sha256": "4e84cac4a8d74369e690c161dff24b05031d7fabe265d08266c42aa2e0d6038c"
     },
     {
       "path": "es/videos/watch/P4GooCAezkY/index.html",
-      "bytes": 10383,
-      "sha256": "c5da3a527e96669e9238c1dbd4c19220e9bfde9be99a9ab51f0c72e40d1018de"
+      "bytes": 11446,
+      "sha256": "e77c14883fd6c9f44c0f096b1e43dfeea3f78236d83b902936f93b8fc66f1808"
     },
     {
       "path": "es/videos/watch/QyJN43ZVtHQ/index.html",
-      "bytes": 10618,
-      "sha256": "686008e48b496cae3799a04e217c38223c6ad172c41606da8439689c8ce5c79d"
+      "bytes": 11681,
+      "sha256": "bbde7e603607a4d360a17d8ccce329219f80122c8dff6c45ee6f49e9ae5c46a5"
     },
     {
       "path": "es/videos/watch/R5mZSXHKaOo/index.html",
-      "bytes": 10209,
-      "sha256": "8338b75aea66fc823477721be42c33dd9b42e7154d92cbaec32d52f9f2a9f280"
+      "bytes": 11272,
+      "sha256": "acd3aab29be7ccd29fdb6b5793190cf560448971c0e67dbd48f47159bc43853f"
     },
     {
       "path": "es/videos/watch/SImGsZQD7mc/index.html",
-      "bytes": 10640,
-      "sha256": "5c5b727c74e23a117d39bb35b1694c447e0c91c0ccb666e3e74dc3ce5ec5b753"
+      "bytes": 11703,
+      "sha256": "d660f7f36653271ef28dfa7d5e89a48b8660ccf74ea8d414ceb2087eef85ca0b"
     },
     {
       "path": "es/videos/watch/ScBQx4LlENs/index.html",
-      "bytes": 10488,
-      "sha256": "2ba4f39725f8944e35ef7c92715212a87fca9ca61d33643315900aa8145c1912"
+      "bytes": 11551,
+      "sha256": "37833f361e67cfad8119aa2044e950c5e8f56be58a22ef301b811a5a15c52415"
     },
     {
       "path": "es/videos/watch/U0NsZ2Iw6hM/index.html",
-      "bytes": 9928,
-      "sha256": "4d49d7dffc0b71cd7ef40239dd8d3932b7d20cf0c98e58c3133eee0c97f535b1"
+      "bytes": 10991,
+      "sha256": "d90e42da5868ba994c6bf3f8c4b8452490bb41aa38ddee298097e0a4963c2717"
     },
     {
       "path": "es/videos/watch/UkZx7Ld_SZg/index.html",
-      "bytes": 10326,
-      "sha256": "4696b6ef8fb9788b2dd33f65b497f7e62ee2213b6cb576cc3e5349dd4cffeb47"
+      "bytes": 11389,
+      "sha256": "d33643eabf573ed1a2d47ba898c441acdcfff7da6aabe1ea9d5fe99d981a1c4f"
     },
     {
       "path": "es/videos/watch/Vr4thuxyDqw/index.html",
-      "bytes": 9896,
-      "sha256": "069a8d3749697fc63c85073ce1ec6db5f246ea9da3f1eb3bdd195c07c13d0506"
+      "bytes": 10959,
+      "sha256": "89126ce8d01d074a613017069994ae983c5713fc819a5892a0b5e24964d8d617"
     },
     {
       "path": "es/videos/watch/XsbzrXSDvxc/index.html",
-      "bytes": 9970,
-      "sha256": "a116dbb82ab3d86779a56741abd11ffe1f570e5a9ead0f2fb5f022f3ff73d082"
+      "bytes": 11033,
+      "sha256": "2f0030de73e3f55911a46a92c166a4d01ec664a1e8c9547c48aa317cc87b0285"
     },
     {
       "path": "es/videos/watch/ZT5WjIglXZU/index.html",
-      "bytes": 9680,
-      "sha256": "9b6fdac60d02741ec47a490753201f0ebb3e8451fbfe28540c583a980f4af4a3"
+      "bytes": 10743,
+      "sha256": "0262f06a2d0b7fc251acccca51f13b3c66a52acae751f3132d0defcc7160e600"
     },
     {
       "path": "es/videos/watch/_x1uoR1J8Wc/index.html",
-      "bytes": 10115,
-      "sha256": "32a96201293eed7fdb2e9be94149f2054c6bd71887923055eec40216791100de"
+      "bytes": 11178,
+      "sha256": "fdc12decb23e895e0f83a75202e3af70bcbd61a2f99e6e006a4864e97f04dd12"
     },
     {
       "path": "es/videos/watch/cFeDZSohjrQ/index.html",
-      "bytes": 10511,
-      "sha256": "27feb23a19046696953f4b85be2fe2c5b6b3813c6b8063545b65fbfa8995743a"
+      "bytes": 11574,
+      "sha256": "6c3feaf2f7d93347d6ad6a4842315bcedc0a4463aeec5fa9bec920ffef9e8dd0"
     },
     {
       "path": "es/videos/watch/d1G3itdX03Y/index.html",
-      "bytes": 9812,
-      "sha256": "277f248b85f3cfee17b443d91fa462068f83e1799ae96d56d58efd40953b30f2"
+      "bytes": 10875,
+      "sha256": "fde890576a737511ba5788729e8a309cf492628c47177433711cfe4c92cf1e54"
     },
     {
       "path": "es/videos/watch/dq-jYpXSgx4/index.html",
-      "bytes": 10022,
-      "sha256": "e85764204a06ff34330ac5b3f58a687db432ece88c94d261de3a1d091572db2f"
+      "bytes": 11085,
+      "sha256": "64cfe62ddf6e3dc68f7e91405063c96a8161bb9258e737092e4986d8807395cb"
     },
     {
       "path": "es/videos/watch/h4BU8561Dfs/index.html",
-      "bytes": 10401,
-      "sha256": "de98b358cf1e5751079b2cbd2ec7c58e5cf46e8733fdfd2be59c35665c537bb4"
+      "bytes": 11464,
+      "sha256": "63f62346fab6308bd1e872c3a23ef2673a415119c9e0bacaaf98efaf1ca0c79b"
     },
     {
       "path": "es/videos/watch/j9iU3A570gI/index.html",
-      "bytes": 10642,
-      "sha256": "c2a72184d41b4378f03be0823db4b89990ba0a56ade4e58cb18132bd5d0d5184"
+      "bytes": 11705,
+      "sha256": "2d6d172dff9663133092b009489f0874fd43e5d3e7086594d4bff9f55c32138f"
     },
     {
       "path": "es/videos/watch/lExNCTk5AkA/index.html",
-      "bytes": 8934,
-      "sha256": "7c6e068b91dc71ef6fa6462e43d89f9f517f51a2c4173baebd1b29626d79ea88"
+      "bytes": 9997,
+      "sha256": "a05f9606b03aabc17dfebf9e4704f7f38aadd5189b2087e570126610eb1f4e6b"
     },
     {
       "path": "es/videos/watch/lbycfVnMbpk/index.html",
-      "bytes": 9899,
-      "sha256": "29e7be943672a1756499755745c69aaa0692d80f136c8ba7271d8c0bcd6efa79"
+      "bytes": 10962,
+      "sha256": "7056428b0627a3e275c0b6c77f89539cd8abaecb2cb4051408b7d6a5948e1bf9"
     },
     {
       "path": "es/videos/watch/mYew9VFY5fM/index.html",
-      "bytes": 10468,
-      "sha256": "0ec7a906196ef501c1a5d6ce26bd5357dc29e4a797d58bc9c6bec8d5a3940c4b"
+      "bytes": 11531,
+      "sha256": "46e1c68ab5ed22d46d2b3cdbc84a306886e43da55a6c90f46447a0426eceb127"
     },
     {
       "path": "es/videos/watch/miOheJ55ZWs/index.html",
-      "bytes": 10138,
-      "sha256": "929801f1be70d16a1395ded133e134a940bf451b1c6168e8fe6a35df4525b7f6"
+      "bytes": 11201,
+      "sha256": "fce9417b6105a0caf60f9d38a143dcdab285b11731837d6cae57bd11ff6454e7"
     },
     {
       "path": "es/videos/watch/n_jUaSY9hUU/index.html",
-      "bytes": 10038,
-      "sha256": "1a2955d7d4b01d90d1fdefd7952e8b5e20e6b2fed3b17815f22d7e81c29d5305"
+      "bytes": 11101,
+      "sha256": "3c79db67cc0c9b858e55fab58c6bef139f32aa7aaa023fc54230a123cb4ae983"
     },
     {
       "path": "es/videos/watch/nmYx713ARdI/index.html",
-      "bytes": 9752,
-      "sha256": "7c49eaea506fca3fb0f1b5e17a3005819989cf9082768dc78d6c7a02a4dbea74"
+      "bytes": 10815,
+      "sha256": "fb546f0caa35f08b9594beda1f2636ee7bc8738e0ea6720ef545cbae98c7186e"
     },
     {
       "path": "es/videos/watch/qk16Pxzq3NE/index.html",
-      "bytes": 9268,
-      "sha256": "9867deff974f977beae1ae74d3b33737f2e0f4f677dbd44cda5cddfe347284a1"
+      "bytes": 10331,
+      "sha256": "75a0827220cd4d30d5db7dbd4ecad0ba3b0743f5e122c2e947f3dff173583c0a"
     },
     {
       "path": "es/videos/watch/qwfLHGSpmtw/index.html",
-      "bytes": 10480,
-      "sha256": "04dbddebc6286ab2319dae2bb14ea774af244750512f5de694807f62c95f0608"
+      "bytes": 11543,
+      "sha256": "945dcdb3a3356cd6e0430ba137ea8d2bf27842c6e9d328ed6bc7658ac48aedbe"
     },
     {
       "path": "es/videos/watch/r4Ir9kGEgBY/index.html",
-      "bytes": 10886,
-      "sha256": "61d02234aa2c4b8b79207782b8d930a8e78fffdb26980271eca78621f1e88f18"
+      "bytes": 11949,
+      "sha256": "eb79ee1be321595c9b27eeb4cc2d911d24893c39c52a821bc77822cf49f11b8f"
     },
     {
       "path": "es/videos/watch/rvnK7GnBSwM/index.html",
-      "bytes": 10595,
-      "sha256": "d73954c8c979fef7c30be950c9dd6d5ec54ee623442efc2f1053521ab1c9b372"
+      "bytes": 11658,
+      "sha256": "65363aa874624a0ef356dab971f812055067f2e33ccbffbbbec80873d5b54c2d"
     },
     {
       "path": "es/videos/watch/x_EiSpAtrCk/index.html",
-      "bytes": 10488,
-      "sha256": "cc57f92d9bef35f92537456c8b7c447a53dcdb061247531a9118f15e61d8d39e"
+      "bytes": 11551,
+      "sha256": "fd932bdce04027db125bd8415119ed7a6b2a93e1161cf7770c6acc9689907123"
     },
     {
       "path": "es/videos/watch/zsuF0blJAYw/index.html",
-      "bytes": 10625,
-      "sha256": "c6eedc34135fac89666e78fa01404b746dfcda4621125762b1612b93ebb0767b"
+      "bytes": 11688,
+      "sha256": "b45bce5713497de8c80ebdccb7de4146ef2f3a0d6f0f7698de04a4ccd9ac4618"
     },
     {
       "path": "field-guide/index.html",
-      "bytes": 7556,
-      "sha256": "ac19144d94f86dc9e151448873a7c85928d74e86879fd0fb9737ba87930b8546"
+      "bytes": 8579,
+      "sha256": "bdde5867fa4220169f425102400e9f98eb48775f1dbe2ade4dd522370d43c83a"
     },
     {
       "path": "field-guide.css",
@@ -2438,613 +2910,668 @@
     },
     {
       "path": "fr/about/index.html",
-      "bytes": 27726,
-      "sha256": "e481f35222ec0d2eee0b7fcd0b559ef2e212887332377f452cc8efb02119a005"
+      "bytes": 28751,
+      "sha256": "1e05d203c6e9c85877dd57310e6325f84593b31a851974ba9d85604b26fbe4ff"
     },
     {
       "path": "fr/archive/big-bull-elk-cow-talk/index.html",
-      "bytes": 19108,
-      "sha256": "c161865199fdcb84b805aa8e1696e69095126b1250c43ff0f41fee4cf3bd5232"
+      "bytes": 20181,
+      "sha256": "7ec82e275dd91d1f4fb205335e8b448744d0ce0a3d33d437aa20282481ea6973"
     },
     {
       "path": "fr/archive/cow-call-draws-elk/index.html",
-      "bytes": 28195,
-      "sha256": "2a8257627d64e414b1343f1b18b9c4bf7af887355479fdaf444b8b5c217e793a"
+      "bytes": 29262,
+      "sha256": "d4f69b4c32977c1936acfcf622bf829fe1e366fb235701d3d7d844439281a1b7"
     },
     {
       "path": "fr/archive/cow-talk-for-elk/index.html",
-      "bytes": 32650,
-      "sha256": "15af0235ee888581a1605003d14f11f60dd7b34daa1cb61bb95f23cfad110a62"
+      "bytes": 33713,
+      "sha256": "312bdb1441b58a38462a0d531ceb5c1a4da4c44961a7f3265fbe38b10b70e997"
     },
     {
       "path": "fr/archive/cow-talk-radio/index.html",
-      "bytes": 20109,
-      "sha256": "3486f3fb623ba868367e0a07edc8827eab27e7e950ff2cb51843d8fdf9cb9a5d"
+      "bytes": 21168,
+      "sha256": "66a4f42a3efbdc6df361d99440d5cf74cfdef81c52d0003527c866c83303538e"
     },
     {
       "path": "fr/archive/elk-talk-review/index.html",
-      "bytes": 23586,
-      "sha256": "89d73895d758ab0384b392f1655082fc97401aa0795be3322f53577087be79fd"
+      "bytes": 24647,
+      "sha256": "e7d43d08022c13103fa529d40e706747138c230e3493a21d8ed2dd7963e546da"
     },
     {
       "path": "fr/archive/founder-record/index.html",
-      "bytes": 22377,
-      "sha256": "25a0e30ca3dde2d3805e88d39b196691c5da8eb31ec62eaaef8d7b0a92ae9ba6"
+      "bytes": 23436,
+      "sha256": "942cfdde1fee4e1d3fbaf9d65d2ec58cae909a6ddc1c57338ada3e1d075e6620"
     },
     {
       "path": "fr/archive/index.html",
-      "bytes": 37334,
-      "sha256": "e6aafdc7c20f3076e3a274f031d77e874b0744eff02b1882cf003b0d5a128c2a"
+      "bytes": 38363,
+      "sha256": "0f81d4541d000f255ef07215523b7b3960866edff56413dabbc315ebd7fe9e92"
     },
     {
       "path": "fr/archive/more-exposition/index.html",
-      "bytes": 21925,
-      "sha256": "afa639100c5a4a5d2572a46add9948774cc10d9927a26c67f3c80d326f002410"
+      "bytes": 22986,
+      "sha256": "70fb857fe46d674a1261adc11d91d9f295556155ccf20ad225961ef25a58bdda"
     },
     {
       "path": "fr/archive/more-show/index.html",
-      "bytes": 771,
-      "sha256": "24ac53e01f5d00f415d23eb1248a578aef99f21de27dcf09fe671ab6fd6054de"
+      "bytes": 1677,
+      "sha256": "b0c5da655a8fb3f734552b5dd8d76446e6f3decd23222493a1ed14fea164f3e4"
     },
     {
       "path": "fr/archive/newest-secret/index.html",
-      "bytes": 20354,
-      "sha256": "a315ce0f9143ab664ce508900edbd17ecbc6eabf919446276d57c5e29f6f1325"
+      "bytes": 21411,
+      "sha256": "fa77ef124986343b2b2e9aab3ed6a61316053a556e022e3b25eb30d359972da2"
     },
     {
       "path": "fr/archive/prime-time/index.html",
-      "bytes": 20535,
-      "sha256": "a83c7c68b190d6e593a4a7044f8542e1181e7576d183a69cd3eb2081713822b9"
+      "bytes": 21586,
+      "sha256": "c404119ffed1f08cefeff1490f20f2380dc2a060a1d8246f5ef8771592b51319"
     },
     {
       "path": "fr/archive/retail-correspondence/index.html",
-      "bytes": 20549,
-      "sha256": "7362195f81197c4685247aa437810443aebc025f3e0e0d6efb451760ccfe6892"
+      "bytes": 21622,
+      "sha256": "8d56633e7073fd27ecd68ccc03272ff57b95924b81db9f6f20130894c840deb3"
     },
     {
       "path": "fr/archive/sports-afield/index.html",
-      "bytes": 20877,
-      "sha256": "071320ad307012b611948fc9c51626f86abed532331039b92345b41588f8bd32"
+      "bytes": 21934,
+      "sha256": "75a98e26d4ea1139ee593cc7cacda9d74324e4389021235262d06fe58335f038"
     },
     {
       "path": "fr/archive/take-a-bull/index.html",
-      "bytes": 31917,
-      "sha256": "37ccc044c6f2863e04d7c0063ab90be4e751b7cf96b861e5320515fb58ffec05"
+      "bytes": 32970,
+      "sha256": "296650c742e3639285446e16e399e7d428daa3bcb7513df3cdc522efe9e047fa"
     },
     {
       "path": "fr/archive/talk-to-the-elk/index.html",
-      "bytes": 775,
-      "sha256": "a704d3a9500e38eddc79c446c68591686833375c0e5c0757abeadcf889b3b449"
+      "bytes": 1698,
+      "sha256": "ee39fdb0cf7e964fbed605c4f436d333764ce5eaae79368bebb837c32cd24b82"
     },
     {
       "path": "fr/banding/index.html",
-      "bytes": 15520,
-      "sha256": "532e664f562ab8827319eafbfe0069992f1da89fe4653452a304ce0e0f1e72a6"
+      "bytes": 16549,
+      "sha256": "30dfec8fe6580e81f062f0eb55543b0e0a529e10f6f1fb9a91445b3a22475f9c"
     },
     {
       "path": "fr/calls/antelope-talk-call/index.html",
-      "bytes": 9882,
-      "sha256": "2262b77cb74759b4140adf273efbedd3c5bdea6426566282e020876b49bccd34"
+      "bytes": 10945,
+      "sha256": "61cd3e5ee635bdfda1df5b000cc9593320847b4402c2e30d627036341bd32d0f"
     },
     {
       "path": "fr/calls/cow-talk-call/index.html",
-      "bytes": 9729,
-      "sha256": "58eb0a208dcda85542832451cbc339667fe977037364515117ff2e7062033d8c"
+      "bytes": 10782,
+      "sha256": "fa1db3f5d08422771fd71efe0d5d66c8db6cd420a70ed2bee7e5c7192508b1f2"
     },
     {
       "path": "fr/calls/deer-talk-call/index.html",
-      "bytes": 10867,
-      "sha256": "49a6cdbb9e91eba851fea784a1d3bdd19bb0099eacf0bf9e51260283bd513e74"
+      "bytes": 11922,
+      "sha256": "00187d7a8baed0abc0cea587855078273869092b3614bf08eb1eca5402a1f347"
     },
     {
       "path": "fr/calls/deluxe-cow-talk-call/index.html",
-      "bytes": 9291,
-      "sha256": "4361be077afb660de4e771544b611d8bb5dd2ab19c2b97aa5ce6e69e268d3e96"
+      "bytes": 10358,
+      "sha256": "873b9748f9579928cfb5128d19123ac965fcfef16b82f6bf43864703e88b8cb7"
     },
     {
       "path": "fr/calls/power-bugle/index.html",
-      "bytes": 9678,
-      "sha256": "2bf5eccb463a1076cba782ea3f5786c1ebe0f1c9eea1e6caa6dc37c76999b258"
+      "bytes": 10727,
+      "sha256": "3db08d2e65bd16b49eea5fa3b9da565791226e92daa702dd1d5d7546b7a14a4f"
     },
     {
       "path": "fr/calls/power-howler/index.html",
-      "bytes": 9087,
-      "sha256": "20b24bc3cc1d8e12b82ee509ca78891938396d3ff15e93a26164186d50919912"
+      "bytes": 10138,
+      "sha256": "ec3494b38957e55bed08be674d9da104b4b68e22c9d1a108f46e15b2b1400942"
     },
     {
       "path": "fr/calls/royal-bugle/index.html",
-      "bytes": 9042,
-      "sha256": "7541a75b9b36e9d44dcc3683d34ef1e590d027f1ad45da4cbd72ac488b9dfb7a"
+      "bytes": 10091,
+      "sha256": "44dd3c2ceafa430fbd6df80e940e982be092fd218a655486a068e72d611fb20d"
     },
     {
       "path": "fr/calls/the-wolf-howler/index.html",
-      "bytes": 9170,
-      "sha256": "f0dc3dd05e8b4556f00a8e90851fc0e4531ebbde9e39d3f7e9c413451ea6a718"
+      "bytes": 10227,
+      "sha256": "652479abbcb3fe74931436133de0742121d8dd2f134b5011b09b5b705b6b623c"
     },
     {
       "path": "fr/calls/yote-buster/index.html",
-      "bytes": 9033,
-      "sha256": "5d81be92fdaff676fc23db3df10880063726816f21881c67395cb48ed4b83647"
+      "bytes": 10082,
+      "sha256": "aff795fbd70ad13ef07d5d274c26c875bf052771f9cbc48376c779154660f3c7"
     },
     {
       "path": "fr/calls/yote-howler/index.html",
-      "bytes": 9059,
-      "sha256": "6848df448bcd25f1c32c24a42cdd7b2786da74fbe92a862e43e056c17ccb4422"
+      "bytes": 10108,
+      "sha256": "3164333dea06f2cceadfc84eb0f6db3171371093444befc36f75c610617397b0"
     },
     {
       "path": "fr/canada/education/index.html",
-      "bytes": 17994,
-      "sha256": "cf8ca5d8f04afaafacf1035a6e54f409a5c493428b20a691c20b9a31566b9e22"
+      "bytes": 19041,
+      "sha256": "6b6ac0d4cacda8c602085431c33bcb7f1bcfd6496c768a36789cbe128b053166"
     },
     {
       "path": "fr/canada/index.html",
-      "bytes": 24861,
-      "sha256": "0558c9d42d1b6af48fbc5add57f7052b8dbb92687ef3a67e618ed13fcede0d2b"
+      "bytes": 25779,
+      "sha256": "d2cac1de7bdf30387999493d2af011c6af4912d0eed00d3550a506444033d551"
     },
     {
       "path": "fr/canada/presentation/index.html",
-      "bytes": 15301,
-      "sha256": "d01073cd52822fbabe7576373e451a7da8e2dc2b79eb110eb733e09b4b4dbe0c"
+      "bytes": 16327,
+      "sha256": "25fe000e2b2356217f593a9053e6c76984e5feea64a01751d8c6e55d5052f186"
+    },
+    {
+      "path": "fr/catalog/categories/antelope/index.html",
+      "bytes": 48430,
+      "sha256": "83188aa924f0a945060f96adb1b1059451da28899cf2df7111240b139a52d018"
+    },
+    {
+      "path": "fr/catalog/categories/bands-reeds/index.html",
+      "bytes": 48878,
+      "sha256": "5583c29fb87ab6ba73081172b5f76662f10f0c842851909989bc3b1fa544f2f6"
+    },
+    {
+      "path": "fr/catalog/categories/blinds/index.html",
+      "bytes": 47908,
+      "sha256": "4101437c76cd42d2e7be93fad5e98d7e419db639c8c5361539272805d424560a"
+    },
+    {
+      "path": "fr/catalog/categories/books/index.html",
+      "bytes": 48461,
+      "sha256": "5eb43f08c83176c1357a6f1a75bfb357bad942aebc7f82657ab282841b4fb19f"
+    },
+    {
+      "path": "fr/catalog/categories/calls/index.html",
+      "bytes": 51220,
+      "sha256": "c1b596e994b1f6b2f8f8e85caa5198bddff1cab62b1beee0a78007591b56d035"
+    },
+    {
+      "path": "fr/catalog/categories/dvds/index.html",
+      "bytes": 50816,
+      "sha256": "244ab091095948eb08cac157fc86243ec7dfeb07eacb46c1280f0a476b896ac6"
+    },
+    {
+      "path": "fr/catalog/categories/elk/index.html",
+      "bytes": 50424,
+      "sha256": "43d37cf956952f1397509c49f91cb84b1b009d91881b23f4121fb95436ec2102"
+    },
+    {
+      "path": "fr/catalog/categories/mule-deer/index.html",
+      "bytes": 48932,
+      "sha256": "8a123605477cec1f3156aee952dba3179353bc4c9d0f345fcd74646cd4886ca3"
+    },
+    {
+      "path": "fr/catalog/categories/predator/index.html",
+      "bytes": 50085,
+      "sha256": "adae8fe3f79f957ec6572799ac8a9d47c23ee431347f637193ea9dbf9d18d747"
+    },
+    {
+      "path": "fr/catalog/categories/whitetail/index.html",
+      "bytes": 49338,
+      "sha256": "cbab725453c4b23b1ad4f4b2615713ea4cde2e0a1689a0af288347976cc8aacd"
+    },
+    {
+      "path": "fr/catalog/index.html",
+      "bytes": 54591,
+      "sha256": "ab138e2e850cf2470012f8ad86aa4fdd5fc4d8bb83502c4897c04d856529d568"
     },
     {
       "path": "fr/contact/index.html",
-      "bytes": 11220,
-      "sha256": "6df7b4e435438a80143a9883a58dee87ebe9a525ed95c8c2d78fe98426388630"
+      "bytes": 12249,
+      "sha256": "3b4f01dea4d73f20fd605230cb7a25555bca87b5d2f890a2121deecc1ca133ea"
     },
     {
       "path": "fr/countries/argentina/index.html",
-      "bytes": 12646,
-      "sha256": "24a02d75be22469d69222e8e2bb56e2adc927fdf44797526e5a1297acc875220"
+      "bytes": 13699,
+      "sha256": "87446d9ceeefced43f5a457e36cd90c64ab161665543d73b6c6fcde69ce78c0a"
     },
     {
       "path": "fr/countries/canada/index.html",
-      "bytes": 12630,
-      "sha256": "2b65670a7d7a696f507a6efa5d895f5ee7b2ba50941c53207dac803584b576b0"
+      "bytes": 13677,
+      "sha256": "4af65e4eca018976361f969bd8910bc47da48f9d17d4449861517ca01415afc4"
     },
     {
       "path": "fr/countries/central-asia/index.html",
-      "bytes": 12621,
-      "sha256": "64708eb813ccc2e70885c78d20d7b9c8572f5ca78f72cd7df0a5f61473320cb7"
+      "bytes": 13680,
+      "sha256": "744d08f00f5773b3f7afb800b168a4366bd2b9e986ca77014efed2048b0302ef"
     },
     {
       "path": "fr/countries/germany/index.html",
-      "bytes": 12661,
-      "sha256": "370a98eb837571ce962b5de4222f4425985b9e63f64cc90905ffb00955c6dfd7"
+      "bytes": 13710,
+      "sha256": "afc1bee4903c48edbc9de77a9d5482aa47ce0e8a867f31eb02c038f61b8b78c5"
     },
     {
       "path": "fr/countries/spain/index.html",
-      "bytes": 12535,
-      "sha256": "9d7eb83204099f1f5c468108a5be34dec1ca60e59433414e32c1faccf1b0aee2"
+      "bytes": 13580,
+      "sha256": "d0409c5d940b3ea6e9790f8bd3e663d1edd410a4551526c6e40d7f44d00fbf8a"
     },
     {
       "path": "fr/countries/united-states/index.html",
-      "bytes": 12902,
-      "sha256": "75ab32e54c912194438bdc77896d6b92381218c2028cfd21078e64c161a1f6af"
+      "bytes": 13963,
+      "sha256": "b9cac34b082aa7b485149487f211f2990c48291ddb90568ecddc439ca223986a"
     },
     {
       "path": "fr/dealer-application/index.html",
-      "bytes": 90345,
-      "sha256": "2b4ef6e2d2ed37fc441d83757a46d064f663f3299ed10c4da8e993b1461ff7b0"
+      "bytes": 91396,
+      "sha256": "3af09dfb159b7a8ebd12b36538ce01db55a1bc6fa02ce4aa2d06f890f4582657"
     },
     {
       "path": "fr/dealer-application/received/index.html",
-      "bytes": 7029,
-      "sha256": "7d98d3a5f7335425dfbb80c814be6b702b0a7d7311bc305b583879f7f2c968b8"
+      "bytes": 8098,
+      "sha256": "35fa6815df51f82c055783fc66333ac9ab822604c9a993fd8dd88e23f5f6d904"
     },
     {
       "path": "fr/dealer-guides/customer-support/index.html",
-      "bytes": 13751,
-      "sha256": "ab801efc6dffcbeae0df889d0fe915fb550b63fab42d34c25c049c82a8741ea8"
+      "bytes": 14826,
+      "sha256": "eec9150b98786b31e19f43c17881147331b9e4314d54ff0e458930bd337688cd"
     },
     {
       "path": "fr/dealer-guides/distributor-network/index.html",
-      "bytes": 13811,
-      "sha256": "b5059f977234b3c54e89e4e04ea6f8ea3e376228b085e9568b37bed21e1ca949"
+      "bytes": 14892,
+      "sha256": "da4abba4a42494036cdef707201720c33f44eef9b0c8025e252422cef25e5dbf"
     },
     {
       "path": "fr/dealers/us/index.html",
-      "bytes": 30753,
-      "sha256": "cd379f62eb556bc4a6c20b73c8666fd4fc2fc8b21d6709cbc5d0e1a4502e9321"
+      "bytes": 31788,
+      "sha256": "8936737dc3e8964f2829bf6d9bcbff0e22f1b02f213cbe08acbe7dea4245e2cc"
     },
     {
       "path": "fr/disclosures/index.html",
-      "bytes": 28945,
-      "sha256": "9a0f10c4d04339ae32e89f2e19595ae9c238bc3c151e94e81788dc6161592a0c"
+      "bytes": 29982,
+      "sha256": "41af789c9dd413f71cf034455c621882df221740249ffb921904bb7cd4e167c6"
     },
     {
       "path": "fr/disclosures/payment-policy/index.html",
-      "bytes": 30295,
-      "sha256": "94c501cd54d6af022e7844c3f94c5b2c4e8c76740ce6d258553db2aa8dbd40e2"
+      "bytes": 31362,
+      "sha256": "3664f00a3a11f139236a423b9e4c7e6d79fb901d66d2eae352db6ed99aee7f69"
     },
     {
       "path": "fr/disclosures/shipping-returns/index.html",
-      "bytes": 10919,
-      "sha256": "0a9d867c9c883cc1743555c9d2a8bfaa619a7d2141d1d460dea6dd7837c98cbc"
+      "bytes": 11990,
+      "sha256": "1825e4906052711299c2847b7f5079b3a7513b703a420ffa720fb993aa3a407c"
     },
     {
       "path": "fr/education/deer-calling/index.html",
-      "bytes": 15943,
-      "sha256": "86ab80c1b0b9eab38d145e4e04f399f449cef03ec81e040fb39afe8a4b86b28b"
+      "bytes": 17002,
+      "sha256": "355f76a21e71e2969ae6ee8e1f23d8bca397a7c23500d5f7c5d3c07b0495c126"
     },
     {
       "path": "fr/education/index.html",
-      "bytes": 39977,
-      "sha256": "f126b1395367a5bbc8c783c1eb4b1e92cef10a762aab353d698653b798aafc61"
+      "bytes": 41010,
+      "sha256": "77a94044b67cc459a843a7a04225ca4f2a4d81049ead31e17bd6abb1b9fb94ca"
     },
     {
       "path": "fr/education/lessons/antelope-talk-call-band-replacement/index.html",
-      "bytes": 10391,
-      "sha256": "19c69ad2d159fdd1475e52a8a57c0268df632e8262a686fe19ec452534bcd6b1"
+      "bytes": 11512,
+      "sha256": "83ea2407c86118a701a6b506d09dbc2361ce328fa09bef246434c6bccce2d4bd"
     },
     {
       "path": "fr/education/lessons/cow-talk-call-band-replacement/index.html",
-      "bytes": 13676,
-      "sha256": "33df30893dfa448a4c491ef06cadb754ae1dafd02b5cdbddba70d2e14d199b8e"
+      "bytes": 14787,
+      "sha256": "6be0237d79cbabbb273ed42b17aa398544ac6f00ef7280f8925547e618fa8d9f"
     },
     {
       "path": "fr/education/lessons/deer-talk-call-band-replacement/index.html",
-      "bytes": 11179,
-      "sha256": "b511f57d78fdbfd9e6ab257a4306e1bc84e8642c88f18ff0cab17ef9afd8caba"
+      "bytes": 12292,
+      "sha256": "f9294dd65bef81d570ad1b8ae7da59746af1a8cf3d72c4521de48d97d2dbd45a"
     },
     {
       "path": "fr/education/lessons/deer-talk-demonstration/index.html",
-      "bytes": 11426,
-      "sha256": "f9e4188e5cd8790ce38d418a30788807f2d3da16800ae2a85caedd92468eeeac"
+      "bytes": 12523,
+      "sha256": "ad03b8e11f77422181377b020daae6b60dee9e8f3642199702408d69bf723b64"
     },
     {
       "path": "fr/education/lessons/deluxe-cow-talk-call-band-replacement/index.html",
-      "bytes": 12295,
-      "sha256": "a66e91a422ed4e3bbe7ea7480b0de19e836adb78ad36b6c21e385d27c20df20a"
+      "bytes": 13420,
+      "sha256": "f6b83963ee49d3900de0592b2491f63d8ed9f887f8c8559c5a16061884f81bf7"
     },
     {
       "path": "fr/education/lessons/power-bugle-band-replacement/index.html",
-      "bytes": 12811,
-      "sha256": "d2d8fa75042e5d6431eeb28d8e50f756df36ad6d08022212fee43c168e9c671b"
+      "bytes": 13918,
+      "sha256": "7097cf8cf86020053582b0ca9ec747406804c0dcd903c956d083d5014985e4a1"
     },
     {
       "path": "fr/education/lessons/power-howler-band-replacement/index.html",
-      "bytes": 12146,
-      "sha256": "9df7613d0567e8ffe8890b6f612383cf1d3e02099b6b02760283dbd1aec416bb"
+      "bytes": 13255,
+      "sha256": "3fdcce5e64b0ea6d878b8fb62482f8ac034d782563f8f0f32b2dcf5ffd877702"
     },
     {
       "path": "fr/education/lessons/royal-bugle-band-replacement/index.html",
-      "bytes": 12169,
-      "sha256": "2b2e38f6ba589892927bd7e338c95d714dd7df2c897b9db03dbc5a1f3373c4cd"
+      "bytes": 13276,
+      "sha256": "a61aa3b61312e3129e4bf932c4d9830d40f79d5dcdd9b13d09900d2dd9c41319"
     },
     {
       "path": "fr/education/lessons/the-wolf-howler-band-replacement/index.html",
-      "bytes": 12182,
-      "sha256": "93ce23707d68e44993a2fdcd774c12cae59401fd636ac60fa2471e8c7cfd2524"
+      "bytes": 13297,
+      "sha256": "e4879749ea1f913bbfae7b106aa1fd67e8ed16c3c6f279fa118a047d93e6f5e4"
     },
     {
       "path": "fr/education/lessons/yote-buster-reed-replacement/index.html",
-      "bytes": 12123,
-      "sha256": "38beef5df89b23dc5d97b630a34c212f3ee70550094b67a382f9ccf44acf8562"
+      "bytes": 13230,
+      "sha256": "2e0cb1487b36a18463387721d84ca8d49c4aeb1f8b6987cc0418499818c53ea4"
     },
     {
       "path": "fr/education/lessons/yote-howler-band-replacement/index.html",
-      "bytes": 12132,
-      "sha256": "e0ca3e78cb7d858f5d793010a08c08c7f7782c88a4a79c277d36e26f49ff5abb"
+      "bytes": 13239,
+      "sha256": "037f7b0e8d44d06d9382a29e04d131c5b6b83cc4f0c3c737dd03a343c6d3590b"
     },
     {
       "path": "fr/field-guide/index.html",
-      "bytes": 8324,
-      "sha256": "1d2890888cd4913a7dc95a08124bd1bb35b8ed0616e6d29b0d43f4c0cde689ed"
+      "bytes": 9361,
+      "sha256": "600103145e8f9c63f7087c39167bf4a0e7545e3e5b1800885674354a40552f63"
     },
     {
       "path": "fr/guidefitter/index.html",
-      "bytes": 12085,
-      "sha256": "161995293ed03603ee249c56525422b3bdbfdff5d5db68a2774aeb3652f9646c"
+      "bytes": 13122,
+      "sha256": "3018a18293f4deee1521e6e26c92e311ae1a47b95cf3626fc054ccb7a544c185"
     },
     {
       "path": "fr/index.html",
-      "bytes": 56942,
-      "sha256": "0d30db4a33c2ae33dfb59d1569147f5502cea5086632d62c3142bd6c7754adbc"
+      "bytes": 57955,
+      "sha256": "48f031d3540261cf40e5badd84c44a14116c3fb73961cf94aac776e765f9176d"
     },
     {
       "path": "fr/international/index.html",
-      "bytes": 21921,
-      "sha256": "a54a9acfe7eb2b266bd6bfdf03d1c95660ca2f4b3078d0a477d21c2740e5e028"
+      "bytes": 22962,
+      "sha256": "14499ddb1136740fb8dc36ac11d6fd81507efb02d28b440af97e0e2275fce73a"
     },
     {
       "path": "fr/legacy/index.html",
-      "bytes": 48704,
-      "sha256": "233beb374af84688c6bc0c1e9f6cfe30502697e0be9f08345a0a4b2c544b6e41"
+      "bytes": 49731,
+      "sha256": "610394a6417caca8fcf7a0c042fd9a82f8628e151ee79fa63bf5a210e7c0bca3"
     },
     {
       "path": "fr/people/don-laubach/index.html",
-      "bytes": 9678,
-      "sha256": "a5afb01dabccc472231e4f7211d401308582fb3c0c58eff389bbf98353f16041"
+      "bytes": 10729,
+      "sha256": "9789a57a5bdfe2c9fe67a678998500311079a72841040e2ca685b740b1ad0f09"
     },
     {
       "path": "fr/people/gordon-eastman/index.html",
-      "bytes": 9137,
-      "sha256": "27e1415d798c11390b9e205ade629fea6cb389d172215ff4e93982e8e4dcce04"
+      "bytes": 10194,
+      "sha256": "42914bad35f9bec0cb699d50e0be374887e43b9887690c644f7c72ad2b9a2517"
     },
     {
       "path": "fr/people/mark-henckel/index.html",
-      "bytes": 9194,
-      "sha256": "5445b446995c619fcd25a11ea070c7c49b4dff2e10740a11b01669212aa8d5e9"
+      "bytes": 10247,
+      "sha256": "da11a6b61f1f7989e4c41f8a0af4090493646edddc5c6b8230102763a06d3701"
     },
     {
       "path": "fr/people/t-phillip-bowers/index.html",
-      "bytes": 8454,
-      "sha256": "cc727d392e8b767ab8a83f52d7c00eba6ce0418f9d8285a4f4075608789e00cf"
+      "bytes": 9515,
+      "sha256": "42b4991023422b837dabdfd0db57a61b2f9e4b771337eaf84d8ccfd15adbe7bf"
     },
     {
       "path": "fr/resource-index.json",
-      "bytes": 58658,
-      "sha256": "20da9f33beec47512aba867226d1ea43cca64b54fb08e012c8a105e54e2f4005"
+      "bytes": 61360,
+      "sha256": "c481ce1ef896d36e07f20a4fade84eba47a02cf356a7681b0b0038685434f906"
     },
     {
       "path": "fr/shop/index.html",
-      "bytes": 16268,
-      "sha256": "eaaf241eb4b6df77967e10e7581b79e03f7ae298da5c4c9af1dde9142c248f91"
+      "bytes": 17635,
+      "sha256": "580fa81612552c38384bef0aec6bf02abbb192d9f59f66b03ffc32d86b6ac08d"
     },
     {
       "path": "fr/support/index.html",
-      "bytes": 17512,
-      "sha256": "6c15320f45fbb47f1cc3a3ec207dd037f73d3d2a60810244adb1f871c073a317"
+      "bytes": 18541,
+      "sha256": "62d99d061d1a1d91cfd7a871367a4da081b022b40b477fe114dc48dbde81ad46"
     },
     {
       "path": "fr/university/index.html",
-      "bytes": 19188,
-      "sha256": "4e28bd5842fa41a1a08e6ccdd08b55538fe6739d6a5803f2c304af84e4e7619d"
+      "bytes": 20223,
+      "sha256": "6fec9203c6e8b0762bf9540dab33eb01eb2ec425ea21f0714ac46da3b54062ec"
     },
     {
       "path": "fr/videos/index.html",
-      "bytes": 83139,
-      "sha256": "6aba0a2fa622f4987b5154dfde5b21c89dc457d1a801e8476b227ccf0dce5ec4"
+      "bytes": 84166,
+      "sha256": "c5222ad714924d7638c667b5d6a2d747cfc868cfaef1004d0b9fa8fb548a0371"
     },
     {
       "path": "fr/videos/watch/-T-a9pnPF5E/index.html",
-      "bytes": 9978,
-      "sha256": "91599cbefadefb84fd05a208fb40d8dabb07bf034e4a4c0666c25ced5da3f443"
+      "bytes": 11041,
+      "sha256": "f4a9cce642b84c57f4dc90dc54b7cdbae21a0e95dd4bf0f9eabcf6989ef3c662"
     },
     {
       "path": "fr/videos/watch/0C4yCMsL0F4/index.html",
-      "bytes": 10460,
-      "sha256": "f921d77e5bd286150ac55f68f7a01737ffc284ebec6ab15022872f3d52776c1f"
+      "bytes": 11523,
+      "sha256": "01d157ebc2c43e04db45511554ab55bb962be5770bfcff6c3cbb185ba1223e05"
     },
     {
       "path": "fr/videos/watch/0v-pRhhHNBQ/index.html",
-      "bytes": 9359,
-      "sha256": "c783edbfcfcf11544fae0c99a690d41393842b018dc9427b68ec928d318a152f"
+      "bytes": 10422,
+      "sha256": "6a63c96b8fdb21f0635a54bd294bf82eaf357ce5e01a3b354f0571021c81ed67"
     },
     {
       "path": "fr/videos/watch/4QB6BIsOB8s/index.html",
-      "bytes": 10778,
-      "sha256": "35f1c7672395367fea0c2b232678a3a1555c7abbb91e1bf6ef37274a4ba56243"
+      "bytes": 11841,
+      "sha256": "73d8f8a492bcff56b261e4f1adbddb20d70391e20edb843965c7d01870dc4f48"
     },
     {
       "path": "fr/videos/watch/5_9RK6RXEtM/index.html",
-      "bytes": 10004,
-      "sha256": "e782d83902a633c1c3b78685a93dac66e96f3433a609442071c4253d907a8756"
+      "bytes": 11067,
+      "sha256": "27ce73c0999ab38d766d63f7688914c8e9efe7802bff6a3a7c4cce8f48088f17"
     },
     {
       "path": "fr/videos/watch/8Ikymay92SY/index.html",
-      "bytes": 10096,
-      "sha256": "088a3264ee6660cc381826461ec87558ba49125513af96623e5516940cd1a641"
+      "bytes": 11159,
+      "sha256": "009ae4293ecb0185d9f538e47d2d885683aa458041e461f96933f8c4acb1f99d"
     },
     {
       "path": "fr/videos/watch/8jP-Fl_JmU4/index.html",
-      "bytes": 9624,
-      "sha256": "57ff0526313dee6cc96db500cd354b910acbb0617ce346d461f6c32e51d0fb7d"
+      "bytes": 10687,
+      "sha256": "e0d5f221f17aa362a851cd0f348d893b411068a8f1832723bcd9fa56e7e303d1"
     },
     {
       "path": "fr/videos/watch/97uiIgLbEI4/index.html",
-      "bytes": 10556,
-      "sha256": "5e9f007413fc3cf6046b05ada249c4be47fcb9b819dd0cf76be2e6041a393db9"
+      "bytes": 11619,
+      "sha256": "29fa53a1d32ac6851b4dddfc6a850e2d82fe08b3495244ac1be093340b596ec3"
     },
     {
       "path": "fr/videos/watch/9EbA5JwxwfM/index.html",
-      "bytes": 10047,
-      "sha256": "48d88073e65025c394d817631c34e0f007243c4e4b4460f4dc07ed36a49d8d5f"
+      "bytes": 11110,
+      "sha256": "f209ee814a86a0b02ec5c318d0fd4756ef4e35180d8bd2f8f642e14c89b46166"
     },
     {
       "path": "fr/videos/watch/ALnNk-g9Uws/index.html",
-      "bytes": 10753,
-      "sha256": "7a4c80a386183d0ea61189e325651ff118bf2aa9d43ccb77a805584c9caf77dd"
+      "bytes": 11816,
+      "sha256": "4574b18fd9a8f2c0c19fc49d070877049d09a4bec300e5e7dceb95923b664082"
     },
     {
       "path": "fr/videos/watch/BHOsbRugRXM/index.html",
-      "bytes": 9158,
-      "sha256": "ae97f5b6eea36a1c446870713568b6084928928f7286674c7c3e96a9af81a6b7"
+      "bytes": 10221,
+      "sha256": "9adf04b34d013de429a3d72083b337f95e877d62fe935f76a6799f9a5d2365b8"
     },
     {
       "path": "fr/videos/watch/BK198m9ZYlo/index.html",
-      "bytes": 9372,
-      "sha256": "b8d268b31b09424599b4c11227fb3dd1ee1b1314f8d875e010374105bc9302c3"
+      "bytes": 10435,
+      "sha256": "8e244577fc71241bd11a00cead7cccc732c560010a612085232a3e0965eeff96"
     },
     {
       "path": "fr/videos/watch/BO6xV_YC7pU/index.html",
-      "bytes": 10000,
-      "sha256": "7c1a1f0af18d8d54c88f776933d6e12cff2bd1063c1192d74cbd3cddd793b5a4"
+      "bytes": 11063,
+      "sha256": "1525d1a0682ce8f56c1ad152e12c42868452f50054651936435b77d7121c5bbb"
     },
     {
       "path": "fr/videos/watch/E7ckiC3qOwY/index.html",
-      "bytes": 10096,
-      "sha256": "ae8b8e8bcd4dbd4e0af852a5f942ea30caeece051c8ce2eb14a99e00cfd23d02"
+      "bytes": 11159,
+      "sha256": "29ae7135cb0713ad22cb8ed9ce4c929863145c7409052877b319a5270ca11992"
     },
     {
       "path": "fr/videos/watch/EjjHLgF8bFw/index.html",
-      "bytes": 9475,
-      "sha256": "293ec301bb74a346c97670346de898dd756e65b8fb19eb0daf3d453818e734a4"
+      "bytes": 10538,
+      "sha256": "840ebc75ea8956d90616f7d1f3f6301a2395a3d21af605a100cd1ea88645feed"
     },
     {
       "path": "fr/videos/watch/I6ZpW5udNZY/index.html",
-      "bytes": 10091,
-      "sha256": "72edbb63a2b3ba6a4069afcec8d05c166766ac4c0437b4a7cb4ea5e2025b9e1f"
+      "bytes": 11154,
+      "sha256": "ca43e929f1079993a5b5f52dd040335e622cbb76c5999df213f55f4d9e507192"
     },
     {
       "path": "fr/videos/watch/IwtIGCIWQl4/index.html",
-      "bytes": 9919,
-      "sha256": "56d137b47c560ea092b5856cfe57e135b640e098ebf6d5d29d7a597ae718de0d"
+      "bytes": 10982,
+      "sha256": "fea28acf74c90025574468adadeb9199f26f16db336293282ca50858f4ca21fc"
     },
     {
       "path": "fr/videos/watch/JQ0I1NSdYkw/index.html",
-      "bytes": 10589,
-      "sha256": "49de1f35dcb8ee4d1733c61b75201964a61bc70105db816dfbcb3994737cc90b"
+      "bytes": 11652,
+      "sha256": "68a2760fbf53c64f678c80e0020737f7d2678e73fc7401e91086533e6a302813"
     },
     {
       "path": "fr/videos/watch/KIv6WN00wao/index.html",
-      "bytes": 10328,
-      "sha256": "4b4d0bef37f83fd0c697a13f88c866501238a2c18c9ffebf7c1d1ebd2058955c"
+      "bytes": 11391,
+      "sha256": "7196b6dafdd4fb9f21a3a0d5e2b8109ed1175a45b8c968cc0e8f3fc489eed08e"
     },
     {
       "path": "fr/videos/watch/KmxBIA9FXis/index.html",
-      "bytes": 10766,
-      "sha256": "d59a8ceb1ddaa612ff90d1135f8f987847a70d485899daf6731e86432117e591"
+      "bytes": 11829,
+      "sha256": "e35721696f1b8bcf14fee4972e777f0199f4e7fd918b36b69e88c466c41e17ca"
     },
     {
       "path": "fr/videos/watch/MpEBv9ne7Tg/index.html",
-      "bytes": 9944,
-      "sha256": "871dcc71276d4b2a0496d8704f454c5e23392100c751cdb6f5a987991e817b53"
+      "bytes": 11007,
+      "sha256": "fc0a36eb5628cb80cb4c462a13ac7c29af4eb56f7386d48da00d63b40e45382e"
     },
     {
       "path": "fr/videos/watch/P4GooCAezkY/index.html",
-      "bytes": 10506,
-      "sha256": "ca340f817e57d472324c2f35ccec3d13a899cc588fe4a8915b1edddcf87e7738"
+      "bytes": 11569,
+      "sha256": "1965b27c4186f394e34018d3d199bf39e7f9395aa2b221d710cd42e13c477cbe"
     },
     {
       "path": "fr/videos/watch/QyJN43ZVtHQ/index.html",
-      "bytes": 10730,
-      "sha256": "36ee6481acf8092d3c2dbccfc92d9d278b74cea7f2389fc21daee30dd0b831b8"
+      "bytes": 11793,
+      "sha256": "08591ec89338263337128bd6185fa1e05182df5cd60fc629a1f1df3ca65aaaef"
     },
     {
       "path": "fr/videos/watch/R5mZSXHKaOo/index.html",
-      "bytes": 10226,
-      "sha256": "98ecdd321f2bb8ff575a9e59b2dbf72c4810d144eca8c431b85cc6617d572897"
+      "bytes": 11289,
+      "sha256": "c32563f302d76b91d2d383ab3a3677125c89e2c68e36d235a0cbb87cec3dcbba"
     },
     {
       "path": "fr/videos/watch/SImGsZQD7mc/index.html",
-      "bytes": 10773,
-      "sha256": "bd76fd6112b1945ae984a259daf1a1212c0d2f2e00e64119c74ad2f3a4c66489"
+      "bytes": 11836,
+      "sha256": "aa1300e98eb15c4e01dd8431c4872bb4c3dc8d9cd4069af115c9d1bf0e9143e6"
     },
     {
       "path": "fr/videos/watch/ScBQx4LlENs/index.html",
-      "bytes": 10626,
-      "sha256": "333789bb110ae7a1ccce93e608ced94854b7fb55264df80279c2e4c18fa481ef"
+      "bytes": 11689,
+      "sha256": "184c2c1cb4a45f6ea04fb6504ccc589e72ea642431eb9a3b017c128319454318"
     },
     {
       "path": "fr/videos/watch/U0NsZ2Iw6hM/index.html",
-      "bytes": 9949,
-      "sha256": "4bdf74475bf78336b75b04527f1311b037891e88564d977fb6f5a09bfe9aa1e4"
+      "bytes": 11012,
+      "sha256": "8d86d1d90060d014ff35de70ab05aa6f2f82d3918fbaa8ed4b7ef39e80dbefcb"
     },
     {
       "path": "fr/videos/watch/UkZx7Ld_SZg/index.html",
-      "bytes": 10362,
-      "sha256": "047ace3c55f4a37f1caed8dc85347c1dd936cb99c47829ebaf07c61c604a18d5"
+      "bytes": 11425,
+      "sha256": "02946b08f9ebc3851f36db2b6cacaf9277b251d1f4698d923e46a8b66ab0e4b4"
     },
     {
       "path": "fr/videos/watch/Vr4thuxyDqw/index.html",
-      "bytes": 9939,
-      "sha256": "81fce50c4e7270e7fb927592fa84efdd40b0007bfb2830de517d9a2db2dcc62f"
+      "bytes": 11002,
+      "sha256": "ba544d8323ca68ea7a0080fece24b1e3256205938845e9ad1b08b38756fac838"
     },
     {
       "path": "fr/videos/watch/XsbzrXSDvxc/index.html",
-      "bytes": 9991,
-      "sha256": "47f69c584fbc0d4f83862214685d0c9f3497404f201d06417ca3e92f59ddbc82"
+      "bytes": 11054,
+      "sha256": "fcf73f08d464ccd4613f01105c71457f8de81730352611ba3f0dbbdf5a0434d6"
     },
     {
       "path": "fr/videos/watch/ZT5WjIglXZU/index.html",
-      "bytes": 9806,
-      "sha256": "b4980a1b962c2d1801e6d48bbdcf6efb9ee28628f7d915d3c6322f92790a3dd4"
+      "bytes": 10869,
+      "sha256": "c41794bc44ab600ba7940a94aec1ba352f1f2a0b8f7222f174b515332c9b4f4e"
     },
     {
       "path": "fr/videos/watch/_x1uoR1J8Wc/index.html",
-      "bytes": 10151,
-      "sha256": "2e3989cb950dac3d997478c76bb2ca1c8f16966142e13c185b85d91d1b345b54"
+      "bytes": 11214,
+      "sha256": "5f32290c2575764b490e061e2ed70d5d0e4a03a99abbd4282bf789b80d0da8a6"
     },
     {
       "path": "fr/videos/watch/cFeDZSohjrQ/index.html",
-      "bytes": 10622,
-      "sha256": "fcca92f532b42f8107ec61c0020f0f886b29416005f2e3f5a4d47bb98315525c"
+      "bytes": 11685,
+      "sha256": "8af11ca906b87e61060887b604428d37d416e5f51d585350865d7075508a646c"
     },
     {
       "path": "fr/videos/watch/d1G3itdX03Y/index.html",
-      "bytes": 9860,
-      "sha256": "7b9704302994a9db4c835e5199ed6e01cdb40345736169e8c6e6f451c1a1d124"
+      "bytes": 10923,
+      "sha256": "3dcfb73845cdbac0fe9e5cbf933f7ec6743156683e6389858845ee4119cac2dd"
     },
     {
       "path": "fr/videos/watch/dq-jYpXSgx4/index.html",
-      "bytes": 10064,
-      "sha256": "a3d179ae6e9758573cf3b1fa9e9c39b25542d6f56bb37c9e21adf41885a91e01"
+      "bytes": 11127,
+      "sha256": "b8feaff15dc2f1daf5595ff263c1f7790cacac3fa73aad547535eb401babfc1c"
     },
     {
       "path": "fr/videos/watch/h4BU8561Dfs/index.html",
-      "bytes": 10524,
-      "sha256": "14517feae98ac910354651efa7733273711fb5c711e63b4d082920cf6d1624fa"
+      "bytes": 11587,
+      "sha256": "c0da7f093d492100e654df2e605bf04f688277d18510117cf5f7b96a79d06a48"
     },
     {
       "path": "fr/videos/watch/j9iU3A570gI/index.html",
-      "bytes": 10781,
-      "sha256": "c2967395b57956c7e70198e5e245b1caf796efbb54e61cff96d491ba876c7ae7"
+      "bytes": 11844,
+      "sha256": "0295d61fe6d5d55a9031c6277d1fd2a153e9a96c967f8d89ce9b86f62c4d8b3c"
     },
     {
       "path": "fr/videos/watch/lExNCTk5AkA/index.html",
-      "bytes": 8959,
-      "sha256": "3b95d897d1e3ddbf6a150e6e0d260ecff3b7f4e85f16c50fe8aa37b9d42288b4"
+      "bytes": 10022,
+      "sha256": "3051107db1a53889927694f268698de8381781822d9e56cf146d7f1d7a8d5367"
     },
     {
       "path": "fr/videos/watch/lbycfVnMbpk/index.html",
-      "bytes": 9944,
-      "sha256": "40539816bbe2f45de357675862424fda9c6c52c6df635e2ddd9ea57d8b3034b9"
+      "bytes": 11007,
+      "sha256": "3c687365a6719ad0f22104cdeec9534aaacef9058d90bfc7617230be038b39ae"
     },
     {
       "path": "fr/videos/watch/mYew9VFY5fM/index.html",
-      "bytes": 10546,
-      "sha256": "9efd634b18586c9afe480f1562664c6587172239c8899f7314cd053c5a147b62"
+      "bytes": 11609,
+      "sha256": "bcea14c95e967bcc7ca15e018cfde364407bb0fc9422e5b8eb85835d93659477"
     },
     {
       "path": "fr/videos/watch/miOheJ55ZWs/index.html",
-      "bytes": 10173,
-      "sha256": "6b58c80d106dfe22c11111ff8c6cb3f1fe9e4c533de2afe9679659491a981977"
+      "bytes": 11236,
+      "sha256": "30ea967790babffe65ee1a8396f70cb39c6c6b662a863894ed53b95974fca7b9"
     },
     {
       "path": "fr/videos/watch/n_jUaSY9hUU/index.html",
-      "bytes": 10081,
-      "sha256": "97187e2d5582d50ac267f62bf4f4a4d3b66a73c6c5dfb85385b52af663639e8b"
+      "bytes": 11144,
+      "sha256": "022e33ecbce49fff6db177d4ed3c28ff33d52b386170e263790bcccb213c65ea"
     },
     {
       "path": "fr/videos/watch/nmYx713ARdI/index.html",
-      "bytes": 9768,
-      "sha256": "ca8ea557858b45f1689a56afecc9b3b241591567e8da087cf17b8228fe458b1d"
+      "bytes": 10831,
+      "sha256": "403bb70fd29033a6eed068ffd42ab152307a557158ccce1db3dc8ccd090f20ac"
     },
     {
       "path": "fr/videos/watch/qk16Pxzq3NE/index.html",
-      "bytes": 9288,
-      "sha256": "b04c0bb1a892b80ea1b4ea588aaf4a59b6fcf67107434ac79fed6aff18b8b6e5"
+      "bytes": 10351,
+      "sha256": "372be0a67d3b0dd6d26307d4e4a771cac800b40a94775fb1f1084ba28b9872d4"
     },
     {
       "path": "fr/videos/watch/qwfLHGSpmtw/index.html",
-      "bytes": 10536,
-      "sha256": "3cc25c09bd86e6f88bf3777132f3898eee395de6050daad2bad93ea572820c0a"
+      "bytes": 11599,
+      "sha256": "edef3c5eabf16600de9f322870ae80289a2df697d6ffc7931b3e1b20ac386cef"
     },
     {
       "path": "fr/videos/watch/r4Ir9kGEgBY/index.html",
-      "bytes": 10912,
-      "sha256": "5219d6975cf8c3b82d639ce644edaefa761f47605981a0eab4b11f4c9626ba8a"
+      "bytes": 11975,
+      "sha256": "5a07a2b560b2056788189de17c6320d72fdd75a28ee00ae112a56671a5057cb0"
     },
     {
       "path": "fr/videos/watch/rvnK7GnBSwM/index.html",
-      "bytes": 10692,
-      "sha256": "636e3189d2aaa3195e2d02a1690ebbd9aac8e81bff85a3fe564e1c377021366e"
+      "bytes": 11755,
+      "sha256": "5c50084752375a6d942dee75a937fe1abe6fbe65fdd964ead5cfa4f66acd946d"
     },
     {
       "path": "fr/videos/watch/x_EiSpAtrCk/index.html",
-      "bytes": 10626,
-      "sha256": "5cf6876b09a22a00e77a26c8f17469a52c22d63ae1bb738850b1788c2fd8bd71"
+      "bytes": 11689,
+      "sha256": "c85b40776522b805f7eae33115823d1b2ed255de8abf0947b33175b170cbe133"
     },
     {
       "path": "fr/videos/watch/zsuF0blJAYw/index.html",
-      "bytes": 10709,
-      "sha256": "ae16634af5015a1a6c291e9655d422c7d433191c35e3dc723b6d6abe6a23a251"
+      "bytes": 11772,
+      "sha256": "46e7601d815fef1d2fe69519943e417e9beebd0ff464f6f951400e724b20e124"
     },
     {
       "path": "guidefitter/index.html",
-      "bytes": 11166,
-      "sha256": "1ff972782748e285dc7b945c2651804b0769ee30cd8bdb0d9c5220479c36438c"
+      "bytes": 12189,
+      "sha256": "7546068479970acc2f658edd64f65fafd32951af200d628f080b6320afa6da4d"
     },
     {
       "path": "guidefitter.css",
@@ -3073,13 +3600,13 @@
     },
     {
       "path": "index.html",
-      "bytes": 50488,
-      "sha256": "9c432c9cfa2287e62169f4db6368891d7cc9922af99ce27c374302590376ee24"
+      "bytes": 51487,
+      "sha256": "ad3e6f240c490f73a1ca7e35e41a026c34cd3b35613b9d82abcf1e4101bd298d"
     },
     {
       "path": "international/index.html",
-      "bytes": 20225,
-      "sha256": "1ab23baae37f83d0b01ef139383c856096cf91311efc98081ff10cf6f3f0bc86"
+      "bytes": 21252,
+      "sha256": "44a5e28d0b161bea949aa9173c91a3afc274d3a1cc22988685e42aef7b4d79d2"
     },
     {
       "path": "international.css",
@@ -3098,8 +3625,8 @@
     },
     {
       "path": "legacy/index.html",
-      "bytes": 43071,
-      "sha256": "dfb928335bc93e47dc404476d74b91ba67d6f7aee0a3de181b8ea4111399319f"
+      "bytes": 44084,
+      "sha256": "0f8864a2d72afe7ee96425a6bac5ae5f56405ced2339d6a5acbd8d04bdd01051"
     },
     {
       "path": "legacy-expanded.css",
@@ -3120,6 +3647,16 @@
       "path": "legacy.css",
       "bytes": 2211,
       "sha256": "16106d5f73d58ab7e0c861ad17ecb3aff493f6dd7ca6cc0ab1421aae8c110ae9"
+    },
+    {
+      "path": "llms-full.txt",
+      "bytes": 47115,
+      "sha256": "7a22f206f7547aa1dcc7269df50d5b2c077f76d2fc1d348d6887abdecd96bc25"
+    },
+    {
+      "path": "llms.txt",
+      "bytes": 9488,
+      "sha256": "e0ee9aecc48759fe34e09da286fe8303d35da4a07d0e2387bfe8cd617b37fd34"
     },
     {
       "path": "media.css",
@@ -3148,28 +3685,28 @@
     },
     {
       "path": "page-transitions.js",
-      "bytes": 15995,
-      "sha256": "6f5bb7be3fdc9c935a337d386ff5b800c23661f12d4231f0ea6856c10751083e"
+      "bytes": 16005,
+      "sha256": "94fc35aa75379d8900ff6b402db04a39693cf617b6cdf1ea2a3adc9179f76034"
     },
     {
       "path": "people/don-laubach/index.html",
-      "bytes": 9049,
-      "sha256": "b80d0090c017c0e102db06a3fa71b6fa70b4a931f340affb5ed5c23c23fdfd3d"
+      "bytes": 10086,
+      "sha256": "ac46b6127fe0f597e631d42281b630b041caee199ac347b726413e907c962e92"
     },
     {
       "path": "people/gordon-eastman/index.html",
-      "bytes": 8626,
-      "sha256": "83c7ac732db57f36da18b99f4de3430182ad34b88d1b2e18bbc5f34ee73ffe51"
+      "bytes": 9669,
+      "sha256": "c02538ab86a3b31260f80606f5ffca3c030b26c2f486a28f3b0ca63a76c731fd"
     },
     {
       "path": "people/mark-henckel/index.html",
-      "bytes": 8571,
-      "sha256": "591e29301f67ca1dfa2c9dc9fe6ded86f7f284de13bb4e94dc49defd32047345"
+      "bytes": 9610,
+      "sha256": "96a730f0df695e9d35fa0d4d2c27303e8fbe8d3e40c133eaa219a4eea58045c1"
     },
     {
       "path": "people/t-phillip-bowers/index.html",
-      "bytes": 7858,
-      "sha256": "34d7c3c6acd5e6d631ad39005ab8a1c2591c57a599396480e83adab14737d8fc"
+      "bytes": 8905,
+      "sha256": "d25bff0c667a5a706cd5cf98f20b6a8be53eb27869826e7f5b4cd4dc22e68107"
     },
     {
       "path": "records/BRWBCF4D415B79D_002264.pdf",
@@ -3438,8 +3975,13 @@
     },
     {
       "path": "resource-index.json",
-      "bytes": 32684,
-      "sha256": "a10137d48e7201a04fbc138a0f508b5ea686f4800cec542d0193ffd2fceabc07"
+      "bytes": 51945,
+      "sha256": "a07d2a828ddb8c68f62d565d681fad6320ca36d0d0b96c7947393e88b0d155d1"
+    },
+    {
+      "path": "robots.txt",
+      "bytes": 507,
+      "sha256": "6c16fcad62c7d6b57e700e373227f230da398a538d6d88b686432a92907504a7"
     },
     {
       "path": "saved-resources.js",
@@ -3453,8 +3995,8 @@
     },
     {
       "path": "shop/index.html",
-      "bytes": 15281,
-      "sha256": "e05666115d6ed23d7f9147cac14cd8a6bbbdd8ccbf8472c043b7089d1b2faee4"
+      "bytes": 16628,
+      "sha256": "1b547921dade7870e2239d840923220d3930538b86588b4841afbdabddeabe5d"
     },
     {
       "path": "site-language.css",
@@ -3468,8 +4010,8 @@
     },
     {
       "path": "sitemap.xml",
-      "bytes": 34385,
-      "sha256": "50fc0f880db0667d54d9c693d02649428ac779074571c95072dc723d3d7ada90"
+      "bytes": 253550,
+      "sha256": "9ebb81a419c5f910d722197862c30fa806d1d0f654c561a2f15073f07dd9be54"
     },
     {
       "path": "soundscape.css",
@@ -3513,8 +4055,8 @@
     },
     {
       "path": "support/index.html",
-      "bytes": 15827,
-      "sha256": "6d4c2f560de73c2442ec3870aa347d640839d5f6052cfbe581e21c4584108333"
+      "bytes": 16842,
+      "sha256": "5add2a8bdeb2b0cfdddaa2f108d3bae0aaaed7527d7dde8e978b11fbf113f7ce"
     },
     {
       "path": "support.css",
@@ -3528,8 +4070,8 @@
     },
     {
       "path": "university/index.html",
-      "bytes": 17653,
-      "sha256": "f9f1aabd2998c108d80c23a8be37bcab03f5506cc7409c92f7668b814eb804f6"
+      "bytes": 18674,
+      "sha256": "bc2f341bd03987a8de78c1025a626636dbd416c4e8164149df2df957c8784aa5"
     },
     {
       "path": "university-training.css",
@@ -4638,253 +5180,253 @@
     },
     {
       "path": "videos/index.html",
-      "bytes": 81051,
-      "sha256": "ea046def9f3cc86183341471480f63d17336db09ec92feec86cc4e55098b9d55"
+      "bytes": 82064,
+      "sha256": "3e8cc941c3c88af7a103394e581bfb9154defaad70d04dc0e8ad736f1e0301e4"
     },
     {
       "path": "videos/watch/-T-a9pnPF5E/index.html",
-      "bytes": 9319,
-      "sha256": "78751dc6b19deb51e5d3dce90b7b7ad04b43a37d90366c852af86efaa2524041"
+      "bytes": 10368,
+      "sha256": "c3a73d84a15445ed494305cb6fce02f7fa60cf873caca76ed84b4c80b1dda662"
     },
     {
       "path": "videos/watch/0C4yCMsL0F4/index.html",
-      "bytes": 9753,
-      "sha256": "1f3b5b19bc29e361fc28f38e87afc7872c60531a67e303246724d00d92c1bfe3"
+      "bytes": 10802,
+      "sha256": "31d2d783d515472a496e1542a1cec1095ca6a20abfc86be0a12c65a4fdf5a22c"
     },
     {
       "path": "videos/watch/0v-pRhhHNBQ/index.html",
-      "bytes": 8714,
-      "sha256": "2391ab64a3864f4aaa7722853ba9f4ea217031614aae063a382b609f01149683"
+      "bytes": 9763,
+      "sha256": "fde2e5491dd2c6829c1e0b2397be5ef7f17d9091651ada665484091f6f03a4ba"
     },
     {
       "path": "videos/watch/4QB6BIsOB8s/index.html",
-      "bytes": 10002,
-      "sha256": "4c755e63ca9601f2643e7b69e2eb07ebd961c21e855c5df552d2797a3233c904"
+      "bytes": 11051,
+      "sha256": "820b3c475a5918774276f3817faa1b8645d285a29595df57564189fd8bfde178"
     },
     {
       "path": "videos/watch/5_9RK6RXEtM/index.html",
-      "bytes": 9405,
-      "sha256": "94da2a95be944902d3991176d6da788e2a2381367ce40c4550bf95c53c71648d"
+      "bytes": 10454,
+      "sha256": "0430f64e54aac1dd14f6f9652f0e39ff15e0987f3c7c2d69ad92b4d5198c86d1"
     },
     {
       "path": "videos/watch/8Ikymay92SY/index.html",
-      "bytes": 9466,
-      "sha256": "b52fe16ed13b9449ba160fea5962b13a5fd6f6c793c4c9aca9e73cfbd6f89f5e"
+      "bytes": 10515,
+      "sha256": "139b263056a9449e0038c05c73e2efbbd06f179b3f287db33155b9d39bd01d76"
     },
     {
       "path": "videos/watch/8jP-Fl_JmU4/index.html",
-      "bytes": 8882,
-      "sha256": "244171c8c4b68f5f27400201a10d8cd4623627801c4dfc05a62da4e407ac9cc7"
+      "bytes": 9931,
+      "sha256": "a58ef504ffc6800dd9a83c70571963b5e40c275575f0b564d0ccb3270dc26227"
     },
     {
       "path": "videos/watch/97uiIgLbEI4/index.html",
-      "bytes": 9864,
-      "sha256": "ce0f6ab0ce9ec8e7d689366f28594617ce2dce173e75be75e274424fa6a19001"
+      "bytes": 10913,
+      "sha256": "b4773355320b1f29be13a4014402945a6c5e0315abe51faebc0be309392106e3"
     },
     {
       "path": "videos/watch/9EbA5JwxwfM/index.html",
-      "bytes": 9485,
-      "sha256": "df70cda8db0bacfcfd8cea762202f83989f84c0c2b0de42bf73f65670cc90f9a"
+      "bytes": 10534,
+      "sha256": "90b15d06af8bd2e73c46582934b178f1f9dffe1bdd352d966a0a66ffa5e1bc77"
     },
     {
       "path": "videos/watch/ALnNk-g9Uws/index.html",
-      "bytes": 9965,
-      "sha256": "a88a6ae1cab3a017cb2a8492277af2eb7848c559b18daa56d207ade66a275ad1"
+      "bytes": 11014,
+      "sha256": "4d1b46bc1a7867cd4d397c084f758fd0d860d53213e6802ef70d832353607b71"
     },
     {
       "path": "videos/watch/BHOsbRugRXM/index.html",
-      "bytes": 8539,
-      "sha256": "760b1b116a756dd34c0d779539a8488bdbf962bc2c0ac1ab2880bf81ad2eb36d"
+      "bytes": 9588,
+      "sha256": "f8d90b57934086fa0507cd63d4cdf615351d1d873195dcdab9a0df9921452e28"
     },
     {
       "path": "videos/watch/BK198m9ZYlo/index.html",
-      "bytes": 8796,
-      "sha256": "fea96b85c43b656e5bcf5dfb96f42266213b04b8f302285f6a1a007ea0e3e307"
+      "bytes": 9845,
+      "sha256": "4c7de00c46779204ed6dfcff429900eee6e3044c4ed5d3ce008d56e6d3e14aa2"
     },
     {
       "path": "videos/watch/BO6xV_YC7pU/index.html",
-      "bytes": 9349,
-      "sha256": "78872115f6be2392fa4ed5c35c341bf50e79b034fc994599103b1d86111dbc9f"
+      "bytes": 10398,
+      "sha256": "9b06cc2a3ceccdf58827fb37e23718548a0f1d02145f78d296e31b7eb8282d56"
     },
     {
       "path": "videos/watch/E7ckiC3qOwY/index.html",
-      "bytes": 9466,
-      "sha256": "e69244f900caf1c6b97d19d1387c0b4dc8c9d57458886934c0c62ff955b674b3"
+      "bytes": 10515,
+      "sha256": "6bc0dd68c9acaa5628a631a5bf1c45987ead03d4dd738583483a214baba95d0f"
     },
     {
       "path": "videos/watch/EjjHLgF8bFw/index.html",
-      "bytes": 8827,
-      "sha256": "7c8a524121619835ef2e71d7135f0d28fbe24591f9291ccb901ca96acd232e91"
+      "bytes": 9876,
+      "sha256": "f5025f76145368f8e382f15ab1f422dcf76f50906494e9c51a110fc15a78468f"
     },
     {
       "path": "videos/watch/I6ZpW5udNZY/index.html",
-      "bytes": 9453,
-      "sha256": "fe495168fea9c8f7005de0f1de200269476ce3f8057f6622fbddd566d8986b3f"
+      "bytes": 10502,
+      "sha256": "3271032c6bcf7e45f9045752166ec1b9a3ec147af3e8c3b77dfb177a306e60f6"
     },
     {
       "path": "videos/watch/IwtIGCIWQl4/index.html",
-      "bytes": 9317,
-      "sha256": "1c656666b94baaebb887d096f8261cd2cc97ec418b46d85815be571ff58a773f"
+      "bytes": 10366,
+      "sha256": "a2efa4a08d013ee847cda02d2d7734ff1c3ec05ba7df9a4b182e7981f6eb85a4"
     },
     {
       "path": "videos/watch/JQ0I1NSdYkw/index.html",
-      "bytes": 9848,
-      "sha256": "b92cda0f4c4a17c623a5b82f69155da51f76e4e4ee321dbf923356d4a789108a"
+      "bytes": 10897,
+      "sha256": "70e7f2e950a35834bd80cddcecd696f28a0678c4edaa30a4211ac448b14374fe"
     },
     {
       "path": "videos/watch/KIv6WN00wao/index.html",
-      "bytes": 9629,
-      "sha256": "e939dd6186da7e88630b837279c2c54c536f9e8bc671d9268d8a1bb6a5701dbc"
+      "bytes": 10678,
+      "sha256": "32f9898c1e7a586d004b8210f97423a9158b7287e2fdb4c4f9661d5cd574e32d"
     },
     {
       "path": "videos/watch/KmxBIA9FXis/index.html",
-      "bytes": 9997,
-      "sha256": "01d557542a2e5ce9aa12a0c948d61a6dac45fd4cff7a0a5744298efabdfe9f3a"
+      "bytes": 11046,
+      "sha256": "c6cd28b162105298ad60961b7f5f3418dbc6a11e3dfac4ff7df7286d10cc1945"
     },
     {
       "path": "videos/watch/MpEBv9ne7Tg/index.html",
-      "bytes": 9309,
-      "sha256": "be4552d0c27b957ca5c60aaed12421dcc332d0b73c0853779ba040856a3ed20b"
+      "bytes": 10358,
+      "sha256": "39a9ab95e80a35be3a36e46d2f3bf08282fb2ebef8074f98b736cec790342c66"
     },
     {
       "path": "videos/watch/P4GooCAezkY/index.html",
-      "bytes": 9793,
-      "sha256": "f106d2e524ba31b9925899893fa5a1fabdb9da068877fa28ba4730f9af66915f"
+      "bytes": 10842,
+      "sha256": "b37e4e4b0fb0beac9d0a40aa158bfd2253006fbd59bdf2c74701885a64a62ff9"
     },
     {
       "path": "videos/watch/QyJN43ZVtHQ/index.html",
-      "bytes": 10037,
-      "sha256": "35d066e42219cbaf3ed638e655841f301f4869532738187a5f435c942f8595a5"
+      "bytes": 11086,
+      "sha256": "05b3ce1d6eee5e311e0b6c53713861a6a9c05de47104f010ddf370261b271f67"
     },
     {
       "path": "videos/watch/R5mZSXHKaOo/index.html",
-      "bytes": 9601,
-      "sha256": "9031b732adbcf7f2a450bc6be83276fed26fbf2b846de35103ccf399941d7e17"
+      "bytes": 10650,
+      "sha256": "ed978591fb8982daedcbca73817900766dc26ea04a9caae435aace7fa47b7033"
     },
     {
       "path": "videos/watch/SImGsZQD7mc/index.html",
-      "bytes": 9997,
-      "sha256": "324fa2b3e13adf4dbef0f52503e24248a8dfc6790a2609a61a0d3c7c5b6fa242"
+      "bytes": 11046,
+      "sha256": "2fe706beb83ea3979169a752ca1b485d8342943a9d3da993c3f706f9f9189537"
     },
     {
       "path": "videos/watch/ScBQx4LlENs/index.html",
-      "bytes": 9850,
-      "sha256": "dcd32460e78d58060ac908d8b733549227a3a3e20a058a5c2247165892cf0e17"
+      "bytes": 10899,
+      "sha256": "3ee658edd6ccca8b24409feb4535c5aa8e10d496679549a51a6080e7febf9c91"
     },
     {
       "path": "videos/watch/U0NsZ2Iw6hM/index.html",
-      "bytes": 9349,
-      "sha256": "2a5828565e8d223b15568164e68d3c27f63f3aba0f96fec59b23ddd037113f03"
+      "bytes": 10398,
+      "sha256": "98ad5856420ac1ae05be0146206a8d37fb405306be8663f091263c1daca0d489"
     },
     {
       "path": "videos/watch/UkZx7Ld_SZg/index.html",
-      "bytes": 9715,
-      "sha256": "439019447c11dfbc251dc5dc93f93b1e4ad7e9135881fd35a1df6cf8b7e38f23"
+      "bytes": 10764,
+      "sha256": "8c2b0f86d1a82cfe3d93a4f941de20a6fa161c8fc946df49b9fcc3338e19f43f"
     },
     {
       "path": "videos/watch/Vr4thuxyDqw/index.html",
-      "bytes": 9342,
-      "sha256": "16b3cdcad51e2d2dfd0bb0190a6475c16f8809ab06335bf7a8e28f136017679e"
+      "bytes": 10391,
+      "sha256": "e475018684b9614b049270bc673fdd42adcff5e5eba29fb76bdbb1b07dff728a"
     },
     {
       "path": "videos/watch/XsbzrXSDvxc/index.html",
-      "bytes": 9333,
-      "sha256": "06ba31c3a0714c8dfce68797f1d620a62e50019f7fde79c74d76246131c8ec40"
+      "bytes": 10382,
+      "sha256": "3553b339b3573fffb69a91c2bc9dc5e9f033702936ea84b218b61d793195d56c"
     },
     {
       "path": "videos/watch/ZT5WjIglXZU/index.html",
-      "bytes": 9049,
-      "sha256": "e22c90c6d951d5ee51bdcf234ffb04e608cc95057acf568bb879cd29db8515f4"
+      "bytes": 10098,
+      "sha256": "52e662cf6ed97e0676e98076d1e36eb12d4b3cfd06b432cd21f23795a22a2c88"
     },
     {
       "path": "videos/watch/_x1uoR1J8Wc/index.html",
-      "bytes": 9521,
-      "sha256": "027527623abe19136bde51ea99af12fa785e752d0420d872737e66987a2ed4c7"
+      "bytes": 10570,
+      "sha256": "b586bc1a71a0771cb31fc6dd3009679e7a2a3a2f7b0fc3ce8841c1e1d1b4bfb1"
     },
     {
       "path": "videos/watch/cFeDZSohjrQ/index.html",
-      "bytes": 9883,
-      "sha256": "a8b89892b88ea271c9c38159e66d7240c8c8f4a0c87f017661814257ab546fda"
+      "bytes": 10932,
+      "sha256": "e7acca393f7288ed51121b4f430737580ccdabffec0b608eec925a845b73f84a"
     },
     {
       "path": "videos/watch/d1G3itdX03Y/index.html",
-      "bytes": 9235,
-      "sha256": "4f04a2e5847351835660e7c7cfddcf43623ae5e4a9785ce0bda31ecffac1fb5c"
+      "bytes": 10284,
+      "sha256": "e431f99196f4922d49ef29fba38812d0f893f9df5f8604c6ccaf30c94aade8f2"
     },
     {
       "path": "videos/watch/dq-jYpXSgx4/index.html",
-      "bytes": 9445,
-      "sha256": "f38cc2360d4b6bdb5b796d8b0f44bfaccb6d88a3c739c690080df2b5531cc086"
+      "bytes": 10494,
+      "sha256": "118287f685df90ad4ddff735021b3168b61965edc29cdebb5470963fbbecd99e"
     },
     {
       "path": "videos/watch/h4BU8561Dfs/index.html",
-      "bytes": 9797,
-      "sha256": "a1a358b4e6225510d717a1256726061a3d8a904a37d699151a3089b676256e47"
+      "bytes": 10846,
+      "sha256": "34d9e4bb088197151d8b019e50fdf573221c586879110dc597e8ae186d2ea2c1"
     },
     {
       "path": "videos/watch/j9iU3A570gI/index.html",
-      "bytes": 9992,
-      "sha256": "faf54d3166f9118ae4db08ef9d52ccc3e66cd8badd8008e33019a9f275a6db8e"
+      "bytes": 11041,
+      "sha256": "9c7e4dd7f77d052798ec8008a3436726f89e4220d65fece424c64848d32263fc"
     },
     {
       "path": "videos/watch/lExNCTk5AkA/index.html",
-      "bytes": 8375,
-      "sha256": "50dee76d5346b13d5e547ef23dc147bd41a721bd1d9779bea493c15f5603d1ee"
+      "bytes": 9424,
+      "sha256": "2a8f43bf5f36d2d29cd7c4bce0c3c4e5c0ca98df72c1a54ddd892c85c0683755"
     },
     {
       "path": "videos/watch/lbycfVnMbpk/index.html",
-      "bytes": 9309,
-      "sha256": "4a2c0ff51fa80ee9c3950bf323833e765d43cf555ce7564c654c29b8750ed3e1"
+      "bytes": 10358,
+      "sha256": "dba8037ea5704186a6e6e0819577075794fae542ea5a4cf4f0fb4fbbf1044860"
     },
     {
       "path": "videos/watch/mYew9VFY5fM/index.html",
-      "bytes": 9825,
-      "sha256": "76c5178d257e0646df37b255aafddf71c19fe23d0325266a549bdddca38854a1"
+      "bytes": 10874,
+      "sha256": "7ab8f2e7eca8f5ed469bf9cc8ab0876dd47e506ea074f9692312a98799adc3e1"
     },
     {
       "path": "videos/watch/miOheJ55ZWs/index.html",
-      "bytes": 9572,
-      "sha256": "72d2d7effc467340b389269ed76a39f7b1fb268f0c74756e163a333857898ff5"
+      "bytes": 10621,
+      "sha256": "2a8c81a69a80a20edd4caea05de4152ee8eb09c9d1cf4f60e45b4d0b1e7071d9"
     },
     {
       "path": "videos/watch/n_jUaSY9hUU/index.html",
-      "bytes": 9451,
-      "sha256": "c68c6765d145b314dd1504e63ed335c1d77ad6e3dd4111dd1b0e611d823da261"
+      "bytes": 10500,
+      "sha256": "cbcb76b6f517fa8d55f08aaf183cea77fd29d0060ea65b6e3d5f44ea73216ea6"
     },
     {
       "path": "videos/watch/nmYx713ARdI/index.html",
-      "bytes": 9141,
-      "sha256": "2175adaef8d1534f0b73173c5c9061e01ff0c3346eb6e504fba9da7058c6f7de"
+      "bytes": 10190,
+      "sha256": "8792bdc25b5099ec261c23845e124a26e9539a3e86d93db8c3f7ae46da6cd225"
     },
     {
       "path": "videos/watch/qk16Pxzq3NE/index.html",
-      "bytes": 8705,
-      "sha256": "a4c610e5967a1fee820a3f5cd669b0e0c200e9f3dd59313b32ae554804edff1d"
+      "bytes": 9754,
+      "sha256": "3572ae62ee0c29cb25c53f28ad2168c0b7d54e612d5310e075fb853f0e05d579"
     },
     {
       "path": "videos/watch/qwfLHGSpmtw/index.html",
-      "bytes": 9901,
-      "sha256": "6bbd491e0c3691626e62ec1d755d87144cbe6fca6addf04b2d5fac0f6051ca0e"
+      "bytes": 10950,
+      "sha256": "238814099f10116edfc8cbca39eaaf477a1966a59c149409373ea4cedb6ebfd3"
     },
     {
       "path": "videos/watch/r4Ir9kGEgBY/index.html",
-      "bytes": 10220,
-      "sha256": "0eaa8375efc72cefa0c840bd025dd00308c36da1096edacde6b59acb7971d6b6"
+      "bytes": 11269,
+      "sha256": "3a746ba74e165809dc8bd576ace5ef53f413bf398fac2340c6a79de726d8c16b"
     },
     {
       "path": "videos/watch/rvnK7GnBSwM/index.html",
-      "bytes": 10001,
-      "sha256": "d872e56287b348ab9a543f1055acb92fe7345e4d6a4111894b4ecee06338c043"
+      "bytes": 11050,
+      "sha256": "88284a0e691753459ee435286d28bb7e0b0a808c4fd2657a73c1af432e56e20a"
     },
     {
       "path": "videos/watch/x_EiSpAtrCk/index.html",
-      "bytes": 9850,
-      "sha256": "0fada1298c8352f3383c72c8c87dae76614e84ded5586029df0d6d34cb9114a6"
+      "bytes": 10899,
+      "sha256": "b700b6286b99f1a94922f349380fe3f736442a7f84e3d525b79b79a5b7cdc649"
     },
     {
       "path": "videos/watch/zsuF0blJAYw/index.html",
-      "bytes": 10029,
-      "sha256": "286d6e3fa04c595b74ec97e6e57166f593d7f7389bcddb9ac6ec051f06efda4f"
+      "bytes": 11078,
+      "sha256": "4a57b8ef1439098c3769b6a6da815dfa93c90d784677559877f17dc534b76faa"
     },
     {
       "path": "youtube-player.js",

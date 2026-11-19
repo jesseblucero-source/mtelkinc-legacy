@@ -1,0 +1,111 @@
+{
+  "origin": "http://127.0.0.1:8780",
+  "rows": [
+    {
+      "engine": "chromium",
+      "lang": "en",
+      "width": 390,
+      "combinedFilters": true,
+      "emptyState": true,
+      "history": true,
+      "categorySwitch": true,
+      "overflow": false,
+      "axe": [],
+      "errors": []
+    },
+    {
+      "engine": "chromium",
+      "lang": "fr",
+      "width": 320,
+      "combinedFilters": true,
+      "emptyState": true,
+      "history": true,
+      "categorySwitch": true,
+      "overflow": false,
+      "axe": [],
+      "errors": []
+    },
+    {
+      "engine": "chromium",
+      "lang": "es",
+      "width": 768,
+      "combinedFilters": true,
+      "emptyState": true,
+      "history": true,
+      "categorySwitch": true,
+      "overflow": false,
+      "axe": [],
+      "errors": []
+    },
+    {
+      "engine": "chromium",
+      "lang": "de",
+      "width": 1440,
+      "combinedFilters": true,
+      "emptyState": true,
+      "history": true,
+      "categorySwitch": true,
+      "overflow": false,
+      "axe": [],
+      "errors": []
+    },
+    {
+      "engine": "chromium",
+      "product": true,
+      "axe": []
+    },
+    {
+      "engine": "webkit",
+      "lang": "en",
+      "width": 390,
+      "combinedFilters": true,
+      "emptyState": true,
+      "history": true,
+      "categorySwitch": true,
+      "overflow": false,
+      "axe": [],
+      "errors": []
+    },
+    {
+      "engine": "webkit",
+      "lang": "fr",
+      "width": 320,
+      "combinedFilters": true,
+      "emptyState": true,
+      "history": true,
+      "categorySwitch": true,
+      "overflow": false,
+      "axe": [],
+      "errors": []
+    },
+    {
+      "engine": "webkit",
+      "lang": "es",
+      "width": 768,
+      "combinedFilters": true,
+      "emptyState": true,
+      "history": true,
+      "categorySwitch": true,
+      "overflow": false,
+      "axe": [],
+      "errors": []
+    },
+    {
+      "engine": "webkit",
+      "lang": "de",
+      "width": 1440,
+      "combinedFilters": true,
+      "emptyState": true,
+      "history": true,
+      "categorySwitch": true,
+      "overflow": false,
+      "axe": [],
+      "errors": []
+    },
+    {
+      "engine": "webkit",
+      "product": true,
+      "axe": []
+    }
+  ]
+}
