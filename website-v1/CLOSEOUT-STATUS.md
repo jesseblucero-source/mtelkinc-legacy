@@ -1,3 +1,15 @@
+# MT E.L.K., INC. — release 1.2.0 closeout
+
+Published November 19, 2026: https://www.mtelkinc.com. Netlify deploy 6aff7dd741c20a244ee2ba36.
+
+Added 57 source-backed product guides, 44 localized browsing pages, public AI documents/product graph, deliberate robots policy, consistent canonical schema and scoped security headers. Existing Ecwid operations, embedded videos, persistent music, four forms and all 57 original records/downloads are preserved.
+
+Master Prompt 2.0 acceptance: **16/21 completed (76.2%)**, two in progress and three blocked. Full evidence, measurement limits and owner acceptance steps: docs/executive-delivery-report.md and docs/completion-status.json. Do not treat merchant payment settlement, company-sender delivery, all additional domains, wholesale account access or connected analytics as complete. Netlify's production Git source remains separate from the GitHub snapshot and can overwrite a manual deployment.
+
+The older evidence below is retained as release history, not the current completion claim.
+
+---
+
 # MT E.L.K., INC. — release closeout
 
 Release: 1.1.1, October 27, 2026. Production: https://www.mtelkinc.com/university/.
@@ -59,3 +71,7 @@ Only sender and SMTP username were present at the last configuration check. Host
 Known notices and existing source links remain available. Device speech voices, YouTube restrictions, native printing/sharing and payment-provider authentication remain controlled by those providers/devices.
 
 A dealer directory, authenticated partner portal, staff editor and full LMS were not included in this guided-training release. No unverified commercial terms, approvals, enrollment or certifications have been added.
+
+## October 28 application email follow-up
+
+Rechecked Netlify: only sender and username are configured, both for production Functions. The four application forms are registered. Host, port and password remain missing. Offline notification and SMTP preflight tests pass; a new `verify:mail` command checks TLS/authentication without sending a message. The SMTP function remains excluded, and no live delivery has been certified. Public DNS currently publishes no observed MX, SPF or DMARC records for mtelkinc.com; the confirmed mail provider must supply its required settings before activation. Details: `reports/application-sender-setup.md`.

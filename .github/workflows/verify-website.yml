@@ -1,0 +1,28 @@
+name: Verify public website
+on:
+  pull_request:
+    paths: ['website-v1/**', '.github/workflows/verify-website.yml']
+  push:
+    branches: [main]
+    paths: ['website-v1/**', '.github/workflows/verify-website.yml']
+permissions:
+  contents: read
+jobs:
+  static-verification:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    defaults:
+      run:
+        working-directory: website-v1
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          persist-credentials: false
+      - name: Generate and validate public content
+        run: |
+          python3 scripts/build-release.py
+          python3 scripts/validate-public-authority.py
+          python3 scripts/audit-static-links.py
+          python3 scripts/test-canada-reconciliation.py
+      - name: Preserve original documents
+        run: git diff --exit-code -- dist/records dist/downloads

@@ -1,9 +1,13 @@
 """Create a durable, static-only release; never package server functions or secrets."""
 from pathlib import Path
-import hashlib, json, shutil, zipfile
+import hashlib, json, shutil, zipfile, datetime
 
 project=Path(__file__).resolve().parents[1]
 source=project/'dist'
+catalog=json.loads((project/'content/source/store-products.json').read_text())
+policy=json.loads((project/'content/public-authority.json').read_text())
+age=(datetime.date.today()-datetime.date.fromisoformat(catalog['captured_on'])).days
+assert 0<=age<=policy['catalog_max_age_days_at_publish'], 'Refresh and review the public Ecwid catalog before publishing stale product guides.'
 release=project/'releases/static-routing'
 public=release/'public'
 marker=release/'.mtelk-static-release'

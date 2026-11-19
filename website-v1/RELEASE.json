@@ -1,16 +1,18 @@
 {
   "name": "MT E.L.K., INC.",
-  "version": "1.1.1",
-  "label": "V1 compatible performance patch",
-  "release_date": "2026-10-27",
+  "version": "1.2.0",
+  "label": "Product authority and AI discovery",
+  "release_date": "2026-11-19",
   "production_url": "https://www.mtelkinc.com",
-  "production_deploy_id": "6ae187b9980cfaced05011e9",
   "github_repository": "jesseblucero-source/mtelkinc-legacy",
   "snapshot_directory": "website-v1",
-  "publication_scope": "Public static website with responsive homepage hero delivery; SMTP functions remain excluded.",
+  "publication_scope": "Public static catalog, AI discovery and SEO metadata. Merchant settings and SMTP functions unchanged.",
   "operational_caveat": "V1 records the published baseline; it does not certify payment settlement, company-sender email delivery or every additional domain.",
-  "dist_file_count": 975,
-  "dist_manifest_sha256": "7ab00dfb7928ae9187ef23930c5a7126a8e76d88ca593bcaed7e14160424694b",
+  "dist_file_count": 1083,
+  "dist_manifest_sha256": "79878c1ceff92e05b5e25d16e310654c0e9a5b2e9ccc2caad05a5f4be60b3c27",
   "baseline_tag": "v1.0.0",
-  "baseline_commit": "317a1e22d740dbd4852ae76cc7705cc382ecec70"
+  "baseline_commit": "317a1e22d740dbd4852ae76cc7705cc382ecec70",
+  "publication_status": "published and HTTP/store-entry verified",
+  "previous_production_deploy_id": "6ae187b9980cfaced05011e9",
+  "production_deploy_id": "6aff7dd741c20a244ee2ba36"
 }

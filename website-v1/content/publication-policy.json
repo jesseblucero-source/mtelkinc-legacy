@@ -1,0 +1,11 @@
+{
+  "company": "MT E.L.K., INC.",
+  "public_fact_source": "Existing public Ecwid catalog; versioned source-linked public content",
+  "product_import": {"mode": "read-only", "default": "candidate only", "apply": "explicit --apply after reviewing added/unlisted IDs", "unlisted_products": "stop for owner reconciliation; do not infer discontinuation"},
+  "review_required": ["new or changed technical specifications", "founding and biographical claims", "wildlife regulations and safety claims", "performance and effectiveness claims", "legal or commercial policy translations", "dealer pricing, freight, minimums and payment terms", "confirmed international fulfillment and distributor appointments"],
+  "workflow": ["Refresh public source into a candidate", "Review change report and provenance", "Approve factual changes in a pull request", "Run deterministic build, local validation and browser checks", "Review confidential-data exclusions", "Publish a static release to the existing Netlify site", "Verify live URLs and retain deployment identity"],
+  "enforcement_limit": "The scripts validate public source identities and publication boundaries. Human business/content approval and repository branch-protection rules are not replaced by this file.",
+  "automatic_campaigns": false,
+  "automatic_dealer_approval": false,
+  "automatic_commercial_translation": false
+}
