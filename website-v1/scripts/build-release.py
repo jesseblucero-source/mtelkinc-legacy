@@ -9,6 +9,17 @@ protected={str(p.relative_to(root/'dist')):hashlib.sha256(p.read_bytes()).hexdig
 # Restore individual style sources before builders remove/reorder their own links.
 restore=runpy.run_path(str(root/'scripts/optimize-delivery.py'))['restore']
 for page in (root/'dist').rglob('index.html'):page.write_text(restore(page.read_text()))
+# Retain the reviewed localization controller when generating new public routes.
+(root/'dist/site-language.js').write_text((root/'templates/site-language.js').read_text())
+(root/'dist/store-suggestions.js').write_text((root/'templates/store-suggestions.js').read_text())
+(root/'dist/store-suggestions.css').write_text((root/'templates/store-suggestions.css').read_text())
+(root/'dist/store.js').write_text((root/'templates/store.js').read_text())
+# Version changed child modules before parent entry hashes are generated.
+p=root/'dist/store.js';text=p.read_text()
+for dependency in ['youtube-player','store-suggestions','store-motion']:
+ digest=hashlib.sha256((root/'dist'/(dependency+'.js')).read_bytes()).hexdigest()[:12]
+ text=re.sub(r'(\./'+dependency+r'\.js)\?v=[a-f0-9]+',lambda m:m[1]+'?v='+digest,text)
+p.write_text(text)
 # Semantic grouping for labeled combined filters across language editions.
 for page in (root/'dist').rglob('index.html'):
  html=page.read_text();html=re.sub(r'<div class="education-active-filters"(?! role=)', '<div class="education-active-filters" role="group"',html);page.write_text(html)
@@ -39,7 +50,7 @@ optimizer=root/'scripts/optimize-delivery.py'
 source=optimizer.read_text().replace("root=Path(__file__).resolve().parent.parent;dist=root/'dist'","root=Path.cwd();dist=root/'dist'")
 exec(compile(source,str(optimizer),'exec'),{'__name__':'__main__'})
 for path,sha in protected.items():assert hashlib.sha256((root/'dist'/path).read_bytes()).hexdigest()==sha,'Original document changed: '+path
-release={'name':'MT E.L.K., INC.','version':'1.2.0','baseline':'v1.0.0','scope':'Verified public catalog guides, AI discovery and structured data; SMTP activation separately gated.'}
+release={'name':'MT E.L.K., INC.','version':'1.3.1','baseline':'v1.0.0','scope':'Mobile product comparison, accurate language routing, public catalog and guided training; SMTP activation separately gated.'}
 (root/'dist/build-info.json').write_text(json.dumps(release,indent=2)+'\n')
-(root/'reports/closeout-build.json').write_text(json.dumps({'version':'1.2.0','original_documents_verified':len(protected),'stages':['public-authority','home-delivery','guided-university','keep-videos-on-site','resource-index','video-compatibility','document-viewer','canonical','delivery']},indent=2)+'\n')
-print('Built 1.2.0; original source documents preserved. Run test:closeout before packaging/deploying.')
+(root/'reports/closeout-build.json').write_text(json.dumps({'version':'1.3.1','original_documents_verified':len(protected),'stages':['public-authority','home-delivery','guided-university','keep-videos-on-site','resource-index','video-compatibility','document-viewer','canonical','delivery']},indent=2)+'\n')
+print('Built 1.3.1; original source documents preserved. Run test:closeout before packaging/deploying.')

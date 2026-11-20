@@ -1,7 +1,7 @@
 {
   "name": "mtelkinc-final-website",
   "private": true,
-  "version": "1.2.0",
+  "version": "1.3.1",
   "description": "MT E.L.K., INC. website and guided training",
   "engines": {
     "node": ">=22"
@@ -24,7 +24,8 @@
     "test:closeout": "node scripts/test-closeout.cjs",
     "package:static": "python3 scripts/package-static-routing.py",
     "test:authority": "python3 scripts/validate-public-authority.py && python3 scripts/test-canada-reconciliation.py",
-    "refresh:catalog": "node scripts/refresh-public-catalog.cjs"
+    "refresh:catalog": "node scripts/refresh-public-catalog.cjs",
+    "test:comparison": "python3 scripts/validate-catalog-comparison.py && node scripts/test-catalog-comparison.cjs"
   },
   "packageManager": "pnpm@11.25.0"
 }

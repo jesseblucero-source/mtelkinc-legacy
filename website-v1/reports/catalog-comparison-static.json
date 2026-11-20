@@ -1,0 +1,9 @@
+{
+  "languages": 4,
+  "product_templates_per_language": 57,
+  "selected_product_limit": 3,
+  "static_commercial_facts": false,
+  "customer_storage": false,
+  "controller_bytes": 9532,
+  "english_product_routes_preserved": true
+}

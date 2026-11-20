@@ -1,5 +1,5 @@
 import {configureYouTubePlayer} from './youtube-player.js?v=eb44b35f6e5f';
-import {initStoreSuggestions} from './store-suggestions.js?v=3ea9813979be';
+import {initStoreSuggestions} from './store-suggestions.js?v=c1f2af6d1085';
 import {initStoreMotion} from './store-motion.js?v=5df109310ef5';
 // Live catalog and checkout use the existing MT E.L.K., INC. Ecwid store.
 let pending,routingGuard=false;
@@ -10,18 +10,28 @@ export function initPage(){
  const suggestions=initStoreSuggestions(host);
  const status=document.getElementById('store-status'),retry=document.getElementById('store-retry'),lang=document.documentElement.lang||'en';
  const copy={en:{loading:'Loading the store…',error:'The store could not load. Please retry or contact our team.'},fr:{loading:'Chargement de la boutique…',error:'La boutique n’a pas pu se charger. Réessayez ou contactez notre équipe.'},es:{loading:'Cargando la tienda…',error:'La tienda no pudo cargarse. Inténtelo de nuevo o contacte con nuestro equipo.'},de:{loading:'Shop wird geladen…',error:'Der Shop konnte nicht geladen werden. Versuchen Sie es erneut oder kontaktieren Sie unser Team.'}}[lang]||{loading:'Loading the store…',error:'The store could not load. Please retry or contact our team.'};
- let active=true,ready=false,apiReady=false,deadline,observer;const bound=fn=>window.MTPageRouter?window.MTPageRouter.bindPage(fn):fn;
+ let active=true,ready=false,apiReady=false,recoveries=0,deadline,observer;const bound=fn=>window.MTPageRouter?window.MTPageRouter.bindPage(fn):fn;
  function configured(){window.ecwid_script_defer=true;window.ecwid_dynamic_widgets=true;window.ec=window.ec||{};ec.config=ec.config||{};ec.config.store_main_page_url=location.origin+location.pathname;ec.config.chameleon={font:{'font-family':'Roboto,Arial,sans-serif'},colors:{'color-background':'#faf6f3','color-foreground':'#0d1311','color-link':'#8b271e','color-button':'#ec4123','color-price':'#0d1311'}};ec.config.scroll_indent=76;ec.config.storefrontUrls=ec.config.storefrontUrls||{};ec.config.storefrontUrls.cleanUrls=false;window._xnext_initialization_scripts=[{widgetType:'ProductBrowser',id:host.id,arg:['id='+host.id,'categoriesPerRow=3','views=grid(3,24) list(60) table(60)','categoryView=grid','searchView=grid','defaultCategoryId=0']}];}
- function loaded(){if(!active||ready||!apiReady)return;ready=true;clearTimeout(deadline);status.hidden=true;retry.hidden=true;document.querySelectorAll('[data-store-action],[data-store-category],#store-search button,#store-reset').forEach(b=>b.disabled=false);}
- function failed(){if(!active||ready)return;status.hidden=false;status.textContent=copy.error;retry.hidden=false;}
- async function start(){status.hidden=false;status.textContent=copy.loading;retry.hidden=true;ready=false;deadline=setTimeout(failed,20000);
+ function rendered(){return !!host.querySelector('.ec-store,.ecwid-productBrowser,.grid-category,.grid-product,.ec-cart,.product-details,.ecwid-productBrowser-productsGrid,.ecwid-productBrowser-CartPage')&&!!host.innerText.trim();}
+ function loaded(){if(!active||ready||!apiReady||!rendered())return;ready=true;clearTimeout(deadline);status.hidden=true;retry.hidden=true;document.querySelectorAll('[data-store-action],[data-store-category],#store-search button,#store-reset').forEach(b=>b.disabled=false);}
+ function failed(){
+  if(!active||ready)return;
+  // One documented remount is allowed only for an empty, unusable first render.
+  // Never remount customer fields, provider iframes or an already rendered checkout.
+  if(apiReady&&recoveries===0&&!rendered()&&!host.querySelector('input,textarea,select,iframe')&&typeof window.Ecwid?.destroy==='function'&&typeof window.ecwid_onBodyDone==='function'){
+   recoveries++;host.dataset.storeRecovery='attempted';
+   try{persist(()=>{Ecwid.destroy();configured();window.ecwid_onBodyDone();});deadline=setTimeout(failed,20000);return;}catch{}
+  }
+  status.hidden=false;status.textContent=copy.error;retry.hidden=false;
+ }
+ async function start(){status.hidden=false;status.textContent=copy.loading;retry.hidden=true;ready=false;document.querySelectorAll('[data-store-action],[data-store-category],#store-search button,#store-reset').forEach(b=>b.disabled=true);deadline=setTimeout(failed,20000);
   try{persist(()=>{configured();});
    if(!document.getElementById('ecwid-store-script')){
     pending=persist(()=>new Promise((resolve,reject)=>{const script=document.createElement('script');script.id='ecwid-store-script';script.dataset.sitePersist='commerce';script.src='https://app.ecwid.com/script.js?117609763&lang='+encodeURIComponent(lang)+'&data_platform=code';script.charset='utf-8';script.async=true;script.onload=resolve;script.onerror=()=>{script.remove();pending=null;reject(Error('Store unavailable'))};document.body.append(script)}));
     await pending;
-   }else{if(pending)await pending;if(!active)return;if(!saved)persist(()=>{configured();window.ecwid_onBodyDone?.()});}
+   }else{if(pending)await pending;if(!active)return;if(!saved||!rendered())persist(()=>{configured();window.ecwid_onBodyDone?.()});}
    if(!active)return;
-   persist(()=>Ecwid.OnAPILoaded.add(bound(()=>{if(!active)return;apiReady=true;loaded();suggestions.connect();if(!routingGuard){routingGuard=true;persist(()=>Ecwid.OnPageSwitch.add(()=>/^(?:\/(?:fr|es|de))?\/shop\/$/.test(location.pathname)?undefined:false));}persist(()=>Ecwid.setStorefrontBaseUrl(location.origin+location.pathname));applyBrowseUrl();})));if(host.querySelector('.ec-store,.ecwid-productBrowser'))loaded();
+   persist(()=>Ecwid.OnAPILoaded.add(bound(()=>{if(!active)return;apiReady=true;Ecwid.OnPageLoaded.add(bound(loaded));loaded();suggestions.connect();if(!routingGuard){routingGuard=true;persist(()=>Ecwid.OnPageSwitch.add(()=>/^(?:\/(?:fr|es|de))?\/shop\/$/.test(location.pathname)?undefined:false));}persist(()=>Ecwid.setStorefrontBaseUrl(location.origin+location.pathname));applyBrowseUrl();})));if(host.querySelector('.ec-store,.ecwid-productBrowser'))loaded();
   }catch{failed();}
  }
  const videoLabel={en:'Product video',fr:'Vidéo du produit',es:'Vídeo del producto',de:'Produktvideo'}[lang]||'Product video';let videoDialog,videoOpener;

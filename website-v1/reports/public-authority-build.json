@@ -1,5 +1,11 @@
 {
-  "generated_catalog_pages": 101,
+  "comparison": {
+    "comparison_pages": 4,
+    "selection_limit": 3,
+    "uses_browser_storage": false,
+    "static_prices_or_stock": false
+  },
+  "generated_catalog_pages": 105,
   "published_product_records": 57,
   "categories": 10,
   "languages": [

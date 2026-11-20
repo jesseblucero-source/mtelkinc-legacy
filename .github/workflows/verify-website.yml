@@ -22,6 +22,7 @@ jobs:
         run: |
           python3 scripts/build-release.py
           python3 scripts/validate-public-authority.py
+          python3 scripts/validate-catalog-comparison.py
           python3 scripts/audit-static-links.py
           python3 scripts/test-canada-reconciliation.py
       - name: Preserve original documents
