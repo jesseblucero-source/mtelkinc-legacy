@@ -1,0 +1,579 @@
+{
+  "origin": "https://www.mtelkinc.com",
+  "checked_routes": 113,
+  "errors": [],
+  "results": [
+    {
+      "path": "/",
+      "status": 200,
+      "bytes": 51487,
+      "nosniff": "nosniff",
+      "csp": "base-uri 'self'; object-src 'none'"
+    },
+    {
+      "path": "/catalog/",
+      "status": 200,
+      "bytes": 76236,
+      "nosniff": "nosniff",
+      "csp": "base-uri 'self'; object-src 'none'"
+    },
+    {
+      "path": "/catalog/categories/antelope/",
+      "status": 200,
+      "bytes": 70105
+    },
+    {
+      "path": "/catalog/categories/bands-reeds/",
+      "status": 200,
+      "bytes": 70529
+    },
+    {
+      "path": "/catalog/categories/blinds/",
+      "status": 200,
+      "bytes": 69579
+    },
+    {
+      "path": "/catalog/categories/books/",
+      "status": 200,
+      "bytes": 70132
+    },
+    {
+      "path": "/catalog/categories/calls/",
+      "status": 200,
+      "bytes": 72887
+    },
+    {
+      "path": "/catalog/categories/dvds/",
+      "status": 200,
+      "bytes": 72495
+    },
+    {
+      "path": "/catalog/categories/elk/",
+      "status": 200,
+      "bytes": 72087
+    },
+    {
+      "path": "/catalog/categories/mule-deer/",
+      "status": 200,
+      "bytes": 70603
+    },
+    {
+      "path": "/catalog/categories/predator/",
+      "status": 200,
+      "bytes": 71748
+    },
+    {
+      "path": "/catalog/categories/whitetail/",
+      "status": 200,
+      "bytes": 70985
+    },
+    {
+      "path": "/catalog/compare/",
+      "status": 200,
+      "bytes": 124724
+    },
+    {
+      "path": "/catalog/products.json",
+      "status": 200,
+      "bytes": 103872
+    },
+    {
+      "path": "/catalog/products/751638439/",
+      "status": 200,
+      "bytes": 16414
+    },
+    {
+      "path": "/catalog/products/751638440/",
+      "status": 200,
+      "bytes": 15271
+    },
+    {
+      "path": "/catalog/products/751638443/",
+      "status": 200,
+      "bytes": 16887
+    },
+    {
+      "path": "/catalog/products/751638444/",
+      "status": 200,
+      "bytes": 15132
+    },
+    {
+      "path": "/catalog/products/751638445/",
+      "status": 200,
+      "bytes": 14798
+    },
+    {
+      "path": "/catalog/products/751638446/",
+      "status": 200,
+      "bytes": 15395
+    },
+    {
+      "path": "/catalog/products/751638447/",
+      "status": 200,
+      "bytes": 15068
+    },
+    {
+      "path": "/catalog/products/751638448/",
+      "status": 200,
+      "bytes": 15773
+    },
+    {
+      "path": "/catalog/products/751638449/",
+      "status": 200,
+      "bytes": 16181
+    },
+    {
+      "path": "/catalog/products/751638450/",
+      "status": 200,
+      "bytes": 15738
+    },
+    {
+      "path": "/catalog/products/751638454/",
+      "status": 200,
+      "bytes": 15936
+    },
+    {
+      "path": "/catalog/products/751638456/",
+      "status": 200,
+      "bytes": 16387
+    },
+    {
+      "path": "/catalog/products/751638460/",
+      "status": 200,
+      "bytes": 15217
+    },
+    {
+      "path": "/catalog/products/751638461/",
+      "status": 200,
+      "bytes": 16677
+    },
+    {
+      "path": "/catalog/products/751638462/",
+      "status": 200,
+      "bytes": 17513
+    },
+    {
+      "path": "/catalog/products/751638466/",
+      "status": 200,
+      "bytes": 15163
+    },
+    {
+      "path": "/catalog/products/751638467/",
+      "status": 200,
+      "bytes": 16673
+    },
+    {
+      "path": "/catalog/products/751638468/",
+      "status": 200,
+      "bytes": 15821
+    },
+    {
+      "path": "/catalog/products/751638674/",
+      "status": 200,
+      "bytes": 14985
+    },
+    {
+      "path": "/catalog/products/751638675/",
+      "status": 200,
+      "bytes": 15010
+    },
+    {
+      "path": "/catalog/products/751638678/",
+      "status": 200,
+      "bytes": 16234
+    },
+    {
+      "path": "/catalog/products/751638686/",
+      "status": 200,
+      "bytes": 15658
+    },
+    {
+      "path": "/catalog/products/751638687/",
+      "status": 200,
+      "bytes": 15155
+    },
+    {
+      "path": "/catalog/products/751638688/",
+      "status": 200,
+      "bytes": 15620
+    },
+    {
+      "path": "/catalog/products/751638689/",
+      "status": 200,
+      "bytes": 15877
+    },
+    {
+      "path": "/catalog/products/751638691/",
+      "status": 200,
+      "bytes": 15382
+    },
+    {
+      "path": "/catalog/products/751638693/",
+      "status": 200,
+      "bytes": 14716
+    },
+    {
+      "path": "/catalog/products/751638696/",
+      "status": 200,
+      "bytes": 15009
+    },
+    {
+      "path": "/catalog/products/751638697/",
+      "status": 200,
+      "bytes": 15014
+    },
+    {
+      "path": "/catalog/products/751638698/",
+      "status": 200,
+      "bytes": 21453
+    },
+    {
+      "path": "/catalog/products/751638699/",
+      "status": 200,
+      "bytes": 15073
+    },
+    {
+      "path": "/catalog/products/751638700/",
+      "status": 200,
+      "bytes": 15234
+    },
+    {
+      "path": "/catalog/products/751638704/",
+      "status": 200,
+      "bytes": 14740
+    },
+    {
+      "path": "/catalog/products/751638706/",
+      "status": 200,
+      "bytes": 15710
+    },
+    {
+      "path": "/catalog/products/751638707/",
+      "status": 200,
+      "bytes": 15445
+    },
+    {
+      "path": "/catalog/products/751638709/",
+      "status": 200,
+      "bytes": 15943
+    },
+    {
+      "path": "/catalog/products/751638711/",
+      "status": 200,
+      "bytes": 15402
+    },
+    {
+      "path": "/catalog/products/751638712/",
+      "status": 200,
+      "bytes": 16452
+    },
+    {
+      "path": "/catalog/products/751639125/",
+      "status": 200,
+      "bytes": 15001
+    },
+    {
+      "path": "/catalog/products/751639126/",
+      "status": 200,
+      "bytes": 15736
+    },
+    {
+      "path": "/catalog/products/751639129/",
+      "status": 200,
+      "bytes": 15422
+    },
+    {
+      "path": "/catalog/products/751639131/",
+      "status": 200,
+      "bytes": 15611
+    },
+    {
+      "path": "/catalog/products/751639132/",
+      "status": 200,
+      "bytes": 15423
+    },
+    {
+      "path": "/catalog/products/751639135/",
+      "status": 200,
+      "bytes": 17032
+    },
+    {
+      "path": "/catalog/products/751639136/",
+      "status": 200,
+      "bytes": 15544
+    },
+    {
+      "path": "/catalog/products/751639137/",
+      "status": 200,
+      "bytes": 14888
+    },
+    {
+      "path": "/catalog/products/751639142/",
+      "status": 200,
+      "bytes": 17438
+    },
+    {
+      "path": "/catalog/products/751639143/",
+      "status": 200,
+      "bytes": 14771
+    },
+    {
+      "path": "/catalog/products/751639144/",
+      "status": 200,
+      "bytes": 15143
+    },
+    {
+      "path": "/catalog/products/751639145/",
+      "status": 200,
+      "bytes": 15030
+    },
+    {
+      "path": "/catalog/products/751639147/",
+      "status": 200,
+      "bytes": 16310
+    },
+    {
+      "path": "/catalog/products/751639150/",
+      "status": 200,
+      "bytes": 14702
+    },
+    {
+      "path": "/catalog/products/751639154/",
+      "status": 200,
+      "bytes": 15497
+    },
+    {
+      "path": "/catalog/products/751639158/",
+      "status": 200,
+      "bytes": 16192
+    },
+    {
+      "path": "/catalog/products/751639161/",
+      "status": 200,
+      "bytes": 14714
+    },
+    {
+      "path": "/catalog/products/751639162/",
+      "status": 200,
+      "bytes": 15798
+    },
+    {
+      "path": "/catalog/products/751639164/",
+      "status": 200,
+      "bytes": 16102
+    },
+    {
+      "path": "/de/catalog/",
+      "status": 200,
+      "bytes": 77580
+    },
+    {
+      "path": "/de/catalog/categories/antelope/",
+      "status": 200,
+      "bytes": 71409
+    },
+    {
+      "path": "/de/catalog/categories/bands-reeds/",
+      "status": 200,
+      "bytes": 71845
+    },
+    {
+      "path": "/de/catalog/categories/blinds/",
+      "status": 200,
+      "bytes": 70887
+    },
+    {
+      "path": "/de/catalog/categories/books/",
+      "status": 200,
+      "bytes": 71444
+    },
+    {
+      "path": "/de/catalog/categories/calls/",
+      "status": 200,
+      "bytes": 74211
+    },
+    {
+      "path": "/de/catalog/categories/dvds/",
+      "status": 200,
+      "bytes": 73799
+    },
+    {
+      "path": "/de/catalog/categories/elk/",
+      "status": 200,
+      "bytes": 73403
+    },
+    {
+      "path": "/de/catalog/categories/mule-deer/",
+      "status": 200,
+      "bytes": 71927
+    },
+    {
+      "path": "/de/catalog/categories/predator/",
+      "status": 200,
+      "bytes": 73052
+    },
+    {
+      "path": "/de/catalog/categories/whitetail/",
+      "status": 200,
+      "bytes": 72317
+    },
+    {
+      "path": "/de/catalog/compare/",
+      "status": 200,
+      "bytes": 129997
+    },
+    {
+      "path": "/dealer-application/",
+      "status": 200,
+      "bytes": 89302
+    },
+    {
+      "path": "/es/catalog/",
+      "status": 200,
+      "bytes": 77946
+    },
+    {
+      "path": "/es/catalog/categories/antelope/",
+      "status": 200,
+      "bytes": 71800
+    },
+    {
+      "path": "/es/catalog/categories/bands-reeds/",
+      "status": 200,
+      "bytes": 72236
+    },
+    {
+      "path": "/es/catalog/categories/blinds/",
+      "status": 200,
+      "bytes": 71286
+    },
+    {
+      "path": "/es/catalog/categories/books/",
+      "status": 200,
+      "bytes": 71827
+    },
+    {
+      "path": "/es/catalog/categories/calls/",
+      "status": 200,
+      "bytes": 74590
+    },
+    {
+      "path": "/es/catalog/categories/dvds/",
+      "status": 200,
+      "bytes": 74182
+    },
+    {
+      "path": "/es/catalog/categories/elk/",
+      "status": 200,
+      "bytes": 73794
+    },
+    {
+      "path": "/es/catalog/categories/mule-deer/",
+      "status": 200,
+      "bytes": 72302
+    },
+    {
+      "path": "/es/catalog/categories/predator/",
+      "status": 200,
+      "bytes": 73455
+    },
+    {
+      "path": "/es/catalog/categories/whitetail/",
+      "status": 200,
+      "bytes": 72724
+    },
+    {
+      "path": "/es/catalog/compare/",
+      "status": 200,
+      "bytes": 130093
+    },
+    {
+      "path": "/fr/catalog/",
+      "status": 200,
+      "bytes": 77710
+    },
+    {
+      "path": "/fr/catalog/categories/antelope/",
+      "status": 200,
+      "bytes": 71549
+    },
+    {
+      "path": "/fr/catalog/categories/bands-reeds/",
+      "status": 200,
+      "bytes": 71997
+    },
+    {
+      "path": "/fr/catalog/categories/blinds/",
+      "status": 200,
+      "bytes": 71027
+    },
+    {
+      "path": "/fr/catalog/categories/books/",
+      "status": 200,
+      "bytes": 71580
+    },
+    {
+      "path": "/fr/catalog/categories/calls/",
+      "status": 200,
+      "bytes": 74339
+    },
+    {
+      "path": "/fr/catalog/categories/dvds/",
+      "status": 200,
+      "bytes": 73935
+    },
+    {
+      "path": "/fr/catalog/categories/elk/",
+      "status": 200,
+      "bytes": 73543
+    },
+    {
+      "path": "/fr/catalog/categories/mule-deer/",
+      "status": 200,
+      "bytes": 72051
+    },
+    {
+      "path": "/fr/catalog/categories/predator/",
+      "status": 200,
+      "bytes": 73204
+    },
+    {
+      "path": "/fr/catalog/categories/whitetail/",
+      "status": 200,
+      "bytes": 72457
+    },
+    {
+      "path": "/fr/catalog/compare/",
+      "status": 200,
+      "bytes": 131275
+    },
+    {
+      "path": "/llms-full.txt",
+      "status": 200,
+      "bytes": 47298
+    },
+    {
+      "path": "/llms.txt",
+      "status": 200,
+      "bytes": 9671
+    },
+    {
+      "path": "/robots.txt",
+      "status": 200,
+      "bytes": 507
+    },
+    {
+      "path": "/shop/",
+      "status": 200,
+      "bytes": 16628,
+      "nosniff": "nosniff",
+      "csp": "base-uri 'self'; object-src 'none'"
+    },
+    {
+      "path": "/sitemap.xml",
+      "status": 200,
+      "bytes": 255335,
+      "canonical_indexable_urls": 573
+    }
+  ]
+}

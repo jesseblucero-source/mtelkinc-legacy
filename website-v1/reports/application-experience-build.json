@@ -1,0 +1,35 @@
+{
+  "pages": [
+    {
+      "lang": "en",
+      "questionnaire_fields": 67,
+      "registered_field_names": 84,
+      "field_names_unchanged": true,
+      "submission_destination_unchanged": true
+    },
+    {
+      "lang": "fr",
+      "questionnaire_fields": 67,
+      "registered_field_names": 84,
+      "field_names_unchanged": true,
+      "submission_destination_unchanged": true
+    },
+    {
+      "lang": "es",
+      "questionnaire_fields": 67,
+      "registered_field_names": 84,
+      "field_names_unchanged": true,
+      "submission_destination_unchanged": true
+    },
+    {
+      "lang": "de",
+      "questionnaire_fields": 67,
+      "registered_field_names": 84,
+      "field_names_unchanged": true,
+      "submission_destination_unchanged": true
+    }
+  ],
+  "stores_answers": false,
+  "new_form_fields": 0,
+  "sends_messages": false
+}

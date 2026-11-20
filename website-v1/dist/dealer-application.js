@@ -1,10 +1,11 @@
+import {initDealerExperience} from './dealer-experience.js?v=86196dd3d791';
 import {initDealerEmailTools} from './dealer-email.js?v=93bdae78433b';
 export function initPage(){
  const form=document.querySelector('#dealer-application');if(!form)return;
- const {fields,options,ui,lang,review_messages,email_ui,english_steps,signature_ui,signature_english}=JSON.parse(document.querySelector('#dealer-application-data').textContent);
+ const {fields,options,ui,lang,review_messages,email_ui,english_steps,signature_ui,signature_english,experience_ui}=JSON.parse(document.querySelector('#dealer-application-data').textContent);
  const steps=[...form.querySelectorAll('[data-dealer-step]')],tabs=[...document.querySelectorAll('[data-dealer-tab]')];
  const back=form.querySelector('[data-dealer-back]'),next=form.querySelector('[data-dealer-next]'),send=form.querySelector('[data-dealer-send]'),print=form.querySelector('[data-dealer-print]'),status=document.querySelector('#dealer-status'),review=document.querySelector('#dealer-review');
- let step=1,dirty=false,submitted=false,pending=false,snapshot,emailTools,signature;
+ let step=1,dirty=false,submitted=false,pending=false,snapshot,emailTools,signature,experience;
  const signButton=form.querySelector('[data-dealer-sign]'),signatureStatus=form.querySelector('[data-signature-status]'),signaturePreview=form.querySelector('[data-signature-preview]');
  const token=typeof crypto.randomUUID==='function'?crypto.randomUUID().slice(0,8):Array.from(crypto.getRandomValues(new Uint8Array(4)),n=>n.toString(16).padStart(2,'0')).join('');
  const ref='MTELK-'+new Date().toISOString().slice(0,10).replace(/-/g,'')+'-'+token.toUpperCase();
@@ -30,13 +31,14 @@ export function initPage(){
   form.elements.retailer_accounts.setCustomValidity('');
   const annual=form.elements.annual_units;annual.setCustomValidity(annual.value&&form.elements.opening_units.value&&Number(annual.value)<Number(form.elements.opening_units.value)?ui.annual_error:'');
   for(const f of fields.filter(f=>f.kind==='checks')){const es=values(f),valid=es[0].disabled||!f.required||es.some(e=>e.checked);es[0].setCustomValidity(valid?'':ui.required_group);form.querySelector('[data-field="'+f.name+'"]').setAttribute('aria-invalid',String(!valid));}
+  experience?.update();
  }
  function makeSnapshot(){return {reference:ref,prepared:new Date().toISOString(),route:routes(),checks:reviewChecks(),signature,groups:ui.step_titles.map((title,i)=>({title,answers:fields.filter(f=>f.step===i+1&&!values(f)[0].disabled).map(f=>({name:f.name,label:f.labels[lang],englishLabel:f.labels.en,value:answer(f),englishValue:answer(f,'en')}))}))}}
  function element(tag,text,className){const e=document.createElement(tag);if(text!==undefined)e.textContent=text;if(className)e.className=className;return e}
  function fillSummary(target,data,forPrint=false){target.replaceChildren();if(forPrint){target.append(element('h1',ui.print_heading));target.append(element('p',ui.reference+': '+data.reference+'\n'+ui.prepared+': '+new Date(data.prepared).toLocaleString(lang),'print-meta'));target.append(element('p',ui.route_label+': '+data.route));target.append(element('p',ui.ack));}
   else{target.append(element('h3',ui.review_title));const route=element('div',ui.route_label+': '+data.route,'dealer-route');route.append(element('small',ui.route_note));target.append(route);}
   target.append(element(forPrint?'h2':'h4',ui.checks_title));const checks=element('ul',undefined,'dealer-checks');for(const code of data.checks)checks.append(element('li',ui['flag_'+code]));target.append(checks,element('p',ui.checks_note,'dealer-checks-note'));
-  for(const group of data.groups){target.append(element(forPrint?'h2':'h4',group.title));const dl=document.createElement('dl');for(const a of group.answers){const row=element('div',undefined,'print-answer');row.append(element('dt',a.label),element('dd',a.value));dl.append(row)}target.append(dl)}
+  for(const [index,group] of data.groups.entries()){const heading=element(forPrint?'h2':'h4',group.title);if(forPrint)target.append(heading);else{const wrapper=element('div',undefined,'dealer-review-group-heading');wrapper.append(heading,experience.reviewButton(index+1,group.title));target.append(wrapper)}const dl=document.createElement('dl');for(const a of group.answers){const row=element('div',undefined,'print-answer');row.append(element('dt',a.label),element('dd',a.value));dl.append(row)}target.append(dl)}
   if(forPrint&&data.signature){const section=element('section',undefined,'dealer-signature-record');section.append(element('h2',data.signature.heading));renderSignature(section,data.signature);target.append(section)}
   if(forPrint)target.append(element('p',ui.print_note));
  }
@@ -49,9 +51,9 @@ export function initPage(){
  function invalidateSignature(){if(!signature)return;for(const row of signature.rows)form.elements[row.name].value='';signature=null;snapshot=null;form.elements.signature_consent.checked=false;signatureStatus.textContent=signature_ui.changed;signaturePreview.replaceChildren()}
  function completedSnapshot(){if(pending||!submitted&&!validateAll())return null;if(!signature)saveSignature();return snapshot||(snapshot=makeSnapshot())}
  function show(n,focus=true){step=n;steps.forEach((e,i)=>e.hidden=i+1!==step);tabs.forEach((e,i)=>{if(i+1===step)e.setAttribute('aria-current','step');else e.removeAttribute('aria-current')});back.hidden=step===1;next.hidden=step===5||submitted;send.hidden=step!==5||submitted;print.hidden=step!==5;
-  emailTools?.show(step===5);if(step===5)fillSummary(review,snapshot||makeSnapshot());if(focus){const h=steps[step-1].querySelector('h2');h.focus({preventScroll:true});h.scrollIntoView({block:'start',behavior:matchMedia('(prefers-reduced-motion:reduce)').matches?'auto':'smooth'})}
+  emailTools?.show(step===5);if(step===5)fillSummary(review,snapshot||makeSnapshot());experience?.onStep(n);if(focus){const h=steps[step-1].querySelector('h2');h.focus({preventScroll:true});h.scrollIntoView({block:'start',behavior:matchMedia('(prefers-reduced-motion:reduce)').matches?'auto':'smooth'})}
  }
- function validate(n){sync();const controls=[...steps[n-1].querySelectorAll('input,select,textarea')].filter(e=>!e.disabled);const invalid=controls.find(e=>!e.checkValidity());if(invalid){show(n);invalid.reportValidity();return false}return true}
+ function validate(n){sync();return experience.validate(n)}
  function validateAll(){for(let n=1;n<=5;n++)if(!validate(n))return false;return true}
  function move(n){if(pending||submitted)return;if(n>step)for(let i=1;i<n;i++)if(!validate(i))return;show(n)}
  tabs.forEach(b=>{b.disabled=false;b.addEventListener('click',()=>move(Number(b.dataset.dealerTab)))});
@@ -72,8 +74,14 @@ export function initPage(){
  });
  window.addEventListener('beforeunload',e=>{if(dirty&&!submitted){e.preventDefault();e.returnValue=''}});
  document.addEventListener('click',event=>{const a=event.target.closest?.('a[href]');if(!a||a.hasAttribute('download')||a.matches('[data-email-open]')||!dirty||submitted||event.defaultPrevented)return;const u=new URL(a.href,location.href);if(u.pathname===location.pathname&&u.origin===location.origin)return;if(!confirm(ui.leave)){event.preventDefault();event.stopImmediatePropagation()}else dirty=false},{capture:true});
+ // An older in-flight document can fetch the new controller during an atomic release.
+ // Preserve its original usable questionnaire when the new feedback copy is absent.
+ experience=experience_ui?.progress?initDealerExperience({form,fields,steps,tabs,copy:experience_ui,lang,values,showStep:n=>show(n),returnToReview:()=>move(5),canEdit:()=>!pending&&!submitted}):{
+  update(){},onStep(){},destroy(){},reviewButton(){return document.createDocumentFragment()},
+  validate(n){const invalid=[...steps[n-1].querySelectorAll('input,select,textarea')].find(e=>!e.disabled&&!e.checkValidity());if(invalid){show(n);invalid.reportValidity();return false}return true}
+ };
  emailTools=initDealerEmailTools({form,ui,copy:email_ui,lang,englishSteps:english_steps,reviewMessages:review_messages,getSnapshot:completedSnapshot});
- window.MTPageRouter?.onLeave(()=>{printRegion.remove();emailTools?.destroy()});window.addEventListener('pagehide',()=>{printRegion.remove();emailTools?.destroy()});
+ window.MTPageRouter?.onLeave(()=>{printRegion.remove();emailTools?.destroy();experience?.destroy()});window.addEventListener('pagehide',()=>{printRegion.remove();emailTools?.destroy();experience?.destroy()});
  sync();show(1,false);for(const b of [back,next,send,print,signButton])b.disabled=false;form.noValidate=true;
 }
 if(!window.MTPageRouter?.booting){if(window.MTPageRouter)window.MTPageRouter.run(initPage);else initPage()}

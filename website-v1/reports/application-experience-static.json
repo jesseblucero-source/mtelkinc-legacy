@@ -1,0 +1,33 @@
+{
+  "pages": [
+    {
+      "lang": "en",
+      "questionnaire_fields": 67,
+      "registered_fields": 84,
+      "action": "/dealer-application/received/"
+    },
+    {
+      "lang": "fr",
+      "questionnaire_fields": 67,
+      "registered_fields": 84,
+      "action": "/fr/dealer-application/received/"
+    },
+    {
+      "lang": "es",
+      "questionnaire_fields": 67,
+      "registered_fields": 84,
+      "action": "/es/dealer-application/received/"
+    },
+    {
+      "lang": "de",
+      "questionnaire_fields": 67,
+      "registered_fields": 84,
+      "action": "/de/dealer-application/received/"
+    }
+  ],
+  "helper_bytes": 7106,
+  "new_fields": 0,
+  "questionnaire_and_options_preserved": true,
+  "new_network_or_storage_api": false,
+  "smtp_activation": false
+}

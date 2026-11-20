@@ -1,5 +1,7 @@
-# MT E.L.K., INC. — 1.3.1
+# MT E.L.K., INC. — 1.4.0
 
+
+The 1.4.0 application update adds localized progress, linked validation errors and review editing while retaining all 67 questions, 84 registered fields and original submission/signature logic. It adds no answer storage, tracking or mail activation. See docs/release-1.4.0.md.
 
 The 1.3.1 stability patch keeps custom add-on panels outside merchant-owned DOM, preserves product/cart context on late subscriptions and waits for rendered content before enabling store controls. See docs/release-1.3.1.md. Processor configuration and cart API behavior are unchanged.
 
