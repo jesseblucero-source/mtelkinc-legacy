@@ -1,0 +1,77 @@
+{
+  "origin": "http://127.0.0.1:8782",
+  "rows": [
+    {
+      "engine": "chromium",
+      "mode": "manual",
+      "apiOnlyDoesNotImplyRendered": true,
+      "recoveryBounded": true,
+      "customerFieldsPreserved": true,
+      "merchantDomNotModifiedByAddons": true,
+      "providerMocked": true
+    },
+    {
+      "engine": "chromium",
+      "mode": "recover",
+      "apiOnlyDoesNotImplyRendered": true,
+      "recoveryBounded": true,
+      "customerFieldsPreserved": true,
+      "merchantDomNotModifiedByAddons": true,
+      "providerMocked": true
+    },
+    {
+      "engine": "chromium",
+      "mode": "permanent",
+      "apiOnlyDoesNotImplyRendered": true,
+      "recoveryBounded": true,
+      "customerFieldsPreserved": true,
+      "merchantDomNotModifiedByAddons": true,
+      "providerMocked": true
+    },
+    {
+      "engine": "chromium",
+      "mode": "fields",
+      "apiOnlyDoesNotImplyRendered": true,
+      "recoveryBounded": true,
+      "customerFieldsPreserved": true,
+      "merchantDomNotModifiedByAddons": true,
+      "providerMocked": true
+    },
+    {
+      "engine": "webkit",
+      "mode": "manual",
+      "apiOnlyDoesNotImplyRendered": true,
+      "recoveryBounded": true,
+      "customerFieldsPreserved": true,
+      "merchantDomNotModifiedByAddons": true,
+      "providerMocked": true
+    },
+    {
+      "engine": "webkit",
+      "mode": "recover",
+      "apiOnlyDoesNotImplyRendered": true,
+      "recoveryBounded": true,
+      "customerFieldsPreserved": true,
+      "merchantDomNotModifiedByAddons": true,
+      "providerMocked": true
+    },
+    {
+      "engine": "webkit",
+      "mode": "permanent",
+      "apiOnlyDoesNotImplyRendered": true,
+      "recoveryBounded": true,
+      "customerFieldsPreserved": true,
+      "merchantDomNotModifiedByAddons": true,
+      "providerMocked": true
+    },
+    {
+      "engine": "webkit",
+      "mode": "fields",
+      "apiOnlyDoesNotImplyRendered": true,
+      "recoveryBounded": true,
+      "customerFieldsPreserved": true,
+      "merchantDomNotModifiedByAddons": true,
+      "providerMocked": true
+    }
+  ]
+}

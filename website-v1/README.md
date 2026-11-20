@@ -1,5 +1,7 @@
-# MT E.L.K., INC. — 1.3.0
+# MT E.L.K., INC. — 1.3.1
 
+
+The 1.3.1 stability patch keeps custom add-on panels outside merchant-owned DOM, preserves product/cart context on late subscriptions and waits for rendered content before enabling store controls. See docs/release-1.3.1.md. Processor configuration and cart API behavior are unchanged.
 
 The 1.3.0 release adds four localized three-product comparison pages, shareable selection links, SKU/multiword search and accurate language routing to original product guides. No account, price copy, merchant change or paid dependency was added. See docs/release-1.3.0.md for scope and validation.
 

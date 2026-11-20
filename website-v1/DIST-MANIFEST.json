@@ -1,21 +1,21 @@
 {
   "release": {
     "name": "MT E.L.K., INC.",
-    "version": "1.3.0",
-    "label": "Mobile product comparison and language routing",
+    "version": "1.3.1",
+    "label": "Product discovery and storefront stability",
     "release_date": "2026-11-19",
     "production_url": "https://www.mtelkinc.com",
     "github_repository": "jesseblucero-source/mtelkinc-legacy",
     "snapshot_directory": "website-v1",
-    "publication_scope": "Public static product comparison and language routing. Merchant configuration, source documents and SMTP functions unchanged.",
+    "publication_scope": "Public comparison and language routing; custom suggestions remain outside merchant-owned DOM; truthful startup readiness. No processor, financial or SMTP change.",
     "operational_caveat": "V1 records the published baseline; it does not certify payment settlement, company-sender email delivery or every additional domain.",
     "dist_file_count": 1087,
-    "dist_manifest_sha256": "44bf54419fa089bc3c4ea78d04a095ae528d89305b1555bd68d20988219f0cb0",
+    "dist_manifest_sha256": "e8ee013e60ca99dd35aed762672eed0597310d44b20777987b5cdd6122417d38",
     "baseline_tag": "v1.0.0",
     "baseline_commit": "317a1e22d740dbd4852ae76cc7705cc382ecec70",
-    "publication_status": "published; HTTP and production comparison verified",
-    "previous_production_deploy_id": "6aff7dd741c20a244ee2ba36",
-    "production_deploy_id": "6affb90f54fb3d643c3f93ec"
+    "publication_status": "published; HTTP and live cart/checkout-entry verified",
+    "previous_production_deploy_id": "6affbddd1a951d06cf606c6d",
+    "production_deploy_id": "6affbf9896b0a78ee666e13b"
   },
   "files": [
     {
@@ -529,11 +529,6 @@
       "bytes": 69770
     },
     {
-      "path": "assets/page-styles-0bd7022083e4.css",
-      "sha256": "0bd7022083e4b830c283d4555a2167abd12e2485cab30ae2b81b8b8dd9479173",
-      "bytes": 106581
-    },
-    {
       "path": "assets/page-styles-17df753c7c97.css",
       "sha256": "17df753c7c97e7eeebefa69831f7e9c2b5a2b460eef318caaba05dfbac17327b",
       "bytes": 62275
@@ -542,6 +537,11 @@
       "path": "assets/page-styles-1e17dbee848b.css",
       "sha256": "1e17dbee848ba9c4e85f98b8b32b2bcb407ba60c6572fad30a97c5fe953829df",
       "bytes": 64983
+    },
+    {
+      "path": "assets/page-styles-2b74f446b387.css",
+      "sha256": "2b74f446b387420d938203b94d099712579c2be6995a76a877c965820386080a",
+      "bytes": 106201
     },
     {
       "path": "assets/page-styles-3379fa1622f5.css",
@@ -619,11 +619,6 @@
       "bytes": 47188
     },
     {
-      "path": "assets/page-styles-9b06d9402514.css",
-      "sha256": "9b06d9402514511124e7d1b23e89ec194d58909872d4af055eb39226765c2a3a",
-      "bytes": 106247
-    },
-    {
       "path": "assets/page-styles-9bbdb3472559.css",
       "sha256": "9bbdb34725592eeabf9e6c21e63b2cb9b45335f14cf62f6bf6936eec628eb56b",
       "bytes": 81136
@@ -649,11 +644,6 @@
       "bytes": 66694
     },
     {
-      "path": "assets/page-styles-b6b4ff8c98d1.css",
-      "sha256": "b6b4ff8c98d152c716fc747580e3f73e929a2efa0de4f71bb2dd7b5e1b0a9c3b",
-      "bytes": 107925
-    },
-    {
       "path": "assets/page-styles-b86dda5058d6.css",
       "sha256": "b86dda5058d622729ea1b930a8a1ed80af983441ea09ca44dd4eabe3bd41ee83",
       "bytes": 51687
@@ -674,9 +664,19 @@
       "bytes": 46905
     },
     {
+      "path": "assets/page-styles-cf5d4cadf054.css",
+      "sha256": "cf5d4cadf054cd160f692c9324ca2311a070882044c481cad62eaaf4ededa526",
+      "bytes": 105867
+    },
+    {
       "path": "assets/page-styles-d547231674e0.css",
       "sha256": "d547231674e0eed790ed19e29f1b82ef6bda6c8a41a45df6943975c70f4e27a6",
       "bytes": 80135
+    },
+    {
+      "path": "assets/page-styles-e07824570c91.css",
+      "sha256": "e07824570c91670218bb362de12bb7e2fba52cbca10e101522669825299fa347",
+      "bytes": 107545
     },
     {
       "path": "assets/page-styles-e086ee351596.css",
@@ -865,7 +865,7 @@
     },
     {
       "path": "build-info.json",
-      "sha256": "70ec232803ce55f9a3ea8bb7f5ac4762aad68972ab54805c31630961ab63d3da",
+      "sha256": "0f4d83b2bc9fe45e764da83d6b6e653751e3fc1cfed286a4d905bfa5a4f91af9",
       "bytes": 216
     },
     {
@@ -955,347 +955,347 @@
     },
     {
       "path": "catalog/categories/antelope/index.html",
-      "sha256": "685c2c169d5699bb5faf8a40b7385eebffe9b5650ac55b3e765661763f195ae9",
+      "sha256": "6ab5077db56a4095faeae108c67046b356ab2ba660f6c74d43dfb7ae99eb344a",
       "bytes": 70105
     },
     {
       "path": "catalog/categories/bands-reeds/index.html",
-      "sha256": "d07162cf846140c9d2c2b6ab123aca07fc51f7582b6284933899f3cd04ffed7f",
+      "sha256": "988546ff82ba05e135cda1b307c4b332761d65206e95ce88de74320af0408866",
       "bytes": 70529
     },
     {
       "path": "catalog/categories/blinds/index.html",
-      "sha256": "8a629b856fd0ec06809c0deab20afb06095fe3d3f10abfa902f89012f223ae57",
+      "sha256": "edb21985906a826fac35d505b6bb9318af27522a790a3929abaa89cf4724d80e",
       "bytes": 69579
     },
     {
       "path": "catalog/categories/books/index.html",
-      "sha256": "5e210f4ff6d0621d473f4800b507de5cd419541bf3e175acb1743fcd9a561dc5",
+      "sha256": "8a5d22555278d3534a62fa0caab70a803d8750b9406f51bb056e1fab627dfde5",
       "bytes": 70132
     },
     {
       "path": "catalog/categories/calls/index.html",
-      "sha256": "aa227f0b3d382b14c14c7927d53be99b26fb918b074587b38244dd1813b0b53d",
+      "sha256": "41b14c208f04fb24e25a9092883db6977108a37d640d28befbcc1fce35ded007",
       "bytes": 72887
     },
     {
       "path": "catalog/categories/dvds/index.html",
-      "sha256": "349b8c61c9f4b34de035a4c2288c775a4616a782c4ab9e327a54913a7f055396",
+      "sha256": "0e57b783d5b1e353c2bba683dbd5d740d81ccbde686d2f572230aaf532721cd2",
       "bytes": 72495
     },
     {
       "path": "catalog/categories/elk/index.html",
-      "sha256": "28e2e940241ac3d3efe0c633f6bfaf42b0bb33f9e716d8cd7326ebdee4ef6c7d",
+      "sha256": "7ca29e9f97e344e999b1108142b4ad3c1c8df9f56c9fd365c7200ddb4eec7d9a",
       "bytes": 72087
     },
     {
       "path": "catalog/categories/mule-deer/index.html",
-      "sha256": "d4c9816fe11c5bf3019017f772ce53c9444fc55581d0d46dc51bcce1d33e5c8a",
+      "sha256": "fbbae3cb47214f55f016dfca0c6ee4abb6cb673847ed3cac3034242992059a9c",
       "bytes": 70603
     },
     {
       "path": "catalog/categories/predator/index.html",
-      "sha256": "e030957fbeab26ba80197e28b9095cef935d7b74cfd03118ca61cef7ce2b63a0",
+      "sha256": "0dac54cbc4815a258b39940585e797132e6848023d17f4d77de9402a073c1beb",
       "bytes": 71748
     },
     {
       "path": "catalog/categories/whitetail/index.html",
-      "sha256": "76539b68cd98805e5b6fa3bd93574172c8a42572cbb962d1e3c58acef6dd8aaf",
+      "sha256": "6c6e4173b15e447d61bc1eba3aa7a8cdc5345c85ddb8d03e9e7739888a1f3f6f",
       "bytes": 70985
     },
     {
       "path": "catalog/compare/index.html",
-      "sha256": "9751078c4f90aacfab7aa710ed77ffd3f341b1ad2f386f582f86aaf634380a4e",
+      "sha256": "e82cc2502dddf2cd6def1da428b8bcb99c8f7bafbd9aca35238a21efb7b56481",
       "bytes": 124724
     },
     {
       "path": "catalog/index.html",
-      "sha256": "62a59943ea85bf979c1ebe8d30366864f54478cc718d858e457d77086c5f281e",
+      "sha256": "5a9b193a63c259b75c3daf701d3214aae7cd434f56a4cee39a77fc396dafc2f7",
       "bytes": 76236
     },
     {
       "path": "catalog/products/751638439/index.html",
-      "sha256": "76228cf6b956e6a4007b487576b465f9ec10e455a9e72a99ec59da333889a909",
+      "sha256": "0e3623bb467b8f5bb2e5839fd310377c6eec917fa0ee2830d9ba791baa955602",
       "bytes": 16414
     },
     {
       "path": "catalog/products/751638440/index.html",
-      "sha256": "19b76270ec5d0e1c7807a9e485cd4b3646dadf7bb4a0a3899de2c7638658ba52",
+      "sha256": "6c53fee20e2a06c7c2173a5fbad33045354bd482dcd74f197e297cbd8b36350b",
       "bytes": 15271
     },
     {
       "path": "catalog/products/751638443/index.html",
-      "sha256": "71d86757eee3c13f6aee0080db60d2a5d1c92c7c42f49854d8a23a021d74fd0c",
+      "sha256": "39b531b3905c245d3b2ef89946c26ce27bcc0e3742d8a520e9cb362241f7b988",
       "bytes": 16887
     },
     {
       "path": "catalog/products/751638444/index.html",
-      "sha256": "d60f7c3a6a847090038524b4798ad792d067966e0c9c8ef2f4e8b165840d8bf1",
+      "sha256": "5eb428c9a913d71cc54ff207ec23533620480d905ee5c444b8c5a4ba4f58565a",
       "bytes": 15132
     },
     {
       "path": "catalog/products/751638445/index.html",
-      "sha256": "2bd0a836b2b1892456965a8523bdd893376a05a0cd9af1709c2c702c015bd579",
+      "sha256": "c40166452c54541ebe5e80d0567ba4ba02a473ec041db669083c6ec42c49396b",
       "bytes": 14798
     },
     {
       "path": "catalog/products/751638446/index.html",
-      "sha256": "a7716e69067c70a07adeb7627f5e2726f6c47d412f0486e8bc90265663b3d259",
+      "sha256": "2cf880db15526a5f74f4f7446f71a16a7f1e379f46fafc16f7771649091c2be8",
       "bytes": 15395
     },
     {
       "path": "catalog/products/751638447/index.html",
-      "sha256": "c871e09e3bb6fb27528811efbf652e92394219f03de18845e640db24ac354f38",
+      "sha256": "96315d466f5d8865d6b0ac7043efda4a1a151065a5da57242439cb943337e269",
       "bytes": 15068
     },
     {
       "path": "catalog/products/751638448/index.html",
-      "sha256": "d2b7ed52f8fd1bb85a0b1d53028fa007e95425ae99ad6b99e89c2bac97e2fc33",
+      "sha256": "6fcf4cd87590e8052f7098165bc5ab4c8cc240ae14a08a65bac9b9cbcbc4ca30",
       "bytes": 15773
     },
     {
       "path": "catalog/products/751638449/index.html",
-      "sha256": "f03d21123aef50ebe0bda5608f81097c23d1747f8eacaa0cdd3ae9dce5c506f3",
+      "sha256": "d4be02ca38ad6383ce3d90fb44b36f780175cc94e17dada799210c222a07b0fc",
       "bytes": 16181
     },
     {
       "path": "catalog/products/751638450/index.html",
-      "sha256": "2df9d5932ead4c9ab51fc99a93bd1f9222369be5607773db05f38da561c63470",
+      "sha256": "b301f70945ed308ed50db7cd77c7bdaf16a674df1a4dc30544f712e8b47f2550",
       "bytes": 15738
     },
     {
       "path": "catalog/products/751638454/index.html",
-      "sha256": "cca3ae8d977a2ca109170ad4f1cdf93ad1e5f50feafe1817ef938e80cfffc75c",
+      "sha256": "970c5ffb2676c73efc17bd0e9c272f51410d960d783955673beb32d3989d7a0d",
       "bytes": 15936
     },
     {
       "path": "catalog/products/751638456/index.html",
-      "sha256": "7068c34d45b3c5e1a4b5aa5b34b3dd423a2dba3409b9eda1d274aa28f8b32a78",
+      "sha256": "f095428829ab61b36730c7bce5710bb9416eb673eff286a3177c11659ee9cdaf",
       "bytes": 16387
     },
     {
       "path": "catalog/products/751638460/index.html",
-      "sha256": "60664d16de2d17d457a487b3df571a9b2227751aef561b432bd9718394abc1c6",
+      "sha256": "eba5e4a9ba6101dd8407d1cdc9c51591eaaabc75d8e76471d4d126214809cc19",
       "bytes": 15217
     },
     {
       "path": "catalog/products/751638461/index.html",
-      "sha256": "cf3b40e22187e235e7a47fa056c6c7da5570a8233abc0ef29e78aa90e85e5bd9",
+      "sha256": "024dc4ccef858e3802e4dbbb9208856d1cba247e50d5a3507a0b6a065e9cabac",
       "bytes": 16677
     },
     {
       "path": "catalog/products/751638462/index.html",
-      "sha256": "f2fc9ce1bc9119776f6612254227164cfef22d6f608fa5c15d702415e1bde932",
+      "sha256": "1425fe9b91cb838f121517ab34097dee337fef0dc2033f7a6454c88d402d72a6",
       "bytes": 17513
     },
     {
       "path": "catalog/products/751638466/index.html",
-      "sha256": "2b2a5df7ef04ebd715cb6d729bc6355423aeb8ae09d9eda7bac5cf34282467a5",
+      "sha256": "db5ec1bbf0dfd1933895d7eb6565d47b1d7780639fd6ac79d6911bbdddcb7b78",
       "bytes": 15163
     },
     {
       "path": "catalog/products/751638467/index.html",
-      "sha256": "d9a67f07fc3caf747764ae0825178e01ab8d2cbfa98f41c361ecf395d294cd1d",
+      "sha256": "2851518d1eddaef99b9cda8b16dcf71bd43f88edc7bede42a4a6b9263d468f8e",
       "bytes": 16673
     },
     {
       "path": "catalog/products/751638468/index.html",
-      "sha256": "9f16afd8521ea7cebd297ba076ce368f33a2733b288a875e1a8b8319366b9de3",
+      "sha256": "20b75dab2f4badcb9d3e5104908d7a0fde3fb2147234565beb353da123f8e5b1",
       "bytes": 15821
     },
     {
       "path": "catalog/products/751638674/index.html",
-      "sha256": "404a5e786104ec289260498732ce51901c5d23fa7c92331549df150351892bf3",
+      "sha256": "bab2e1ebee560a13ac272b5e4b3588b32f3b7e7c3a46d8e4f2d2c7795651b2c5",
       "bytes": 14985
     },
     {
       "path": "catalog/products/751638675/index.html",
-      "sha256": "6a09336b58e8203f635e516f8ffcbf785f97aa74302966573b8ef8fa0101da95",
+      "sha256": "41bd61415fc1fd356f2d6009e280165c6ecb243e6e43f7549e11279fc920ca56",
       "bytes": 15010
     },
     {
       "path": "catalog/products/751638678/index.html",
-      "sha256": "65953cc5db46c24cdc7e62ce8d23586a459b2d479cec71b4b3220214beee20f0",
+      "sha256": "b3c02dbe2a947d62be2a4857b3915cc205ddb16bd6c827a9d2e6e1682f004714",
       "bytes": 16234
     },
     {
       "path": "catalog/products/751638686/index.html",
-      "sha256": "5795c8aa2c888b0a07e2de7b89e3283e66b980ba6597d02363b5621c937c684f",
+      "sha256": "fba05fb1e9e84359b54f98ae2fd9259079122717fca337f49264a06257e36f52",
       "bytes": 15658
     },
     {
       "path": "catalog/products/751638687/index.html",
-      "sha256": "96acc380ec7764ecf70263966fb27f4d177e6e26c595cc1012f9750b9dff0713",
+      "sha256": "c2a1f370f3b27542d7e7c417b4ccaf4b0ca81a4dc7136b4f372fb6c9ea635f4e",
       "bytes": 15155
     },
     {
       "path": "catalog/products/751638688/index.html",
-      "sha256": "fdbf2aafbedfabcb39873f77ef79a59623bec63e1ee0ed9d2c99f36438763ee5",
+      "sha256": "475e644fc718aeaa7b359c17080b43fecea2d9aacf25b2350d48cf3d3f2e8598",
       "bytes": 15620
     },
     {
       "path": "catalog/products/751638689/index.html",
-      "sha256": "8498daf28771f8ec49afc650b972f7d6656219ee026f359b0a9031a5c4cbaa19",
+      "sha256": "f3810cce5163d88bd66eb78eb98b9286861965396b5f86f7bcbe112425d14347",
       "bytes": 15877
     },
     {
       "path": "catalog/products/751638691/index.html",
-      "sha256": "7dadee1a27f53dc9c3fa04d47cd351ae75c31aeee76b352e71ee575a7dd39acc",
+      "sha256": "20b551766b3967069ab0f791c069413fccbe7a5d2bda74c2f057b6a1ed1503d7",
       "bytes": 15382
     },
     {
       "path": "catalog/products/751638693/index.html",
-      "sha256": "708872d8fe22eea396ffe7a09ea449e6f479eeb243cc8403cd030948f7aeca2e",
+      "sha256": "ade303e8cafd05c1e62adc02f571fd0e2504877df6747eb4059988c35e1921cb",
       "bytes": 14716
     },
     {
       "path": "catalog/products/751638696/index.html",
-      "sha256": "9afafc1b1f0c213001d49c24149cb5a4de4f14caa6677dcb2ea8b86cc2fa3fc4",
+      "sha256": "b8237ffd63262f1eaecb62f408e7904746780975c959def0d20464ddf2266550",
       "bytes": 15009
     },
     {
       "path": "catalog/products/751638697/index.html",
-      "sha256": "4d3fe67714aaa3136043560fbc3e27975f81a4a962344b68f0c9ceae1d1aa880",
+      "sha256": "37142d8453c708daec7c94a82a4b18b8f6586513ff63fe103405346cbd6e5bd4",
       "bytes": 15014
     },
     {
       "path": "catalog/products/751638698/index.html",
-      "sha256": "9ddf60381ff935eba2fbf28f339c367079e8069370f67cadbc47bda8253ba9ab",
+      "sha256": "af488d7dfe2fe3b803582705e49abf2debd0ace2e64b1c1f3382e797bff1f651",
       "bytes": 21453
     },
     {
       "path": "catalog/products/751638699/index.html",
-      "sha256": "ace9ec799c220f7768a842a55ca35095983f482875b9273038aec0e7178367fe",
+      "sha256": "38059b451f2bc73f91f348c401ae0558de5a6e62f1b53f545990641969acb653",
       "bytes": 15073
     },
     {
       "path": "catalog/products/751638700/index.html",
-      "sha256": "18e8eded323676725487bb6074f0884797257ba3b45306f731c27b997d0813a8",
+      "sha256": "6d215cdf90df6c9404b57c7337872782d0a82a922c5a0e4fbc091b2385017a99",
       "bytes": 15234
     },
     {
       "path": "catalog/products/751638704/index.html",
-      "sha256": "981a20d75cee38fc14c8bb2c4c1877fd9047533662f1996cae2699765af2526e",
+      "sha256": "da579e34606cee7fab5662fe89be6b5ae90cd258e7a43fa53f52f3619704c72c",
       "bytes": 14740
     },
     {
       "path": "catalog/products/751638706/index.html",
-      "sha256": "d51cfb2155af9d1f0a589b5aabd6f34201c0d7f47e9e40dcf6927f7152318a7b",
+      "sha256": "cad76448935614792ffd6d8a9191973ac19ea2a3565df7449ebde0616ec08106",
       "bytes": 15710
     },
     {
       "path": "catalog/products/751638707/index.html",
-      "sha256": "8153937816e10306c814a7e65a5e0cc53f60668d6b0a988a06cec5cb77724303",
+      "sha256": "21715b79a096111181906ac0f985d57615a351e3ce5d6559085a2d15c49394ce",
       "bytes": 15445
     },
     {
       "path": "catalog/products/751638709/index.html",
-      "sha256": "0718b7c6da661ca547ff090e27d2369d5bdbed48750e0938d25560493dbd0a78",
+      "sha256": "83d4a54bcff00d1e683505391023aa3d038627e0ecb6a24579b275fb28d37071",
       "bytes": 15943
     },
     {
       "path": "catalog/products/751638711/index.html",
-      "sha256": "9955a8f1f2df2861f5f20c73d09c8bbc06a01b900e1a8bd551cb76b7520ee160",
+      "sha256": "47623e38427debf93fae9ed62453ebf8408e904973dc4a1bc244f8a9831e300c",
       "bytes": 15402
     },
     {
       "path": "catalog/products/751638712/index.html",
-      "sha256": "a27395c2411013a8baa4494aaa87a42814178a0d0f2949bade888a023c1411c9",
+      "sha256": "c806fa7ab13ffc1a6cc14d19acb26fbbf17d27a5c9d945eda855c322d60dbe2f",
       "bytes": 16452
     },
     {
       "path": "catalog/products/751639125/index.html",
-      "sha256": "ad168ae8611c2ee625641ba51160149cfdf64d5f2c9808ed82ba38a669f96758",
+      "sha256": "f3f4086bfbd7fc960f69b4c67d73cf1798c2baa853441ad892f9f21b9f068d1c",
       "bytes": 15001
     },
     {
       "path": "catalog/products/751639126/index.html",
-      "sha256": "4266dd4a1ccaa45bf54d14ce4d3592a26f85a4480c0b1ac77037e272c36c22a9",
+      "sha256": "563a01a7e63d24b2232ba2c6c96b22c494fd0398bfffc7fce9a86443ec9392a0",
       "bytes": 15736
     },
     {
       "path": "catalog/products/751639129/index.html",
-      "sha256": "8797bcce0170fd1b51fca4d3dc1fbc91920e8339e909386185e515d2b584bdfa",
+      "sha256": "84fe33a1c25134fac2c58ec5141b8900d6024d4ad6346f9d0fdffb0777d3bab4",
       "bytes": 15422
     },
     {
       "path": "catalog/products/751639131/index.html",
-      "sha256": "ca8943ad11e7a6a556861febf74eb20b282233c7ad3f128755b4d1569ea02093",
+      "sha256": "97209646b11ceaa29011a9ac9f26182967e3184f18fe1aa290fe76060e2ae7c0",
       "bytes": 15611
     },
     {
       "path": "catalog/products/751639132/index.html",
-      "sha256": "a3a47695a2106d5c32c10f70d972816f25920bc8619f565f7c78fe793ffa1905",
+      "sha256": "a56d48c72189789be8fee2e435427288e8c2762efc1511afabfe8f20c2b67455",
       "bytes": 15423
     },
     {
       "path": "catalog/products/751639135/index.html",
-      "sha256": "7f53faf71ef1a5205800cbd9a7bc5bd8294b4b7c5f3bf5bc0db621d6f589aa75",
+      "sha256": "84bfb22d8a242e306443d374cf900b31fe801948f5c747300592abe266e6ba28",
       "bytes": 17032
     },
     {
       "path": "catalog/products/751639136/index.html",
-      "sha256": "021ba884da1b889fbc4dcbb70ffab4781224ff955959c4fae258e11effbf6785",
+      "sha256": "8037b08f8d8e34e88dcf4b169e7ee87a2f880c94054bcdbf12545bda87a6c1c3",
       "bytes": 15544
     },
     {
       "path": "catalog/products/751639137/index.html",
-      "sha256": "4021665eafde9c483e878d18d47affeeb25cd97d3a5ce6f2722046b3418c4ea8",
+      "sha256": "fb11118af7d1d1a057762d4eb9f52a09ab3b33b7789a7d6fdfe815e389774f16",
       "bytes": 14888
     },
     {
       "path": "catalog/products/751639142/index.html",
-      "sha256": "708ac1d624ae5f5f3d23194af361cd1b49eec1a7fe7a754e05c09c956f81e46c",
+      "sha256": "c26357aade58a6f223dfc4d7eab502ff36c0c5119d7ab25ed939210ab3187dea",
       "bytes": 17438
     },
     {
       "path": "catalog/products/751639143/index.html",
-      "sha256": "edc3aef8f5c53f63d15210964a46c4b68fd59df18a15ac8c40551dbc5cbb86d6",
+      "sha256": "6bc316f4098d5a21cadedc19c39041eaeb66c89c4cfe524d0aca11f35e6e274b",
       "bytes": 14771
     },
     {
       "path": "catalog/products/751639144/index.html",
-      "sha256": "3a3a6f480be8f479083c680d8077e4bb0afb50401d2079473e0212a8a136412c",
+      "sha256": "8a2df0fb3442c53fce3d1145995790356324cef71700e79ef0aa39230e2a2e08",
       "bytes": 15143
     },
     {
       "path": "catalog/products/751639145/index.html",
-      "sha256": "6350a886c8dd29ad1e7aaaa4e47fb5a3603fc7be271934fdcab72b7ada1001fd",
+      "sha256": "7302b5a2b83dfb1f1b4d16cf1f1ac0837320eebcc58f55ecf10a119cc8ff8de8",
       "bytes": 15030
     },
     {
       "path": "catalog/products/751639147/index.html",
-      "sha256": "74abfb04dda47532d0d97c0ce6c8c1f0e68fb95e094e169da70800534b5204dc",
+      "sha256": "dd65c8ac87df5c57be4ac271eaf3e93b7a4a95db2da5ce280794ae47d9e4fd21",
       "bytes": 16310
     },
     {
       "path": "catalog/products/751639150/index.html",
-      "sha256": "1ba8573ed2b938be04a103acd4cbe305ee7ee3d689f1a9b696dd3719d6084c25",
+      "sha256": "ddf216971c95462aa3f350e3f6575820948195e286f360d9f51941903c1a152e",
       "bytes": 14702
     },
     {
       "path": "catalog/products/751639154/index.html",
-      "sha256": "3cc75376261236b4b96c32750203c1e938ee2a04fa2584543ccaccbb5266d176",
+      "sha256": "659536e0e2d69fa003b72e0cd857245329f7220101e46c83be53f56e20e920e4",
       "bytes": 15497
     },
     {
       "path": "catalog/products/751639158/index.html",
-      "sha256": "d48b8fedfe122ed9e47127b51a561e8ecf1ad3b6c04174a9f6197d826dc37806",
+      "sha256": "e8dfe194b0a3d857cd559812f8764d11d0ff668e833ae6f681bb5c5231b57763",
       "bytes": 16192
     },
     {
       "path": "catalog/products/751639161/index.html",
-      "sha256": "76ae3b93481421a6ed759e7c4af04d07e2e1304c75f2740f5c7c75fa1befc680",
+      "sha256": "bd54ab06d06d74dc9d93dbaaab261ec4f6fc83d31c612508d4a472a9a15709f2",
       "bytes": 14714
     },
     {
       "path": "catalog/products/751639162/index.html",
-      "sha256": "1a17652e91a1ab04a39965ab87cbfc358462bb7c9282d0c7163d8fcef38975b6",
+      "sha256": "562026d57b60a31a08095a1babe2a3d4205f92fdb6106be90d94d8fcc387c51b",
       "bytes": 15798
     },
     {
       "path": "catalog/products/751639164/index.html",
-      "sha256": "804b54abb75302856e76153d8464f3419e0893805b4ef120cf060764d501906e",
+      "sha256": "23280de7c3291809bd2b9153f7b7756bac85fd989fa40fdea211ae11f2c390ca",
       "bytes": 16102
     },
     {
@@ -1510,62 +1510,62 @@
     },
     {
       "path": "de/catalog/categories/antelope/index.html",
-      "sha256": "f802382039a6c1634474883f99f5cbfe2b44c40667859a8f2b90f2ef3643d13a",
+      "sha256": "e20c1808c6e93e7d4557f6959bf7099f118ac99b00cb2bf62bfd672706078f88",
       "bytes": 71409
     },
     {
       "path": "de/catalog/categories/bands-reeds/index.html",
-      "sha256": "93ffc33575eb05d12db5661ac1909b6b1a7b8a10df75ce4ad2ebfe5b90fae3b3",
+      "sha256": "de6cd4d6b6b8267b5829ec41ed432464373e0ab1bac5af6f0e9ebc50697c0274",
       "bytes": 71845
     },
     {
       "path": "de/catalog/categories/blinds/index.html",
-      "sha256": "cbc1b3f52caf23b43cc617c92f9cef85246758f30e8bdbd0ad5cde1a8379b797",
+      "sha256": "cf9dde9ba0ba451793262e26f08a38d6d84335b023879d8993bbff1b84d6d1ea",
       "bytes": 70887
     },
     {
       "path": "de/catalog/categories/books/index.html",
-      "sha256": "47daa9c3d4305af5dbc57bf3703c0b5ae46c5b94c31d4f06402a8cc076e09e84",
+      "sha256": "538daa142b9aefce1790b2cbdecae4e7df8780ec4d54d49f8ca29f335341a979",
       "bytes": 71444
     },
     {
       "path": "de/catalog/categories/calls/index.html",
-      "sha256": "81a5af603ef57224685f8aed8c8d271e949fc7e12ad01ce5594b4466aab3030e",
+      "sha256": "d345dd0e906b90245527f5ad373589ef8f851ac21f0533904055fb8e3e5a4552",
       "bytes": 74211
     },
     {
       "path": "de/catalog/categories/dvds/index.html",
-      "sha256": "5c9acaa59ab8ee52380c2f9e3fedeb2aa953f48c7c2ae18f6cf5289fa3b6049a",
+      "sha256": "d7d462fbff0ad576d6201b78b466c458dd871bde96a96ae50818d2d1361e4b52",
       "bytes": 73799
     },
     {
       "path": "de/catalog/categories/elk/index.html",
-      "sha256": "5bb025c52188b0077947b9a1f6412ee67a0c1318393f260a3977cd1ed4315387",
+      "sha256": "f8dc400ff282568c82b0e04c62873d34baefde860e809a797736c54f1d413352",
       "bytes": 73403
     },
     {
       "path": "de/catalog/categories/mule-deer/index.html",
-      "sha256": "ed9d8d3cbac52fdc3485d58d192ce35d955e355997b68b6de67a5aa3f4e0b407",
+      "sha256": "0dd63ff78a9c707c2754c4b25929fc18233581364fa49e4bc08a43ded1084759",
       "bytes": 71927
     },
     {
       "path": "de/catalog/categories/predator/index.html",
-      "sha256": "0bcdddae18f5911255bb32eec817662b4bc59180ae4f46de9c0f7101173e3f6b",
+      "sha256": "0d0fe75eb39a1a216c3200a6d227c6cf6ed500595266acddb3534f9e16719a91",
       "bytes": 73052
     },
     {
       "path": "de/catalog/categories/whitetail/index.html",
-      "sha256": "982fbef47590b8d66e741c85dd5f953de2cf90ef5b68ff2d624f22d0a2306bbe",
+      "sha256": "87edf776a563d28213cc88c36041915d8fed3c1368e7308c1b98316127765658",
       "bytes": 72317
     },
     {
       "path": "de/catalog/compare/index.html",
-      "sha256": "2fe541fd2d71899aff0f51661b3cbce0477930d1a7b60d2383ac808fe63ad9d0",
+      "sha256": "0f7500776c8d46b87e238704e8f714f4e941333e07c1896b082173eeb812e5e5",
       "bytes": 129997
     },
     {
       "path": "de/catalog/index.html",
-      "sha256": "1eea8b7faf0bcc9afcd6ed7bde025cb074b993a273e17fc1d1f24d311ec3b5cd",
+      "sha256": "9857363b74f183e22b5a02cf6844699b6308fbf852b4ae17ffbd423d816d2c1d",
       "bytes": 77580
     },
     {
@@ -1760,7 +1760,7 @@
     },
     {
       "path": "de/shop/index.html",
-      "sha256": "8e003c7ceb358b6a347b75d8b960da6e3bcd11584f741fde856700a8e3e88987",
+      "sha256": "723e1143aee1c7820fc4c537da2f7ed8dc18c54b12d93d9429e914048efc7a70",
       "bytes": 17494
     },
     {
@@ -2395,62 +2395,62 @@
     },
     {
       "path": "es/catalog/categories/antelope/index.html",
-      "sha256": "b716f2cd0cc3809821a794d0b32328a7620411bb0ec80f9cec8771e4820744f2",
+      "sha256": "c1b94e65df9a350f9d5efda484cee4d111e2c2171f8965be695e3f21f46b6925",
       "bytes": 71800
     },
     {
       "path": "es/catalog/categories/bands-reeds/index.html",
-      "sha256": "b77bdb2083f431efe65c66ea625a1f291149de8d13c0b01006ba6c7c922a4d78",
+      "sha256": "996800ae58976ed1cc7720c2c80381b52a789d3295000c2c807d0188ef7e934f",
       "bytes": 72236
     },
     {
       "path": "es/catalog/categories/blinds/index.html",
-      "sha256": "432ddfcf3267650c50f34c439b00bdb04f1269d814fb8d51ff8f38fe02c2c26f",
+      "sha256": "373bfc36274364fcac96d3f6771666ca685a915e24b6c2527cee5471a69d4775",
       "bytes": 71286
     },
     {
       "path": "es/catalog/categories/books/index.html",
-      "sha256": "55c13d3b6e3197dfb9e1fa18b932562c5d6845d74570e8369d3f2829de38d69f",
+      "sha256": "f962dfa5248a6bed4824449f99198e725bcda0b0ac01286e0a55dc7163f58085",
       "bytes": 71827
     },
     {
       "path": "es/catalog/categories/calls/index.html",
-      "sha256": "9aba839f9deec1a4dc82b4b0b483bc630588ed747fefdfe9765446cc49c5b44d",
+      "sha256": "00a69212704d9f13587821d69f48954b5c6052ca6790028ece52329be73a0cdb",
       "bytes": 74590
     },
     {
       "path": "es/catalog/categories/dvds/index.html",
-      "sha256": "1b764e2a95d098e4d0a91a20b40a798ccbfa76e3de82d118fa0d7c71ce0421e9",
+      "sha256": "c360ccd478c821ac415153084bca65fbec59b76d6126e329f689ce7797a7293f",
       "bytes": 74182
     },
     {
       "path": "es/catalog/categories/elk/index.html",
-      "sha256": "2222141f7035bcb076e0e00f251e26c2bfafd8b1dc2eb77c3176d924513a2bb4",
+      "sha256": "bdfe26edc81400b82cf70dc6888a1d5ade6d2d651a625df69ebd0c0a8736d2a3",
       "bytes": 73794
     },
     {
       "path": "es/catalog/categories/mule-deer/index.html",
-      "sha256": "b7ae578b0f636c009161812f1e5043334f37a964b25d8daa680cda35d24f0c05",
+      "sha256": "fd9cc191fbf2a1f7dfd3375998e16edb6b51cb621411b7a8a1e4a1db7582da20",
       "bytes": 72302
     },
     {
       "path": "es/catalog/categories/predator/index.html",
-      "sha256": "4f0ffddd224c2ee1192482b3c0fbf060def71164b5bc774d5d0deebc1828b976",
+      "sha256": "fe26824a5dc2549a4f4527f9f17199b00ad67270b0e41928420541e81a80ae1d",
       "bytes": 73455
     },
     {
       "path": "es/catalog/categories/whitetail/index.html",
-      "sha256": "839ff2c3b48ac14195fc1636ecb0ba1af98ec13fa26d50605b2bbfb3ecffebf7",
+      "sha256": "1f795bdae5ed07629b4d91c049d8a18d273ee137acd6f9d312b838601f1d8111",
       "bytes": 72724
     },
     {
       "path": "es/catalog/compare/index.html",
-      "sha256": "325faf5921a55232e6a5aa7987f2fcd55266e6d2678b85ae9e7b69f892bcb289",
+      "sha256": "9601fc9a86e8920ef565d36984803c10e474cba444a9d8d4672c37030b862265",
       "bytes": 130093
     },
     {
       "path": "es/catalog/index.html",
-      "sha256": "2127d91997b60245fc09ec090f6144b996719f69f887790ce0ff334af2e56455",
+      "sha256": "20d2013e1de1edeb66f1250931eb213a057943931e9be0bac48c8caa73d1a789",
       "bytes": 77946
     },
     {
@@ -2645,7 +2645,7 @@
     },
     {
       "path": "es/shop/index.html",
-      "sha256": "efa6f02d2d9d6855331cccb499784da50b51e9704a87caada000471fc1e1e44b",
+      "sha256": "2e8416b57070d668a66eb7ecb81db79a11e959edd519bfe5ecad8c4fafa9d664",
       "bytes": 17479
     },
     {
@@ -3075,62 +3075,62 @@
     },
     {
       "path": "fr/catalog/categories/antelope/index.html",
-      "sha256": "f4468c4bea5d2b4c0dabf8df3a3d75fce9175dbde7d2cd1235d14c49de57c0ba",
+      "sha256": "17ffa327e1dac2fca2d3c016c14e92137b65cd5ecf88cb1123ceb37a2fcd66dc",
       "bytes": 71549
     },
     {
       "path": "fr/catalog/categories/bands-reeds/index.html",
-      "sha256": "272319dbe47976394c1851c186e10124eb2e87239303479b3e68ffd31b16f8fb",
+      "sha256": "f15706f3279898a9628376c5a7b8fe587a1f9fcd06cc6a9185d7eb81c1f6d0f6",
       "bytes": 71997
     },
     {
       "path": "fr/catalog/categories/blinds/index.html",
-      "sha256": "b610ad7fb73337de89a489505964121d2e9d5b17bf13bb291204cc32a4b919f8",
+      "sha256": "a5e9119068c57c6a45262f8c95432009784d827f1fe9e8317d478137ac046dac",
       "bytes": 71027
     },
     {
       "path": "fr/catalog/categories/books/index.html",
-      "sha256": "5306787c32758cc130dc8797bcd3efdacae4085f2b23aa14133a61d07f4e3d01",
+      "sha256": "524aa28adc9bec11c9f3a394965d1bcba33c22ff5c5d913c77b91ed1479b80b4",
       "bytes": 71580
     },
     {
       "path": "fr/catalog/categories/calls/index.html",
-      "sha256": "05436ad0df31a32c48171b27888f392f46fecdc0cbdeff6e6d357576214761ba",
+      "sha256": "748f6e99c559eb86def6b50a41e2d3a11c63c7c1f728a21012c2d42dfb8c0ed8",
       "bytes": 74339
     },
     {
       "path": "fr/catalog/categories/dvds/index.html",
-      "sha256": "5c8fbdfa97941e0ef4994dc1fdf80bc894f6f06c0212a67e235e8a4a65ff812a",
+      "sha256": "1c928759690b88e5bbbc69f8817ad9a9ede3ad7475f48132ac79c71724a6aa5d",
       "bytes": 73935
     },
     {
       "path": "fr/catalog/categories/elk/index.html",
-      "sha256": "4c19bbdf181c4689f610c788f7f4648e997d932cb7a55ba48469a814dbf669e5",
+      "sha256": "25ee215f5e16100f5f713c6531b0c5dc47a7cca7cd7c66a789d373704d6fd030",
       "bytes": 73543
     },
     {
       "path": "fr/catalog/categories/mule-deer/index.html",
-      "sha256": "d93cafb6414d541ba7dce349b30754836edef0493bc94739edd51d00cb6b20ce",
+      "sha256": "075a6b1c0c7bfb5db691de7af68530c5aad410ac12703314a1d05879df753a26",
       "bytes": 72051
     },
     {
       "path": "fr/catalog/categories/predator/index.html",
-      "sha256": "6691556601c8706f6d128c5a4ede8ea1a80402ded01a2797eac5b5dac304a3b6",
+      "sha256": "698556f32e201e5458063e83943f61ad8e694b020e8336ddda415927c743a411",
       "bytes": 73204
     },
     {
       "path": "fr/catalog/categories/whitetail/index.html",
-      "sha256": "f4e3d80687489f479a52e5404e6671dfbacae7ef8d3a180bcfef1fb5f13e8fb3",
+      "sha256": "c015ce4dba739cbd40d30e5fd5fa598575e0a78e69107ab33254b309c26fd6c3",
       "bytes": 72457
     },
     {
       "path": "fr/catalog/compare/index.html",
-      "sha256": "638781c8a96236f641f3e4f3218c0e8a093fcc95b98f31ee624f03b9d835f9f4",
+      "sha256": "71f616712a74983fe24b4cdbf86f1491af5a8455f4b6f2db485ad1ab813a5b24",
       "bytes": 131275
     },
     {
       "path": "fr/catalog/index.html",
-      "sha256": "3f27b51e8be7d1ab1d9a011660e845f67685feb6c0e31957bd7c5f9325088c39",
+      "sha256": "16ab79bb28b577278dd5ce2aeb30085d1b9c5dfdcb226b05138b24b719a06fba",
       "bytes": 77710
     },
     {
@@ -3325,7 +3325,7 @@
     },
     {
       "path": "fr/shop/index.html",
-      "sha256": "65140782977c9d2452563c5693ea3871848af5d0b50801c44a653b1910a1d31f",
+      "sha256": "12ffe59ec6562e0a78b053af92aa15b87f3b60d93780e7711de4aa0d510e72d3",
       "bytes": 17635
     },
     {
@@ -4015,7 +4015,7 @@
     },
     {
       "path": "shop/index.html",
-      "sha256": "92d77e4bb8ed3f80c7c1f57e4459ef54cd6f79ec5ade2089851751dc7f3181e4",
+      "sha256": "66ddc9e551b3e43b1cdad819d03ef27db4e6207cbe9bf792f6cc9e77c9362d41",
       "bytes": 16628
     },
     {
@@ -4050,13 +4050,13 @@
     },
     {
       "path": "store-suggestions.css",
-      "sha256": "446b95564e8c2a9ef9e440df05e3de9627147ccfb3382696d70d8abcbe6ede9e",
-      "bytes": 8391
+      "sha256": "132fdacecd3f768e06236f3e28a621e8744fea8d92785659da07ab92f46e21d2",
+      "bytes": 8011
     },
     {
       "path": "store-suggestions.js",
-      "sha256": "3ea9813979be329d8bcce67b52ad6b745d6ce12ca23ed403005d446acefbccbd",
-      "bytes": 9394
+      "sha256": "c1f2af6d10853eb34e1d288231b9d241d6ba39be785ecab858f33a98a1a4ad9f",
+      "bytes": 9278
     },
     {
       "path": "store.css",
@@ -4065,8 +4065,8 @@
     },
     {
       "path": "store.js",
-      "sha256": "b7c6ad945e1e24a0aa0dc5b0c527bc6287779ad732a09304d4369e3ad28cb364",
-      "bytes": 10278
+      "sha256": "6c862f3fe216b095af9573fd1473c75fb13df855c9f461b696a5d9c102b3af5c",
+      "bytes": 11269
     },
     {
       "path": "styles.css",
