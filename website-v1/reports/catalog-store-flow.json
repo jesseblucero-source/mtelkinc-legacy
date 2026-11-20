@@ -1,0 +1,29 @@
+{
+  "origin": "http://127.0.0.1:8782",
+  "results": [
+    {
+      "width": 390,
+      "productGuideToLiveStore": true,
+      "anonymousCart": true,
+      "onSiteCheckoutEntry": true,
+      "customerDataEntered": false,
+      "ordersPlaced": 0,
+      "paymentAuthorization": "Not attempted; merchant sandbox required",
+      "canonicals": [
+        "https://www.mtelkinc.com/shop/"
+      ]
+    },
+    {
+      "width": 1440,
+      "productGuideToLiveStore": true,
+      "anonymousCart": true,
+      "onSiteCheckoutEntry": true,
+      "customerDataEntered": false,
+      "ordersPlaced": 0,
+      "paymentAuthorization": "Not attempted; merchant sandbox required",
+      "canonicals": [
+        "https://www.mtelkinc.com/shop/"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "production_deploy_id": "6affb90f54fb3d643c3f93ec",
+  "forms": [
+    {
+      "name": "dealer-application",
+      "fields": 84
+    },
+    {
+      "name": "dealer-application-fr",
+      "fields": 84
+    },
+    {
+      "name": "dealer-application-es",
+      "fields": 84
+    },
+    {
+      "name": "dealer-application-de",
+      "fields": 84
+    }
+  ],
+  "live_submission_sent": false,
+  "smtp_activated": false
+}

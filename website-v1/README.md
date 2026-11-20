@@ -1,5 +1,7 @@
-# MT E.L.K., INC. — 1.2.0
+# MT E.L.K., INC. — 1.3.0
 
+
+The 1.3.0 release adds four localized three-product comparison pages, shareable selection links, SKU/multiword search and accurate language routing to original product guides. No account, price copy, merchant change or paid dependency was added. See docs/release-1.3.0.md for scope and validation.
 
 The 1.2.0 extension generates 57 stable product guides and 44 localized catalog/category pages from the existing public Ecwid catalog, plus llms.txt, llms-full.txt, a public product knowledge graph, canonical schema, sitemap and crawler policy. Live prices, stock, options, cart and checkout remain in Ecwid. Catalog facts were refreshed November 19, 2026; refresh through the read-only importer and review changes before publishing. See docs/release-1.2.0.md for the public engineering release record. Executive/business acceptance handoffs remain local.
 

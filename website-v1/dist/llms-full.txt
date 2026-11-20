@@ -18,6 +18,7 @@ Use the published contact and support pages for help. Read the current disclosur
 English, French, Spanish and German website resources exist. Product descriptions and original source documents retain their original English where no reviewed translation exists. Canada is a regional distributor inquiry and pilot-planning path. International chapters describe research or legacy context, not confirmed shipping, currency, customs clearance or distributor appointments.
 
 ## Public navigation
+- [Compare products](https://www.mtelkinc.com/catalog/compare/): Compare up to three source-backed product guides and share the selection; live prices and checkout stay in the store.
 - [About](https://www.mtelkinc.com/about/): Company account and source-linked history.
 - [Legacy](https://www.mtelkinc.com/legacy/): Preserved historical records; distinguish dated records from company accounts.
 - [Archive](https://www.mtelkinc.com/archive/): Source scans and original document previews.
