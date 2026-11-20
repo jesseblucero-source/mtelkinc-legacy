@@ -23,7 +23,12 @@ jobs:
           python3 scripts/build-release.py
           python3 scripts/validate-public-authority.py
           python3 scripts/validate-catalog-comparison.py
+          python3 scripts/validate-application-experience.py
           python3 scripts/audit-static-links.py
           python3 scripts/test-canada-reconciliation.py
+      - name: Parse application controllers
+        run: |
+          node --check --input-type=module < dist/dealer-experience.js
+          node --check --input-type=module < dist/dealer-application.js
       - name: Preserve original documents
         run: git diff --exit-code -- dist/records dist/downloads

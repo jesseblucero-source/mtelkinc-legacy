@@ -1,0 +1,27 @@
+{
+  "production_deploy_id": "6affc9973f96aa3f89c1c2bc",
+  "forms": [
+    {
+      "name": "dealer-application",
+      "registered_fields": 84,
+      "missing_questionnaire_or_signature_fields": []
+    },
+    {
+      "name": "dealer-application-fr",
+      "registered_fields": 84,
+      "missing_questionnaire_or_signature_fields": []
+    },
+    {
+      "name": "dealer-application-es",
+      "registered_fields": 84,
+      "missing_questionnaire_or_signature_fields": []
+    },
+    {
+      "name": "dealer-application-de",
+      "registered_fields": 84,
+      "missing_questionnaire_or_signature_fields": []
+    }
+  ],
+  "live_applications_submitted": 0,
+  "messages_sent": 0
+}
